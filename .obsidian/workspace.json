@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "f14e13a6d3c6841a",
+    "type": "split",
+    "children": [
+      {
+        "id": "11ce4313f3266144",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd79f74a085e30fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/music/Music Genre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Music Genre"
+            }
+          },
+          {
+            "id": "acb087200c1cf815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/music/Low End Theories Bass Culture, Sound Systems, and Popular Music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Low End Theories Bass Culture, Sound Systems, and Popular Music"
+            }
+          },
+          {
+            "id": "e5b8ce3c1f3e838d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/music/Rave Music Genres Explained Techno, Trance, House, and Beyond.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rave Music Genres Explained Techno, Trance, House, and Beyond"
+            }
+          },
+          {
+            "id": "793f2e930ecfe10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/The Low End Theory Conference Call for Papers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Low End Theory Conference Call for Papers"
+            }
+          },
+          {
+            "id": "e9b8665669a40ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/Rave Music Genres Explained (Ravebound Blog).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rave Music Genres Explained (Ravebound Blog)"
+            }
+          },
+          {
+            "id": "cec33be7750e7e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/The Low End Theory Conference Call for Papers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Low End Theory Conference Call for Papers"
+            }
+          },
+          {
+            "id": "3e00ae251d1f7109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "bf5d4e4f0651e305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66e8a8a889c07efa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d90a425266bfd58",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec0fcc5974a20ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ea8fc1ac4812fd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "9a8eec2649aa04f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "3ab49645f21e9e5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de533cdcb147d9a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "acdcfdb28bc94e79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff7628d8254dc0f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Memory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Memoryへのバックリンク"
+            }
+          },
+          {
+            "id": "1783c4eb94f475ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Memory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Memoryからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "57d5153e889d34ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "221912aad62c98ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "7e7dd079564e052e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Memory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Memoryのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "3e00ae251d1f7109",
+  "lastOpenFiles": [
+    "rave-team/output/EP-01/social.md",
+    "rave-team/output/EP-01/script_ja.md",
+    "rave-team/output/EP-01/script_en.md",
+    "rave-team/output/EP-01/research.md",
+    "rave-team/output/EP-01/production_brief.md",
+    "rave-team/output/EP-01/discussion.md",
+    "rave-team/output/episodes.md",
+    "rave-team/output/EP-01",
+    "rave-team/agents/social.md",
+    "rave-team/agents/scriptwriter.md",
+    "rave-team/agents/producer.md",
+    "rave-team/agents/researcher.md",
+    "rave-team/agents/director.md",
+    "rave-team/agents/dj.md",
+    "rave-team/agents/archivist.md",
+    "rave-team/output",
+    "rave-team/agents",
+    "rave-team/README.md",
+    "rave-team/CLAUDE.md",
+    "rave-team",
+    "memory/2026-04-21-0413.md",
+    "memory",
+    "USER.md",
+    "TOOLS.md",
+    "SOUL.md",
+    "IDENTITY.md",
+    "HEARTBEAT.md",
+    "AGENTS.md",
+    "wiki/index.md",
+    "wiki/meta/使い方ガイド.md",
+    "wiki/hot.md",
+    "_attachments",
+    "_templates",
+    "wiki/meta",
+    "wiki/questions",
+    "wiki/comparisons"
+  ]
+}
