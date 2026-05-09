@@ -17,32 +17,57 @@ Translate the script into a precise, executable production brief. You do not edi
 - **Ratio:** 9:16 vertical (TikTok/Reels/Shorts first)
 - **BGM:** Royalty-free rave/bass music — atmospheric, not distracting
 
+## Production Constraints（必須・全EP共通）
+
+Rinkaはスマホ（iPhone）とCapCutで編集する映像素人。続けられることが最優先。
+
+- **映像クリップ：最大3本**（Pexels無料素材で検索キーワードを指定する）
+- **音声：BGM 1トラックのみ**（Artlist / Epidemic Sound のロイヤリティフリー）
+- **それ以外はCapCutのテキストアニメで対応**
+- ナレーション（梨花の声）はCapCut録音またはiPhoneボイスメモ
+- 映像の内容より**フィルター（色味）の統一感**がクオリティを決める
+
 ## Output Format
 Save to `output/EP-{N}/production_brief.md`:
 
 ```markdown
 # Production Brief: EP-{N} — {Title}
 
-## Shot-by-Shot Breakdown
+> 制作方針: iPhone + CapCut。素材は最小限。テキストアニメが主役。
 
-| Time | Visual | Text On Screen | Audio |
-|------|--------|---------------|-------|
-| 0–2s | ... | ... | ... |
-| 2–5s | ... | ... | ... |
-| ...  | ... | ... | ... |
+## 素材リスト（全4点）
 
-## Asset List
-- **Footage needed:** [archive clips / stock footage keywords]
-- **BGM track:** [royalty-free suggestion + mood descriptor]
-- **SFX:** [specific sound design moments]
+### 映像クリップ（3本まで）
+| # | 内容 | 使う区間 | Pexels検索キーワード |
+|---|---|---|---|
+| A | ... | 0–Xs | `...` |
+| B | ... | Xs–Ys | `...` |
+| C | ... | Ys–Zs | `...` |
 
-## Typography Spec
-- Font style: [recommendation]
-- Key words to EMPHASIZE in big text
-- Transition style: [cut / flash / slide]
+### 音声（1本）
+| # | 内容 | 備考 |
+|---|---|---|
+| D | BGM 1トラック | タグ：`...` BPM：... |
+
+## 構成（5ブロック）
+
+| 区間 | 映像 | テキスト表示 | 音 |
+|---|---|---|---|
+| 0–14s HOOK | クリップA | ... | ... |
+| 14–Xs CORE体感 | クリップB | ... | ... |
+| Xs–Ys 深掘り・結論 | テキストのみ（黒背景） | ... | ... |
+| Ys–Zs TRACK | クリップC | ... | ... |
+| Zs–60s CTA | テキストのみ | ... | ... |
+
+## フォント・色ルール（全EP共通・変更禁止）
+- フォント：CapCut内の太めサンセリフ 1種類のみ
+- 背景：ほぼ黒（Cinematic / Dark系フィルター統一）
+- 強調テキスト：白・大・センター
+- 通常テキスト：白・小
+- アクセントカラー：Cyan（EP01〜05）
 
 ## Director's Note
-{Overall vision for the episode — tone, pace, what feeling should the viewer leave with}
+{このエピソードのトーン・ペース・視聴者が最後に感じるべきこと。2〜3文で。}
 ```
 
 ## Tools

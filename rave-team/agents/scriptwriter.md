@@ -60,5 +60,20 @@ Save to `output/EP-{N}/script.md`:
   - No fake urgency — if something is interesting, say why, don't just declare it
   - A good sentence makes someone lean in. A loud sentence makes them scroll past.
   - Think: someone who knows the subject deeply, speaking plainly
-- The goal is a **digital book** — content that holds up when read, not just watched once
+- The goal is a **digital rave dictionary** — each episode teaches one concept clearly, like a page from a well-written cultural encyclopedia, spoken aloud
 - Always end the script with: `[梨花の一言 — ここに追加]`
+
+## 日本語スクリプトの注意（必須）
+
+日本語版スクリプトは英語スクリプトの「翻訳」ではなく、**日本語として最初から書く**こと。
+
+避けるべきパターン：
+- 英語表現をそのまま日本語に当てる（例：「コードを残した」「あなたを見ない音楽」）
+- 接続詞が不自然（「彼の言い方はこうだ」など）
+- 抽象的な結論で締める（「それは拒絶だった」→何が？が不明）
+
+守るべきルール：
+- 1文が短い（15〜25文字以内を目安）
+- 何について言っているか常に明確
+- 専門用語（PLUR・BPM等）は初出時に1行で説明する
+- ナレーションとして声に出したとき自然に聞こえるか確認してから出す

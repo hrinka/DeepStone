@@ -1,8 +1,19 @@
-## Concept Article: [[Sound System Culture]]
+---
+type: concept
+title: Sound System Culture
+tags:
+  - music
+  - bass-culture
+  - sound-system
+  - jamaican
+status: evergreen
+related:
+  - "[[Dub-Reggae]]"
+  - "[[Bass Culture]]"
+  - "[[Hardcore Continuum]]"
+---
 
-_(~400 words)_
-
-### Sound System Culture
+# Sound System Culture
 
 [[Sound System Culture]] refers to the practice of assembling large, powerful speaker systems — typically outdoors or in warehouses and dance halls — to play recorded music for communal dancing. Though it has spread globally and mutated into countless forms, its roots lie firmly in Jamaica in the 1950s and 1960s, where operators would compete with each other through the power of their rigs, the exclusivity of their records, and the skill of their selectors (DJs) and MCs.
 
