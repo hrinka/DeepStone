@@ -41,3 +41,9 @@
 |[[Vinyl and Dubplates]]|Analogue media technologies central to sound system and DJ culture|
 
 ---
+
+## Sources
+
+|Page|Description|
+|---|---|
+|[[EP-02 — 2026-05-09 — plur-philosophy]]|PLURの起源と「Respect」追加の歴史。Frankie Bones Storm Rave 1993スピーチ|

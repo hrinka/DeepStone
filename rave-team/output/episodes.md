@@ -9,10 +9,12 @@
 
 ## Episodes
 
+- EP-02 (2026-05-09): PLUR — 顔を割る哲学 — PLURの起源と「Respect」が後から加わるまでの歴史
+
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
 | 01 | Raveとは何か | ✅ Complete | 2026-04-21 | — |
-| 02 | PLUR — レイブの哲学 | ⬜ Not started | — | — |
+| 02 | PLUR — 顔を割る哲学 | ✅ Complete | 2026-05-09 | — |
 | 03 | Warehouse Party — 違法の美学 | ⬜ Not started | — | — |
 | 04 | DJ文化の起源 | ⬜ Not started | — | — |
 | 05 | レイブファッションの変遷 | ⬜ Not started | — | — |
