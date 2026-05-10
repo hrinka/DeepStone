@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-09
+updated: 2026-05-10
 tags:
   - meta
   - hot-cache
@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-09: 自動EP制作スタート——EP-02「PLUR哲学」生成完了。/obsidian-synthesize で6枚のsynthesisページ作成済み。vault は急速に成長中。
+2026-05-10: EP-06「セカンド・サマー・オブ・ラブ 1988」生成完了。script_ja.md（50〜60秒）+ carousel.md（8スライド＋画像案）+ wiki/sources追加。
 
 ## Vault State
 - **Owner**: Rinka
@@ -26,10 +26,11 @@ Navigation: [[index]] | [[log]]
 - **Wiki entities**: 11（King Tubby, Augustus Pablo, Lee Scratch Perry, Kingston Dub Club, Mad Professor, Jah Shaka, Burial, Mute Beat, Dry and Heavy, Basic Channel, Gabre Selassie）
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
-- **EP outputs**: 5 local（EP-01〜EP-05）、EP-02 GitHub同期済み
+- **EP outputs**: 6 local（EP-01〜EP-06）、EP-06 GitHub同期済み
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 
 ## Recent Changes
+- **2026-05-10**: EP-06「セカンド・サマー・オブ・ラブ 1988」自動生成・GitHub push 完了
 - **2026-05-09**: EP-02「PLUR — 顔を割る哲学」自動生成・GitHub push 完了
 - **2026-05-09**: 毎日自動EP制作ルーティン稼働開始（毎朝8時JST）
 - **2026-05-09**: rinth-bot 削除・フォルダ整理完了・.gitignore 追加

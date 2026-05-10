@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-05-10] auto-ep | EP-06: セカンド・サマー・オブ・ラブ 1988
+- Script (45〜60秒): rave-team/output/EP-06/script_ja.md
+- Carousel（スライド8枚＋画像案）: rave-team/output/EP-06/carousel.md
+- Wiki: wiki/sources/EP-06 — 2026-05-10 — second-summer-of-love.md
+- Topic: Second Summer of Love 1988 — 4人がイビサから帰り、UK全土が踊り始めた夜
+- Hook: 「4人が、イビサに行った。それだけで、世界が変わった。」
+- Research: rave-team/output/EP-06/research.md
+
 ## [2026-05-09] auto-ep | EP-02: PLUR — 顔を割る哲学
 - Script: rave-team/output/EP-02/script_ja.md
 - Wiki: wiki/sources/EP-02 — 2026-05-09 — plur-philosophy.md

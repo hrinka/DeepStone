@@ -18,7 +18,7 @@
 | 03 | Warehouse Party — 違法の美学 | ⬜ Not started | — | — |
 | 04 | DJ文化の起源 | ⬜ Not started | — | — |
 | 05 | レイブファッションの変遷 | ⬜ Not started | — | — |
-| 06 | Second Summer of Love 1988 | ⬜ Not started | — | — |
+| 06 | Second Summer of Love 1988 | ✅ Complete | 2026-05-10 | — |
 | 07 | Acid House — 黄色いスマイルの意味 | ⬜ Not started | — | — |
 | 08 | UKのレイブ禁止法 1994 | ⬜ Not started | — | — |
 | 09 | Detroit Technoとイギリスの出会い | ⬜ Not started | — | — |

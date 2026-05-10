@@ -131,4 +131,5 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-06 — 2026-05-10 — second-summer-of-love]]|セカンド・サマー・オブ・ラブ1988: 4人がイビサから帰り、Shoom誕生、M25軌道レイブ、警察との攻防|
 |[[EP-02 — 2026-05-09 — plur-philosophy]]|PLURの起源と「Respect」追加の歴史。Frankie Bones Storm Rave 1993スピーチ|
