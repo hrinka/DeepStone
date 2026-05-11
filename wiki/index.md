@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-04-22
+updated: 2026-05-11
 tags:
   - meta
   - index
@@ -131,5 +131,6 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-07 — 2026-05-11 — acid-house-smiley]]|Acid House: TB-303の商業的失敗 → Phuture偶然の発明 → Shoomスマイリー誕生 → The Sunの7日間反転|
 |[[EP-06 — 2026-05-10 — second-summer-of-love]]|セカンド・サマー・オブ・ラブ1988: 4人がイビサから帰り、Shoom誕生、M25軌道レイブ、警察との攻防|
 |[[EP-02 — 2026-05-09 — plur-philosophy]]|PLURの起源と「Respect」追加の歴史。Frankie Bones Storm Rave 1993スピーチ|

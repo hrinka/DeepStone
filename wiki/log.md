@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-05-11] auto-ep | EP-07: Acid House — 黄色いスマイルは、失敗から生まれた
+- Script (50〜60秒): rave-team/output/EP-07/script_ja.md
+- Carousel（スライド8枚＋画像案）: rave-team/output/EP-07/carousel.md
+- Wiki: wiki/sources/EP-07 — 2026-05-11 — acid-house-smiley.md
+- Research memo: rave-team/output/EP-07/research.md
+- Topic: Roland TB-303の失敗 → Phuture「Acid Tracks」偶然の発見 → Shoomとスマイリー誕生 → The Sunの反転
+- Hook: 「ローランドが捨てた機械が、世界を動かした。」
+
 ## [2026-05-10] auto-ep | EP-06: セカンド・サマー・オブ・ラブ 1988
 - Script (45〜60秒): rave-team/output/EP-06/script_ja.md
 - Carousel（スライド8枚＋画像案）: rave-team/output/EP-06/carousel.md
@@ -18,20 +26,3 @@
 - Synthesis pages: [[Hardcore Continuum]], [[Synthesis — Jamaican Diaspora as UK Electronic Music Origin]], [[Synthesis — Mixer as Instrument]], [[Synthesis — Bass as Physical Force]], [[Dub-Reggae]]
 - New entity: [[Gabre Selassie]] (Kingston Dub Club founder — Rinka's personal entry point)
 - Critical broken links fixed: [[Dub-Reggae]] (19 refs), [[Hardcore Continuum]] (13 refs)
-
-## [2026-04-30] autoresearch | Japanese Dub Scene + Dub Techno & Grime
-- Rounds: 2
-- Sources found: 6
-- Pages created: [[Japanese Dub Scene]], [[Mute Beat]], [[Dry and Heavy]], [[Basic Channel]], [[Dub Techno]], [[Grime and Dub Connection]], [[Research: Japanese Dub Scene]], [[Research: Dub Techno and Grime]]
-
-## [2026-04-30] autoresearch | Dub Music History: Jamaica 1960s → UK Bass Music
-- Rounds: 2
-- Sources found: 5 (RBMA, DJ Mag, Vision3Deep, Vice/Red Bull dubstep, UK Bass Wikipedia)
-- Pages created: [[Red Bull Music Academy - Roots of Dub 2018]], [[DJ Mag - History UK Sound System Culture]], [[Dub Production Philosophy]], [[Dub Music History]], [[Mad Professor]], [[Jah Shaka]], [[Burial]], [[Research: Dub Music History]]
-
-## [2026-04-30] save | Rinka Content Vision + Dub三賢人
-- Pages created: [[King Tubby]], [[Augustus Pablo]], [[Lee Scratch Perry]], [[Kingston Dub Club]], [[Rinka Content Vision]]
-
-## [2026-04-22] ingest | Every Noise at Once + vault cleanup
-
-## [2026-04-20] setup | Initial full-system setup
