@@ -9,6 +9,7 @@
 
 ## Episodes
 
+- EP-07 (2026-05-11): Acid House — 黄色いスマイルは、失敗から生まれた — TB-303廃番→Phuture偶然発明→スマイリー誕生→The Sun反転
 - EP-02 (2026-05-09): PLUR — 顔を割る哲学 — PLURの起源と「Respect」が後から加わるまでの歴史
 
 | EP | Title | Status | Produced | Published |
@@ -18,8 +19,8 @@
 | 03 | Warehouse Party — 違法の美学 | ⬜ Not started | — | — |
 | 04 | DJ文化の起源 | ⬜ Not started | — | — |
 | 05 | レイブファッションの変遷 | ⬜ Not started | — | — |
-| 06 | Second Summer of Love 1988 | ⬜ Not started | — | — |
-| 07 | Acid House — 黄色いスマイルの意味 | ⬜ Not started | — | — |
+| 06 | Second Summer of Love 1988 | ✅ Complete | 2026-05-10 | — |
+| 07 | Acid House — 黄色いスマイルの意味 | ✅ Complete | 2026-05-11 | — |
 | 08 | UKのレイブ禁止法 1994 | ⬜ Not started | — | — |
 | 09 | Detroit Technoとイギリスの出会い | ⬜ Not started | — | — |
 | 10 | なぜUKは音楽文化の震源地なのか | ⬜ Not started | — | — |
