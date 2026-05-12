@@ -16,21 +16,22 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-12: POST-01「あなたの数字、知ってる？」生成完了。carousel.md（8スライド＋画像案）+ research.md + wiki/sources追加。数秘ピラー初投稿。
+2026-05-12: EP-08「UKのレイブ禁止法 1994 — 政府は「反復するビート」を犯罪にした」生成完了。script_ja.md（50〜60秒）+ carousel.md（8スライド＋画像案）+ research.md + wiki/sources追加。
 
 ## Vault State
 - **Owner**: Rinka
 - **Topics**: music & DJ culture, coding, UK working holiday, make money, culture
-- **Wiki sources**: 8（Ravebound Blog, Low End Theory CFP, Every Noise at Once, RBMA Roots of Dub, DJ Mag UK Sound System, EP-02 PLUR Philosophy, EP-07 Acid House Smiley, POST-01 数秘術入門）
+- **Wiki sources**: 9（Ravebound Blog, Low End Theory CFP, Every Noise at Once, RBMA Roots of Dub, DJ Mag UK Sound System, EP-02 PLUR Philosophy, EP-07 Acid House Smiley, POST-01 数秘術入門, EP-08 UK Rave Ban 1994）
 - **Wiki concepts**: 14+（Dub-Reggae, Hardcore Continuum, Dub Production Philosophy, Dub Music History, Japanese Dub Scene, Dub Techno, Grime and Dub Connection, Rinka Content Vision, Charlotte R1nR1n Rave Dictionary…）
 - **Wiki entities**: 11（King Tubby, Augustus Pablo, Lee Scratch Perry, Kingston Dub Club, Mad Professor, Jah Shaka, Burial, Mute Beat, Dry and Heavy, Basic Channel, Gabre Selassie）
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
-- **EP outputs**: 7 local（EP-01〜EP-07）、EP-07 GitHub同期済み
+- **EP outputs**: 8 local（EP-01〜EP-08）、EP-08 GitHub同期済み
 - **Aroma Insta**: 1投稿（POST-01 数秘）
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 
 ## Recent Changes
+- **2026-05-12**: EP-08「UKのレイブ禁止法 1994 — 政府は「反復するビート」を犯罪にした」自動生成・GitHub push 完了
 - **2026-05-12**: POST-01「あなたの数字、知ってる？」生成・GitHub push 完了（数秘ピラー初投稿）
 - **2026-05-11**: EP-07「Acid House — 黄色いスマイルは、失敗から生まれた」自動生成・GitHub push 完了
 - **2026-05-10**: EP-06「セカンド・サマー・オブ・ラブ 1988」自動生成・GitHub push 完了
