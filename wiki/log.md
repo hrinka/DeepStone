@@ -8,6 +8,13 @@
 - Topic: Belleville Three（Juan Atkins・Derrick May・Kevin Saunderson）→ Neil Rushtonの一本の電話（1987）→ "Techno" 命名 → Inner City "Good Life" UK4位 → デトロイトの廃墟から生まれた音楽がイギリスの夜を揺らした
 - Hook: 「1987年。イギリスの男が、レコードに書かれた電話番号に電話した。」
 
+## [2026-05-13] aroma-insta | POST-02: 5000年前から使われていた精油。— フランキンセンス
+- Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-02/carousel.md
+- Research memo: aroma-insta/output/POST-02/research.md
+- Wiki source: wiki/sources/aroma-POST-02-2026-05-13-frankincense.md
+- Pillar: アロマ（Aromatherapy）
+- Topic: フランキンセンス精油 — 5000年の歴史・瞑想活用・スキンケア・ブレンドレシピ
+
 ## [2026-05-12] auto-ep | EP-08: UKのレイブ禁止法 1994 — 政府は「反復するビート」を犯罪にした
 - Script (50〜60秒): rave-team/output/EP-08/script_ja.md
 - Carousel（スライド8枚＋画像案）: rave-team/output/EP-08/carousel.md

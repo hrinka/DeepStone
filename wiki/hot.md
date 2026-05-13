@@ -16,21 +16,22 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-13: EP-09「Detroit Technoとイギリスの出会い — 電話番号が音楽を変えた夜」生成完了。script_ja.md（50〜60秒）+ carousel.md（8スライド＋画像案）+ research.md + wiki/sources追加。
+2026-05-13: POST-02「5000年前から使われていた精油。— フランキンセンス」生成完了（アロマピラー初投稿）。EP-09「Detroit Technoとイギリスの出会い」も同日生成済み。
 
 ## Vault State
 - **Owner**: Rinka
 - **Topics**: music & DJ culture, coding, UK working holiday, make money, culture
-- **Wiki sources**: 10（Ravebound Blog, Low End Theory CFP, Every Noise at Once, RBMA Roots of Dub, DJ Mag UK Sound System, EP-02 PLUR Philosophy, EP-07 Acid House Smiley, POST-01 数秘術入門, EP-08 UK Rave Ban 1994, EP-09 Detroit Techno meets UK）
+- **Wiki sources**: 11（Ravebound Blog, Low End Theory CFP, Every Noise at Once, RBMA Roots of Dub, DJ Mag UK Sound System, EP-02 PLUR Philosophy, EP-07 Acid House Smiley, POST-01 数秘術入門, EP-08 UK Rave Ban 1994, EP-09 Detroit Techno meets UK, POST-02 フランキンセンス）
 - **Wiki concepts**: 14+（Dub-Reggae, Hardcore Continuum, Dub Production Philosophy, Dub Music History, Japanese Dub Scene, Dub Techno, Grime and Dub Connection, Rinka Content Vision, Charlotte R1nR1n Rave Dictionary…）
 - **Wiki entities**: 11（King Tubby, Augustus Pablo, Lee Scratch Perry, Kingston Dub Club, Mad Professor, Jah Shaka, Burial, Mute Beat, Dry and Heavy, Basic Channel, Gabre Selassie）
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
 - **EP outputs**: 9 local（EP-01〜EP-09）、EP-09 GitHub同期済み
-- **Aroma Insta**: 1投稿（POST-01 数秘）
+- **Aroma Insta**: 2投稿（POST-01 数秘, POST-02 アロマ）
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 
 ## Recent Changes
+- **2026-05-13**: POST-02「5000年前から使われていた精油。— フランキンセンス」生成・GitHub push 完了（アロマピラー初投稿）
 - **2026-05-13**: EP-09「Detroit Technoとイギリスの出会い — 電話番号が音楽を変えた夜」自動生成・GitHub push 完了
 - **2026-05-12**: EP-08「UKのレイブ禁止法 1994 — 政府は「反復するビート」を犯罪にした」自動生成・GitHub push 完了
 - **2026-05-12**: POST-01「あなたの数字、知ってる？」生成・GitHub push 完了（数秘ピラー初投稿）
