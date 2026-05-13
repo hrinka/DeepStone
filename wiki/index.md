@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-05-12
+updated: 2026-05-13
 tags:
   - meta
   - index
@@ -131,6 +131,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-09 — 2026-05-13 — detroit-techno-meets-uk]]|Detroit Techno × UK: 電話番号一本→Neil Rushton×Derrick May→"Techno"命名→Inner City "Good Life" UK4位→デトロイトの孤独がUKの孤独と共鳴|
 |[[EP-08 — 2026-05-12 — uk-rave-ban-1994]]|UKレイブ禁止法1994: Castlemorton（20k人）→ Criminal Justice Act → "反復するビート"犯罪化 → Autechre Flutter・Prodigy Their Lawで抵抗 → 地下へ|
 |[[EP-07 — 2026-05-11 — acid-house-smiley]]|Acid House: TB-303の商業的失敗 → Phuture偶然の発明 → Shoomスマイリー誕生 → The Sunの7日間反転|
 |[[EP-06 — 2026-05-10 — second-summer-of-love]]|セカンド・サマー・オブ・ラブ1988: 4人がイビサから帰り、Shoom誕生、M25軌道レイブ、警察との攻防|
