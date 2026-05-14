@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-14] aroma-insta | POST-32: 薔薇は、精油の中で最も高い周波数を持っている。— ローズ精油と波動の話
+- Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-32/carousel.md
+- Research memo: aroma-insta/output/POST-32/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-32-2026-05-14-rose-otto.md
+- Topic: ローズオットー（Rose Otto）/ 周波数320MHz / ハートチャクラ / 感情ヒーリング / 5000年の歴史
+- Hook: 「薔薇の香りを嗅いだとき、なぜか泣きそうになったことはない？」
+
 ## [2026-05-14] auto-ep | EP-10: なぜUKは音楽文化の震源地なのか — 排除・貧困・移民が生んだ50年の革命
 - Script (50〜55秒): rave-team/output/EP-10/script_ja.md
 - Carousel（スライド8枚＋画像案）: rave-team/output/EP-10/carousel.md
