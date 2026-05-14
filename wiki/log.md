@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-05-14] auto-ep | EP-10: なぜUKは音楽文化の震源地なのか — 排除・貧困・移民が生んだ50年の革命
+- Script (50〜55秒): rave-team/output/EP-10/script_ja.md
+- Carousel（スライド8枚＋画像案）: rave-team/output/EP-10/carousel.md
+- Wiki: wiki/sources/EP-10 — 2026-05-14 — why-uk-is-music-epicenter.md
+- Research memo: rave-team/output/EP-10/research.md
+- Topic: ウィンドラッシュ移民→サウンドシステム誕生（1954）→サッチャー経済崩壊→若者失業→パイレーツラジオ→Dub→Jungle→Dubstep→Grime、一本の線
+- Hook: 「UKは、なぜ何度も音楽を発明できるのか。」
+
 ## [2026-05-14] refactor | concepts/music/ フォルダ作成 — レイブ音楽関連 15ファイルを移動
 - 移動先: wiki/concepts/music/
 - 対象: Dub-Reggae, Dub Music History, Dub Production Philosophy, Dub Techno, Dubstep, Grime, Grime and Dub Connection, Hardcore Continuum, Japanese Dub Scene, Sound System Culture, UK Garage, Synthesis×3（Bass / Jamaican Diaspora / Mixer）, Charlotte R1nR1n Rave Dictionary

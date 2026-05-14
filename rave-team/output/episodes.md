@@ -9,6 +9,7 @@
 
 ## Episodes
 
+- EP-10 (2026-05-14): なぜUKは音楽文化の震源地なのか — ウィンドラッシュ移民→サウンドシステム→サッチャー失業→パイレーツラジオ→Dub→Grime、貧困と排除が世界を変えた
 - EP-09 (2026-05-13): Detroit Technoとイギリスの出会い — 電話番号一本→"Techno"命名→Inner City UK4位→デトロイトの孤独とUKの孤独が共鳴
 - EP-08 (2026-05-12): UKのレイブ禁止法 1994 — 政府は「反復するビート」を犯罪にした — カーストルモートン→CJA成立→Autechre/Prodigy抵抗→地下へ
 - EP-07 (2026-05-11): Acid House — 黄色いスマイルは、失敗から生まれた — TB-303廃番→Phuture偶然発明→スマイリー誕生→The Sun反転
@@ -25,7 +26,7 @@
 | 07 | Acid House — 黄色いスマイルの意味 | ✅ Complete | 2026-05-11 | — |
 | 08 | UKのレイブ禁止法 1994 — 反復するビートの犯罪 | ✅ Complete | 2026-05-12 | — |
 | 09 | Detroit Technoとイギリスの出会い — 電話番号が音楽を変えた夜 | ✅ Complete | 2026-05-13 | — |
-| 10 | なぜUKは音楽文化の震源地なのか | ⬜ Not started | — | — |
+| 10 | なぜUKは音楽文化の震源地なのか — 排除・貧困・移民が生んだ50年の革命 | ✅ Complete | 2026-05-14 | — |
 | 11 | Jungle & UK Hardcore誕生 | ⬜ Not started | — | — |
 | 12 | Drum & Bassの進化 | ⬜ Not started | — | — |
 | 13 | UK Garage — 夜のロンドンの音 | ⬜ Not started | — | — |
