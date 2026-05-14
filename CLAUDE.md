@@ -58,6 +58,52 @@ Claude Code + Obsidian による永続的知識ベース。
 
 ---
 
+## Instagram 2アカウント構成（重要）
+
+DeepStone は **2つの独立した Instagram アカウント** を支援する。今後の開発・生成・フォルダ操作は必ずこの分離を維持すること。
+
+| アカウント | テーマ | ペルソナ | 出力フォルダ |
+|---|---|---|---|
+| **Charlotte R1nR1n** | レイブ音楽・UK Bass・クラブカルチャー | Charlotte R1nR1n | `rave-team/output/EP-XX/` |
+| **FLAVA FM** | アロマ・数秘術・ハーブ・スピリチュアル | 深石梨花 | `aroma-insta/output/POST-XX/` |
+
+### フォルダルール
+
+```
+rave-team/
+└── output/
+    └── EP-XX/              ← Charlotte R1nR1n 用（毎日自動生成）
+        ├── script_ja.md    Reels スクリプト（50〜60秒）
+        ├── carousel.md     Instagram カルーセル（8枚+画像案）
+        └── research.md     リサーチメモ
+
+aroma-insta/
+└── output/
+    ├── POST-XX/            ← FLAVA FM 用（自動生成分）
+    │   ├── carousel.md
+    │   └── research.md
+    └── stock/              ← ストック投稿（手動制作済み15本）
+
+wiki/
+└── concepts/
+    ├── music/              ← レイブ音楽関連 concept
+    └── numerology/         ← アロマ・数秘関連 concept
+└── sources/
+    ├── rave/               ← EP 記事・音楽ソース
+    └── aroma/              ← アロマ・数秘記事
+
+_attachments/
+├── rave/EP-XX/             ← Charlotte R1nR1n 用画像（ローカルのみ）
+└── aroma/POST-XX/          ← FLAVA FM 用画像（ローカルのみ）
+```
+
+### 新規コンテンツを生成する際の鉄則
+- レイブ系 → `rave-team/output/` + `wiki/sources/rave/` + `wiki/concepts/music/`
+- アロマ系 → `aroma-insta/output/` + `wiki/sources/aroma/` + `wiki/concepts/numerology/`
+- **2アカウントのファイルを混ぜない**
+
+---
+
 ## Wiki 構造
 
 ```
