@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-13
+updated: 2026-05-14
 tags:
   - meta
   - hot-cache
@@ -16,13 +16,13 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-13: POST-02「5000年前から使われていた精油。— フランキンセンス」生成完了（アロマピラー初投稿）。EP-09「Detroit Technoとイギリスの出会い」も同日生成済み。
+2026-05-14: wiki/concepts/music/ フォルダ作成 — 音楽・レイブ関連concept（Dub-Reggae, Hardcore Continuum, Synthesis×3 など15ファイル）を移動。
 
 ## Vault State
 - **Owner**: Rinka
 - **Topics**: music & DJ culture, coding, UK working holiday, make money, culture
 - **Wiki sources**: 11（Ravebound Blog, Low End Theory CFP, Every Noise at Once, RBMA Roots of Dub, DJ Mag UK Sound System, EP-02 PLUR Philosophy, EP-07 Acid House Smiley, POST-01 数秘術入門, EP-08 UK Rave Ban 1994, EP-09 Detroit Techno meets UK, POST-02 フランキンセンス）
-- **Wiki concepts**: 14+（Dub-Reggae, Hardcore Continuum, Dub Production Philosophy, Dub Music History, Japanese Dub Scene, Dub Techno, Grime and Dub Connection, Rinka Content Vision, Charlotte R1nR1n Rave Dictionary…）
+- **Wiki concepts**: 14+（→ concepts/music/: Dub-Reggae, Hardcore Continuum, Dub Production Philosophy, Dub Music History, Japanese Dub Scene, Dub Techno, Grime and Dub Connection, Synthesis×3, Charlotte R1nR1n Rave Dictionary…）（→ concepts/numerology/: 数秘術）
 - **Wiki entities**: 11（King Tubby, Augustus Pablo, Lee Scratch Perry, Kingston Dub Club, Mad Professor, Jah Shaka, Burial, Mute Beat, Dry and Heavy, Basic Channel, Gabre Selassie）
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
@@ -31,6 +31,7 @@ Navigation: [[index]] | [[log]]
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 
 ## Recent Changes
+- **2026-05-14**: wiki/concepts/music/ 作成 — レイブ音楽関連concept 15ファイルを移動・整理
 - **2026-05-13**: POST-02「5000年前から使われていた精油。— フランキンセンス」生成・GitHub push 完了（アロマピラー初投稿）
 - **2026-05-13**: EP-09「Detroit Technoとイギリスの出会い — 電話番号が音楽を変えた夜」自動生成・GitHub push 完了
 - **2026-05-12**: EP-08「UKのレイブ禁止法 1994 — 政府は「反復するビート」を犯罪にした」自動生成・GitHub push 完了
@@ -45,7 +46,6 @@ Navigation: [[index]] | [[log]]
 - **2026-05-01**: Synthesis×3 作成（Jamaican Diaspora / Mixer as Instrument / Bass as Physical Force）
 
 ## Active Threads（優先順）
-1. **EP-03〜EP-05 を GitHub に push**（ローカルにあるが未sync）
-2. **毎朝EP確認** — GitHub pull → script_ja.md をそのまま使える
-3. **[[Jungle / Drum and Bass]] ページ作成**（11箇所から参照）
-4. **API キーのローテーション**（rinth-bot/.env が Claude に読まれた）
+1. **毎朝EP確認** — GitHub pull → script_ja.md をそのまま使える
+2. **[[Jungle / Drum and Bass]] ページ作成**（11箇所から参照）→ concepts/music/ に保存
+3. **API キーのローテーション**（rinth-bot/.env が Claude に読まれた）

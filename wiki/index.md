@@ -1,13 +1,17 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-05-13
+updated: 2026-05-14
 tags:
   - meta
   - index
 ---
 
 ## Master Index
+
+> **フォルダ構成**: `wiki/concepts/music/` — 音楽・レイブ関連concept  |  `wiki/concepts/numerology/` — 数秘・アロマ関連
+
+### Genres & Concepts (→ concepts/music/)
 
 |Concept|Description|
 |---|---|
@@ -67,7 +71,7 @@ tags:
 |[[UK Garage]]|London 1990s genre fusing American garage house with UK rave; parent of grime, dubstep, bassline|
 |[[Vinyl and Dubplates]]|Analogue media technologies central to sound system and DJ culture|
 
-## Synthesis
+### Synthesis (→ concepts/music/)
 
 |Page|Description|
 |---|---|
@@ -91,7 +95,7 @@ tags:
 |[[Mad Professor]]|UK dub second-generation producer; Ariwa Sounds (1979); digitised the dub tradition|
 |[[Mute Beat]]|Tokyo band (1981); Japan's first live dub band; world-first dedicated dub mixer as band member|
 
-## Concepts (Dub)
+### Concepts — Dub & History (→ concepts/music/)
 
 |Page|Description|
 |---|---|
@@ -118,12 +122,12 @@ tags:
 |[[Red Bull Music Academy - Roots of Dub 2018]]|Technical detail of dub's invention: MCI console, RE-201 Space Echo, 1972 as year zero|
 |[[DJ Mag - History UK Sound System Culture]]|Jamaica→UK migration; Duke Vin 1954; Iration Steppas SubDub; DnB/dubstep connections|
 
-## Vision
+### Vision
 
 |Page|Description|
 |---|---|
 |[[Rinka Content Vision]]|Rinka's content strategy: UK Bass Music × Japanese sensibility; DeepStone as personal bible; 3 personas|
-|[[Charlotte R1nR1n Rave Dictionary]]|Operational plan: content pipeline, weekly rhythm, 4-phase monetization, first 10 posts|
+|[[Charlotte R1nR1n Rave Dictionary]]|Operational plan: content pipeline, weekly rhythm, 4-phase monetization, first 10 posts（→ concepts/music/）|
 
 ---
 

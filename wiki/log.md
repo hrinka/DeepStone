@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-14] refactor | concepts/music/ フォルダ作成 — レイブ音楽関連 15ファイルを移動
+- 移動先: wiki/concepts/music/
+- 対象: Dub-Reggae, Dub Music History, Dub Production Philosophy, Dub Techno, Dubstep, Grime, Grime and Dub Connection, Hardcore Continuum, Japanese Dub Scene, Sound System Culture, UK Garage, Synthesis×3（Bass / Jamaican Diaspora / Mixer）, Charlotte R1nR1n Rave Dictionary
+- 既存 wikilink は変更なし（Obsidian はファイル名で解決）
+- index.md / hot.md / log.md 更新済み
+
 ## [2026-05-13] auto-ep | EP-09: Detroit Technoとイギリスの出会い — 電話番号が音楽を変えた夜
 - Script (50〜60秒): rave-team/output/EP-09/script_ja.md
 - Carousel（スライド8枚＋画像案）: rave-team/output/EP-09/carousel.md
