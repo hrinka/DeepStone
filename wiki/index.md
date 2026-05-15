@@ -135,6 +135,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-11 — 2026-05-15 — jungle-uk-hardcore-birth]]|Jungle & UK Hardcore誕生: Amen Break（1969年6秒）→ Breakbeat Hardcore → "We Are I.E." (Lennie De Ice, 1991) → Kool FM → Happy vs Dark分裂 → Jungle命名|
 |[[EP-10 — 2026-05-14 — why-uk-is-music-epicenter]]|なぜUKは音楽文化の震源地か: ウィンドラッシュ移民→サウンドシステム(1954)→サッチャー失業→パイレーツラジオ→Dub→Grime、一本の線|
 |[[EP-09 — 2026-05-13 — detroit-techno-meets-uk]]|Detroit Techno × UK: 電話番号一本→Neil Rushton×Derrick May→"Techno"命名→Inner City "Good Life" UK4位→デトロイトの孤独がUKの孤独と共鳴|
 |[[EP-08 — 2026-05-12 — uk-rave-ban-1994]]|UKレイブ禁止法1994: Castlemorton（20k人）→ Criminal Justice Act → "反復するビート"犯罪化 → Autechre Flutter・Prodigy Their Lawで抵抗 → 地下へ|

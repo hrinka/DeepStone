@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-14: POST-32「薔薇は、精油の中で最も高い周波数を持っている。」生成・GitHub push 完了（アロマ）/ EP-10「なぜUKは音楽文化の震源地なのか」自動生成完了
+2026-05-15: EP-11「Jungle & UK Hardcore誕生 — 6秒のAmen Breakが変えた世界」自動生成完了（script + carousel 8枚 + wiki source + research）
 
 ## Vault State
 - **Owner**: Rinka
@@ -26,11 +26,12 @@ Navigation: [[index]] | [[log]]
 - **Wiki entities**: 11（King Tubby, Augustus Pablo, Lee Scratch Perry, Kingston Dub Club, Mad Professor, Jah Shaka, Burial, Mute Beat, Dry and Heavy, Basic Channel, Gabre Selassie）
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
-- **EP outputs**: 10 local（EP-01〜EP-10）、EP-10 GitHub同期済み
+- **EP outputs**: 11 local（EP-01〜EP-11）、EP-11 GitHub同期済み
 - **Aroma Insta**: 3投稿（POST-01 数秘, POST-02 アロマ, POST-32 アロマ）
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 
 ## Recent Changes
+- **2026-05-15**: EP-11「Jungle & UK Hardcore誕生 — 6秒のAmen Breakが変えた世界」自動生成・GitHub push完了（script + carousel 8枚 + wiki source + research）
 - **2026-05-14**: POST-32「薔薇は、精油の中で最も高い周波数を持っている。」生成・GitHub push 完了（アロマ）
 - **2026-05-14**: EP-10「なぜUKは音楽文化の震源地なのか」生成・GitHub push完了（script + carousel 8枚 + wiki source + research）
 - **2026-05-14**: wiki/concepts/music/ 作成 — レイブ音楽関連concept 15ファイルを移動・整理

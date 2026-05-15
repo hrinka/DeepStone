@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-05-15] auto-ep | EP-11: Jungle & UK Hardcore誕生 — 6秒のAmen Breakが変えた世界
+- Script (50〜55秒): rave-team/output/EP-11/script_ja.md
+- Carousel（スライド8枚＋画像案）: rave-team/output/EP-11/carousel.md
+- Wiki source: wiki/sources/EP-11 — 2026-05-15 — jungle-uk-hardcore-birth.md
+- Research memo: rave-team/output/EP-11/research.md
+- Topic: Amen Break（1969年6秒）→ Breakbeat Hardcore（1991）→ "We Are I.E." by Lennie De Ice → Kool FM 94.5 → Happy vs Dark分裂 → Jungle命名 → Kiss 100「Givin' It Up」1994
+- Hook: 「1969年。あるドラマーが、6秒だけソロを叩いた。」
+
 ## [2026-05-15] daily-brief | journal/2026-05-15.md 作成
 
 ## [2026-05-14] aroma-insta | POST-32: 薔薇は、精油の中で最も高い周波数を持っている。— ローズ精油と波動の話
