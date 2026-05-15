@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-15] daily-brief | journal/2026-05-15.md 作成
+
 ## [2026-05-14] aroma-insta | POST-32: 薔薇は、精油の中で最も高い周波数を持っている。— ローズ精油と波動の話
 - Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-32/carousel.md
 - Research memo: aroma-insta/output/POST-32/research.md
