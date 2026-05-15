@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-15] aroma-insta | POST-33: 蜂を呼ぶ植物に、月の魔女は何かを見ていた。— メリッサ（レモンバーム）の静寂
+- Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-33/carousel.md
+- Research memo: aroma-insta/output/POST-33/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-33-2026-05-15-melissa-lemon-balm.md
+- Topic: メリッサ（レモンバーム）/ 語源melissa=蜜蜂 / アルテミス神殿 / カール大帝 / 月のハーブ / 不安を鎮め波動リセット
+- Hook: 「あなたの庭に、蜂がよく来る植物はある？」
+
 ## [2026-05-15] auto-ep | EP-11: Jungle & UK Hardcore誕生 — 6秒のAmen Breakが変えた世界
 - Script (50〜55秒): rave-team/output/EP-11/script_ja.md
 - Carousel（スライド8枚＋画像案）: rave-team/output/EP-11/carousel.md
