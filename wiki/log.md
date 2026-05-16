@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-16] daily-brief | journal/2026-05-16.md 作成
+
 ## [2026-05-15] aroma-insta | POST-33: 蜂を呼ぶ植物に、月の魔女は何かを見ていた。— メリッサ（レモンバーム）の静寂
 - Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-33/carousel.md
 - Research memo: aroma-insta/output/POST-33/research.md
