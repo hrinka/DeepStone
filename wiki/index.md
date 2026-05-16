@@ -135,6 +135,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-12 — 2026-05-16 — dnb-evolution]]|Drum & Bassの進化: Jungle暗転（1993）→ Goldie "Inner City Life"（1994） → Timeless → LTJ Bukem Logical Progression（1996）→ Roni Size マーキュリー賞（1997）→ DnBが地下から頂点へ|
 |[[EP-11 — 2026-05-15 — jungle-uk-hardcore-birth]]|Jungle & UK Hardcore誕生: Amen Break（1969年6秒）→ Breakbeat Hardcore → "We Are I.E." (Lennie De Ice, 1991) → Kool FM → Happy vs Dark分裂 → Jungle命名|
 |[[EP-10 — 2026-05-14 — why-uk-is-music-epicenter]]|なぜUKは音楽文化の震源地か: ウィンドラッシュ移民→サウンドシステム(1954)→サッチャー失業→パイレーツラジオ→Dub→Grime、一本の線|
 |[[EP-09 — 2026-05-13 — detroit-techno-meets-uk]]|Detroit Techno × UK: 電話番号一本→Neil Rushton×Derrick May→"Techno"命名→Inner City "Good Life" UK4位→デトロイトの孤独がUKの孤独と共鳴|

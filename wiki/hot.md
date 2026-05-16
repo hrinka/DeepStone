@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-16: POST-34「11・22・33。あなたは、選ばれた数字を持って生まれてきた。— マスターナンバーの波動」生成・GitHub push 完了（数秘）
+2026-05-16: EP-12「Drum & Bassの進化 — 地下の音が賞を獲った日」生成・GitHub push 完了（script + carousel 8枚 + wiki source + research）
 
 ## Vault State
 - **Owner**: Rinka
@@ -26,11 +26,12 @@ Navigation: [[index]] | [[log]]
 - **Wiki entities**: 11（King Tubby, Augustus Pablo, Lee Scratch Perry, Kingston Dub Club, Mad Professor, Jah Shaka, Burial, Mute Beat, Dry and Heavy, Basic Channel, Gabre Selassie）
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
-- **EP outputs**: 11 local（EP-01〜EP-11）、EP-11 GitHub同期済み
+- **EP outputs**: 12 local（EP-01〜EP-12）、EP-12 GitHub同期済み
 - **Aroma Insta**: 5投稿（POST-01 数秘, POST-02 アロマ, POST-32 アロマ, POST-33 ハーブ菜園, POST-34 数秘）
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 
 ## Recent Changes
+- **2026-05-16**: EP-12「Drum & Bassの進化 — 地下の音が賞を獲った日」生成・GitHub push 完了（script + carousel 8枚 + wiki source + research）
 - **2026-05-16**: POST-34「11・22・33。あなたは、選ばれた数字を持って生まれてきた。— マスターナンバーの波動」生成・GitHub push 完了（数秘）
 - **2026-05-15**: POST-33「蜂を呼ぶ植物に、月の魔女は何かを見ていた。— メリッサ（レモンバーム）の静寂」生成・GitHub push 完了（ハーブ菜園）
 - **2026-05-15**: EP-11「Jungle & UK Hardcore誕生 — 6秒のAmen Breakが変えた世界」自動生成・GitHub push完了（script + carousel 8枚 + wiki source + research）

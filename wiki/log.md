@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-05-16] auto-ep | EP-12: Drum & Bassの進化 — 地下の音が賞を獲った日
+- Script (50〜60秒): rave-team/output/EP-12/script_ja.md
+- Carousel（スライド8枚＋画像案）: rave-team/output/EP-12/carousel.md
+- Research memo: rave-team/output/EP-12/research.md
+- Wiki source: wiki/sources/EP-12 — 2026-05-16 — dnb-evolution.md
+- Topic: Jungle→DnB / Goldie "Inner City Life" 1994 / Timeless 1995 / LTJ Bukem Logical Progression 1996 / Roni Size Mercury Prize 1997 / subgenres（Liquid・Neurofunk・Techstep・Jump Up）
+- Hook: 「ドラムンベースは、暗いほど美しかった。」
+
 ## [2026-05-16] aroma-insta | POST-34: 11・22・33。あなたは、選ばれた数字を持って生まれてきた。
 - Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-34/carousel.md
 - Research memo: aroma-insta/output/POST-34/research.md
