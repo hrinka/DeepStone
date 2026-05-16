@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-16] aroma-insta | POST-34: 11・22・33。あなたは、選ばれた数字を持って生まれてきた。
+- Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-34/carousel.md
+- Research memo: aroma-insta/output/POST-34/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-34-2026-05-16-master-numbers.md
+- Topic: マスターナンバー 11・22・33 / 啓示の三角形 / 見る・作る・伝える / 高い波動と生きにくさ / ギフトの重さ
+- Hook: 「11・22・33。あなたは、選ばれた数字を持って生まれてきた。」
+
 ## [2026-05-16] daily-brief | journal/2026-05-16.md 作成
 
 ## [2026-05-15] aroma-insta | POST-33: 蜂を呼ぶ植物に、月の魔女は何かを見ていた。— メリッサ（レモンバーム）の静寂
