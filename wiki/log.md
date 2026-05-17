@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-05-17] auto-ep | EP-13: UK Garage — スニーカーお断り。ロンドンが着替えた夜
+- Script (50〜60秒): rave-team/output/EP-13/script_ja.md
+- Carousel（スライド8枚＋画像案）: rave-team/output/EP-13/carousel.md
+- Research memo: rave-team/output/EP-13/research.md
+- Wiki source: wiki/sources/EP-13 — 2026-05-17 — uk-garage-london-night.md
+- Topic: UK Garage起源 / ジャングルからの分岐 / 2ステップ革命 / So Solid Crew "21 Seconds" 全英1位 / GrimeとDubstepの誕生
+- Hook: 「ロンドンのクラブに、スニーカーお断りの時代があった。」
+
 ## [2026-05-17] aroma-insta | POST-35: 眠れない夜に必要だったのは、この周波数だった。— ラベンダーと副交感神経の話
 - Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-35/carousel.md
 - Research memo: aroma-insta/output/POST-35/research.md

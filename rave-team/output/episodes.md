@@ -9,6 +9,7 @@
 
 ## Episodes
 
+- EP-13 (2026-05-17): UK Garage — スニーカーお断り。ロンドンが着替えた夜 — ジャングル170BPMから130BPMへの分岐→2ステップ革命→Shanks & Bigfoot「Sweet Like Chocolate」(1999)→So Solid Crew「21 Seconds」全英1位→GrimeとDubstepの誕生
 - EP-12 (2026-05-16): Drum & Bassの進化 — Jungle暗転→Goldie "Inner City Life"（1994）→Timeless→LTJ Bukem Logical Progression→Roni Sizeマーキュリー賞→DnBが地下から頂点へ
 - EP-11 (2026-05-15): Jungle & UK Hardcore誕生 — Amen Break（1969年6秒）→ Breakbeat Hardcore → "We Are I.E." (Lennie De Ice) → Kool FM → Happy vs Dark分裂 → Jungle命名
 - EP-10 (2026-05-14): なぜUKは音楽文化の震源地なのか — ウィンドラッシュ移民→サウンドシステム→サッチャー失業→パイレーツラジオ→Dub→Grime、貧困と排除が世界を変えた
@@ -31,7 +32,7 @@
 | 10 | なぜUKは音楽文化の震源地なのか — 排除・貧困・移民が生んだ50年の革命 | ✅ Complete | 2026-05-14 | — |
 | 11 | Jungle & UK Hardcore誕生 — 6秒のAmen Breakが変えた世界 | ✅ Complete | 2026-05-15 | — |
 | 12 | Drum & Bassの進化 — 地下の音が賞を獲った日 | ✅ Complete | 2026-05-16 | — |
-| 13 | UK Garage — 夜のロンドンの音 | ⬜ Not started | — | — |
+| 13 | UK Garage — スニーカーお断り。ロンドンが着替えた夜 | ✅ Complete | 2026-05-17 | — |
 | 14 | Big Beat — レイブがメインストリームへ | ⬜ Not started | — | — |
 | 15 | Grime — UKストリートが生んだ音 | ⬜ Not started | — | — |
 | 16 | Dubstep vs Brostep | ⬜ Not started | — | — |
