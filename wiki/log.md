@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-17] daily-brief | journal/2026-05-17.md 作成
+
 ## [2026-05-16] auto-ep | EP-12: Drum & Bassの進化 — 地下の音が賞を獲った日
 - Script (50〜60秒): rave-team/output/EP-12/script_ja.md
 - Carousel（スライド8枚＋画像案）: rave-team/output/EP-12/carousel.md
