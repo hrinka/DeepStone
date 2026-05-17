@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-17] aroma-insta | POST-35: 眠れない夜に必要だったのは、この周波数だった。— ラベンダーと副交感神経の話
+- Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-35/carousel.md
+- Research memo: aroma-insta/output/POST-35/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-35-2026-05-17-lavender-frequency.md
+- Topic: ラベンダー精油 / リナロール・酢酸リナリル / 副交感神経34%亢進 / α波 / 118MHz / ガットフォセとアロマテラピーの誕生
+- Hook: 「眠れない夜に必要だったのは、この周波数だった。」
+
 ## [2026-05-17] daily-brief | journal/2026-05-17.md 作成
 
 ## [2026-05-16] auto-ep | EP-12: Drum & Bassの進化 — 地下の音が賞を獲った日
