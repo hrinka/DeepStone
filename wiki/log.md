@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-18] aroma-post | POST-24: ローズマリーは、記憶を守る植物だった。
+- Carousel (8枚): aroma-insta/output/POST-24/carousel.md
+- Research memo: aroma-insta/output/POST-24/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-24-2026-05-18-rosemary.md
+- ピラー: ハーブ菜園
+
 ## [2026-05-18] auto-ep | EP-23: Big Beat — レイブがメインストリームへ
 - Script (50秒): rave-team/output/EP-23/script_ja.md
 - Carousel (8枚): rave-team/output/EP-23/carousel.md
