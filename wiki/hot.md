@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-14: wiki/concepts/music/ フォルダ作成 — 音楽・レイブ関連concept（Dub-Reggae, Hardcore Continuum, Synthesis×3 など15ファイル）を移動。
+2026-05-15: Daily Notes + Daily Brief セットアップ完了。毎朝7:00 JSTにjournal/YYYY-MM-DD.mdへ自動ブリーフ（CONNECTIONS/PATTERN/QUESTION）生成開始。
 
 ## Vault State
 - **Owner**: Rinka
@@ -31,6 +31,7 @@ Navigation: [[index]] | [[log]]
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 
 ## Recent Changes
+- **2026-05-15**: Daily Notes（journal/ + _templates/daily-note.md）+ Daily Brief RemoteTrigger（毎朝7:00 JST）セットアップ完了
 - **2026-05-14**: wiki/concepts/music/ 作成 — レイブ音楽関連concept 15ファイルを移動・整理
 - **2026-05-13**: POST-02「5000年前から使われていた精油。— フランキンセンス」生成・GitHub push 完了（アロマピラー初投稿）
 - **2026-05-13**: EP-09「Detroit Technoとイギリスの出会い — 電話番号が音楽を変えた夜」自動生成・GitHub push 完了

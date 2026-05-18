@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-15] setup | Daily Notes + Daily Brief + 毎日ルーティン完成
+- Obsidian デイリーノート設定: journal/ フォルダ + _templates/daily-note.md テンプレート
+- 既存ノート 2026-05-15.md を journal/ に移動
+- RemoteTrigger 作成: "DeepStone Daily Brief"（毎朝7:00 JST = 22:00 UTC）
+  - 毎朝 CONNECTIONS / PATTERN / QUESTION を journal/YYYY-MM-DD.md に書き出す
+- 毎日ルーティン確定: 朝7時（Brief自動生成）→ 夜（journal記入）→ 月曜（synthesis）
+
 ## [2026-05-14] refactor | concepts/music/ フォルダ作成 — レイブ音楽関連 15ファイルを移動
 - 移動先: wiki/concepts/music/
 - 対象: Dub-Reggae, Dub Music History, Dub Production Philosophy, Dub Techno, Dubstep, Grime, Grime and Dub Connection, Hardcore Continuum, Japanese Dub Scene, Sound System Culture, UK Garage, Synthesis×3（Bass / Jamaican Diaspora / Mixer）, Charlotte R1nR1n Rave Dictionary
