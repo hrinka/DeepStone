@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-18] daily-brief | journal/2026-05-18.md 作成 + LINE送信（環境制限によりブロック）
+
 ## [2026-05-18] setup | Daily Brief 交換日記形式に更新 + iPhone通知検討
 - Daily Brief RemoteTrigger に「昨日のあなたへ」セクション追加
 - journal/ フォルダ + _templates/daily-note.md を GitHub にpush
