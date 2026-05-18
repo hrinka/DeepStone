@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-18] auto-ep | EP-23: Big Beat — レイブがメインストリームへ
+- Script (50秒): rave-team/output/EP-23/script_ja.md
+- Carousel (8枚): rave-team/output/EP-23/carousel.md
+- Wiki source: wiki/sources/rave/EP-23 — 2026-05-18 — big-beat-mainstream.md
+- Research memo: rave-team/output/EP-23/research.md
+
 ## [2026-05-18] daily-brief | journal/2026-05-18.md 更新（3回目・旧暦4月2日・運勢反映） + LINE送信（環境制限403）
 
 ## [2026-05-18] daily-brief | journal/2026-05-18.md 更新（2回目） + LINE送信（環境制限によりブロック）

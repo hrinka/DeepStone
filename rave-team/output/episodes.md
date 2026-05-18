@@ -9,6 +9,7 @@
 
 ## Episodes
 
+- EP-23 (2026-05-18): Big Beat — レイブがメインストリームへ — Heavenly Social(1993)→Chemical Brothers "Dig Your Own Hole" UK1位→Prodigy "Fat of the Land" 16カ国1位・317,000枚初週→Big Beat Boutique閉幕(2001)→地下への帰還
 - EP-13 (2026-05-17): UK Garage — スニーカーお断り。ロンドンが着替えた夜 — ジャングル170BPMから130BPMへの分岐→2ステップ革命→Shanks & Bigfoot「Sweet Like Chocolate」(1999)→So Solid Crew「21 Seconds」全英1位→GrimeとDubstepの誕生
 - EP-12 (2026-05-16): Drum & Bassの進化 — Jungle暗転→Goldie "Inner City Life"（1994）→Timeless→LTJ Bukem Logical Progression→Roni Sizeマーキュリー賞→DnBが地下から頂点へ
 - EP-11 (2026-05-15): Jungle & UK Hardcore誕生 — Amen Break（1969年6秒）→ Breakbeat Hardcore → "We Are I.E." (Lennie De Ice) → Kool FM → Happy vs Dark分裂 → Jungle命名
@@ -33,7 +34,7 @@
 | 11 | Jungle & UK Hardcore誕生 — 6秒のAmen Breakが変えた世界 | ✅ Complete | 2026-05-15 | — |
 | 12 | Drum & Bassの進化 — 地下の音が賞を獲った日 | ✅ Complete | 2026-05-16 | — |
 | 13 | UK Garage — スニーカーお断り。ロンドンが着替えた夜 | ✅ Complete | 2026-05-17 | — |
-| 14 | Big Beat — レイブがメインストリームへ | ⬜ Not started | — | — |
+| 14 | Big Beat — レイブがメインストリームへ | ✅ Complete (EP-23) | 2026-05-18 | — |
 | 15 | Grime — UKストリートが生んだ音 | ⬜ Not started | — | — |
 | 16 | Dubstep vs Brostep | ⬜ Not started | — | — |
 | 17 | Boiler Room現象 | ⬜ Not started | — | — |

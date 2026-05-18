@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-18: Daily Brief に「昨日のあなたへ」（交換日記）追加 + iPhone通知セットアップ着手。EP-13まで自動生成中。
+2026-05-18: EP-23「Big Beat — レイブがメインストリームへ」生成・GitHub push 完了。Daily Brief に「昨日のあなたへ」（交換日記）追加 + iPhone通知セットアップ着手。EP-23まで自動生成中。
 
 ## Vault State
 - **Owner**: Rinka
@@ -26,12 +26,13 @@ Navigation: [[index]] | [[log]]
 - **Wiki entities**: 11（King Tubby, Augustus Pablo, Lee Scratch Perry, Kingston Dub Club, Mad Professor, Jah Shaka, Burial, Mute Beat, Dry and Heavy, Basic Channel, Gabre Selassie）
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
-- **EP outputs**: 13（EP-01〜EP-13）GitHub同期済み
+- **EP outputs**: 14（EP-01〜EP-13 + EP-23）GitHub同期済み
 - **Aroma Insta**: POST-01〜02（手動）+ POST-19〜22（自動）計6投稿
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
 ## Recent Changes
+- **2026-05-18**: EP-23「Big Beat — レイブがメインストリームへ」生成・GitHub push 完了
 - **2026-05-18**: Daily Brief「昨日のあなたへ」交換日記形式に更新 + iPhone通知検討中
 - **2026-05-17**: EP-13「UK Garage — スニーカーお断り。ロンドンが着替えた夜」生成・GitHub push 完了
 - **2026-05-17**: POST-22「ラベンダーと副交感神経の話」生成・GitHub push 完了（アロマ）
