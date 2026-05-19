@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-19] daily-brief | journal/2026-05-19.md 作成 + LINE送信（403エラー・トークン要確認）
+
 ## [2026-05-18] aroma-post | POST-24: ローズマリーは、記憶を守る植物だった。
 - Carousel (8枚): aroma-insta/output/POST-24/carousel.md
 - Research memo: aroma-insta/output/POST-24/research.md
