@@ -9,6 +9,7 @@
 
 ## Episodes
 
+- EP-26 (2026-05-19): Grime — 路上から来た音 — UK Garage廃材から140BPM誕生→Rinse FM海賊ラジオ（1994〜2010）→Dizzee Rascal『Boy in da Corner』マーキュリー賞（17歳・2003）→Skepta「Shutdown」路上封鎖→BRITアワードKanye共演→『Konnichiwa』マーキュリー賞（2016）→Grime、世界語へ
 - EP-23 (2026-05-18): Big Beat — レイブがメインストリームへ — Heavenly Social(1993)→Chemical Brothers "Dig Your Own Hole" UK1位→Prodigy "Fat of the Land" 16カ国1位・317,000枚初週→Big Beat Boutique閉幕(2001)→地下への帰還
 - EP-13 (2026-05-17): UK Garage — スニーカーお断り。ロンドンが着替えた夜 — ジャングル170BPMから130BPMへの分岐→2ステップ革命→Shanks & Bigfoot「Sweet Like Chocolate」(1999)→So Solid Crew「21 Seconds」全英1位→GrimeとDubstepの誕生
 - EP-12 (2026-05-16): Drum & Bassの進化 — Jungle暗転→Goldie "Inner City Life"（1994）→Timeless→LTJ Bukem Logical Progression→Roni Sizeマーキュリー賞→DnBが地下から頂点へ
@@ -35,7 +36,7 @@
 | 12 | Drum & Bassの進化 — 地下の音が賞を獲った日 | ✅ Complete | 2026-05-16 | — |
 | 13 | UK Garage — スニーカーお断り。ロンドンが着替えた夜 | ✅ Complete | 2026-05-17 | — |
 | 14 | Big Beat — レイブがメインストリームへ | ✅ Complete (EP-23) | 2026-05-18 | — |
-| 15 | Grime — UKストリートが生んだ音 | ⬜ Not started | — | — |
+| 15 | Grime — UKストリートが生んだ音 | ✅ Complete (EP-26) | 2026-05-19 | — |
 | 16 | Dubstep vs Brostep | ⬜ Not started | — | — |
 | 17 | Boiler Room現象 | ⬜ Not started | — | — |
 | 18 | Fabric — 伝説のクラブが閉店した夜 | ⬜ Not started | — | — |

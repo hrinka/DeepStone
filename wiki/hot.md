@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-19: POST-25「名前に、魂の声が宿っている。— ソウルナンバーと母音の秘密」生成・GitHub push 完了（数秘ピラー）。
+2026-05-19: EP-26「Grime — 路上から来た音」生成・GitHub push 完了（Grime: East London・Rinse FM・Dizzee Rascal・Skepta・140BPM）。
 
 ## Vault State
 - **Owner**: Rinka
@@ -32,6 +32,7 @@ Navigation: [[index]] | [[log]]
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
 ## Recent Changes
+- **2026-05-19**: EP-26「Grime — 路上から来た音」生成・GitHub push 完了（Grime: East London origin・Rinse FM・Dizzee Rascal Mercury Prize 2003・Skepta Konnichiwa 2016）
 - **2026-05-19**: POST-25「名前に、魂の声が宿っている。」生成・GitHub push 完了（数秘: ソウルナンバー）
 - **2026-05-18**: POST-24「ローズマリーは、記憶を守る植物だった。」生成・GitHub push 完了（ハーブ菜園）
 - **2026-05-18**: EP-23「Big Beat — レイブがメインストリームへ」生成・GitHub push 完了

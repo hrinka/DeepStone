@@ -135,6 +135,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-26 — 2026-05-19 — grime-east-london]]|Grime（2000年代〜2016）: UK Garage廃材→140BPM（FL Studioデフォルト）→Rinse FM海賊ラジオ→Dizzee Rascal 17歳マーキュリー賞（2003）→Skepta「Shutdown」→BRITアワードKanye共演→『Konnichiwa』マーキュリー賞（2016）|
 |[[EP-23 — 2026-05-18 — big-beat-mainstream]]|Big Beat（1994-2001）: Heavenly Social(1993)→Chemical Brothers UK1位→Prodigy *Fat of the Land* 16カ国1位・ギネス→Big Beat Boutique閉幕→地下への帰還|
 |[[POST-13 — 2026-05-17 — uk-garage-london-night]]|UK Garage: ジャングル170BPMからの分岐（1994）→ 2ステップ革命 → "Sweet Like Chocolate" UK1位（1999）→ So Solid Crew "21 Seconds" 全英1位（2001）→ GrimeとDubstepの誕生|
 |[[POST-12 — 2026-05-16 — dnb-evolution]]|Drum & Bassの進化: Jungle暗転（1993）→ Goldie "Inner City Life"（1994） → Timeless → LTJ Bukem Logical Progression（1996）→ Roni Size マーキュリー賞（1997）→ DnBが地下から頂点へ|

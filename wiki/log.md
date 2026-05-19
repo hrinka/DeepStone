@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-19] auto-ep | EP-26: Grime — 路上から来た音
+- Script (50秒): rave-team/output/EP-26/script_ja.md
+- Carousel (8枚): rave-team/output/EP-26/carousel.md
+- Research memo: rave-team/output/EP-26/research.md
+- Wiki source: wiki/sources/rave/EP-26 — 2026-05-19 — grime-east-london.md
+- トピック: Grime（East London・Rinse FM・Dizzee Rascal・Skepta・140BPM）
+
 ## [2026-05-19] aroma-post | POST-25: 名前に、魂の声が宿っている。— ソウルナンバーと母音の秘密
 - Carousel (8枚): aroma-insta/output/POST-25/carousel.md
 - Research memo: aroma-insta/output/POST-25/research.md
