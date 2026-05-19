@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-19] aroma-post | POST-25: 名前に、魂の声が宿っている。— ソウルナンバーと母音の秘密
+- Carousel (8枚): aroma-insta/output/POST-25/carousel.md
+- Research memo: aroma-insta/output/POST-25/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-25-2026-05-19-soul-number.md
+- ピラー: 数秘（ソウルナンバー / Heart's Desire）
+
 ## [2026-05-19] daily-brief | journal/2026-05-19.md 更新（再実行）+ LINE送信（403エラー継続・環境ネットワーク制限）
 ## [2026-05-19] daily-brief | journal/2026-05-19.md 作成 + LINE送信（403エラー・トークン要確認）
 
