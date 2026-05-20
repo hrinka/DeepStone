@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-05-19.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-19"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -177,26 +177,12 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新規ベースを作成": false
     }
   },
-  "active": "66e8a8a889c07efa",
+  "active": "3ea8fc1ac4812fd1",
   "lastOpenFiles": [
-    "scripts/morning_brief.py",
     "journal/2026-05-18.md",
-    "scripts",
-    "journal/2026-05-19.md",
-    "CLAUDE.md",
-    "wiki/sources/rave/EP-23 — 2026-05-18 — big-beat-mainstream.md",
-    "wiki/sources/aroma/aroma-POST-24-2026-05-18-rosemary.md",
-    "rave-team/output/EP-23/script_ja.md",
-    "rave-team/output/EP-23/research.md",
-    "rave-team/output/EP-23/carousel.md",
-    "rave-team/output/EP-23",
-    "aroma-insta/output/POST-24/research.md",
-    "aroma-insta/output/POST-24/carousel.md",
-    "aroma-insta/output/POST-24",
     "Memory.md",
     "TOOLS.md",
     "SOUL.md",
@@ -213,11 +199,24 @@
     "aroma-insta/output/POST-22/carousel.md",
     "aroma-insta/output/POST-22",
     "aroma-insta/output/POST-21/research.md",
+    "aroma-insta/output/POST-21/carousel.md",
     "aroma-insta/output/POST-21",
+    "aroma-insta/output/POST-20/research.md",
+    "aroma-insta/output/POST-20/carousel.md",
     "aroma-insta/output/POST-20",
+    "aroma-insta/output/POST-19/research.md",
+    "aroma-insta/output/POST-19/carousel.md",
     "aroma-insta/output/POST-19",
+    "aroma-insta/output/POST-18/carousel.md",
     "aroma-insta/output/POST-18",
+    "aroma-insta/output/POST-17/carousel.md",
     "aroma-insta/output/POST-17",
-    "aroma-insta/output/POST-16"
+    "aroma-insta/output/POST-16/carousel.md",
+    "aroma-insta/output/POST-16",
+    "aroma-insta/output/POST-15/carousel.md",
+    "aroma-insta/output/POST-15",
+    "aroma-insta/output/POST-14/carousel.md",
+    "aroma-insta/output/POST-14",
+    "aroma-insta/output/POST-01/POST-27"
   ]
 }
