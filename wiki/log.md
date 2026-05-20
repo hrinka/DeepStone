@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-20] aroma-post | POST-27: 中世の魔女は、なぜ玄関にゼラニウムを植えたのか。— ゼラニウムとバランスの秘密
+- Carousel (8枚): aroma-insta/output/POST-27/carousel.md
+- Research memo: aroma-insta/output/POST-27/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-27-2026-05-20-geranium-balance.md
+- ピラー: ハーブ菜園（ゼラニウム / 56MHz / 感情バランス / 中世魔除け）
+
 ## [2026-05-20] daily-brief | journal/2026-05-20.md 作成 + LINE送信（403エラー要確認）
 
 ## [2026-05-19] auto-ep | EP-26: Grime — 路上から来た音

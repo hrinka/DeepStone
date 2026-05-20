@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-18
+updated: 2026-05-20
 tags:
   - meta
   - hot-cache
@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-19: EP-26「Grime — 路上から来た音」生成・GitHub push 完了（Grime: East London・Rinse FM・Dizzee Rascal・Skepta・140BPM）。
+2026-05-20: POST-27「中世の魔女は、なぜ玄関にゼラニウムを植えたのか。」生成・GitHub push 完了（ハーブ菜園: ゼラニウム / 56MHz / 感情バランス / 中世魔除け）。
 
 ## Vault State
 - **Owner**: Rinka
@@ -27,11 +27,12 @@ Navigation: [[index]] | [[log]]
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
 - **EP outputs**: 14（EP-01〜EP-13 + EP-23）GitHub同期済み
-- **Aroma Insta**: POST-01〜02（手動）+ POST-19〜22 + POST-24（自動）計7投稿
+- **Aroma Insta**: POST-01〜02（手動）+ POST-19〜22 + POST-24 + POST-25 + POST-27（自動）計9投稿
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
 ## Recent Changes
+- **2026-05-20**: POST-27「中世の魔女は、なぜ玄関にゼラニウムを植えたのか。」生成・GitHub push 完了（ハーブ菜園: ゼラニウム / 56MHz / 感情バランス / 中世魔除け）
 - **2026-05-19**: EP-26「Grime — 路上から来た音」生成・GitHub push 完了（Grime: East London origin・Rinse FM・Dizzee Rascal Mercury Prize 2003・Skepta Konnichiwa 2016）
 - **2026-05-19**: POST-25「名前に、魂の声が宿っている。」生成・GitHub push 完了（数秘: ソウルナンバー）
 - **2026-05-18**: POST-24「ローズマリーは、記憶を守る植物だった。」生成・GitHub push 完了（ハーブ菜園）
