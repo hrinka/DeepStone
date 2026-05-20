@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-20] daily-brief | journal/2026-05-20.md 作成 + LINE送信（403エラー要確認）
+
 ## [2026-05-19] auto-ep | EP-26: Grime — 路上から来た音
 - Script (50秒): rave-team/output/EP-26/script_ja.md
 - Carousel (8枚): rave-team/output/EP-26/carousel.md
