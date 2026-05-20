@@ -9,6 +9,7 @@
 
 ## Episodes
 
+- EP-28 (2026-05-20): Dubstep vs Brostep — 地下室が夢見た音 — Croydon Big Apple Records（Skream 16歳）→ Forward>>ナイト2001（Tempa + Rinse FM）→ DMZ 2005 Brixton教会地下室（Digital Mystikz）→ 「Brostep」UKフォーラムで冗談誕生 → Skrillex「Scary Monsters」2010 → Grammy 2冠 → Skream「俺たちには何もできない」→ 本物は地下に戻った
 - EP-26 (2026-05-19): Grime — 路上から来た音 — UK Garage廃材から140BPM誕生→Rinse FM海賊ラジオ（1994〜2010）→Dizzee Rascal『Boy in da Corner』マーキュリー賞（17歳・2003）→Skepta「Shutdown」路上封鎖→BRITアワードKanye共演→『Konnichiwa』マーキュリー賞（2016）→Grime、世界語へ
 - EP-23 (2026-05-18): Big Beat — レイブがメインストリームへ — Heavenly Social(1993)→Chemical Brothers "Dig Your Own Hole" UK1位→Prodigy "Fat of the Land" 16カ国1位・317,000枚初週→Big Beat Boutique閉幕(2001)→地下への帰還
 - EP-13 (2026-05-17): UK Garage — スニーカーお断り。ロンドンが着替えた夜 — ジャングル170BPMから130BPMへの分岐→2ステップ革命→Shanks & Bigfoot「Sweet Like Chocolate」(1999)→So Solid Crew「21 Seconds」全英1位→GrimeとDubstepの誕生
@@ -37,7 +38,7 @@
 | 13 | UK Garage — スニーカーお断り。ロンドンが着替えた夜 | ✅ Complete | 2026-05-17 | — |
 | 14 | Big Beat — レイブがメインストリームへ | ✅ Complete (EP-23) | 2026-05-18 | — |
 | 15 | Grime — UKストリートが生んだ音 | ✅ Complete (EP-26) | 2026-05-19 | — |
-| 16 | Dubstep vs Brostep | ⬜ Not started | — | — |
+| 16 | Dubstep vs Brostep | ✅ Complete (EP-28) | 2026-05-20 | — |
 | 17 | Boiler Room現象 | ⬜ Not started | — | — |
 | 18 | Fabric — 伝説のクラブが閉店した夜 | ⬜ Not started | — | — |
 | 19 | 日本とUKレイブカルチャー | ⬜ Not started | — | — |

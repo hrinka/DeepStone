@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-20: POST-27「中世の魔女は、なぜ玄関にゼラニウムを植えたのか。」生成・GitHub push 完了（ハーブ菜園: ゼラニウム / 56MHz / 感情バランス / 中世魔除け）。
+2026-05-20: EP-28「Dubstep vs Brostep — 地下室が夢見た音」生成・GitHub push 完了（Dubstep: Croydon / DMZ Brixton 2005 / Skream 16歳 / Brostep造語 / Skrillex Grammy 2冠 / UK vs US divide）。
 
 ## Vault State
 - **Owner**: Rinka
@@ -32,6 +32,7 @@ Navigation: [[index]] | [[log]]
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
 ## Recent Changes
+- **2026-05-20**: EP-28「Dubstep vs Brostep — 地下室が夢見た音」生成・GitHub push 完了（Dubstep: Croydon / DMZ Brixton 2005 / Skream 16歳 / Brostep造語 / Skrillex Grammy 2冠）
 - **2026-05-20**: POST-27「中世の魔女は、なぜ玄関にゼラニウムを植えたのか。」生成・GitHub push 完了（ハーブ菜園: ゼラニウム / 56MHz / 感情バランス / 中世魔除け）
 - **2026-05-19**: EP-26「Grime — 路上から来た音」生成・GitHub push 完了（Grime: East London origin・Rinse FM・Dizzee Rascal Mercury Prize 2003・Skepta Konnichiwa 2016）
 - **2026-05-19**: POST-25「名前に、魂の声が宿っている。」生成・GitHub push 完了（数秘: ソウルナンバー）

@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-20] auto-ep | EP-28: Dubstep vs Brostep — 地下室が夢見た音
+- Script (50秒): rave-team/output/EP-28/script_ja.md
+- Carousel (8枚): rave-team/output/EP-28/carousel.md
+- Research memo: rave-team/output/EP-28/research.md
+- Wiki source: wiki/sources/rave/EP-28 — 2026-05-20 — dubstep-vs-brostep.md
+- トピック: Dubstep vs Brostep（Croydon・DMZ・Skream・Skrillex・UK vs US divide）
+
 ## [2026-05-20] aroma-post | POST-27: 中世の魔女は、なぜ玄関にゼラニウムを植えたのか。— ゼラニウムとバランスの秘密
 - Carousel (8枚): aroma-insta/output/POST-27/carousel.md
 - Research memo: aroma-insta/output/POST-27/research.md
