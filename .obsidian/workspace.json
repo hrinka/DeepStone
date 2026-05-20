@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "journal/2026-05-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "2026-05-19"
+            }
+          },
+          {
+            "id": "87543485c6736b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2026-05-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-20"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,12 +192,37 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ea8fc1ac4812fd1",
+  "active": "87543485c6736b56",
   "lastOpenFiles": [
+    "journal/2026-05-19.md",
+    "journal/2026-05-20.md",
+    "conflict-files-obsidian-git.md",
+    "wiki/sources/rave/EP-26 — 2026-05-19 — grime-east-london.md",
+    "wiki/sources/aroma/aroma-POST-25-2026-05-19-soul-number.md",
+    "rave-team/output/EP-26/script_ja.md",
+    "rave-team/output/EP-26/research.md",
+    "rave-team/output/EP-26/carousel.md",
+    "rave-team/output/EP-26",
+    "aroma-insta/output/POST-25/research.md",
+    "aroma-insta/output/POST-25/carousel.md",
+    "aroma-insta/output/POST-25",
+    "scripts/morning_brief.py",
     "journal/2026-05-18.md",
+    "scripts",
+    "CLAUDE.md",
+    "wiki/sources/rave/EP-23 — 2026-05-18 — big-beat-mainstream.md",
+    "wiki/sources/aroma/aroma-POST-24-2026-05-18-rosemary.md",
+    "rave-team/output/EP-23/script_ja.md",
+    "rave-team/output/EP-23/research.md",
+    "rave-team/output/EP-23/carousel.md",
+    "rave-team/output/EP-23",
+    "aroma-insta/output/POST-24/research.md",
+    "aroma-insta/output/POST-24/carousel.md",
+    "aroma-insta/output/POST-24",
     "Memory.md",
     "TOOLS.md",
     "SOUL.md",
@@ -190,33 +230,9 @@
     "wiki/log.md",
     "wiki/index.md",
     "AGENTS.md",
-    "_templates/daily-note.md",
-    "journal/2026-05-17.md",
-    "journal/2026-05-16.md",
-    "journal/2026-05-15.md",
-    "rave-team/output/EP-01/carousel.md",
-    "aroma-insta/output/POST-22/research.md",
-    "aroma-insta/output/POST-22/carousel.md",
     "aroma-insta/output/POST-22",
-    "aroma-insta/output/POST-21/research.md",
-    "aroma-insta/output/POST-21/carousel.md",
     "aroma-insta/output/POST-21",
-    "aroma-insta/output/POST-20/research.md",
-    "aroma-insta/output/POST-20/carousel.md",
     "aroma-insta/output/POST-20",
-    "aroma-insta/output/POST-19/research.md",
-    "aroma-insta/output/POST-19/carousel.md",
-    "aroma-insta/output/POST-19",
-    "aroma-insta/output/POST-18/carousel.md",
-    "aroma-insta/output/POST-18",
-    "aroma-insta/output/POST-17/carousel.md",
-    "aroma-insta/output/POST-17",
-    "aroma-insta/output/POST-16/carousel.md",
-    "aroma-insta/output/POST-16",
-    "aroma-insta/output/POST-15/carousel.md",
-    "aroma-insta/output/POST-15",
-    "aroma-insta/output/POST-14/carousel.md",
-    "aroma-insta/output/POST-14",
-    "aroma-insta/output/POST-01/POST-27"
+    "aroma-insta/output/POST-19"
   ]
 }
