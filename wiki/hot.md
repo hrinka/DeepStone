@@ -16,7 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
-2026-05-20: EP-28「Dubstep vs Brostep — 地下室が夢見た音」生成・GitHub push 完了（Dubstep: Croydon / DMZ Brixton 2005 / Skream 16歳 / Brostep造語 / Skrillex Grammy 2冠 / UK vs US divide）。
+2026-05-21: EP-29「Boiler Room — 地下室の一台のカメラが、世界を変えた」生成・GitHub push 完了（2010年Hackney廃倉庫 / ガムテープ+ウェブカメラ / DJが背を向けるフォーマット / Jamie xx・James Blake無名時代 / 200都市8,000セット）。
 
 ## Vault State
 - **Owner**: Rinka
@@ -32,6 +32,7 @@ Navigation: [[index]] | [[log]]
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
 ## Recent Changes
+- **2026-05-21**: EP-29「Boiler Room — 地下室の一台のカメラが、世界を変えた」生成・GitHub push 完了（2010年Hackney / ガムテープ+ウェブカメラ / 背を向けるフォーマット / Jamie xx・James Blake / 200都市・8,000セット）
 - **2026-05-20**: EP-28「Dubstep vs Brostep — 地下室が夢見た音」生成・GitHub push 完了（Dubstep: Croydon / DMZ Brixton 2005 / Skream 16歳 / Brostep造語 / Skrillex Grammy 2冠）
 - **2026-05-20**: POST-27「中世の魔女は、なぜ玄関にゼラニウムを植えたのか。」生成・GitHub push 完了（ハーブ菜園: ゼラニウム / 56MHz / 感情バランス / 中世魔除け）
 - **2026-05-19**: EP-26「Grime — 路上から来た音」生成・GitHub push 完了（Grime: East London origin・Rinse FM・Dizzee Rascal Mercury Prize 2003・Skepta Konnichiwa 2016）
