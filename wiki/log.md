@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-21] auto-post | POST-30: 火を灯すとき、煙が祈りになる。— セージと浄化の記憶
+- Carousel (8枚): aroma-insta/output/POST-30/carousel.md
+- Research memo: aroma-insta/output/POST-30/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-30-2026-05-21-sage-smudging.md
+- ピラー: ハーブ菜園 / トピック: セージ浄化・スマッジング・マイナスイオン・古代ローマ〜ネイティブアメリカン
+
 ## [2026-05-21] auto-ep | EP-29: Boiler Room — 地下室の一台のカメラが、世界を変えた
 - Script (50秒): rave-team/output/EP-29/script_ja.md
 - Carousel (8枚): rave-team/output/EP-29/carousel.md
