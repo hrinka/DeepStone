@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-21] daily-brief | journal/2026-05-21.md 作成 + LINE送信（403エラー・要トークン確認）
+
 ## [2026-05-20] auto-ep | EP-28: Dubstep vs Brostep — 地下室が夢見た音
 - Script (50秒): rave-team/output/EP-28/script_ja.md
 - Carousel (8枚): rave-team/output/EP-28/carousel.md
