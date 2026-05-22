@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-05-20.md",
+                "file": "journal/2026-05-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-20"
+              "title": "2026-05-22"
             }
           }
         ],
@@ -198,6 +198,8 @@
   },
   "active": "87543485c6736b56",
   "lastOpenFiles": [
+    "journal/2026-05-20.md",
+    "journal/2026-05-22.md",
     "wiki/sources/rave/EP-28 — 2026-05-20 — dubstep-vs-brostep.md",
     "wiki/sources/aroma/aroma-POST-27-2026-05-20-geranium-balance.md",
     "rave-team/output/EP-28/script_ja.md",
@@ -208,7 +210,6 @@
     "aroma-insta/output/POST-27/carousel.md",
     "aroma-insta/output/POST-27",
     "journal/2026-05-19.md",
-    "journal/2026-05-20.md",
     "conflict-files-obsidian-git.md",
     "wiki/sources/rave/EP-26 — 2026-05-19 — grime-east-london.md",
     "wiki/sources/aroma/aroma-POST-25-2026-05-19-soul-number.md",
@@ -230,7 +231,6 @@
     "rave-team/output/EP-23/carousel.md",
     "rave-team/output/EP-23",
     "aroma-insta/output/POST-24/research.md",
-    "aroma-insta/output/POST-24/carousel.md",
     "aroma-insta/output/POST-24",
     "aroma-insta/output/POST-22",
     "aroma-insta/output/POST-21"
