@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-22] daily-brief | journal/2026-05-22.md 作成 + LINE送信（403エラー要確認）
+
 ## [2026-05-21] auto-post | POST-30: 火を灯すとき、煙が祈りになる。— セージと浄化の記憶
 - Carousel (8枚): aroma-insta/output/POST-30/carousel.md
 - Research memo: aroma-insta/output/POST-30/research.md
