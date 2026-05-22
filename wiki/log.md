@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-22] auto-post | POST-31: 今年、あなたの数字は何を語っているか。— 個人年（パーソナルイヤー）の読み方
+- Carousel (8枚): aroma-insta/output/POST-31/carousel.md
+- Research memo: aroma-insta/output/POST-31/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-31-2026-05-22-personal-year-number.md
+- ピラー: 数秘 / トピック: パーソナルイヤーナンバー・9年サイクル・2026ユニバーサルイヤー1
+
 ## [2026-05-22] daily-brief | journal/2026-05-22.md 作成 + LINE送信（403エラー要確認）
 
 ## [2026-05-21] auto-post | POST-30: 火を灯すとき、煙が祈りになる。— セージと浄化の記憶

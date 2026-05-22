@@ -16,6 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-05-22: POST-31「今年、あなたの数字は何を語っているか。— 個人年（パーソナルイヤー）の読み方」生成・GitHub push 完了（数秘ピラー / パーソナルイヤーナンバー1〜9の意味 / 9年サイクル / 2026ユニバーサルイヤー1 / 計算方法カルーセル8枚）。
 2026-05-21: POST-30「火を灯すとき、煙が祈りになる。— セージと浄化の記憶」生成・GitHub push 完了（ハーブ菜園ピラー / セージ浄化・スマッジング / 古代ローマ Salvare 語源 / ネイティブアメリカン伝統 / マイナスイオン放出・細菌90%除去）。
 2026-05-21: EP-29「Boiler Room — 地下室の一台のカメラが、世界を変えた」生成・GitHub push 完了（2010年Hackney廃倉庫 / ガムテープ+ウェブカメラ / DJが背を向けるフォーマット / Jamie xx・James Blake無名時代 / 200都市8,000セット）。
 
@@ -28,7 +29,7 @@ Navigation: [[index]] | [[log]]
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
 - **EP outputs**: 14（EP-01〜EP-13 + EP-23）GitHub同期済み
-- **Aroma Insta**: POST-01〜02（手動）+ POST-19〜22 + POST-24 + POST-25 + POST-27 + POST-30（自動）計10投稿
+- **Aroma Insta**: POST-01〜02（手動）+ POST-19〜22 + POST-24 + POST-25 + POST-27 + POST-30 + POST-31（自動）計11投稿
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
