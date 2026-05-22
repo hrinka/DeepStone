@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-22] auto-ep | EP-31: Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝
+- Script (50〜60秒): rave-team/output/EP-31/script_ja.md
+- Carousel (8枚): rave-team/output/EP-31/carousel.md
+- Research memo: rave-team/output/EP-31/research.md
+- Wiki source: wiki/sources/rave/EP-31 — 2026-05-22 — fabric-london-closure-revival.md
+- トピック: Fabric London 1999年創業（廃肉市場地下・Bodysonic 400トランスデューサー・DJ Mag世界1位2007/2008）→2016年薬物死2件→ライセンス剥奪→#SaveOurCulture £333,618→40条件合意→2017年1月6日復活
+
 ## [2026-05-22] auto-post | POST-31: 今年、あなたの数字は何を語っているか。— 個人年（パーソナルイヤー）の読み方
 - Carousel (8枚): aroma-insta/output/POST-31/carousel.md
 - Research memo: aroma-insta/output/POST-31/research.md

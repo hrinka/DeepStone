@@ -135,6 +135,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-31 — 2026-05-22 — fabric-london-closure-revival]]|Fabric London（1999〜）: 廃肉市場地下・Bodysonic 400トランスデューサー→DJ Mag世界1位2007/2008→2016年薬物死2件→ライセンス剥奪9月7日→#SaveOurCulture £333,618→40条件合意→2017年1月6日復活|
 |[[EP-29 — 2026-05-21 — boiler-room-phenomenon]]|Boiler Room現象（2010年Hackney）: ガムテープ+ウェブカメラ→「DJが背を向けて回す」フォーマット誕生→Jamie xx/James Blake→200都市8,000セット→クラブ映像文法を変えた|
 |[[EP-28 — 2026-05-20 — dubstep-vs-brostep]]|Dubstep vs Brostep（2001〜2012）: Croydon Big Apple Records→Forward>>ナイト→DMZ2005 Brixton教会地下室→「Brostep」UKフォーラム造語→Skrillex Grammy 2冠2012→Skream「俺たちには何もできない」→本物は地下へ|
 |[[EP-26 — 2026-05-19 — grime-east-london]]|Grime（2000年代〜2016）: UK Garage廃材→140BPM（FL Studioデフォルト）→Rinse FM海賊ラジオ→Dizzee Rascal 17歳マーキュリー賞（2003）→Skepta「Shutdown」→BRITアワードKanye共演→『Konnichiwa』マーキュリー賞（2016）|
