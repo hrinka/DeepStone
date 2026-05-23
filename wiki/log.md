@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-23] auto-ep | EP-32: UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ
+- Script (50〜60秒): rave-team/output/EP-32/script_ja.md
+- Carousel (8枚): rave-team/output/EP-32/carousel.md
+- Research memo: rave-team/output/EP-32/research.md
+- Wiki source: wiki/sources/rave/EP-32 — 2026-05-23 — uk-pirate-radio.md
+- トピック: 1989年Centreforce 88.3FM（英国初24時間レイブ専用局）→ 1991年Kool FM（ハックニー団地・Jungle誕生）→ 1994年Rinse FM（Grime誕生）→ UK全土500局→ DTIとの攻防→ Jungle/Grime/Dubstepはすべて海賊電波から生まれた
+
 ## [2026-05-23] daily-brief | journal/2026-05-23.md 作成（LINE送信: ホスト制限によりスキップ）
 
 ## [2026-05-22] auto-ep | EP-31: Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝

@@ -9,6 +9,7 @@
 
 ## Episodes
 
+- EP-32 (2026-05-23): UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ — 1964年Radio Caroline（洋上海賊）→ 1980年代黒人音楽局（Kiss FM / LWR）→ 1989年5月8日Centreforce 88.3FM（英国初24時間レイブ専用局）→「今夜どこで踊るか」をラジオで知る時代 → 1991年11月28日Kool FM（Eastman+Smurff・ハックニー団地屋上）→ 1994年9月Rinse FM（Geeneus+Slimzee）→ DTIとの攻防・バックアップ送信機戦術 → UK全土500局 → JungleもGrimeもDubstepも違法電波から生まれた
 - EP-31 (2026-05-22): Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝 — 廃肉市場の地下（Bodysonic 400トランスデューサー）→ DJ Mag世界1位2007・2008 → Jack Crossley死亡2016年8月 → ライセンス剥奪9月7日 → #SaveOurCulture £333,618 → Sadiq Khan支持声明 → 40条件で合意 → 2017年1月6日復活
 - EP-29 (2026-05-21): Boiler Room — 地下室の一台のカメラが、世界を変えた — 2010年Hackney廃倉庫（Blaise Bellville・ガムテープ+ウェブカメラ）→ Jamie xx / James Blake / Hudson Mohawke無名時代→ 「背中を向けて回す」フォーマット誕生 → 200都市・8,000セット → クラブ映像文法を変えた
 - EP-28 (2026-05-20): Dubstep vs Brostep — 地下室が夢見た音 — Croydon Big Apple Records（Skream 16歳）→ Forward>>ナイト2001（Tempa + Rinse FM）→ DMZ 2005 Brixton教会地下室（Digital Mystikz）→ 「Brostep」UKフォーラムで冗談誕生 → Skrillex「Scary Monsters」2010 → Grammy 2冠 → Skream「俺たちには何もできない」→ 本物は地下に戻った
@@ -45,6 +46,7 @@
 | 18 | Fabric — 伝説のクラブが閉店した夜 | ✅ Complete (EP-31) | 2026-05-22 | — |
 | 19 | 日本とUKレイブカルチャー | ⬜ Not started | — | — |
 | 20 | レイブの未来 — 次の30年 | ⬜ Not started | — | — |
+| 32 | UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ | ✅ Complete (EP-32) | 2026-05-23 | — |
 
 ---
 
