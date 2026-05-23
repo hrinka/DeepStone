@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-23] aroma-insta | POST-33: ジャスミンは、夜だけに香る。— 月の庭の、白い秘密
+- Carousel (8枚): aroma-insta/output/POST-33/carousel.md
+- Research memo: aroma-insta/output/POST-33/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-33-2026-05-23-jasmine-queen-of-the-night.md
+- ピラー: ハーブ菜園
+- トピック: ジャスミン「神からの贈り物」/ 深夜2時の開花・800万輪で1kg / インド神話パリジャータ姫 / ベータ波活性化 / 夜の女王・月のエネルギー
+
 ## [2026-05-23] auto-ep | EP-32: UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ
 - Script (50〜60秒): rave-team/output/EP-32/script_ja.md
 - Carousel (8枚): rave-team/output/EP-32/carousel.md
