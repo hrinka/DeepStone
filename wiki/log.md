@@ -1,5 +1,7 @@
 # Wiki Log
 
+## [2026-05-23] daily-brief | journal/2026-05-23.md 作成（LINE送信: ホスト制限によりスキップ）
+
 ## [2026-05-22] auto-ep | EP-31: Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝
 - Script (50〜60秒): rave-team/output/EP-31/script_ja.md
 - Carousel (8枚): rave-team/output/EP-31/carousel.md
