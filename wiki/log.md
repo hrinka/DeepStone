@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-24] aroma-insta | POST-34: あなたの名前は、偶然じゃない。— 表現数（ディスティニーナンバー）の秘密
+- Carousel (8枚): aroma-insta/output/POST-34/carousel.md
+- Research memo: aroma-insta/output/POST-34/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-34-2026-05-24-expression-number.md
+- ピラー: 数秘
+- トピック: 表現数（ディスティニーナンバー）/ フルネームから計算 / ライフパス・ソウルナンバーとの違い / ピタゴラス数の哲学 / 各数字1〜9の才能 / 名前という周波数
+
 ## [2026-05-24] daily-brief | journal/2026-05-24.md 作成（LINE送信: IPホワイトリスト制限により未送信）
 
 ## [2026-05-23] aroma-insta | POST-33: ジャスミンは、夜だけに香る。— 月の庭の、白い秘密
