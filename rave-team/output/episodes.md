@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-34 (2026-05-24): Berghain — 世界一入れないクラブで、一番自由だった — 1989年壁崩壊→東ベルリンの廃墟でパーティ→1992年Reichsbahnbunkerフェティッシュ+テクノ→1998年Ostgut（ゲイ/フェティッシュ/テクノ混在）→2003年閉鎖→2004年12月旧発電所にBerghain誕生→天井高18m・週末60時間→撮影禁止（LGBTQの安全空間）→Sven Marquardt（ドアの哲学：主観的選択）→2016年ドイツ裁判所が「文化機関」認定→税率7%適用
+
 - EP-32 (2026-05-23): UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ — 1964年Radio Caroline（洋上海賊）→ 1980年代黒人音楽局（Kiss FM / LWR）→ 1989年5月8日Centreforce 88.3FM（英国初24時間レイブ専用局）→「今夜どこで踊るか」をラジオで知る時代 → 1991年11月28日Kool FM（Eastman+Smurff・ハックニー団地屋上）→ 1994年9月Rinse FM（Geeneus+Slimzee）→ DTIとの攻防・バックアップ送信機戦術 → UK全土500局 → JungleもGrimeもDubstepも違法電波から生まれた
 - EP-31 (2026-05-22): Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝 — 廃肉市場の地下（Bodysonic 400トランスデューサー）→ DJ Mag世界1位2007・2008 → Jack Crossley死亡2016年8月 → ライセンス剥奪9月7日 → #SaveOurCulture £333,618 → Sadiq Khan支持声明 → 40条件で合意 → 2017年1月6日復活
 - EP-29 (2026-05-21): Boiler Room — 地下室の一台のカメラが、世界を変えた — 2010年Hackney廃倉庫（Blaise Bellville・ガムテープ+ウェブカメラ）→ Jamie xx / James Blake / Hudson Mohawke無名時代→ 「背中を向けて回す」フォーマット誕生 → 200都市・8,000セット → クラブ映像文法を変えた
@@ -47,6 +49,7 @@
 | 19 | 日本とUKレイブカルチャー | ⬜ Not started | — | — |
 | 20 | レイブの未来 — 次の30年 | ⬜ Not started | — | — |
 | 32 | UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ | ✅ Complete (EP-32) | 2026-05-23 | — |
+| 34 | Berghain — 世界一入れないクラブで、一番自由だった | ✅ Complete (EP-34) | 2026-05-24 | — |
 
 ---
 

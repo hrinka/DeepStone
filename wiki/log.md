@@ -7,6 +7,13 @@
 - ピラー: 数秘
 - トピック: 表現数（ディスティニーナンバー）/ フルネームから計算 / ライフパス・ソウルナンバーとの違い / ピタゴラス数の哲学 / 各数字1〜9の才能 / 名前という周波数
 
+## [2026-05-24] auto-ep | EP-34: Berghain — 世界一入れないクラブで、一番自由だった
+- Script (50〜60秒): rave-team/output/EP-34/script_ja.md
+- Carousel (8枚): rave-team/output/EP-34/carousel.md
+- Research memo: rave-team/output/EP-34/research.md
+- Wiki source: wiki/sources/rave/EP-34 — 2026-05-24 — berghain-berlin-techno-freedom.md
+- トピック: 1989年壁崩壊→東ベルリン廃墟パーティ→1992年Reichsbahnbunkerフェティッシュ+テクノ→1998年Ostgut→2004年旧発電所にBerghain誕生→天井18m・60時間→撮影禁止（LGBTQ+安全空間）→Sven Marquardtドア哲学→2016年ドイツ裁判所「文化機関」認定（税率7%）
+
 ## [2026-05-24] daily-brief | journal/2026-05-24.md 作成（LINE送信: IPホワイトリスト制限により未送信）
 
 ## [2026-05-23] aroma-insta | POST-33: ジャスミンは、夜だけに香る。— 月の庭の、白い秘密
