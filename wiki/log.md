@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-25] aroma-insta | POST-36: 踏まれるほど、香りは強くなる。— ペパーミントと不屈の波動
+- Carousel (8枚): aroma-insta/output/POST-36/carousel.md
+- Research memo: aroma-insta/output/POST-36/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-36-2026-05-25-peppermint-indestructible.md
+- ピラー: ハーブ菜園
+- トピック: ペパーミント / ギリシャ神話ニンフ「ミンテー」/ 古代エジプト・エーベルスパピルス / キフィ（神聖な香り）/ l-メントール / 踏まれるほど香りが強くなる不屈の波動
+
 ## [2026-05-25] auto-ep | EP-35: Warehouse Party — 違法の美学
 - Script (50〜60秒): rave-team/output/EP-35/script_ja.md
 - Carousel (8枚): rave-team/output/EP-35/carousel.md
