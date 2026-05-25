@@ -125,14 +125,24 @@ def send_line(message):
         print("LINE error:", e)
 
 def main():
-    # JSTで今日の日付を取得（UTC環境でも正しく動く）
+    import time
     now = datetime.now(JST)
     today = now.strftime("%Y-%m-%d")
     print(f"=== DeepStone Morning Brief {today} (JST) ===")
 
     git_pull()
 
-    brief = read_brief(today)
+    # ジャーナルがなければ最大3回リトライ（5分間隔）
+    brief = None
+    for attempt in range(3):
+        brief = read_brief(today)
+        if brief:
+            break
+        if attempt < 2:
+            print(f"journal not ready, retrying in 5 min... ({attempt+1}/3)")
+            time.sleep(300)
+            git_pull()
+
     pisces = fetch_pisces_ja()
     kyusei = fetch_kyusei_ja()
 
