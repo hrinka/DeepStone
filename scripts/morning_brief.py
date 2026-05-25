@@ -18,13 +18,17 @@ CTX.verify_mode = ssl.CERT_NONE
 HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
 def git_pull():
-    subprocess.run(["git", "stash"], cwd=VAULT, capture_output=True)
-    result = subprocess.run(
-        ["git", "pull", "--rebase", "origin", "main"],
-        cwd=VAULT, capture_output=True, text=True
-    )
-    subprocess.run(["git", "stash", "pop"], cwd=VAULT, capture_output=True)
-    print("git pull:", result.stdout.strip() or result.stderr.strip())
+    """fetch + checkout で競合を回避してジャーナルファイルだけ更新"""
+    try:
+        # fetchだけ（競合しない）
+        subprocess.run(["git", "fetch", "origin", "main"],
+                       cwd=VAULT, capture_output=True, timeout=15)
+        # journal/ だけ origin から取得（ローカル変更を壊さない）
+        subprocess.run(["git", "checkout", "origin/main", "--", "journal/"],
+                       cwd=VAULT, capture_output=True, timeout=10)
+        print("git pull: journal/ updated from origin")
+    except Exception as e:
+        print("git pull error:", e)
 
 def clean_markdown(text):
     """markdownの書式記号を除去してLINE用プレーンテキストに変換"""

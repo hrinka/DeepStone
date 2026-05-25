@@ -34,9 +34,79 @@
               "icon": "lucide-file",
               "title": "2026-05-22"
             }
+          },
+          {
+            "id": "daeb281594d81083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2026-05-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-24"
+            }
+          },
+          {
+            "id": "216c93e1e8765932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2026-05-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-24"
+            }
+          },
+          {
+            "id": "188c5ea7149fbb61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2026-05-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-24"
+            }
+          },
+          {
+            "id": "060b18d7df4303f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2026-05-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-24"
+            }
+          },
+          {
+            "id": "f04656cf52464558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/2026-05-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-24"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,10 +266,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87543485c6736b56",
+  "active": "f04656cf52464558",
   "lastOpenFiles": [
-    "journal/2026-05-20.md",
+    "journal/2026-05-23.md",
+    "conflict-files-obsidian-git.md",
+    "journal/2026-05-24.md",
     "journal/2026-05-22.md",
+    "wiki/sources/rave/EP-31 — 2026-05-22 — fabric-london-closure-revival.md",
+    "wiki/sources/rave/EP-29 — 2026-05-21 — boiler-room-phenomenon.md",
+    "wiki/sources/aroma/aroma-POST-31-2026-05-22-personal-year-number.md",
+    "wiki/sources/aroma/aroma-POST-30-2026-05-21-sage-smudging.md",
+    "rave-team/output/EP-31/script_ja.md",
+    "rave-team/output/EP-31/research.md",
+    "rave-team/output/EP-31/carousel.md",
+    "rave-team/output/EP-31",
+    "rave-team/output/EP-29/script_ja.md",
+    "rave-team/output/EP-29/research.md",
+    "rave-team/output/EP-29/carousel.md",
+    "rave-team/output/EP-29",
+    "journal/2026-05-21.md",
+    "aroma-insta/output/POST-31/research.md",
+    "aroma-insta/output/POST-31/carousel.md",
+    "aroma-insta/output/POST-31",
+    "aroma-insta/output/POST-30/research.md",
+    "aroma-insta/output/POST-30/carousel.md",
+    "aroma-insta/output/POST-30",
+    "journal/2026-05-20.md",
     "wiki/sources/rave/EP-28 — 2026-05-20 — dubstep-vs-brostep.md",
     "wiki/sources/aroma/aroma-POST-27-2026-05-20-geranium-balance.md",
     "rave-team/output/EP-28/script_ja.md",
@@ -207,32 +299,10 @@
     "rave-team/output/EP-28/carousel.md",
     "rave-team/output/EP-28",
     "aroma-insta/output/POST-27/research.md",
-    "aroma-insta/output/POST-27/carousel.md",
     "aroma-insta/output/POST-27",
-    "journal/2026-05-19.md",
-    "conflict-files-obsidian-git.md",
-    "wiki/sources/rave/EP-26 — 2026-05-19 — grime-east-london.md",
-    "wiki/sources/aroma/aroma-POST-25-2026-05-19-soul-number.md",
-    "rave-team/output/EP-26/script_ja.md",
-    "rave-team/output/EP-26/research.md",
-    "rave-team/output/EP-26/carousel.md",
     "rave-team/output/EP-26",
-    "aroma-insta/output/POST-25/research.md",
-    "aroma-insta/output/POST-25/carousel.md",
     "aroma-insta/output/POST-25",
     "scripts/morning_brief.py",
-    "journal/2026-05-18.md",
-    "scripts",
-    "CLAUDE.md",
-    "wiki/sources/rave/EP-23 — 2026-05-18 — big-beat-mainstream.md",
-    "wiki/sources/aroma/aroma-POST-24-2026-05-18-rosemary.md",
-    "rave-team/output/EP-23/script_ja.md",
-    "rave-team/output/EP-23/research.md",
-    "rave-team/output/EP-23/carousel.md",
-    "rave-team/output/EP-23",
-    "aroma-insta/output/POST-24/research.md",
-    "aroma-insta/output/POST-24",
-    "aroma-insta/output/POST-22",
-    "aroma-insta/output/POST-21"
+    "scripts"
   ]
 }

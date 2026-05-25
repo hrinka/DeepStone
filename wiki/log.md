@@ -1,5 +1,35 @@
 # Wiki Log
 
+## [2026-05-22] auto-ep | EP-31: Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝
+- Script (50〜60秒): rave-team/output/EP-31/script_ja.md
+- Carousel (8枚): rave-team/output/EP-31/carousel.md
+- Research memo: rave-team/output/EP-31/research.md
+- Wiki source: wiki/sources/rave/EP-31 — 2026-05-22 — fabric-london-closure-revival.md
+- トピック: Fabric London 1999年創業（廃肉市場地下・Bodysonic 400トランスデューサー・DJ Mag世界1位2007/2008）→2016年薬物死2件→ライセンス剥奪→#SaveOurCulture £333,618→40条件合意→2017年1月6日復活
+
+## [2026-05-22] auto-post | POST-31: 今年、あなたの数字は何を語っているか。— 個人年（パーソナルイヤー）の読み方
+- Carousel (8枚): aroma-insta/output/POST-31/carousel.md
+- Research memo: aroma-insta/output/POST-31/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-31-2026-05-22-personal-year-number.md
+- ピラー: 数秘 / トピック: パーソナルイヤーナンバー・9年サイクル・2026ユニバーサルイヤー1
+
+## [2026-05-22] daily-brief | journal/2026-05-22.md 作成 + LINE送信（403エラー要確認）
+
+## [2026-05-21] auto-post | POST-30: 火を灯すとき、煙が祈りになる。— セージと浄化の記憶
+- Carousel (8枚): aroma-insta/output/POST-30/carousel.md
+- Research memo: aroma-insta/output/POST-30/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-30-2026-05-21-sage-smudging.md
+- ピラー: ハーブ菜園 / トピック: セージ浄化・スマッジング・マイナスイオン・古代ローマ〜ネイティブアメリカン
+
+## [2026-05-21] auto-ep | EP-29: Boiler Room — 地下室の一台のカメラが、世界を変えた
+- Script (50秒): rave-team/output/EP-29/script_ja.md
+- Carousel (8枚): rave-team/output/EP-29/carousel.md
+- Research memo: rave-team/output/EP-29/research.md
+- Wiki source: wiki/sources/rave/EP-29 — 2026-05-21 — boiler-room-phenomenon.md
+- トピック: Boiler Room現象（2010年Hackney・Blaise Bellville・DJが背を向けるフォーマット・200都市8,000セット）
+
+## [2026-05-21] daily-brief | journal/2026-05-21.md 作成 + LINE送信（403エラー・要トークン確認）
+
 ## [2026-05-20] auto-ep | EP-28: Dubstep vs Brostep — 地下室が夢見た音
 - Script (50秒): rave-team/output/EP-28/script_ja.md
 - Carousel (8枚): rave-team/output/EP-28/carousel.md
