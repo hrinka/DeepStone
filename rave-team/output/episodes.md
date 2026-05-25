@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-35 (2026-05-25): Warehouse Party — 違法の美学 — 1988年倉庫占拠開始→Tony Colston-Hayter 22歳・Sunrise・電話番号一本で25,000人→BT Voicebank録音メッセージで段階的ルート告知→M25 オービタルレイブ最盛期（Orbital命名の由来）→フリーパーティ運動・Spiral Tribe/DiY Sound System→1992年5月22日Castlemorton Common 4万人・1週間止まらず→Criminal Justice Act 1994「反復するビート」犯罪化
+
 - EP-34 (2026-05-24): Berghain — 世界一入れないクラブで、一番自由だった — 1989年壁崩壊→東ベルリンの廃墟でパーティ→1992年Reichsbahnbunkerフェティッシュ+テクノ→1998年Ostgut（ゲイ/フェティッシュ/テクノ混在）→2003年閉鎖→2004年12月旧発電所にBerghain誕生→天井高18m・週末60時間→撮影禁止（LGBTQの安全空間）→Sven Marquardt（ドアの哲学：主観的選択）→2016年ドイツ裁判所が「文化機関」認定→税率7%適用
 
 - EP-32 (2026-05-23): UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ — 1964年Radio Caroline（洋上海賊）→ 1980年代黒人音楽局（Kiss FM / LWR）→ 1989年5月8日Centreforce 88.3FM（英国初24時間レイブ専用局）→「今夜どこで踊るか」をラジオで知る時代 → 1991年11月28日Kool FM（Eastman+Smurff・ハックニー団地屋上）→ 1994年9月Rinse FM（Geeneus+Slimzee）→ DTIとの攻防・バックアップ送信機戦術 → UK全土500局 → JungleもGrimeもDubstepも違法電波から生まれた
@@ -30,7 +32,7 @@
 |----|-------|--------|----------|-----------|
 | 01 | Raveとは何か | ✅ Complete | 2026-04-21 | — |
 | 02 | PLUR — 顔を割る哲学 | ✅ Complete | 2026-05-09 | — |
-| 03 | Warehouse Party — 違法の美学 | ⬜ Not started | — | — |
+| 03 | Warehouse Party — 違法の美学 | ✅ Complete (EP-35) | 2026-05-25 | — |
 | 04 | DJ文化の起源 | ⬜ Not started | — | — |
 | 05 | レイブファッションの変遷 | ⬜ Not started | — | — |
 | 06 | Second Summer of Love 1988 | ✅ Complete | 2026-05-10 | — |
@@ -50,6 +52,7 @@
 | 20 | レイブの未来 — 次の30年 | ⬜ Not started | — | — |
 | 32 | UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ | ✅ Complete (EP-32) | 2026-05-23 | — |
 | 34 | Berghain — 世界一入れないクラブで、一番自由だった | ✅ Complete (EP-34) | 2026-05-24 | — |
+| 35 | Warehouse Party — 違法の美学 | ✅ Complete (EP-35) | 2026-05-25 | — |
 
 ---
 

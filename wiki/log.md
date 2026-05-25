@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-25] auto-ep | EP-35: Warehouse Party — 違法の美学
+- Script (50〜60秒): rave-team/output/EP-35/script_ja.md
+- Carousel (8枚): rave-team/output/EP-35/carousel.md
+- Research memo: rave-team/output/EP-35/research.md
+- Wiki source: wiki/sources/rave/EP-35 — 2026-05-25 — uk-warehouse-party-illegal-rave.md
+- トピック: 1988年倉庫占拠→Tony Colston-Hayter(22歳)・Sunrise・電話番号一本→BT Voicebank録音メッセージ段階的ルート告知→M25オービタルレイブ(Orbital命名の由来)→フリーパーティ運動・Spiral Tribe/DiY Sound System→1992年5月Castlemorton Common 4万人・1週間→Criminal Justice Act 1994「反復するビート」犯罪化
+
 ## [2026-05-24] aroma-insta | POST-34: あなたの名前は、偶然じゃない。— 表現数（ディスティニーナンバー）の秘密
 - Carousel (8枚): aroma-insta/output/POST-34/carousel.md
 - Research memo: aroma-insta/output/POST-34/research.md

@@ -16,6 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-05-25: EP-35「Warehouse Party — 違法の美学」生成・GitHub push 完了（1988年倉庫占拠→Tony Colston-Hayter(22歳)Sunrise電話番号一本・BT Voicebank録音メッセージ段階的ルート告知・メンバーズオンリー抜け穴→M25オービタルレイブ25,000人（Orbital命名の由来）→フリーパーティ運動・Spiral Tribe/DiY Sound System/Bedlam→1992年5月22日Castlemorton Common 4万人・7日間→Criminal Justice Act 1994「反復するビート」犯罪化）。
 2026-05-24: POST-34「あなたの名前は、偶然じゃない。— 表現数（ディスティニーナンバー）の秘密」生成・GitHub push 完了（数秘ピラー / フルネームから計算 / ライフパス数との違い / ソウルナンバー（POST-25）との違い / ピタゴラス「万物は数」/ アルファベット対応表 / 各数字1〜9の才能 / 名前という周波数コンセプト）。
 2026-05-24: EP-34「Berghain — 世界一入れないクラブで、一番自由だった」生成・GitHub push 完了（1989年壁崩壊→東ベルリン廃墟パーティ→1998年Ostgut（ゲイ+フェティッシュ+テクノ）→2004年旧発電所Berghain誕生・天井18m・60時間ノンストップ→撮影禁止=LGBTQ+安全空間→Sven Marquardt主観的ドア選別→2016年ドイツ裁判所「文化機関」認定・税率19%→7%）。
 2026-05-23: POST-33「ジャスミンは、夜だけに香る。— 月の庭の、白い秘密」生成・GitHub push 完了（ハーブ菜園ピラー / ペルシャ語「神からの贈り物」/ 深夜2時の開花・800万輪で1kg精油 / インド神話パリジャータ姫（太陽を愛した姫の灰から誕生）/ 脳ベータ波活性化 / サードアイ+仙骨チャクラ / 夜の女王・月のエネルギー）。
@@ -39,6 +40,7 @@ Navigation: [[index]] | [[log]]
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
 ## Recent Changes
+- **2026-05-25**: EP-35「Warehouse Party — 違法の美学」生成・GitHub push 完了（1988年倉庫占拠 / Tony Colston-Hayter・Sunrise・電話番号告知 / M25オービタルレイブ25,000人 / Orbital命名の由来 / 1992年Castlemorton Common 4万人7日間 / CJA1994「反復するビート」犯罪化）
 - **2026-05-23**: EP-32「UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ」生成・GitHub push 完了（1989年Centreforce 88.3FM / 1991年Kool FM Hackney / 1994年Rinse FM / UK全土500局 / DTI攻防 / Jungle/Grime/Dubstepはすべて海賊電波から誕生）
 - **2026-05-22**: EP-31「Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝」生成・GitHub push 完了（廃肉市場地下・Bodysonic 400トランスデューサー / DJ Mag世界1位2007/2008 / Jack Crossley死亡2016年8月 / ライセンス剥奪9月7日 / #SaveOurCulture £333,618 / 40条件合意 / 2017年1月6日復活）
 - **2026-05-21**: EP-29「Boiler Room — 地下室の一台のカメラが、世界を変えた」生成・GitHub push 完了（2010年Hackney / ガムテープ+ウェブカメラ / 背を向けるフォーマット / Jamie xx・James Blake / 200都市・8,000セット）

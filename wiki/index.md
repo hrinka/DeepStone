@@ -135,6 +135,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-35 — 2026-05-25 — uk-warehouse-party-illegal-rave]]|UK Warehouse Party（1988〜1994）: 倉庫占拠→Tony Colston-Hayter(22歳)Sunrise電話番号告知→M25オービタルレイブ25,000人（Orbital命名の由来）→フリーパーティ運動・Spiral Tribe→1992年Castlemorton Common 4万人1週間→CJA1994「反復するビート」犯罪化|
 |[[EP-34 — 2026-05-24 — berghain-berlin-techno-freedom]]|Berghain（2004〜）: 1989年壁崩壊→東ベルリン廃墟でパーティ→1998年Ostgut（ゲイ+フェティッシュ+テクノ）→2004年旧発電所にBerghain誕生→天井18m・60時間ノンストップ→撮影禁止→Sven Marquardt主観的ドア選別→2016年ドイツ裁判所「文化機関」認定・税率7%|
 |[[EP-32 — 2026-05-23 — uk-pirate-radio]]|UK Pirate Radio（1989〜2010）: 1989年Centreforce 88.3FM（英国初24時間レイブ専用局）→「今夜どこで踊るか」をラジオで知る時代→1991年Kool FM（ハックニー団地・Jungle誕生）→1994年Rinse FM（Grime/Dubstep誕生）→UK全土500局→DTIとの攻防→JungleもGrimeもDubstepも違法電波から生まれた|
 |[[EP-31 — 2026-05-22 — fabric-london-closure-revival]]|Fabric London（1999〜）: 廃肉市場地下・Bodysonic 400トランスデューサー→DJ Mag世界1位2007/2008→2016年薬物死2件→ライセンス剥奪9月7日→#SaveOurCulture £333,618→40条件合意→2017年1月6日復活|
