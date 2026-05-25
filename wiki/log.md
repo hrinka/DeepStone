@@ -1,5 +1,37 @@
 # Wiki Log
 
+## [2026-05-24] aroma-insta | POST-34: あなたの名前は、偶然じゃない。— 表現数（ディスティニーナンバー）の秘密
+- Carousel (8枚): aroma-insta/output/POST-34/carousel.md
+- Research memo: aroma-insta/output/POST-34/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-34-2026-05-24-expression-number.md
+- ピラー: 数秘
+- トピック: 表現数（ディスティニーナンバー）/ フルネームから計算 / ライフパス・ソウルナンバーとの違い / ピタゴラス数の哲学 / 各数字1〜9の才能 / 名前という周波数
+
+## [2026-05-24] auto-ep | EP-34: Berghain — 世界一入れないクラブで、一番自由だった
+- Script (50〜60秒): rave-team/output/EP-34/script_ja.md
+- Carousel (8枚): rave-team/output/EP-34/carousel.md
+- Research memo: rave-team/output/EP-34/research.md
+- Wiki source: wiki/sources/rave/EP-34 — 2026-05-24 — berghain-berlin-techno-freedom.md
+- トピック: 1989年壁崩壊→東ベルリン廃墟パーティ→1992年Reichsbahnbunkerフェティッシュ+テクノ→1998年Ostgut→2004年旧発電所にBerghain誕生→天井18m・60時間→撮影禁止（LGBTQ+安全空間）→Sven Marquardtドア哲学→2016年ドイツ裁判所「文化機関」認定（税率7%）
+
+## [2026-05-24] daily-brief | journal/2026-05-24.md 作成（LINE送信: IPホワイトリスト制限により未送信）
+
+## [2026-05-23] aroma-insta | POST-33: ジャスミンは、夜だけに香る。— 月の庭の、白い秘密
+- Carousel (8枚): aroma-insta/output/POST-33/carousel.md
+- Research memo: aroma-insta/output/POST-33/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-33-2026-05-23-jasmine-queen-of-the-night.md
+- ピラー: ハーブ菜園
+- トピック: ジャスミン「神からの贈り物」/ 深夜2時の開花・800万輪で1kg / インド神話パリジャータ姫 / ベータ波活性化 / 夜の女王・月のエネルギー
+
+## [2026-05-23] auto-ep | EP-32: UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ
+- Script (50〜60秒): rave-team/output/EP-32/script_ja.md
+- Carousel (8枚): rave-team/output/EP-32/carousel.md
+- Research memo: rave-team/output/EP-32/research.md
+- Wiki source: wiki/sources/rave/EP-32 — 2026-05-23 — uk-pirate-radio.md
+- トピック: 1989年Centreforce 88.3FM（英国初24時間レイブ専用局）→ 1991年Kool FM（ハックニー団地・Jungle誕生）→ 1994年Rinse FM（Grime誕生）→ UK全土500局→ DTIとの攻防→ Jungle/Grime/Dubstepはすべて海賊電波から生まれた
+
+## [2026-05-23] daily-brief | journal/2026-05-23.md 作成（LINE送信: ホスト制限によりスキップ）
+
 ## [2026-05-22] auto-ep | EP-31: Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝
 - Script (50〜60秒): rave-team/output/EP-31/script_ja.md
 - Carousel (8枚): rave-team/output/EP-31/carousel.md

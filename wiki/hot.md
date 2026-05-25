@@ -16,6 +16,10 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-05-24: POST-34「あなたの名前は、偶然じゃない。— 表現数（ディスティニーナンバー）の秘密」生成・GitHub push 完了（数秘ピラー / フルネームから計算 / ライフパス数との違い / ソウルナンバー（POST-25）との違い / ピタゴラス「万物は数」/ アルファベット対応表 / 各数字1〜9の才能 / 名前という周波数コンセプト）。
+2026-05-24: EP-34「Berghain — 世界一入れないクラブで、一番自由だった」生成・GitHub push 完了（1989年壁崩壊→東ベルリン廃墟パーティ→1998年Ostgut（ゲイ+フェティッシュ+テクノ）→2004年旧発電所Berghain誕生・天井18m・60時間ノンストップ→撮影禁止=LGBTQ+安全空間→Sven Marquardt主観的ドア選別→2016年ドイツ裁判所「文化機関」認定・税率19%→7%）。
+2026-05-23: POST-33「ジャスミンは、夜だけに香る。— 月の庭の、白い秘密」生成・GitHub push 完了（ハーブ菜園ピラー / ペルシャ語「神からの贈り物」/ 深夜2時の開花・800万輪で1kg精油 / インド神話パリジャータ姫（太陽を愛した姫の灰から誕生）/ 脳ベータ波活性化 / サードアイ+仙骨チャクラ / 夜の女王・月のエネルギー）。
+2026-05-23: EP-32「UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ」生成・GitHub push 完了（1989年Centreforce 88.3FM英国初24時間レイブ専用局 / 1991年11月28日Kool FM（Hackney団地・Eastman+Smurff）/ 1994年9月Rinse FM（Geeneus+Slimzee）/ UK全土500局・DTIとの攻防・バックアップ送信機 / Jungle/Grime/Dubstepはすべて海賊電波から生まれた）。
 2026-05-22: EP-31「Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝」生成・GitHub push 完了（廃肉市場地下・Bodysonic 400トランスデューサー・DJ Mag世界1位2007/2008 / Jack Crossley死亡2016年8月 / ライセンス剥奪9月7日 / #SaveOurCulture £333,618 / Sadiq Khan支持 / 40条件合意 / 2017年1月6日復活）。
 2026-05-22: POST-31「今年、あなたの数字は何を語っているか。— 個人年（パーソナルイヤー）の読み方」生成・GitHub push 完了（数秘ピラー / パーソナルイヤーナンバー1〜9の意味 / 9年サイクル / 2026ユニバーサルイヤー1 / 計算方法カルーセル8枚）。
 2026-05-21: POST-30「火を灯すとき、煙が祈りになる。— セージと浄化の記憶」生成・GitHub push 完了（ハーブ菜園ピラー / セージ浄化・スマッジング / 古代ローマ Salvare 語源 / ネイティブアメリカン伝統 / マイナスイオン放出・細菌90%除去）。
@@ -35,6 +39,7 @@ Navigation: [[index]] | [[log]]
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
 ## Recent Changes
+- **2026-05-23**: EP-32「UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ」生成・GitHub push 完了（1989年Centreforce 88.3FM / 1991年Kool FM Hackney / 1994年Rinse FM / UK全土500局 / DTI攻防 / Jungle/Grime/Dubstepはすべて海賊電波から誕生）
 - **2026-05-22**: EP-31「Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝」生成・GitHub push 完了（廃肉市場地下・Bodysonic 400トランスデューサー / DJ Mag世界1位2007/2008 / Jack Crossley死亡2016年8月 / ライセンス剥奪9月7日 / #SaveOurCulture £333,618 / 40条件合意 / 2017年1月6日復活）
 - **2026-05-21**: EP-29「Boiler Room — 地下室の一台のカメラが、世界を変えた」生成・GitHub push 完了（2010年Hackney / ガムテープ+ウェブカメラ / 背を向けるフォーマット / Jamie xx・James Blake / 200都市・8,000セット）
 - **2026-05-20**: EP-28「Dubstep vs Brostep — 地下室が夢見た音」生成・GitHub push 完了（Dubstep: Croydon / DMZ Brixton 2005 / Skream 16歳 / Brostep造語 / Skrillex Grammy 2冠）
