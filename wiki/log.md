@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-26] auto-ep | EP-37: DJ文化の起源 — DJは最初、誰にも認められなかった
+- Script (50〜55秒): rave-team/output/EP-37/script_ja.md
+- Carousel (8枚): rave-team/output/EP-37/carousel.md
+- Research memo: rave-team/output/EP-37/research.md
+- Wiki source: wiki/sources/rave/EP-37 — 2026-05-26 — dj-culture-origins.md
+- トピック: 1935年Walter Winchell「disc jockey」命名→1969年Francis Grasso NYC・ビートマッチング実用化→1973年DJ Kool Herc（Bronx）ブレイクビーツ発明→1977年Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会→Larry Levan / Paradise Garage→UKレイブの匿名DJ美学→Carl Cox/Sasha スーパースター時代→Burial/Daft Punk——匿名性の回帰
+
 ## [2026-05-25] aroma-insta | POST-36: 踏まれるほど、香りは強くなる。— ペパーミントと不屈の波動
 - Carousel (8枚): aroma-insta/output/POST-36/carousel.md
 - Research memo: aroma-insta/output/POST-36/research.md

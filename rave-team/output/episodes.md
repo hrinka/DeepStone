@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-37 (2026-05-26): DJ文化の起源 — DJは最初、誰にも認められなかった — 1935年Walter Winchell「disc jockey」命名→1969年Francis GrassoがNYCでビートマッチング実用化（曲と曲の沈黙を消した）→1973年DJ Kool Herc（ジャマイカ出身）ブレイクビーツ発明→1977年Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会→1980年代Larry Levan / Paradise Garage→1988〜UKレイブ・匿名DJの美学（顔が見えないまま2万人を支配）→1990年代Carl Cox/Sasha/Paul Oakenfoldスーパースター化→2005年以降Burial/Daft Punk——匿名性の再評価
+
 - EP-35 (2026-05-25): Warehouse Party — 違法の美学 — 1988年倉庫占拠開始→Tony Colston-Hayter 22歳・Sunrise・電話番号一本で25,000人→BT Voicebank録音メッセージで段階的ルート告知→M25 オービタルレイブ最盛期（Orbital命名の由来）→フリーパーティ運動・Spiral Tribe/DiY Sound System→1992年5月22日Castlemorton Common 4万人・1週間止まらず→Criminal Justice Act 1994「反復するビート」犯罪化
 
 - EP-34 (2026-05-24): Berghain — 世界一入れないクラブで、一番自由だった — 1989年壁崩壊→東ベルリンの廃墟でパーティ→1992年Reichsbahnbunkerフェティッシュ+テクノ→1998年Ostgut（ゲイ/フェティッシュ/テクノ混在）→2003年閉鎖→2004年12月旧発電所にBerghain誕生→天井高18m・週末60時間→撮影禁止（LGBTQの安全空間）→Sven Marquardt（ドアの哲学：主観的選択）→2016年ドイツ裁判所が「文化機関」認定→税率7%適用
@@ -33,7 +35,7 @@
 | 01 | Raveとは何か | ✅ Complete | 2026-04-21 | — |
 | 02 | PLUR — 顔を割る哲学 | ✅ Complete | 2026-05-09 | — |
 | 03 | Warehouse Party — 違法の美学 | ✅ Complete (EP-35) | 2026-05-25 | — |
-| 04 | DJ文化の起源 | ⬜ Not started | — | — |
+| 04 | DJ文化の起源 | ✅ Complete (EP-37) | 2026-05-26 | — |
 | 05 | レイブファッションの変遷 | ⬜ Not started | — | — |
 | 06 | Second Summer of Love 1988 | ✅ Complete | 2026-05-10 | — |
 | 07 | Acid House — 黄色いスマイルの意味 | ✅ Complete | 2026-05-11 | — |
@@ -53,6 +55,7 @@
 | 32 | UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ | ✅ Complete (EP-32) | 2026-05-23 | — |
 | 34 | Berghain — 世界一入れないクラブで、一番自由だった | ✅ Complete (EP-34) | 2026-05-24 | — |
 | 35 | Warehouse Party — 違法の美学 | ✅ Complete (EP-35) | 2026-05-25 | — |
+| 37 | DJ文化の起源 — DJは最初、誰にも認められなかった | ✅ Complete (EP-37) | 2026-05-26 | — |
 
 ---
 

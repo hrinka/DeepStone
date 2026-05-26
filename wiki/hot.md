@@ -16,6 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-05-26: EP-37「DJ文化の起源 — DJは最初、誰にも認められなかった」生成・GitHub push 完了（1935年Walter Winchell「disc jockey」命名→1969年Francis Grasso NYC・ビートマッチング実用化（曲と曲の沈黙を消した）→1973年DJ Kool Herc Bronxブレイクビーツ発明→1977年Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会（「宗教じゃなく魂の場所」）→Larry Levan / Paradise Garage→UKレイブ匿名DJ美学→Carl Cox/Sasha スーパースター時代→Burial/Daft Punk匿名性の回帰）。
 2026-05-25: POST-36「踏まれるほど、香りは強くなる。— ペパーミントと不屈の波動」生成・GitHub push 完了（ハーブ菜園ピラー / ギリシャ神話ニンフ「ミンテー」踏まれてハーブになった / 紀元前1550年エーベルスパピルス記録 / 古代エジプト神聖な香り「キフィ」/ l-メントール・サードアイ / 菜園のペパーミントは爆増する）。
 2026-05-25: EP-35「Warehouse Party — 違法の美学」生成・GitHub push 完了（1988年倉庫占拠→Tony Colston-Hayter(22歳)Sunrise電話番号一本・BT Voicebank録音メッセージ段階的ルート告知・メンバーズオンリー抜け穴→M25オービタルレイブ25,000人（Orbital命名の由来）→フリーパーティ運動・Spiral Tribe/DiY Sound System/Bedlam→1992年5月22日Castlemorton Common 4万人・7日間→Criminal Justice Act 1994「反復するビート」犯罪化）。
 2026-05-24: POST-34「あなたの名前は、偶然じゃない。— 表現数（ディスティニーナンバー）の秘密」生成・GitHub push 完了（数秘ピラー / フルネームから計算 / ライフパス数との違い / ソウルナンバー（POST-25）との違い / ピタゴラス「万物は数」/ アルファベット対応表 / 各数字1〜9の才能 / 名前という周波数コンセプト）。
@@ -41,6 +42,7 @@ Navigation: [[index]] | [[log]]
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 
 ## Recent Changes
+- **2026-05-26**: EP-37「DJ文化の起源 — DJは最初、誰にも認められなかった」生成・GitHub push 完了（1935年disc jockey命名 / 1969年Francis Grasso NYC・ビートマッチング / 1973年DJ Kool Herc Bronxブレイクビーツ / 1977年Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会 / UKレイブ匿名DJ美学 / Carl Cox/Sashaスーパースター時代 / Burial/Daft Punk——匿名性の回帰）
 - **2026-05-25**: EP-35「Warehouse Party — 違法の美学」生成・GitHub push 完了（1988年倉庫占拠 / Tony Colston-Hayter・Sunrise・電話番号告知 / M25オービタルレイブ25,000人 / Orbital命名の由来 / 1992年Castlemorton Common 4万人7日間 / CJA1994「反復するビート」犯罪化）
 - **2026-05-23**: EP-32「UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ」生成・GitHub push 完了（1989年Centreforce 88.3FM / 1991年Kool FM Hackney / 1994年Rinse FM / UK全土500局 / DTI攻防 / Jungle/Grime/Dubstepはすべて海賊電波から誕生）
 - **2026-05-22**: EP-31「Fabric — ロンドンが泣いた夜と、クラブカルチャーが立ち上がった朝」生成・GitHub push 完了（廃肉市場地下・Bodysonic 400トランスデューサー / DJ Mag世界1位2007/2008 / Jack Crossley死亡2016年8月 / ライセンス剥奪9月7日 / #SaveOurCulture £333,618 / 40条件合意 / 2017年1月6日復活）
