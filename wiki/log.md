@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-26] aroma-insta | POST-37: その才能は、生まれる前から決まっていた。— バースデーナンバーと魂のギフト
+- Carousel (8枚): aroma-insta/output/POST-37/carousel.md
+- Research memo: aroma-insta/output/POST-37/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-37-2026-05-26-birthday-number.md
+- ピラー: 数秘
+- トピック: バースデーナンバー（誕生日数）/ 生まれた「日」だけから計算 / 各数字1〜9の才能 / マスターナンバー11・22 / 「過去世からのギフト」概念 / ライフパス数・ソウルナンバー・表現数との違い / 「思い出す才能」という波動の切り口
+
 ## [2026-05-26] auto-ep | EP-37: DJ文化の起源 — DJは最初、誰にも認められなかった
 - Script (50〜55秒): rave-team/output/EP-37/script_ja.md
 - Carousel (8枚): rave-team/output/EP-37/carousel.md

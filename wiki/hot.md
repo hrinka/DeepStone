@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-20
+updated: 2026-05-26
 tags:
   - meta
   - hot-cache
@@ -16,6 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-05-26: POST-37「その才能は、生まれる前から決まっていた。— バースデーナンバーと魂のギフト」生成・GitHub push 完了（数秘ピラー / 生まれた「日」だけ計算 / 1〜9+マスター11・22の才能一覧 / 「過去世の専門性」概念 / ライフパス数との違い / 「努力して得るのではなく思い出すもの」という切り口）。
 2026-05-26: EP-37「DJ文化の起源 — DJは最初、誰にも認められなかった」生成・GitHub push 完了（1935年Walter Winchell「disc jockey」命名→1969年Francis Grasso NYC・ビートマッチング実用化（曲と曲の沈黙を消した）→1973年DJ Kool Herc Bronxブレイクビーツ発明→1977年Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会（「宗教じゃなく魂の場所」）→Larry Levan / Paradise Garage→UKレイブ匿名DJ美学→Carl Cox/Sasha スーパースター時代→Burial/Daft Punk匿名性の回帰）。
 2026-05-25: POST-36「踏まれるほど、香りは強くなる。— ペパーミントと不屈の波動」生成・GitHub push 完了（ハーブ菜園ピラー / ギリシャ神話ニンフ「ミンテー」踏まれてハーブになった / 紀元前1550年エーベルスパピルス記録 / 古代エジプト神聖な香り「キフィ」/ l-メントール・サードアイ / 菜園のペパーミントは爆増する）。
 2026-05-25: EP-35「Warehouse Party — 違法の美学」生成・GitHub push 完了（1988年倉庫占拠→Tony Colston-Hayter(22歳)Sunrise電話番号一本・BT Voicebank録音メッセージ段階的ルート告知・メンバーズオンリー抜け穴→M25オービタルレイブ25,000人（Orbital命名の由来）→フリーパーティ運動・Spiral Tribe/DiY Sound System/Bedlam→1992年5月22日Castlemorton Common 4万人・7日間→Criminal Justice Act 1994「反復するビート」犯罪化）。
