@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/articles/🎯 面接対策 完全版｜本間 梨花.md",
+                "file": "journal/2026-05-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎯 面接対策 完全版｜本間 梨花"
+              "title": "2026-05-26"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de533cdcb147d9a6",
@@ -184,6 +183,12 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
+    "journal/2026-05-25.md",
+    "journal/2026-05-26.md",
+    "journal/2026-05-27.md",
+    "無題のファイル 2.canvas",
+    "無題のファイル 1.canvas",
+    "raw/articles/🎯 面接対策 完全版｜本間 梨花.md",
     "wiki/sources/rave/EP-37 — 2026-05-26 — dj-culture-origins.md",
     "wiki/sources/aroma/aroma-POST-37-2026-05-26-birthday-number.md",
     "rave-team/output/EP-37/script_ja.md",
@@ -195,9 +200,6 @@
     "aroma-insta/output/POST-37",
     "journal/2026-05-23.md",
     "journal/2026-05-24.md",
-    "journal/2026-05-25.md",
-    "journal/2026-05-26.md",
-    "raw/articles/🎯 面接対策 完全版｜本間 梨花.md",
     "無題のファイル.canvas",
     "wiki/meta/使い方ガイド.md",
     "CLAUDE.md",
@@ -211,8 +213,6 @@
     "journal/2026-05-19.md",
     "journal/2026-05-18.md",
     "journal/2026-05-17.md",
-    "journal/2026-05-16.md",
-    "journal/2026-05-15.md",
     "rave-team/output/EP-34",
     "rave-team/output/EP-32",
     "aroma-insta/output/POST-34",
