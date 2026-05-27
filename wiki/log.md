@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-27] auto-ep | EP-38: 日本が生んだ機械が、世界を踊らせた — 日本×UKレイブ円環の物語
+- Script (50〜55秒): rave-team/output/EP-38/script_ja.md
+- Carousel (8枚): rave-team/output/EP-38/carousel.md
+- Research memo: rave-team/output/EP-38/research.md
+- Wiki source: wiki/sources/rave/EP-38 — 2026-05-27 — japan-uk-rave-circular-influence.md
+- トピック: Roland TB-303（1981年失敗作→二束三文→DJ Pierreが購入→Acid Tracks→Acid House）/ TR-808・TR-909同様に廃盤→世界標準へ / YMO→Derrick May「俺はYMOから学んだ」→Detroit Techno→UK Rave（日本はUKレイブの祖父）/ 1989年芝浦Gold（Paradise Garage模倣）/ 1996年新宿LiquidroomでDrum & Bass Sessions（Metalheadz）/ 電気グルーヴ・WIREフェス（1998）石野卓球「Berlin Trax」/ Makoto東京発DnB / 現代Tokyo DIYレイブ（Y2K美学リバイバル）
+
 ## [2026-05-27] aroma-insta | POST-38: 息を吸うだけで、浄化される。— ユーカリプタスと6万年の浄化の秘密
 - Carousel (8枚): aroma-insta/output/POST-38/carousel.md
 - Research memo: aroma-insta/output/POST-38/research.md
