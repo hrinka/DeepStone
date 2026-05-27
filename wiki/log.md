@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-27] aroma-insta | POST-38: 息を吸うだけで、浄化される。— ユーカリプタスと6万年の浄化の秘密
+- Carousel (8枚): aroma-insta/output/POST-38/carousel.md
+- Research memo: aroma-insta/output/POST-38/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-38-2026-05-27-eucalyptus-purification.md
+- ピラー: アロマ
+- トピック: ユーカリ精油 / アボリジニ「キノ」60,000年の浄化の歴史 / 1804年皇后ジョセフィーヌ・マルメゾン城 / 「熱冷ましの木」マラリア湿地浄化 / 主成分1,8-シネオール（ユーカリプトール）/ 脳の辺縁系→感情・記憶・集中力 / 精神的明晰さと波動上昇の接続 / 「息を吸うだけでいい」という切り口
+
 ## [2026-05-26] aroma-insta | POST-37: その才能は、生まれる前から決まっていた。— バースデーナンバーと魂のギフト
 - Carousel (8枚): aroma-insta/output/POST-37/carousel.md
 - Research memo: aroma-insta/output/POST-37/research.md
