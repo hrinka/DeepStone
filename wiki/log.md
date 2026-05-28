@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-28] aroma-insta | POST-39: 妖精が踊る庭で、勇気が育つ。— タイムと4000年の守護の話
+- Carousel (8枚): aroma-insta/output/POST-39/carousel.md
+- Research memo: aroma-insta/output/POST-39/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-39-2026-05-28-thyme-courage-fairy.md
+- ピラー: ハーブ菜園
+- トピック: タイム（Thyme）/ 語源「thymos」= 勇気・魂・煙 / 古代エジプトのミイラ防腐処理 / ギリシャ戦士の出陣儀式 / 中世騎士のスカーフにタイム刺繍 / 妖精が踊る庭の言い伝え（ビクトリア朝）/ チモール40%以上・抗菌浄化 / 「感じていたことが科学的に正しかった」逆説の角度
+
 ## [2026-05-27] auto-ep | EP-38: 日本が生んだ機械が、世界を踊らせた — 日本×UKレイブ円環の物語
 - Script (50〜55秒): rave-team/output/EP-38/script_ja.md
 - Carousel (8枚): rave-team/output/EP-38/carousel.md
