@@ -135,6 +135,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-38 — 2026-05-27 — japan-uk-rave-circular-influence]]|日本とUKレイブ（円環の物語）: Roland TB-303（1981年失敗作）→シカゴDJ Pierreが拾う→Acid Tracks→Acid House→UKレイブ爆発 / YMO→Derrick May「俺はYMOから学んだ」→Detroit Techno→UK / 1996年新宿LiquidroomでDnB Sessions（Metalheadz）→電気グルーヴ・WIREフェス（1998）→現代東京DIYレイブ。日本製の「失敗作」が世界を踊らせ、UKレイブとなって日本に戻ってきた|
 |[[EP-37 — 2026-05-26 — dj-culture-origins]]|DJ文化の起源（1935〜現在）: Walter Winchell「disc jockey」命名→Francis Grasso NYC・ビートマッチング→DJ Kool Herc Bronxブレイクビーツ→Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会→UKレイブ匿名DJ美学→スーパースターDJ→Burial/Daft Punk匿名性の回帰|
 |[[EP-35 — 2026-05-25 — uk-warehouse-party-illegal-rave]]|UK Warehouse Party（1988〜1994）: 倉庫占拠→Tony Colston-Hayter(22歳)Sunrise電話番号告知→M25オービタルレイブ25,000人（Orbital命名の由来）→フリーパーティ運動・Spiral Tribe→1992年Castlemorton Common 4万人1週間→CJA1994「反復するビート」犯罪化|
 |[[EP-34 — 2026-05-24 — berghain-berlin-techno-freedom]]|Berghain（2004〜）: 1989年壁崩壊→東ベルリン廃墟でパーティ→1998年Ostgut（ゲイ+フェティッシュ+テクノ）→2004年旧発電所にBerghain誕生→天井18m・60時間ノンストップ→撮影禁止→Sven Marquardt主観的ドア選別→2016年ドイツ裁判所「文化機関」認定・税率7%|

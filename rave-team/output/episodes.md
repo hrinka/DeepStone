@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-38 (2026-05-27): 日本が生んだ機械が、世界を踊らせた — Roland TB-303「失敗作」→DJ Pierre→Acid Tracks→Acid House→UKレイブ爆発 / YMO→Derrick May「俺はYMOから学んだ」→Detroit Techno→UK Rave（日本はUKレイブの祖父）/ 1989年芝浦Gold（Paradise Garage模倣）/ 1996年新宿LiquidroomでDnB Sessions（Metalheadz）/ 電気グルーヴ・WIREフェス1998 / Makoto東京発DnB / 現代Tokyo DIYレイブ（Y2K美学リバイバル）
+
 - EP-37 (2026-05-26): DJ文化の起源 — DJは最初、誰にも認められなかった — 1935年Walter Winchell「disc jockey」命名→1969年Francis GrassoがNYCでビートマッチング実用化（曲と曲の沈黙を消した）→1973年DJ Kool Herc（ジャマイカ出身）ブレイクビーツ発明→1977年Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会→1980年代Larry Levan / Paradise Garage→1988〜UKレイブ・匿名DJの美学（顔が見えないまま2万人を支配）→1990年代Carl Cox/Sasha/Paul Oakenfoldスーパースター化→2005年以降Burial/Daft Punk——匿名性の再評価
 
 - EP-35 (2026-05-25): Warehouse Party — 違法の美学 — 1988年倉庫占拠開始→Tony Colston-Hayter 22歳・Sunrise・電話番号一本で25,000人→BT Voicebank録音メッセージで段階的ルート告知→M25 オービタルレイブ最盛期（Orbital命名の由来）→フリーパーティ運動・Spiral Tribe/DiY Sound System→1992年5月22日Castlemorton Common 4万人・1週間止まらず→Criminal Justice Act 1994「反復するビート」犯罪化
@@ -50,12 +52,13 @@
 | 16 | Dubstep vs Brostep | ✅ Complete (EP-28) | 2026-05-20 | — |
 | 17 | Boiler Room現象 | ✅ Complete (EP-29) | 2026-05-21 | — |
 | 18 | Fabric — 伝説のクラブが閉店した夜 | ✅ Complete (EP-31) | 2026-05-22 | — |
-| 19 | 日本とUKレイブカルチャー | ⬜ Not started | — | — |
+| 19 | 日本とUKレイブカルチャー | ✅ Complete (EP-38) | 2026-05-27 | — |
 | 20 | レイブの未来 — 次の30年 | ⬜ Not started | — | — |
 | 32 | UK Pirate Radio — 電波を盗んだ者たちが、文化を生んだ | ✅ Complete (EP-32) | 2026-05-23 | — |
 | 34 | Berghain — 世界一入れないクラブで、一番自由だった | ✅ Complete (EP-34) | 2026-05-24 | — |
 | 35 | Warehouse Party — 違法の美学 | ✅ Complete (EP-35) | 2026-05-25 | — |
 | 37 | DJ文化の起源 — DJは最初、誰にも認められなかった | ✅ Complete (EP-37) | 2026-05-26 | — |
+| 38 | 日本が生んだ機械が、世界を踊らせた — 日本×UKレイブ円環の物語 | ✅ Complete (EP-38) | 2026-05-27 | — |
 
 ---
 

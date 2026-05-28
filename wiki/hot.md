@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-26
+updated: 2026-05-27
 tags:
   - meta
   - hot-cache
@@ -16,6 +16,8 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-05-27: EP-38「日本が生んだ機械が、世界を踊らせた」生成・GitHub push 完了（Roland TB-303「失敗作」→シカゴDJ Pierreが拾う→Acid Tracks→Acid House→UKレイブ爆発 / TR-808・TR-909も同様に廃盤→世界標準 / YMO→Derrick May「俺はYMOから学んだ」→Detroit Techno（日本はUKレイブの祖父）/ 1989年芝浦Gold（Paradise Garage模倣）/ 1996年新宿LiquidroomでDnB Sessions（Metalheadz）/ 電気グルーヴ・WIREフェス1998・石野卓球「Berlin Trax」/ Makoto東京発DnB / 現代Tokyo DIYレイブ・Y2K美学リバイバル）。
+2026-05-27: POST-38「息を吸うだけで、浄化される。— ユーカリプタスと6万年の浄化の秘密」生成・GitHub push 完了（アロマピラー / アボリジニ「キノ」60,000年の歴史 / 1804年皇后ジョセフィーヌ・マルメゾン城植樹 / 「熱冷ましの木」マラリア湿地浄化 / 主成分1,8-シネオール（ユーカリプトール）/ 脳の辺縁系→感情・記憶・集中力 / 「息を吸うだけで波動が動く」という切り口）。
 2026-05-26: POST-37「その才能は、生まれる前から決まっていた。— バースデーナンバーと魂のギフト」生成・GitHub push 完了（数秘ピラー / 生まれた「日」だけ計算 / 1〜9+マスター11・22の才能一覧 / 「過去世の専門性」概念 / ライフパス数との違い / 「努力して得るのではなく思い出すもの」という切り口）。
 2026-05-26: EP-37「DJ文化の起源 — DJは最初、誰にも認められなかった」生成・GitHub push 完了（1935年Walter Winchell「disc jockey」命名→1969年Francis Grasso NYC・ビートマッチング実用化（曲と曲の沈黙を消した）→1973年DJ Kool Herc Bronxブレイクビーツ発明→1977年Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会（「宗教じゃなく魂の場所」）→Larry Levan / Paradise Garage→UKレイブ匿名DJ美学→Carl Cox/Sasha スーパースター時代→Burial/Daft Punk匿名性の回帰）。
 2026-05-25: POST-36「踏まれるほど、香りは強くなる。— ペパーミントと不屈の波動」生成・GitHub push 完了（ハーブ菜園ピラー / ギリシャ神話ニンフ「ミンテー」踏まれてハーブになった / 紀元前1550年エーベルスパピルス記録 / 古代エジプト神聖な香り「キフィ」/ l-メントール・サードアイ / 菜園のペパーミントは爆増する）。
