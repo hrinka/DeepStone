@@ -172,13 +172,13 @@ tags:
 | Page | Description |
 |---|---|
 | [[TypeScript Frontend]] | Rinka のコアスキル。Next.js 15・React・型安全設計・パフォーマンス最適化（約5年） |
-| [[React Deep Dive]] | hooks深掘り・仮想DOM・RSC・Next.jsレンダリング4戦略・state管理 |
+| [[React Deep Dive]] | hooks深掘り・レンダリング最適化・RSC・Next.jsレンダリング戦略・state管理 |
 | [[AWS Infrastructure]] | S3/CloudFront/App Runner/RDS/Terraform IaC・SRE・サーバーレス設計 |
 | [[AI Driven Development]] | Claude API統合・Claude Code活用・v0・「AIをフローに組み込む」3レイヤーモデル |
-| [[HTTP Browser Basics]] | CORS・Cookie/JWT・Cache-Control・ブラウザレンダリング過程 |
-| [[Web Security]] | XSS/CSRF/SQLi・OAuth2/OpenID Connect・HTTPS・OWASP |
-| [[Database Essentials]] | SQL/JOIN・インデックス・ACID・N+1・PostgreSQL・Alembic |
-| [[Testing Strategy]] | Jest/MSW/Playwright・TDD・CI統合（GitHub Actions） |
+| [[HTTP Browser Basics]] | HTTP/CORS/Cookie/Session/JWT/キャッシュ制御・ブラウザレンダリング過程 |
+| [[Web Security]] | XSS/CSRF/SQLインジェクション/認証認可/HTTPS・OWASP主要項目 |
+| [[Database Essentials]] | SQL/JOIN/インデックス/トランザクション・ACID/N+1問題/PostgreSQL/Alembic |
+| [[Testing Strategy]] | テストピラミッド・Jest/Vitest/Testing Library/MSW/Playwright/CI統合 |
 | [[ChocoPLAi]] | FinTech SaaS。フロント+バック+インフラ+Claude API を一人で設計した代表作 |
 | [[New Moon Guild]] | NTTドコモハッカソン最優秀賞。DJ×メタバース×AI感情解析。10名チームリード |
 | [[42Tokyo]] | 選抜制エンジニア養成機関（合格率10%）。2022〜2025年修了。Rinka の技術基盤 |
