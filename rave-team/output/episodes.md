@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-39 (2026-05-28): Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏 — 1987年4人のDJがイビサ島Amnesiaで体験→帰国後Danny Rampling「Shoom」（Southwark地下室・キャパ100人・黄色いスマイリー発祥）→Paul Oakenfold「Spectrum」（Astoria 2,500人・月曜夜・即満員）→Manchester Haçienda（New Order売上で運営）→Sheffield Jive Turkey→1988年夏M25沿いの野原・Tony Colston-Hayter・Sunrise 25,000人→MDMAと「壁が溶ける」体験→フーリガン暴力急減との偶然の一致→「Orbital」命名の由来→1967年サンフランシスコ vs 1988年イギリス
+
 - EP-38 (2026-05-27): 日本が生んだ機械が、世界を踊らせた — Roland TB-303「失敗作」→DJ Pierre→Acid Tracks→Acid House→UKレイブ爆発 / YMO→Derrick May「俺はYMOから学んだ」→Detroit Techno→UK Rave（日本はUKレイブの祖父）/ 1989年芝浦Gold（Paradise Garage模倣）/ 1996年新宿LiquidroomでDnB Sessions（Metalheadz）/ 電気グルーヴ・WIREフェス1998 / Makoto東京発DnB / 現代Tokyo DIYレイブ（Y2K美学リバイバル）
 
 - EP-37 (2026-05-26): DJ文化の起源 — DJは最初、誰にも認められなかった — 1935年Walter Winchell「disc jockey」命名→1969年Francis GrassoがNYCでビートマッチング実用化（曲と曲の沈黙を消した）→1973年DJ Kool Herc（ジャマイカ出身）ブレイクビーツ発明→1977年Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会→1980年代Larry Levan / Paradise Garage→1988〜UKレイブ・匿名DJの美学（顔が見えないまま2万人を支配）→1990年代Carl Cox/Sasha/Paul Oakenfoldスーパースター化→2005年以降Burial/Daft Punk——匿名性の再評価
@@ -39,7 +41,7 @@
 | 03 | Warehouse Party — 違法の美学 | ✅ Complete (EP-35) | 2026-05-25 | — |
 | 04 | DJ文化の起源 | ✅ Complete (EP-37) | 2026-05-26 | — |
 | 05 | レイブファッションの変遷 | ⬜ Not started | — | — |
-| 06 | Second Summer of Love 1988 | ✅ Complete | 2026-05-10 | — |
+| 06 | Second Summer of Love 1988 | ✅ Complete (EP-39) | 2026-05-28 | — |
 | 07 | Acid House — 黄色いスマイルの意味 | ✅ Complete | 2026-05-11 | — |
 | 08 | UKのレイブ禁止法 1994 — 反復するビートの犯罪 | ✅ Complete | 2026-05-12 | — |
 | 09 | Detroit Technoとイギリスの出会い — 電話番号が音楽を変えた夜 | ✅ Complete | 2026-05-13 | — |
@@ -59,6 +61,7 @@
 | 35 | Warehouse Party — 違法の美学 | ✅ Complete (EP-35) | 2026-05-25 | — |
 | 37 | DJ文化の起源 — DJは最初、誰にも認められなかった | ✅ Complete (EP-37) | 2026-05-26 | — |
 | 38 | 日本が生んだ機械が、世界を踊らせた — 日本×UKレイブ円環の物語 | ✅ Complete (EP-38) | 2026-05-27 | — |
+| 39 | Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏 | ✅ Complete (EP-39) | 2026-05-28 | — |
 
 ---
 

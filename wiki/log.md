@@ -1,5 +1,19 @@
 # Wiki Log
 
+## [2026-05-28] auto-ep | EP-39: Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏
+- Script (50〜55秒): rave-team/output/EP-39/script_ja.md
+- Carousel (8枚): rave-team/output/EP-39/carousel.md
+- Research memo: rave-team/output/EP-39/research.md
+- Wiki source: wiki/sources/rave/EP-39 — 2026-05-28 — second-summer-of-love-1988.md
+- トピック: 1987年夏・4人のDJがイビサ島Amnesiaで体験 / 1987年11月Danny Rampling「Shoom」Southwark地下室100人・黄色いスマイリー発祥 / Paul Oakenfold「Spectrum」Astoria 2,500人（月曜夜・即満員）/ Manchester Haçienda（Factory Records / New Order売上で運営）/ 1988年夏M25沿い野原・Sunrise・Tony Colston-Hayter・25,000人 / MDMAと「壁が溶ける」体験 / フーリガン暴力急減との偶然の一致（文化的言説として根強い）/ 「Orbital」命名の由来 / 1967年サンフランシスコvs1988年イギリス対比
+
+## [2026-05-28] aroma-insta | POST-39: 妖精が踊る庭で、勇気が育つ。— タイムと4000年の守護の話
+- Carousel (8枚): aroma-insta/output/POST-39/carousel.md
+- Research memo: aroma-insta/output/POST-39/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-39-2026-05-28-thyme-courage-fairy.md
+- ピラー: ハーブ菜園
+- トピック: タイム（Thyme）/ 語源「thymos」= 勇気・魂・煙 / 古代エジプトのミイラ防腐処理 / ギリシャ戦士の出陣儀式 / 中世騎士のスカーフにタイム刺繍 / 妖精が踊る庭の言い伝え（ビクトリア朝）/ チモール40%以上・抗菌浄化 / 「感じていたことが科学的に正しかった」逆説の角度
+
 ## [2026-05-27] auto-ep | EP-38: 日本が生んだ機械が、世界を踊らせた — 日本×UKレイブ円環の物語
 - Script (50〜55秒): rave-team/output/EP-38/script_ja.md
 - Carousel (8枚): rave-team/output/EP-38/carousel.md
