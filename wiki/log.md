@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-29] auto-ep | EP-40: 服が、文化だった。— レイブファッション40年の変遷
+- Script (50〜55秒): rave-team/output/EP-40/script_ja.md
+- Carousel (8枚): rave-team/output/EP-40/carousel.md
+- Research memo: rave-team/output/EP-40/research.md
+- Wiki source: wiki/sources/rave/EP-40 — 2026-05-29 — rave-fashion-evolution.md
+- トピック: 1988年以前・UKクラブのドレスコード（革靴必須・スニーカー拒否）→ Shoomがドレスコード撤廃・黄色いスマイリーTシャツが反権力の記号 → レイブ最盛期のphat pants・バケットハット・Berghausフリース・グロースティック・蛍光色（機能美の時代）→ 1994年CJA以降オールブラック美学・地下化（テクノミニマリズムの起源）→ 2020年代Y2Kリバイバルで「記憶の服」として若い世代に継承
+
 ## [2026-05-28] auto-ep | EP-39: Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏
 - Script (50〜55秒): rave-team/output/EP-39/script_ja.md
 - Carousel (8枚): rave-team/output/EP-39/carousel.md

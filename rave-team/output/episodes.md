@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-40 (2026-05-29): 服が、文化だった。— レイブファッション40年の変遷 — 1988年以前・UKクラブのドレスコード（革靴必須・スニーカー拒否）→ Shoomがドレスコード撤廃・黄色いスマイリーTシャツが反権力の記号に → phat pants・バケットハット・Berghausフリース・グロースティック・蛍光色（機能美の時代）→ 1994年CJA以降オールブラック美学・地下化（テクノミニマリズムの起源）→ 2020年代Y2Kリバイバルで「記憶の服」として継承
+
 - EP-39 (2026-05-28): Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏 — 1987年4人のDJがイビサ島Amnesiaで体験→帰国後Danny Rampling「Shoom」（Southwark地下室・キャパ100人・黄色いスマイリー発祥）→Paul Oakenfold「Spectrum」（Astoria 2,500人・月曜夜・即満員）→Manchester Haçienda（New Order売上で運営）→Sheffield Jive Turkey→1988年夏M25沿いの野原・Tony Colston-Hayter・Sunrise 25,000人→MDMAと「壁が溶ける」体験→フーリガン暴力急減との偶然の一致→「Orbital」命名の由来→1967年サンフランシスコ vs 1988年イギリス
 
 - EP-38 (2026-05-27): 日本が生んだ機械が、世界を踊らせた — Roland TB-303「失敗作」→DJ Pierre→Acid Tracks→Acid House→UKレイブ爆発 / YMO→Derrick May「俺はYMOから学んだ」→Detroit Techno→UK Rave（日本はUKレイブの祖父）/ 1989年芝浦Gold（Paradise Garage模倣）/ 1996年新宿LiquidroomでDnB Sessions（Metalheadz）/ 電気グルーヴ・WIREフェス1998 / Makoto東京発DnB / 現代Tokyo DIYレイブ（Y2K美学リバイバル）
@@ -62,6 +64,7 @@
 | 37 | DJ文化の起源 — DJは最初、誰にも認められなかった | ✅ Complete (EP-37) | 2026-05-26 | — |
 | 38 | 日本が生んだ機械が、世界を踊らせた — 日本×UKレイブ円環の物語 | ✅ Complete (EP-38) | 2026-05-27 | — |
 | 39 | Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏 | ✅ Complete (EP-39) | 2026-05-28 | — |
+| 40 | 服が、文化だった。— レイブファッション40年の変遷 | ✅ Complete (EP-40) | 2026-05-29 | — |
 
 ---
 
