@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-29] aroma-insta | POST-40: あなたの数字は、誰と共鳴するのか。— 3つの波動グループと魂の引き寄せ
+- Carousel (8枚): aroma-insta/output/POST-40/carousel.md
+- Research memo: aroma-insta/output/POST-40/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-40-2026-05-29-lifepath-compatibility.md
+- ピラー: 数秘（Numerology）
+- トピック: ライフパス数1〜9 / 3つの波動グループ（1・5・7: 自由と探求 / 2・4・8: 安定と信頼 / 3・6・9: 創造と愛）/ 同グループ=共鳴・異グループ=補完 / 「合う・合わない」を超えて「なぜこの出会いか」という切り口 / 数字は判定ではなく気づきの地図
+
 ## [2026-05-28] auto-ep | EP-39: Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏
 - Script (50〜55秒): rave-team/output/EP-39/script_ja.md
 - Carousel (8枚): rave-team/output/EP-39/carousel.md
