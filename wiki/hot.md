@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-05-28
+updated: 2026-05-30
 tags:
   - meta
   - hot-cache
@@ -16,6 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-05-30: EP-41「レイブファッションの変遷 — 服が抵抗になった夜から、黒が制服になるまで」生成・GitHub push 完了（1988年Acid Houseのスマイリー×バケットハット（服装規定への反乱）/ 1990〜93年Hardcore/JungleのKappa×Nike×Joe Bloggs（ストリートがフロアに来た）/ 1994〜99年UK Garageのドレスコード復活とフリーパーティ泥靴の二極化 / 2000年代サイバーゴス×Kandi×グロー / 2010年代Berghain全身黒×ハーネス×「匿名性がスタイル」/ 2020年代Y2KリバイバルとKappa高騰）。
 2026-05-30: POST-41「手袋に、秘密を塗り込んで。— ネロリと変容の波動」生成・GitHub push 完了（アロマピラー / 17世紀ネロラ公妃アンナ・マリア・オルシーニが名前を刻んだ香り / 花1トン→精油1kg / リナロール37%・天然の精神安定剤 / 「落ち着くのに冴えてくる」逆説 / Calms without dulling / ハートチャクラ対応 / 変容・再生・怖れが溶ける）。
 2026-05-29: POST-40「あなたの数字は、誰と共鳴するのか。— 3つの波動グループと魂の引き寄せ」生成・GitHub push 完了（数秘ピラー / ライフパス数1〜9を3グループに分類: 1・5・7「自由と探求」/ 2・4・8「安定と信頼」/ 3・6・9「創造と愛」/ 同グループ=自然な共鳴・異グループ=補完的成長 / 「合う・合わない」を超えて「なぜこの出会いか」という白魔女的切り口 / 数字は審判者ではなく気づきの地図）。
 2026-05-28: EP-39「Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏」生成・GitHub push 完了（1987年夏4人のDJがイビサ島Amnesiaで体験→帰国後Danny Rampling「Shoom」Southwark地下室100人・黄色いスマイリー発祥→Paul Oakenfold「Spectrum」Astoria 2,500人・月曜夜即満員→Manchester Haçienda（New Order売上運営）→1988年夏M25沿い野原・Tony Colston-Hayter・Sunrise 25,000人→MDMAと「壁が溶ける」体験→フーリガン急減との偶然の一致→Orbital命名の由来→1967年サンフランシスコvs1988年イギリス）。

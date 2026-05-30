@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-05-30] auto-ep | EP-41: レイブファッションの変遷 — 服が抵抗になった夜から、黒が制服になるまで
+- Script (50〜60秒): rave-team/output/EP-41/script_ja.md
+- Carousel (8枚): rave-team/output/EP-41/carousel.md
+- Research memo: rave-team/output/EP-41/research.md
+- Wiki source: wiki/sources/rave/EP-41 — 2026-05-30 — rave-fashion-decades.md
+- ピラー: レイブ文化 / ファッション史
+- トピック: 1988年Acid Houseのスマイリー×バケットハット（服装規定への反乱）/ 1990〜93年Hardcore/JungleのKappa×Nike×Joe Bloggs（ストリートがフロアに来た）/ 1994〜99年UK Garageのドレスコード復活とフリーパーティ泥靴の二極化 / 2000年代サイバーゴス×Kandi×グロー / 2010年代Berghain全身黒×ハーネス×「匿名性がスタイル」/ 2020年代Y2KリバイバルとKappa高騰
+
 ## [2026-05-30] aroma-insta | POST-41: 手袋に、秘密を塗り込んで。— ネロリと変容の波動
 - Carousel (8枚): aroma-insta/output/POST-41/carousel.md
 - Research memo: aroma-insta/output/POST-41/research.md
