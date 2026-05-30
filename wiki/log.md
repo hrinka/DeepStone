@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-30] aroma-insta | POST-41: 手袋に、秘密を塗り込んで。— ネロリと変容の波動
+- Carousel (8枚): aroma-insta/output/POST-41/carousel.md
+- Research memo: aroma-insta/output/POST-41/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-41-2026-05-30-neroli.md
+- ピラー: アロマ（Aromatherapy）
+- トピック: ネロリ精油 / 17世紀アンナ・マリア・オルシーニ公妃が名前を刻んだ香り / 花1トン→精油1kg / リナロール37% / 「天然の精神安定剤」だが鈍らせず目覚めさせる（Calms without dulling）/ ハートチャクラ対応 / 変容・再生・怖れが溶ける
+
 ## [2026-05-29] aroma-insta | POST-40: あなたの数字は、誰と共鳴するのか。— 3つの波動グループと魂の引き寄せ
 - Carousel (8枚): aroma-insta/output/POST-40/carousel.md
 - Research memo: aroma-insta/output/POST-40/research.md
