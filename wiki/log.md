@@ -1,5 +1,20 @@
 # Wiki Log
 
+## [2026-05-30] auto-ep | EP-41: レイブファッションの変遷 — 服が抵抗になった夜から、黒が制服になるまで
+- Script (50〜60秒): rave-team/output/EP-41/script_ja.md
+- Carousel (8枚): rave-team/output/EP-41/carousel.md
+- Research memo: rave-team/output/EP-41/research.md
+- Wiki source: wiki/sources/rave/EP-41 — 2026-05-30 — rave-fashion-decades.md
+- ピラー: レイブ文化 / ファッション史
+- トピック: 1988年Acid Houseのスマイリー×バケットハット（服装規定への反乱）/ 1990〜93年Hardcore/JungleのKappa×Nike×Joe Bloggs（ストリートがフロアに来た）/ 1994〜99年UK Garageのドレスコード復活とフリーパーティ泥靴の二極化 / 2000年代サイバーゴス×Kandi×グロー / 2010年代Berghain全身黒×ハーネス×「匿名性がスタイル」/ 2020年代Y2KリバイバルとKappa高騰
+
+## [2026-05-30] aroma-insta | POST-41: 手袋に、秘密を塗り込んで。— ネロリと変容の波動
+- Carousel (8枚): aroma-insta/output/POST-41/carousel.md
+- Research memo: aroma-insta/output/POST-41/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-41-2026-05-30-neroli.md
+- ピラー: アロマ（Aromatherapy）
+- トピック: ネロリ精油 / 17世紀アンナ・マリア・オルシーニ公妃が名前を刻んだ香り / 花1トン→精油1kg / リナロール37% / 「天然の精神安定剤」だが鈍らせず目覚めさせる（Calms without dulling）/ ハートチャクラ対応 / 変容・再生・怖れが溶ける
+
 ## [2026-05-29] aroma-insta | POST-40: あなたの数字は、誰と共鳴するのか。— 3つの波動グループと魂の引き寄せ
 - Carousel (8枚): aroma-insta/output/POST-40/carousel.md
 - Research memo: aroma-insta/output/POST-40/research.md

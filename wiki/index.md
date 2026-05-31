@@ -135,6 +135,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-41 — 2026-05-30 — rave-fashion-decades]]|レイブファッションの変遷（1988〜現在）: スマイリーTシャツ×バケットハット（1988「着飾らない革命」）→KappaトラックスーツとNike Air Max（1990s Hardcore/Jungle・ストリートがフロアへ）→UK Garageのドレスコード復活とフリーパーティ泥靴の二極化（1994〜99）→サイバーゴス×Kandi×グロースティック（2000s）→Berghain全身黒・ハーネス・「匿名性がスタイル」（2010s）→Y2KリバイバルとKappa高騰（2020s）|
 |[[EP-39 — 2026-05-28 — second-summer-of-love-1988]]|Second Summer of Love 1988: 4人のDJがイビサ島Amnesiaで体験→Shoom（Southwark地下室100人・黄色いスマイリー発祥）→Paul Oakenfold Spectrum（Astoria 2,500人）→Manchester Haçienda→1988年夏M25沿い野原25,000人→MDMAと「壁が溶ける」体験→フーリガン急減との偶然の一致→Orbital命名の由来→1967年サンフランシスコとの対比|
 |[[EP-38 — 2026-05-27 — japan-uk-rave-circular-influence]]|日本とUKレイブ（円環の物語）: Roland TB-303（1981年失敗作）→シカゴDJ Pierreが拾う→Acid Tracks→Acid House→UKレイブ爆発 / YMO→Derrick May「俺はYMOから学んだ」→Detroit Techno→UK / 1996年新宿LiquidroomでDnB Sessions（Metalheadz）→電気グルーヴ・WIREフェス（1998）→現代東京DIYレイブ。日本製の「失敗作」が世界を踊らせ、UKレイブとなって日本に戻ってきた|
 |[[EP-37 — 2026-05-26 — dj-culture-origins]]|DJ文化の起源（1935〜現在）: Walter Winchell「disc jockey」命名→Francis Grasso NYC・ビートマッチング→DJ Kool Herc Bronxブレイクビーツ→Frankie Knuckles「The Warehouse」黒人ゲイの魂の教会→UKレイブ匿名DJ美学→スーパースターDJ→Burial/Daft Punk匿名性の回帰|
