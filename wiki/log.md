@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-31] aroma-post | POST-42: 飾りだと思っていた。でも、それが最古の守護者だった。— パセリと死の庭の話
+- Carousel (8枚): aroma-insta/output/POST-42/carousel.md
+- Research memo: aroma-insta/output/POST-42/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-42-2026-05-31-parsley-guardian.md
+- ピラー: ハーブ菜園
+- トピック: パセリ / アルケモラス神話 / 死と勝利の両象徴 / 悪魔の9往復伝承 / アピゲニン215mg脳神経保護
+
 ## [2026-05-30] auto-ep | EP-41: レイブファッションの変遷 — 服が抵抗になった夜から、黒が制服になるまで
 - Script (50〜60秒): rave-team/output/EP-41/script_ja.md
 - Carousel (8枚): rave-team/output/EP-41/carousel.md
