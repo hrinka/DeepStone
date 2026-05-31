@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-42 (2026-05-31): The Haçienda — 音楽を売って、クラブを生かした15年 — 1982年5月21日FAC51開業（ニューオーダー出資・元ボートショールーム改装・Ben Kelly黄黒ストライプ設計）→初年度赤字3,000万円→「Blue Monday」(1983)の売上でクラブの赤字を補填→1986年「Nude」ナイト（英国初ハウスミュージック専門クラブナイト）→1988年「Hot」ナイト（Acid House）→Madchester（Stone Roses・Happy Mondays・808 State）→1989年7月英国初エクスタシー関連死（Clare Leighton 16歳）→ギャング暴力→1997年6月28日閉館→2001年解体・高級マンション「The Haçienda Apartments」へ
+
 - EP-41 (2026-05-30): レイブファッションの変遷 — 服が抵抗になった夜から、黒が制服になるまで — 1988年Acid Houseのスマイリーとバケットハット（「着飾らない」という革命）→1990〜93年Hardcore/JungleのKappa×Nike×Joe Bloggs（ストリートがフロアへ）→1994〜99年UK Garageのドレスコード復活とフリーパーティ泥靴の二極化→2000年代のサイバーゴス×Kandi×グロースティック→2010年代Berghain全身黒・ハーネス・「匿名性がスタイル」→2020年代Y2KリバイバルとKappaの高騰
 
 - EP-39 (2026-05-28): Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏 — 1987年4人のDJがイビサ島Amnesiaで体験→帰国後Danny Rampling「Shoom」（Southwark地下室・キャパ100人・黄色いスマイリー発祥）→Paul Oakenfold「Spectrum」（Astoria 2,500人・月曜夜・即満員）→Manchester Haçienda（New Order売上で運営）→Sheffield Jive Turkey→1988年夏M25沿いの野原・Tony Colston-Hayter・Sunrise 25,000人→MDMAと「壁が溶ける」体験→フーリガン暴力急減との偶然の一致→「Orbital」命名の由来→1967年サンフランシスコ vs 1988年イギリス
@@ -65,6 +67,7 @@
 | 38 | 日本が生んだ機械が、世界を踊らせた — 日本×UKレイブ円環の物語 | ✅ Complete (EP-38) | 2026-05-27 | — |
 | 39 | Second Summer of Love 1988 — 英国全土が1つのダンスフロアになった夏 | ✅ Complete (EP-39) | 2026-05-28 | — |
 | 41 | レイブファッションの変遷 — 服が抵抗になった夜から、黒が制服になるまで | ✅ Complete (EP-41) | 2026-05-30 | — |
+| 42 | The Haçienda — 音楽を売って、クラブを生かした15年 | ✅ Complete (EP-42) | 2026-05-31 | — |
 
 ---
 

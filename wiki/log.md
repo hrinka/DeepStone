@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-05-31] auto-ep | EP-42: The Haçienda — 音楽を売って、クラブを生かした15年
+- Script (50〜55秒): rave-team/output/EP-42/script_ja.md
+- Carousel (8枚): rave-team/output/EP-42/carousel.md
+- Research memo: rave-team/output/EP-42/research.md
+- Wiki source: wiki/sources/rave/EP-42 — 2026-05-31 — hacienda-manchester.md
+- ピラー: レイブ文化 / クラブ史 / Manchester
+- トピック: FAC51開業1982（ニューオーダー出資）/ 初年度赤字3,000万円→「Blue Monday」で補填 / 英国初ハウスナイト「Nude」1986 / Madchester1988（Stone Roses・Happy Mondays・808 State）/ 英国初エクスタシー関連死1989（Clare Leighton 16歳）/ 1997年6月28日閉館 / 2001年解体→高級マンション「The Haçienda Apartments」
+
 ## [2026-05-31] aroma-post | POST-42: 飾りだと思っていた。でも、それが最古の守護者だった。— パセリと死の庭の話
 - Carousel (8枚): aroma-insta/output/POST-42/carousel.md
 - Research memo: aroma-insta/output/POST-42/research.md
