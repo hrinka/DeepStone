@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-06-01] auto-ep | EP-43: ノッティングヒル・カーニバル — 差別が生んだ、2百万人のダンスフロア
+- Script (50〜60秒): rave-team/output/EP-43/script_ja.md
+- Carousel (8枚): rave-team/output/EP-43/carousel.md
+- Research memo: rave-team/output/EP-43/research.md
+- Wiki source: wiki/sources/rave/EP-43 — 2026-06-01 — notting-hill-carnival-sound-system.md
+- ピラー: レイブ文化 / サウンドシステム / UKカルチャー / ジャマイカン・ダイアスポラ
+- トピック: 1958年ノッティングヒル人種暴動→クローディア・ジョーンズ1959年英国初カリビアン・カーニバル（BBC生中継・「ノッティングヒルの味を口から消す必要がある」）→1966年路上カーニバル誕生（ラッセル・ヘンダーソンのスティール・バンドが歩き出した偶発の瞬間）→1973年デューク・ヴィン「The Tickler」カーニバル初サウンドシステム導入→1975年固定式サウンドシステム+レゲエ・ダブ・スカ→現在200万人（英国最大/世界第2位）→Jungle→DnB→Grime→Dubstepすべての根
+
 ## [2026-06-01] auto-post | POST-43: あなたが苦しいのは、弱いからじゃない。— カルミックデット 13・14・16・19
 - Carousel (8枚): aroma-insta/output/POST-43/carousel.md
 - Research memo: aroma-insta/output/POST-43/research.md
