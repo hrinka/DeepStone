@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-01] auto-post | POST-43: あなたが苦しいのは、弱いからじゃない。— カルミックデット 13・14・16・19
+- Carousel (8枚): aroma-insta/output/POST-43/carousel.md
+- Research memo: aroma-insta/output/POST-43/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-43-2026-06-01-karmic-debt-numbers.md
+- ピラー: 数秘（Numerology）
+- トピック: カルミックデット（カルマナンバー）13（変容・前世の怠惰）/ 14（真の自由・依存からの解放）/ 16（タロット「塔」・エゴの崩壊と再生）/ 19（真の自立・孤独の超越）/ 現れる場所（生まれた日・ライフパス計算途中）/ 繰り返すパターンが答え / 「その繰り返しは呪いじゃない。解放への地図だった」
+
 ## [2026-05-31] auto-ep | EP-42: The Haçienda — 音楽を売って、クラブを生かした15年
 - Script (50〜55秒): rave-team/output/EP-42/script_ja.md
 - Carousel (8枚): rave-team/output/EP-42/carousel.md
