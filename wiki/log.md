@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-02] auto-post | POST-44: 他の木に、根を絡ませて生きる。— 白檀（サンダルウッド）と繋がりの波動
+- Carousel (8枚): aroma-insta/output/POST-44/carousel.md
+- Research memo: aroma-insta/output/POST-44/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-44-2026-06-02-sandalwood.md
+- ピラー: アロマ
+- トピック: 白檀（サンダルウッド）— 半寄生植物・30年の心材・α-サンタロール90%・天地を繋ぐチャクラ対応・日本6世紀伝来・「繋がりの中で神聖になる香り」
+
 ## [2026-06-01] auto-ep | EP-43: ノッティングヒル・カーニバル — 差別が生んだ、2百万人のダンスフロア
 - Script (50〜60秒): rave-team/output/EP-43/script_ja.md
 - Carousel (8枚): rave-team/output/EP-43/carousel.md
