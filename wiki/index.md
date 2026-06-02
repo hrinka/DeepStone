@@ -107,6 +107,12 @@ tags:
 |[[Japanese Dub Scene]]|Japan: 300+ sound systems, Mute Beat (world's first live dub band), Dry & Heavy|
 |[[Hardcore Continuum]]|Simon Reynolds' theory: UK Hardcore (1991) → Jungle → DnB → UK Garage → Grime → Dubstep|
 
+## Projects (→ projects/)
+
+|Page|Description|
+|---|---|
+|[[EvoOps-Onboarding]]|EvoOps 参画前 オンボーディングTODO — Neo4j/Qdrant/MCP/CloudWatch/LangGraph。6〜7月MCPサーバー構築、8月POC、10月リリース|
+
 ## Research
 
 |Page|Description|

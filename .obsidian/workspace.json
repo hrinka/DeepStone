@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/develop/🎯 面接対策 完全版｜本間 梨花.md",
+                "file": "wiki/projects/EvoOps-Onboarding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎯 面接対策 完全版｜本間 梨花"
+              "title": "EvoOps-Onboarding"
             }
           }
         ]
@@ -183,6 +183,17 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
+    "raw/develop/技術知識.md",
+    "wiki/projects/EvoOps-Onboarding.md",
+    "wiki/questions/Research: Dub Music History.md",
+    "wiki/sources/EP-10 — 2026-05-14 — why-uk-is-music-epicenter.md",
+    "wiki/hot.md",
+    "wiki/index.md",
+    "wiki/log.md",
+    "無題のファイル.md",
+    "無題のファイル 1.canvas",
+    "wiki/projects",
+    "raw/develop/🎯 面接対策 完全版｜本間 梨花.md",
     "wiki/sources/rave/EP-43 — 2026-06-01 — notting-hill-carnival-sound-system.md",
     "wiki/sources/aroma/aroma-POST-43-2026-06-01-karmic-debt-numbers.md",
     "rave-team/output/EP-43/script_ja.md",
@@ -204,23 +215,12 @@
     "aroma-insta/output/POST-42/carousel.md",
     "aroma-insta/output/POST-42",
     "wiki/sources/rave/EP-41 — 2026-05-30 — rave-fashion-decades.md",
-    "wiki/sources/aroma/aroma-POST-41-2026-05-30-neroli.md",
-    "rave-team/output/EP-41/script_ja.md",
-    "rave-team/output/EP-41/research.md",
-    "rave-team/output/EP-41/carousel.md",
     "rave-team/output/EP-41",
-    "journal/2026-05-30.md",
-    "aroma-insta/output/POST-41/research.md",
-    "aroma-insta/output/POST-41/carousel.md",
     "aroma-insta/output/POST-41",
-    "wiki/sources/aroma/aroma-POST-40-2026-05-29-lifepath-compatibility.md",
-    "journal/2026-05-29.md",
     "aroma-insta/output/POST-40",
     "rave-team/output/EP-39",
     "aroma-insta/output/POST-39",
-    "rave-team/output/EP-38",
     "無題のファイル 2.canvas",
-    "無題のファイル 1.canvas",
     "無題のファイル.canvas"
   ]
 }
