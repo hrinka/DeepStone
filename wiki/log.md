@@ -7,6 +7,14 @@
 - ピラー: ハーブ菜園
 - トピック: ラベンダー — 語源「洗う」/ 2500年の歴史（エジプトミイラ・ローマ兵士守護・聖母マリア伝承・ペスト浄化）/ 剪定しなければ木質化して咲かなくなる「切ることが咲かせること」/ 満開前収穫が最も香り濃い / クラウンチャクラ対応 / 「手放すと咲く」という植物の教え
 
+## [2026-06-03] auto-ep | EP-45: UK Funky — イギリスだけが知っている、輸出されなかったダンスミュージック
+- Script (50〜60秒): rave-team/output/EP-45/script_ja.md
+- Carousel (8枚): rave-team/output/EP-45/carousel.md
+- Research memo: rave-team/output/EP-45/research.md
+- Wiki source: wiki/sources/rave/EP-45 — 2026-06-03 — uk-funky.md
+- ピラー: レイブ文化 / UK ダンスミュージック / 黒人英国文化 / Night Slugs
+- トピック: 2005〜06年ロンドン東部でプロデューサー Apple が Fruity Loops のみで "Dutty Dance" を制作→ UK Garage + ガーナ・ハイライフ + ダンスホール = 130BPM → 2008年夏: Kyla "Do You Mind"（Crazy Cousinz Remix）がロンドンの2年間の音 → Roska（Rinse FM 7年）/ Cooly G（Hyperdub）/ Night Slugs（Bok Bok & L-Vis 1990）→ 2009年模倣品氾濫 → Dubstep 台頭で2012年沈下 → 主役の黒人ブリティッシュは業界に無視 → Lil Silva → Adele『25』→ Amapiano・gqom・UK テクノの根
+
 ## [2026-06-02] auto-post | POST-44: 他の木に、根を絡ませて生きる。— 白檀（サンダルウッド）と繋がりの波動
 - Carousel (8枚): aroma-insta/output/POST-44/carousel.md
 - Research memo: aroma-insta/output/POST-44/research.md

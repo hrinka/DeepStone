@@ -141,6 +141,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-45 — 2026-06-03 — uk-funky]]|UK Funky（2005〜2012）: ロンドン東部発・UK ガレージ×ガーナ・ハイライフ×ジャマイカ・ダンスホール=130BPM → Kyla "Do You Mind"（Crazy Cousinz Remix）2008年夏の音 → Roska・Cooly G・Night Slugs → 業界に無視された黒人ブリティッシュたちが作ったジャンル → 2012年沈下 → Amapiano・UK テクノ・gqom の根|
 |[[EP-43 — 2026-06-01 — notting-hill-carnival-sound-system]]|ノッティングヒル・カーニバル（1958〜現在）: 1958年人種暴動→クローディア・ジョーンズ1959年英国初カリビアン・カーニバル（BBC生中継）→1966年路上カーニバル誕生（スティール・バンドの偶発行進）→1973年デューク・ヴィン初サウンドシステム→現在200万人世界第2位→Jungle・DnB・Grime・Dubstepすべての根|
 |[[EP-42 — 2026-05-31 — hacienda-manchester]]|The Haçienda（ハシエンダ）FAC51（1982〜1997）: ニューオーダーの音楽収益で運営→英国初ハウスナイト「Nude」1986→Madchester（Stone Roses/Happy Mondays/808 State）→英国初エクスタシー関連死1989→1997年6月28日閉館→2001年解体→高級マンション「The Haçienda Apartments」|
 |[[EP-41 — 2026-05-30 — rave-fashion-decades]]|レイブファッションの変遷（1988〜現在）: スマイリーTシャツ×バケットハット（1988「着飾らない革命」）→KappaトラックスーツとNike Air Max（1990s Hardcore/Jungle・ストリートがフロアへ）→UK Garageのドレスコード復活とフリーパーティ泥靴の二極化（1994〜99）→サイバーゴス×Kandi×グロースティック（2000s）→Berghain全身黒・ハーネス・「匿名性がスタイル」（2010s）→Y2KリバイバルとKappa高騰（2020s）|
