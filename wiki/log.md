@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-03] auto-post | POST-45: 刈り込むほど、美しくなる。— ラベンダーと手放しの波動
+- Carousel (8枚): aroma-insta/output/POST-45/carousel.md
+- Research memo: aroma-insta/output/POST-45/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-45-2026-06-03-lavender-release.md
+- ピラー: ハーブ菜園
+- トピック: ラベンダー — 語源「洗う」/ 2500年の歴史（エジプトミイラ・ローマ兵士守護・聖母マリア伝承・ペスト浄化）/ 剪定しなければ木質化して咲かなくなる「切ることが咲かせること」/ 満開前収穫が最も香り濃い / クラウンチャクラ対応 / 「手放すと咲く」という植物の教え
+
 ## [2026-06-02] auto-post | POST-44: 他の木に、根を絡ませて生きる。— 白檀（サンダルウッド）と繋がりの波動
 - Carousel (8枚): aroma-insta/output/POST-44/carousel.md
 - Research memo: aroma-insta/output/POST-44/research.md
