@@ -52,6 +52,18 @@
 - ピラー: アロマ（Aromatherapy）
 - トピック: ネロリ精油 / 17世紀アンナ・マリア・オルシーニ公妃が名前を刻んだ香り / 花1トン→精油1kg / リナロール37% / 「天然の精神安定剤」だが鈍らせず目覚めさせる（Calms without dulling）/ ハートチャクラ対応 / 変容・再生・怖れが溶ける
 
+## [2026-05-29] expand | 面接周辺知識 5ページ追加
+- Pages created: [[React Deep Dive]], [[HTTP Browser Basics]], [[Web Security]], [[Database Essentials]], [[Testing Strategy]]
+- Pages updated: [[index]], [[hot]]
+- Key insight: 実務コード例（ChocoPLAi/New Moon Guild への具体的な言及）と面接QAをセットで記載。「知識」と「経験の裏付け」を連動させた構成。
+
+## [2026-05-29] ingest | 面接対策 完全版 + 技術知識メモ（develop領域）
+- Source: `raw/develop/🎯 面接対策 完全版｜本間 梨花.md`, `raw/develop/技術知識.md`
+- Summary: [[dev-interview-prep-honma-rinka]], [[dev-tech-notes]]
+- Pages created: [[TypeScript Frontend]], [[AWS Infrastructure]], [[AI Driven Development]], [[ChocoPLAi]], [[New Moon Guild]], [[42Tokyo]]
+- Pages updated: [[index]], [[hot]], [[log]]
+- Key insight: Rinka はClaude API組み込みからClaude Codeによる設計支援まで実務経験あり。エンジニアリングとAI駆動開発の両輪が差別化軸。
+
 ## [2026-05-29] aroma-insta | POST-40: あなたの数字は、誰と共鳴するのか。— 3つの波動グループと魂の引き寄せ
 - Carousel (8枚): aroma-insta/output/POST-40/carousel.md
 - Research memo: aroma-insta/output/POST-40/research.md
