@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-05-14
+updated: 2026-05-29
 tags:
   - meta
   - index
@@ -9,7 +9,7 @@ tags:
 
 ## Master Index
 
-> **フォルダ構成**: `wiki/concepts/music/` — 音楽・レイブ関連concept  |  `wiki/concepts/numerology/` — 数秘・アロマ関連
+> **フォルダ構成**: `wiki/concepts/music/` — 音楽・レイブ関連concept  |  `wiki/concepts/numerology/` — 数秘・アロマ関連  |  `wiki/concepts/dev/` — エンジニアリング・開発関連
 
 ### Genres & Concepts (→ concepts/music/)
 
@@ -164,3 +164,23 @@ tags:
 |[[POST-07 — 2026-05-11 — acid-house-smiley]]|Acid House: TB-303の商業的失敗 → Phuture偶然の発明 → Shoomスマイリー誕生 → The Sunの7日間反転|
 |[[POST-06 — 2026-05-10 — second-summer-of-love]]|セカンド・サマー・オブ・ラブ1988: 4人がイビサから帰り、Shoom誕生、M25軌道レイブ、警察との攻防|
 |[[POST-02 — 2026-05-09 — plur-philosophy]]|PLURの起源と「Respect」追加の歴史。Frankie Bones Storm Rave 1993スピーチ|
+
+---
+
+## Develop / Engineering（→ concepts/dev/ / entities/）
+
+| Page | Description |
+|---|---|
+| [[TypeScript Frontend]] | Rinka のコアスキル。Next.js 15・React・型安全設計・パフォーマンス最適化（約5年） |
+| [[React Deep Dive]] | hooks深掘り・レンダリング最適化・RSC・Next.jsレンダリング戦略・state管理 |
+| [[AWS Infrastructure]] | S3/CloudFront/App Runner/RDS/Terraform IaC・SRE・サーバーレス設計 |
+| [[AI Driven Development]] | Claude API統合・Claude Code活用・v0・「AIをフローに組み込む」3レイヤーモデル |
+| [[HTTP Browser Basics]] | HTTP/CORS/Cookie/Session/JWT/キャッシュ制御・ブラウザレンダリング過程 |
+| [[Web Security]] | XSS/CSRF/SQLインジェクション/認証認可/HTTPS・OWASP主要項目 |
+| [[Database Essentials]] | SQL/JOIN/インデックス/トランザクション・ACID/N+1問題/PostgreSQL/Alembic |
+| [[Testing Strategy]] | テストピラミッド・Jest/Vitest/Testing Library/MSW/Playwright/CI統合 |
+| [[ChocoPLAi]] | FinTech SaaS。フロント+バック+インフラ+Claude API を一人で設計した代表作 |
+| [[New Moon Guild]] | NTTドコモハッカソン最優秀賞。DJ×メタバース×AI感情解析。10名チームリード |
+| [[42Tokyo]] | 選抜制エンジニア養成機関（合格率10%）。2022〜2025年修了。Rinka の技術基盤 |
+
+**Sources（develop）**: [[dev-interview-prep-honma-rinka]], [[dev-tech-notes]]
