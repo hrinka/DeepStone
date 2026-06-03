@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/projects/EvoOps-Onboarding.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EvoOps-Onboarding"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -183,8 +183,16 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
-    "raw/develop/技術知識.md",
+    "AGENTS.md",
+    "journal/2026-06-03.md",
+    "journal/2026-06-01.md",
+    "journal/2026-05-31.md",
+    "journal/2026-05-30.md",
+    "journal/2026-05-29.md",
+    "journal/2026-05-28.md",
+    "journal/2026-05-27.md",
     "wiki/projects/EvoOps-Onboarding.md",
+    "raw/develop/技術知識.md",
     "wiki/questions/Research: Dub Music History.md",
     "wiki/sources/EP-10 — 2026-05-14 — why-uk-is-music-epicenter.md",
     "wiki/hot.md",
@@ -200,21 +208,13 @@
     "rave-team/output/EP-43/research.md",
     "rave-team/output/EP-43/carousel.md",
     "rave-team/output/EP-43",
-    "journal/2026-06-01.md",
     "aroma-insta/output/POST-43/research.md",
     "aroma-insta/output/POST-43/carousel.md",
     "aroma-insta/output/POST-43",
     "wiki/sources/rave/EP-42 — 2026-05-31 — hacienda-manchester.md",
     "wiki/sources/aroma/aroma-POST-42-2026-05-31-parsley-guardian.md",
-    "rave-team/output/EP-42/script_ja.md",
-    "rave-team/output/EP-42/research.md",
-    "rave-team/output/EP-42/carousel.md",
     "rave-team/output/EP-42",
-    "journal/2026-05-31.md",
-    "aroma-insta/output/POST-42/research.md",
-    "aroma-insta/output/POST-42/carousel.md",
     "aroma-insta/output/POST-42",
-    "wiki/sources/rave/EP-41 — 2026-05-30 — rave-fashion-decades.md",
     "rave-team/output/EP-41",
     "aroma-insta/output/POST-41",
     "aroma-insta/output/POST-40",
