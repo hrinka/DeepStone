@@ -32,16 +32,16 @@ related:
 
 ---
 
-## 🔴 WEEK 1 — 優先度：最高
+## 🔴 WEEK 1 — 2026/6/4
 
 ### ① Neo4j を触る
 > このプロジェクトの核心技術。グラフDBの概念を理解する。
 
-- [ ] Neo4j Sandbox（無料）を作成 → https://sandbox.neo4j.com/
-- [ ] Cypher クエリ言語の基本を学ぶ
+- [x] Neo4j Sandbox（無料）を作成 → https://sandbox.neo4j.com/
+- [x] Cypher クエリ言語の基本を学ぶ
   - MATCH・CREATE・RETURN の基本構文
   - ノード・リレーションシップの概念
-- [ ] 「なぜグラフDBをインフラ管理に使うか」を理解する
+- [x] 「なぜグラフDBをインフラ管理に使うか」を理解する
   - インフラの依存関係（A→B→C が連鎖する）をグラフで表現するのが適している
 
 ### ② Qdrant（RAGのベクトルDB）を理解する
