@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-06-04] auto-ep | EP-46: Burial — 顔も名前もない。それでも音は、世界を変えた。
+- Script (50〜55秒): rave-team/output/EP-46/script_ja.md
+- Carousel (8枚): rave-team/output/EP-46/carousel.md
+- Research memo: rave-team/output/EP-46/research.md
+- Wiki source: wiki/sources/rave/EP-46 — 2026-06-04 — burial-anonymity-south-london.md
+- ピラー: post-dubstep / UK Bass / 匿名性 / Hyperdub
+- トピック: William Emmanuel Bevan（South London）→Hyperdub第1弾→壊れかけたPC+Sound Forgeのみで制作→「Untrue」（2007）3誌年間最高→Mercury Prize ノミネート→Thom Yorke・Massive Attackコラボ→顔を出さないまま世界最高評価→「俺の曲を知っているのは5人だけ」→post-dubstep/future garageの起源
+
 ## [2026-06-04] auto-post | POST-46: あなたが本当に咲くのは、まだこれから。— マチュリティナンバーと魂の成熟
 - Carousel (8枚): aroma-insta/output/POST-46/carousel.md
 - Research memo: aroma-insta/output/POST-46/research.md
