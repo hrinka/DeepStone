@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-03.md",
+                "file": "journal/2026-06-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-03"
+              "title": "2026-06-04"
             }
           }
         ]
@@ -183,6 +183,20 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
+    "journal/2026-06-03.md",
+    "journal/2026-06-04.md",
+    "journal/2026-06-02.md",
+    "journal/2026-06-01.md",
+    "journal/2026-05-31.md",
+    "wiki/sources/rave/EP-45 — 2026-06-03 — uk-funky.md",
+    "wiki/sources/aroma/aroma-POST-45-2026-06-03-lavender-release.md",
+    "rave-team/output/EP-45/script_ja.md",
+    "rave-team/output/EP-45/research.md",
+    "rave-team/output/EP-45/carousel.md",
+    "rave-team/output/EP-45",
+    "aroma-insta/output/POST-45/research.md",
+    "aroma-insta/output/POST-45/carousel.md",
+    "aroma-insta/output/POST-45",
     "wiki/projects/EvoOps-Onboarding.md",
     "CLAUDE.md",
     "wiki/sources/dev-tech-notes.md",
@@ -197,20 +211,8 @@
     "wiki/concepts/dev/React-Deep-Dive.md",
     "wiki/concepts/dev/HTTP-Browser-Basics.md",
     "wiki/concepts/dev/Database-Essentials.md",
-    "wiki/concepts/dev/AWS-Infrastructure.md",
-    "wiki/concepts/dev/AI-Driven-Development.md",
     "wiki/concepts/dev",
-    "journal/2026-06-02.md",
-    "aroma-insta/output/POST-44/research.md",
-    "aroma-insta/output/POST-44/carousel.md",
     "aroma-insta/output/POST-44",
-    "AGENTS.md",
-    "journal/2026-06-03.md",
-    "journal/2026-06-01.md",
-    "journal/2026-05-31.md",
-    "journal/2026-05-30.md",
-    "journal/2026-05-29.md",
-    "journal/2026-05-28.md",
     "無題のファイル 1.canvas",
     "wiki/projects",
     "rave-team/output/EP-43",
@@ -218,8 +220,6 @@
     "rave-team/output/EP-42",
     "aroma-insta/output/POST-42",
     "rave-team/output/EP-41",
-    "aroma-insta/output/POST-41",
-    "aroma-insta/output/POST-40",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
   ]
