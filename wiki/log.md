@@ -8,6 +8,13 @@
 - ピラー: drum-and-bass / label-history / club-culture / Hoxton
 - トピック: 1994年ゴールディー（施設育ち・グラフィティ・金歯）+ケミストリー&ストームがMetalheadz設立→1995〜1999年Hoxton Blue Note Sunday Sessions（低い天井・ベースが逃げない密室）→常連: Photek・Dillinja・Grooverider・Doc Scott・Source Direct→Goldie「Timeless」（1995年8月）UKチャート7位・22分ブレイクビートシンフォニー→DnBが「音楽」と呼ばれた最初の瞬間→1999年ケミストリー交通事故死・Sunday Sessions終幕
 
+## [2026-06-05] auto-post | POST-47: 花の中の花と呼ばれる香りがある。— イランイランと愛の周波数
+- Carousel (8枚): aroma-insta/output/POST-47/carousel.md
+- Research memo: aroma-insta/output/POST-47/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-47-2026-06-05-ylang-ylang.md
+- ピラー: アロマ（Aromatherapy）
+- トピック: イランイラン精油（Cananga odorata）/ 「花の中の花」フィリピン語源 / インドネシア新婚花びら伝統 / リナロール+酢酸ベンジル / 血圧・心拍低下しながら気分上昇の逆説 / ハートチャクラ+仙骨チャクラ / シャネルN°5等多数の高級香水に採用
+
 ## [2026-06-04] auto-ep | EP-46: Burial — 顔も名前もない。それでも音は、世界を変えた。
 - Script (50〜55秒): rave-team/output/EP-46/script_ja.md
 - Carousel (8枚): rave-team/output/EP-46/carousel.md
