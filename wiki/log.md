@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-06-05] auto-ep | EP-47: Metalheadz — 日曜の地下室が、世界で一番暗い部屋だった
+- Script (50〜60秒): rave-team/output/EP-47/script_ja.md
+- Carousel (8枚): rave-team/output/EP-47/carousel.md
+- Research memo: rave-team/output/EP-47/research.md
+- Wiki source: wiki/sources/rave/EP-47 — 2026-06-05 — metalheadz-blue-note-sunday-sessions.md
+- ピラー: drum-and-bass / label-history / club-culture / Hoxton
+- トピック: 1994年ゴールディー（施設育ち・グラフィティ・金歯）+ケミストリー&ストームがMetalheadz設立→1995〜1999年Hoxton Blue Note Sunday Sessions（低い天井・ベースが逃げない密室）→常連: Photek・Dillinja・Grooverider・Doc Scott・Source Direct→Goldie「Timeless」（1995年8月）UKチャート7位・22分ブレイクビートシンフォニー→DnBが「音楽」と呼ばれた最初の瞬間→1999年ケミストリー交通事故死・Sunday Sessions終幕
+
 ## [2026-06-04] auto-ep | EP-46: Burial — 顔も名前もない。それでも音は、世界を変えた。
 - Script (50〜55秒): rave-team/output/EP-46/script_ja.md
 - Carousel (8枚): rave-team/output/EP-46/carousel.md

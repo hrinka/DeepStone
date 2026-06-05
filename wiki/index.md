@@ -141,6 +141,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-47 — 2026-06-05 — metalheadz-blue-note-sunday-sessions]]|Metalheadz（1994〜現在）: 施設育ちのグラフィティアーティスト Goldie + Kemistry & Storm 設立 → Blue Note Hoxton Sunday Sessions（1995〜1999・低い天井がベースを逃がさなかった）→ Photek・Dillinja・Grooverider 常連 → Goldie「Timeless」（1995）UK7位・22分シンフォニー → ドラムンベース「音楽」化の瞬間 → 1999年ケミストリー死去・終幕|
 |[[EP-46 — 2026-06-04 — burial-anonymity-south-london]]|Burial（2005〜現在）: South London出身・本名William Bevan→Hyperdub第1弾アーティスト→壊れかけたPCとSound Forgeのみで制作→「Untrue」（2007）Wire・Uncut・Mixmag 3誌年間最高・Mercury Prize ノミネート→Thom Yorke・Massive Attackとコラボ→正体は8年間不明→「俺の曲を知っているのは世界に5人しかいない」→post-dubstepとfuture garageの起源|
 |[[EP-45 — 2026-06-03 — uk-funky]]|UK Funky（2005〜2012）: ロンドン東部発・UK ガレージ×ガーナ・ハイライフ×ジャマイカ・ダンスホール=130BPM → Kyla "Do You Mind"（Crazy Cousinz Remix）2008年夏の音 → Roska・Cooly G・Night Slugs → 業界に無視された黒人ブリティッシュたちが作ったジャンル → 2012年沈下 → Amapiano・UK テクノ・gqom の根|
 |[[EP-43 — 2026-06-01 — notting-hill-carnival-sound-system]]|ノッティングヒル・カーニバル（1958〜現在）: 1958年人種暴動→クローディア・ジョーンズ1959年英国初カリビアン・カーニバル（BBC生中継）→1966年路上カーニバル誕生（スティール・バンドの偶発行進）→1973年デューク・ヴィン初サウンドシステム→現在200万人世界第2位→Jungle・DnB・Grime・Dubstepすべての根|

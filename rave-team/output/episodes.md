@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-47 (2026-06-05): Metalheadz — 日曜の地下室が、世界で一番暗い部屋だった — 1994年ゴールディー（施設育ちのグラフィティアーティスト）+ケミストリー&ストームがレーベル設立 → Hoxton・Blue Note クラブで1995〜1999年 Sunday Sessions 開催（天井が低くベースが逃げない密室）→ 常連: Photek・Dillinja・Grooverider・Doc Scott・Source Direct → Goldie「Timeless」（1995年8月）UK チャート7位・22分ブレイクビートシンフォニー→ ドラムンベースが「音楽」と呼ばれた最初の瞬間 → 1999年ケミストリー交通事故死・Sunday Sessions 終幕
+
 - EP-46 (2026-06-04): Burial — 顔も名前もない。それでも音は、世界を変えた。 — South London出身・本名William Emmanuel Bevan → 2005年Hyperdub第1弾アーティスト（「South London Boroughs」EP）→ 煙を吐く老朽化PCとSony Sound Forgeのみで制作（グリッドなし・波形のみ「魚の骨みたいな形になったら完成」）→「俺の曲を知っているのは世界に5人だけ」→ 自タイトルアルバム（2006）→ Wire誌年間最高 → 「Untrue」（2007年11月）→ Wire・Uncut・Mixmag 3誌全て年間最高・Mercury Prize ノミネート → UKガレージR&Bボーカルチョップ+ハーフタイムドラム+雨音+ビニールクラックル → Thom Yorke・Massive Attack・Four Tetとコラボ → 2008年The Independentが実名報道→Hyperdub確認 → post-dubstep/future garageの起源 → James Blake・Mount Kimbie「Burialなしでは俺たちはいなかった」
 
 - EP-45 (2026-06-03): UK Funky — イギリスだけが知っている、輸出されなかったダンスミュージック — 2005〜2006年ロンドン東部・プロデューサー Apple「Dutty Dance」（Fruity Loops制作）→ 影響源: UK ガレージ + ガーナ・ハイライフ + ジャマイカ・ダンスホール + アフロカリビアン打楽器 = 130BPM → 2008年夏: Kyla "Do You Mind"（Crazy Cousinz Remix）が2年間ロンドンの夏の音に → Rinse FM パイレーツラジオが主戦場 → 主要プロデューサー: Roska（Rinse FM 7年レジデンシー）/ Cooly G（Hyperdub）/ Geeneus / Lil Silva → Night Slugs レーベル設立（Bok Bok & L-Vis 1990）→ 2009年チャート進出→模倣品氾濫 → Dubstep の台頭で2012年沈下 → 主役の黒人ブリティッシュは業界に無視された → Lil Silva は後に Adele『25』をプロデュース → 遺産: Amapiano・gqom・Livity Sound UK テクノの根
@@ -46,6 +48,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 47 | Metalheadz — 日曜の地下室が、世界で一番暗い部屋だった | ✅ Complete | 2026-06-05 | — |
 | 01 | Raveとは何か | ✅ Complete | 2026-04-21 | — |
 | 02 | PLUR — 顔を割る哲学 | ✅ Complete | 2026-05-09 | — |
 | 03 | Warehouse Party — 違法の美学 | ✅ Complete (EP-35) | 2026-05-25 | — |
