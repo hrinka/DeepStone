@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-03
+updated: 2026-06-06
 tags:
   - meta
   - hot-cache
@@ -16,6 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-06-06: EP-48「Bristol Sound — 誰も踊らなかった。でも、世界中が止まった。」生成・GitHub push 完了（Wild Bunch サウンドシステム（1979〜1988）: 3D・Mushroom・Daddy G・Tricky Kid・Nellee Hooper / Massive Attack「Blue Lines」（1991年4月8日）「最初のtrip-hopアルバム」/ 「Unfinished Sympathy」40ピースオーケストラ×LAワンカットMV・BBC Radio 2「ダンスミュージック史上最も感動的な曲の一つ」/ 湾岸戦争中「Massive」に改名 / Portishead「Dummy」（1994年8月22日）失業給付コースで出会ったGeoff Barrow＋Beth Gibbons・Mercury Prize受賞 / Tricky「Maxinquaye」（1995）囁くような暗闇 / 3者全員が「trip-hop」ラベルを拒否——世界はその名前で覚えた）。
 2026-06-06: POST-48「この木は、毎年 脱皮する。— ユーカリと、手放しの儀式」生成・GitHub push 完了（ハーブ菜園ピラー / ユーカリプタスの樹皮脱皮は病気ではなく正常な成長現象 / ギリシャ語語源「eu（美しい）+ kalypto（隠す）= 美しく包み隠されたもの」→花が咲く前に蓋で完全に包まれる花びらの形から命名 / アボリジニ6万年・ドリームタイムの聖木・地下と地上と天をつなぐ / 乾燥気味・日当たり・剪定するたびに香りが出る / 脱皮を毎年観察する = 手放しの儀式を目撃すること / POST-38アロマ精油角度と対。POST-45ラベンダー手放しとも対 / 「古い皮を脱ぐほど、内側が輝く」白魔女アングル）。
 2026-06-05: EP-47「Metalheadz — 日曜の地下室が、世界で一番暗い部屋だった」生成・GitHub push 完了（施設育ちのグラフィティアーティスト Goldie + Kemistry & Storm が1994年設立 / Hoxton Blue Note で1995〜1999年 Sunday Sessions 開催（天井が低くベースが逃げない密室）/ 常連: Photek・Dillinja・Grooverider・Doc Scott・Source Direct / Goldie「Timeless」（1995年8月）UKチャート7位・22分ブレイクビートシンフォニー・Diane Charlemagne ボーカル / Simon Reynolds「ゴールディーはジャングルを三度革命した」/ 1999年ケミストリー交通事故死・Sunday Sessions 終幕 / DnBが「音楽」と呼ばれた最初の瞬間）。
 2026-06-05: POST-47「花の中の花と呼ばれる香りがある。— イランイランと愛の周波数」生成・GitHub push 完了（アロマピラー / イランイラン（Cananga odorata）/ フィリピン語「そよ風に揺れる花々」「花の中の花」/ インドネシア新婚花びら伝統（何百年も続く愛の儀式）/ 20世紀初頭フランス科学者が心臓鎮静効果を発見 / シャネルN°5等多数の高級香水のトップノート / リナロール35〜40%+酢酸ベンジル20% / 科学的証明：血圧・心拍低下しながら気分上昇の逆説 / 安息香酸ベンジルが5-HT系・DA系を介した不安軽減 / ハートチャクラ+仙骨チャクラ両方に対応 / 「閉じた心に小さな隙間をつくり、そこから光が入る」白魔女アングル）。

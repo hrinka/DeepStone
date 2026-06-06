@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-06-06] auto-ep | EP-48: Bristol Sound — 誰も踊らなかった。でも、世界中が止まった。
+- Script (50〜55秒): rave-team/output/EP-48/script_ja.md
+- Carousel (8枚): rave-team/output/EP-48/carousel.md
+- Research memo: rave-team/output/EP-48/research.md
+- Wiki source: wiki/sources/rave/EP-48 — 2026-06-06 — bristol-sound-trip-hop.md
+- ピラー: bristol-sound / trip-hop / uk-bass-history / sound-system
+- トピック: Wild Bunch（1979〜1988）→ブリストル港湾都市・St.Pauls暴動（1980）→Massive Attack「Blue Lines」（1991年4月8日）「最初のtrip-hopアルバム」→「Unfinished Sympathy」40ピースオーケストラ×LAワンカットMV→Portishead「Dummy」（1994年8月22日）Mercury Prize・失業給付コースで出会った2人→Tricky「Maxinquaye」（1995）→3者全員が「trip-hop」ラベルを拒否→世界はその名前で覚えた
+
 ## [2026-06-06] flava-fm | POST-48: この木は、毎年 脱皮する。— ユーカリと、手放しの儀式
 - Carousel (8枚): flava-fm/output/POST-48/carousel.md
 - Research memo: flava-fm/output/POST-48/research.md
