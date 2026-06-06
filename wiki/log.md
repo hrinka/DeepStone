@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-06] flava-fm | POST-48: この木は、毎年 脱皮する。— ユーカリと、手放しの儀式
+- Carousel (8枚): flava-fm/output/POST-48/carousel.md
+- Research memo: flava-fm/output/POST-48/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-48-2026-06-06-eucalyptus-shedding.md
+- ピラー: ハーブ菜園
+- トピック: ユーカリプタスの樹皮脱皮（正常な成長現象）→ギリシャ語語源「eu+kalypto=美しく包まれたもの」→アボリジニ6万年・ドリームタイムの聖木→乾燥気味で育てる・剪定するたびに香りが出る→古い皮を脱ぐ=手放しの波動→「脱皮するのは弱いからではない。次の自分のために、古い皮を置いていくんだ」
+
 ## [2026-06-05] auto-ep | EP-47: Metalheadz — 日曜の地下室が、世界で一番暗い部屋だった
 - Script (50〜60秒): rave-team/output/EP-47/script_ja.md
 - Carousel (8枚): rave-team/output/EP-47/carousel.md
