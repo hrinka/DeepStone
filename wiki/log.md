@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-07] flava-fm | POST-49: 人はあなたの魂を見る前に、周波数を感じている。— アティテュードナンバーと最初の波動
+- Carousel (8枚): flava-fm/output/POST-49/carousel.md
+- Research memo: flava-fm/output/POST-49/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-49-2026-06-07-attitude-number.md
+- ピラー: 数秘（Numerology）
+- トピック: アティテュードナンバー（Sun Number） / 生誕月+生誕日で計算 / 「言葉より先に届く波動」/ ライフパス数（魂の内側）との対比 / 各数字1〜9の外側の波動 / Rinka: 3月10日 → 4（安定・信頼）× ライフパス5（冒険）の対比
+
 ## [2026-06-06] auto-ep | EP-48: Bristol Sound — 誰も踊らなかった。でも、世界中が止まった。
 - Script (50〜55秒): rave-team/output/EP-48/script_ja.md
 - Carousel (8枚): rave-team/output/EP-48/carousel.md
