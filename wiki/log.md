@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-06-07] auto-ep | EP-49: Warp Records — ダンスフロアを捨てた夜、電子音楽は芸術になった。
+- Script (50〜55秒): rave-team/output/EP-49/script_ja.md
+- Carousel (8枚): rave-team/output/EP-49/carousel.md
+- Research memo: rave-team/output/EP-49/research.md
+- Wiki source: wiki/sources/rave/EP-49 — 2026-06-07 — warp-records-sheffield.md
+- ピラー: warp-records / IDM / bleep-techno / sheffield / uk-electronic-music
+- トピック: Sheffield 製鉄業衰退（1979〜）→ Steve Beckett・Rob Mitchell・Rob Gordon 創設（1989）→ LFO「LFO」UK #12・130,000枚（1990）→「Artificial Intelligence」コンピ（1992）→ IDM 宣言「座って聴け・踊らなくていい」→ Aphex Twin・Autechre・Boards of Canada・Squarepusher → Rob Mitchell 38歳死去（2001）→「シングルでなくアルバム・一夜でなく生涯」フィロソフィー
+
 ## [2026-06-07] flava-fm | POST-49: 人はあなたの魂を見る前に、周波数を感じている。— アティテュードナンバーと最初の波動
 - Carousel (8枚): flava-fm/output/POST-49/carousel.md
 - Research memo: flava-fm/output/POST-49/research.md

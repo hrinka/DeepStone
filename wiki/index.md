@@ -141,6 +141,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-49 — 2026-06-07 — warp-records-sheffield]]|Warp Records（1989〜現在）: Sheffield 製鉄業衰退の廃工場から誕生 → LFO「LFO」(1990) UK #12・130,000枚・Bleep Techno 確立 → 1992年「Artificial Intelligence」コンピ = ダンスフロアを拒否した電子音楽宣言・IDM の起源 → Aphex Twin・Autechre・Boards of Canada・Squarepusher を輩出 → Rob Mitchell 2001年38歳死去 → 「シングルではなくアルバム、一夜限りでなく生涯」のフィロソフィー|
 |[[EP-48 — 2026-06-06 — bristol-sound-trip-hop]]|Bristol Sound / Trip-Hop（1979〜1995）: Wild Bunch サウンドシステム → Massive Attack「Blue Lines」（1991）「最初のtrip-hopアルバム」→「Unfinished Sympathy」40ピースオーケストラ×LAワンカットMV → Portishead「Dummy」（1994）Mercury Prize・失業給付コース出会い → Tricky「Maxinquaye」（1995）→ 3者全員がtrip-hopラベルを拒否 → 踊れない音楽が世界を止めた|
 |[[EP-47 — 2026-06-05 — metalheadz-blue-note-sunday-sessions]]|Metalheadz（1994〜現在）: 施設育ちのグラフィティアーティスト Goldie + Kemistry & Storm 設立 → Blue Note Hoxton Sunday Sessions（1995〜1999・低い天井がベースを逃がさなかった）→ Photek・Dillinja・Grooverider 常連 → Goldie「Timeless」（1995）UK7位・22分シンフォニー → ドラムンベース「音楽」化の瞬間 → 1999年ケミストリー死去・終幕|
 |[[EP-46 — 2026-06-04 — burial-anonymity-south-london]]|Burial（2005〜現在）: South London出身・本名William Bevan→Hyperdub第1弾アーティスト→壊れかけたPCとSound Forgeのみで制作→「Untrue」（2007）Wire・Uncut・Mixmag 3誌年間最高・Mercury Prize ノミネート→Thom Yorke・Massive Attackとコラボ→正体は8年間不明→「俺の曲を知っているのは世界に5人しかいない」→post-dubstepとfuture garageの起源|
