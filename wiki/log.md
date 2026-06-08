@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-08] aroma-post | POST-50: その紅茶の中に、ずっといた。— ベルガモットと憂鬱を光に変える波動
+- Carousel (8枚): flava-fm/output/POST-50/carousel.md
+- Research memo: flava-fm/output/POST-50/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-50-2026-06-08-bergamot.md
+- ピラー: アロマ（Aromatherapy）
+- トピック: ベルガモット（Citrus bergamia）/ カラブリア州産・世界95% / 名前の由来「梨の王」/ アールグレイの正体 / リモネン+リナロール+酢酸リナリル / GABA-A受容体・2017年PMC精神科待合室研究 / 「落ち着くのに上がる」逆説 / 光感作性 / ソーラープレクサスチャクラ
+
 ## [2026-06-07] auto-ep | EP-49: Warp Records — ダンスフロアを捨てた夜、電子音楽は芸術になった。
 - Script (50〜55秒): rave-team/output/EP-49/script_ja.md
 - Carousel (8枚): rave-team/output/EP-49/carousel.md
