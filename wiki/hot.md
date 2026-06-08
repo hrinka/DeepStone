@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-06
+updated: 2026-06-08
 tags:
   - meta
   - hot-cache
@@ -16,6 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-06-08: EP-50「Hardcore Continuum — 全部、1本の線だった。」生成・GitHub push 完了（Simon Reynolds が1999年に2ステップ・ガレージの6本目の記事を書きながら気づいた連続性：UK Hardcore Rave（1991）→ Jungle（1993）→ Drum and Bass（1995）→ UK Garage（1997）→ Grime（2001）→ Dubstep（2002）→ UK Funky（2005）。連続するのは4つ：①ジャマイカ移民のサウンドシステム文化 ②海賊ラジオ ③ロンドン東部/南部の黒人ブリティッシュ・コミュニティ ④ベースの重さだけは変わらなかった。著書『Energy Flash』（1998年）/The Wire 第300号連続エッセイ（2009年2月）。批判：ロンドン中心主義・白人批評家の定義問題・進化論的誤謬。EP-50 節目にこれまでの全エピソードを貫く一本の線を可視化）。
 2026-06-08: POST-50「その紅茶の中に、ずっといた。— ベルガモットと憂鬱を光に変える波動」生成・GitHub push 完了（アロマピラー / ベルガモット（Citrus bergamia）/ トルコ語「beg armudi = 梨の王」/ カラブリア州（南イタリア）のみで世界の95%生産 / アールグレイ紅茶の正体・ほとんどの人が毎日飲んで知らない精油 / ビターオレンジ×レモン交配・食べられない果実の皮が宝 / リモネン30〜40%（高揚）+酢酸リナリル17〜31%（鎮静）+リナロール9〜11%（GABA活性）= 「落ち着くのに上がる」逆説 / GABA-A受容体・海馬GABA最大50%増加 / 2017年PMC5434918 精神科待合室研究で気分改善 / 光感作性（ディフューザー使用推奨）/ ソーラープレクサスチャクラ対応 / ナポレオン毎日愛用・孤独な皇帝の香り）。
 2026-06-07: EP-49「Warp Records — ダンスフロアを捨てた夜、電子音楽は芸術になった。」生成・GitHub push 完了（Sheffield 製鉄業衰退（1979〜サッチャー政権）→ Steve Beckett・Rob Mitchell・Rob Gordon が 1989年に設立 → LFO「LFO」(1990) UK #12・130,000枚・Bleep Techno 確立 → 1992年「Artificial Intelligence」コンピ = 世界初のダンスフロア拒否電子音楽宣言・IDM の起源 → Aphex Twin（Dice Man 名義）・Autechre・Richie Hawtin・B12・The Orb 参加 → Beckett「Kraftwerk や Pink Floyd のように座って聴ける」→ Boards of Canada・Squarepusher・Broadcast・Flying Lotus も輩出 → Rob Mitchell 2001年10月8日38歳死去 → 「シングルでなくアルバム・一夜でなく生涯のアーティスト関係」フィロソフィー）。
 2026-06-07: POST-49「人はあなたの魂を見る前に、周波数を感じている。— アティテュードナンバーと最初の波動」生成・GitHub push 完了（数秘ピラー / アティテュードナンバー = 生誕月+生誕日 → 別名Sun Number / ライフパス数（魂の内側・目的地）との対比「外側に発する波動・第一印象の周波数」/ 各数字1〜9の外側の波動：1独立・2共感・3表現・4安定・5自由・6調和・7神秘・8権威・9慈悲 / 「言葉より先に波動が届く」白魔女アングル / Rinka: 3月10日→アティテュード4（安定）× ライフパス5（冒険）= 「外から見ると落ち着いているが内側は冒険者」対比）。

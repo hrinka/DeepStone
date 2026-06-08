@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-06-08] auto-ep | EP-50: Hardcore Continuum — 全部、1本の線だった。
+- Script (50〜60秒): rave-team/output/EP-50/script_ja.md
+- Carousel (8枚): rave-team/output/EP-50/carousel.md
+- Research memo: rave-team/output/EP-50/research.md
+- Wiki source: wiki/sources/rave/EP-50 — 2026-06-08 — hardcore-continuum.md
+- ピラー: hardcore-continuum / simon-reynolds / uk-rave / jungle / grime / dubstep / theory
+- トピック: Simon Reynolds が1999年に気づいた連続性：UK Hardcore Rave（1991）→ Jungle → DnB → UK Garage → Grime → Dubstep → UK Funky。連続するのはジャマイカ移民のサウンドシステム文化・海賊ラジオ・ロンドン東部/南部の黒人コミュニティ・DIY白レーベル・ベース。『Energy Flash』（1998）/ The Wire 第300号連続エッセイ（2009年2月）。批判：ロンドン中心主義・白人批評家による定義問題・進化論的誤謬。EP-50 節目に全EPを貫く1本の線を可視化。
+
 ## [2026-06-08] aroma-post | POST-50: その紅茶の中に、ずっといた。— ベルガモットと憂鬱を光に変える波動
 - Carousel (8枚): flava-fm/output/POST-50/carousel.md
 - Research memo: flava-fm/output/POST-50/research.md

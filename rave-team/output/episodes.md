@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-50 (2026-06-08): Hardcore Continuum — 全部、1本の線だった。 — サイモン・レイノルズが1999年に気づいた連続性：UK Hardcore Rave（1991）→ Jungle → Drum and Bass → UK Garage → Grime → Dubstep → UK Funky → UK Bass。繋いでいるのはジャマイカ移民のサウンドシステム文化・海賊ラジオ・ロンドン東部と南部の黒人コミュニティ・DIY白レーベル12インチ。そしてどの世代でも変わらなかったベースの重さ。レイノルズ著『Energy Flash』（1998）・The Wire 第300号連続エッセイ（2009年2月）。批判：ロンドン中心主義・白人批評家による定義問題。EP-50 節目に全EPを貫く1本の線を可視化。
+
 - EP-49 (2026-06-07): Warp Records — ダンスフロアを捨てた夜、電子音楽は芸術になった。 — Sheffield 製鉄業衰退の廃工場から誕生（Steve Beckett・Rob Mitchell・Rob Gordon 1989年創設）→ LFO「LFO」UK #12・130,000枚・Bleep Techno 確立（1990）→「Artificial Intelligence」コンピ（1992）= Aphex Twin・Autechre・Richie Hawtin「座って聴け・踊らなくていい」IDM 宣言 → Boards of Canada・Squarepusher・Broadcast も輩出 → Rob Mitchell 38歳死去（2001）→「シングルでなくアルバム・一夜でなく生涯」フィロソフィー
 
 - EP-48 (2026-06-06): Bristol Sound — 誰も踊らなかった。でも、世界中が止まった。 — Wild Bunch（1979・ブリストルSt. Paulsサウンドシステム集団：3D・Mushroom・Daddy G・Tricky Kid・Nellee Hooper）→ Massive Attack「Blue Lines」（1991年4月8日）「最初のtrip-hopアルバム」→「Unfinished Sympathy」40ピースオーケストラ×LAワンカットMV（Shara Nelson）→ 湾岸戦争中「Massive」に改名 → Portishead「Dummy」（1994年8月22日）失業給付コースで出会ったGeoff Barrow＋Beth Gibbons・Mercury Prize → Tricky「Maxinquaye」（1995）囁くような暗闇 → 3者全員が「trip-hop」ラベルを拒否 → 世界はその名前で覚えた
@@ -52,6 +54,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 50 | Hardcore Continuum — 全部、1本の線だった。 | ✅ Complete | 2026-06-08 | — |
 | 49 | Warp Records — ダンスフロアを捨てた夜、電子音楽は芸術になった。 | ✅ Complete | 2026-06-07 | — |
 | 48 | Bristol Sound — 誰も踊らなかった。でも、世界中が止まった。 | ✅ Complete | 2026-06-06 | — |
 | 47 | Metalheadz — 日曜の地下室が、世界で一番暗い部屋だった | ✅ Complete | 2026-06-05 | — |
