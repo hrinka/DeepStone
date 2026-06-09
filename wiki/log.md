@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-09] branding | Visual Brand System 正式制定
+- 2アカウントの公式ブランド定義: [[Visual Brand System]]
+- FLAVA FM = Moonlit Herbalist（月光ハーバリスト・6色）/ PLUR SYSTEM DIARY = Sound System Black（黒白6色）
+- theme-factory skill インストール＋カスタムテーマ2件登録（~/.claude/skills/theme-factory/themes/）
+- プレビュー: brand/palettes-preview.html
+- レイブアカウント名を「PLUR SYSTEM DIARY」(@plur_system_diary) に制定
+
 ## [2026-06-08] auto-ep | EP-50: Hardcore Continuum — 全部、1本の線だった。
 - Script (50〜60秒): rave-team/output/EP-50/script_ja.md
 - Carousel (8枚): rave-team/output/EP-50/carousel.md

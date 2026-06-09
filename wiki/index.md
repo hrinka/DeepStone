@@ -134,6 +134,7 @@ tags:
 |---|---|
 |[[Rinka Content Vision]]|Rinka's content strategy: UK Bass Music × Japanese sensibility; DeepStone as personal bible; 3 personas|
 |[[Charlotte R1nR1n Rave Dictionary]]|Operational plan: content pipeline, weekly rhythm, 4-phase monetization, first 10 posts（→ concepts/music/）|
+|[[Visual Brand System]]|公式ブランド定義：FLAVA FM（月光ハーバリスト）／ PLUR SYSTEM DIARY（サウンドシステム黒白）の配色・トーン・自動投稿ルール|
 
 ---
 

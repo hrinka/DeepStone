@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rinka — Brand Palettes</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,"Hiragino Sans",sans-serif; background:#1c1c1e; color:#eee; padding:40px 24px; }
+  h1 { font-size:14px; letter-spacing:3px; text-transform:uppercase; color:#888; text-align:center; margin-bottom:36px; }
+  .wrap { max-width:980px; margin:0 auto; display:grid; gap:40px; }
+  .theme { border-radius:20px; overflow:hidden; box-shadow:0 12px 40px rgba(0,0,0,.5); }
+  .theme-head { padding:28px 32px; }
+  .theme-head .label { font-size:11px; letter-spacing:2px; text-transform:uppercase; opacity:.7; }
+  .theme-head .name { font-size:30px; font-weight:700; margin-top:6px; }
+  .theme-head .desc { font-size:13px; margin-top:10px; opacity:.85; line-height:1.6; max-width:560px; }
+  .swatches { display:grid; grid-template-columns:repeat(6,1fr); }
+  .sw { height:140px; display:flex; flex-direction:column; justify-content:flex-end; padding:12px; }
+  .sw .cn { font-size:11px; font-weight:700; }
+  .sw .hex { font-size:10px; font-family:ui-monospace,monospace; opacity:.9; margin-top:2px; }
+  .demo { padding:36px 32px; }
+  .demo .title { font-size:26px; font-weight:700; margin-bottom:8px; }
+  .demo .sub { font-size:14px; opacity:.85; margin-bottom:18px; }
+  .pill { display:inline-block; font-size:11px; padding:5px 12px; border-radius:999px; margin-right:8px; }
+  @media(max-width:680px){ .swatches{grid-template-columns:repeat(3,1fr);} .sw{height:110px;} }
+</style>
+</head>
+<body>
+<h1>Rinka · Brand Palettes · theme-factory</h1>
+<div class="wrap">
+
+  <!-- FLAVA FM -->
+  <div class="theme">
+    <div class="theme-head" style="background:#F4EFE6; color:#2C2A26;">
+      <div class="label">🌿 Aroma Channel</div>
+      <div class="name">FLAVA FM</div>
+      <div class="desc">Moonlit Herbalist — 白魔女 × 数秘 × アロマ × ハーブ菜園。見た瞬間に呼吸が深くなる、攻撃性ゼロの癒し配色。</div>
+    </div>
+    <div class="swatches">
+      <div class="sw" style="background:#869177;color:#fff;"><div class="cn">セージグリーン</div><div class="hex">#869177</div></div>
+      <div class="sw" style="background:#A99BC0;color:#fff;"><div class="cn">ムーンラベンダー</div><div class="hex">#A99BC0</div></div>
+      <div class="sw" style="background:#C9A86A;color:#fff;"><div class="cn">光のゴールド</div><div class="hex">#C9A86A</div></div>
+      <div class="sw" style="background:#33403A;color:#fff;"><div class="cn">森の夜</div><div class="hex">#33403A</div></div>
+      <div class="sw" style="background:#F4EFE6;color:#2C2A26;border-right:1px solid #ddd;"><div class="cn">月光アイボリー</div><div class="hex">#F4EFE6</div></div>
+      <div class="sw" style="background:#2C2A26;color:#fff;"><div class="cn">大地の墨</div><div class="hex">#2C2A26</div></div>
+    </div>
+    <div class="demo" style="background:#F4EFE6; color:#2C2A26;">
+      <div class="title" style="color:#33403A;">香りが、感情を変える。</div>
+      <div class="sub" style="color:#869177;">嗅覚は、脳にいちばん近い感覚。</div>
+      <span class="pill" style="background:#869177;color:#fff;">アロマ</span>
+      <span class="pill" style="background:#A99BC0;color:#fff;">数秘</span>
+      <span class="pill" style="background:#C9A86A;color:#fff;">波動UP</span>
+    </div>
+  </div>
+
+  <!-- PLUR SYSTEM DIARY -->
+  <div class="theme">
+    <div class="theme-head" style="background:#0A0A0A; color:#ECECEC; border-bottom:1px solid #2a2a2a;">
+      <div class="label">🖤 Rave Account</div>
+      <div class="name">PLUR SYSTEM DIARY</div>
+      <div class="desc">Sound System Black — UK Bass × Dub × 夜 × PLUR。海賊ラジオの系譜を継ぐ、削ぎ落とした漆黒。</div>
+    </div>
+    <div class="swatches">
+      <div class="sw" style="background:#0A0A0A;color:#ECECEC;border-right:1px solid #222;"><div class="cn">漆黒</div><div class="hex">#0A0A0A</div></div>
+      <div class="sw" style="background:#171717;color:#ECECEC;"><div class="cn">スモーク</div><div class="hex">#171717</div></div>
+      <div class="sw" style="background:#4A4A4A;color:#fff;"><div class="cn">アッシュ</div><div class="hex">#4A4A4A</div></div>
+      <div class="sw" style="background:#9B9B9B;color:#111;"><div class="cn">フォグ</div><div class="hex">#9B9B9B</div></div>
+      <div class="sw" style="background:#ECECEC;color:#111;"><div class="cn">オフホワイト</div><div class="hex">#ECECEC</div></div>
+      <div class="sw" style="background:#FFFFFF;color:#111;border-left:1px solid #ccc;"><div class="cn">ストロボ白</div><div class="hex">#FFFFFF</div></div>
+    </div>
+    <div class="demo" style="background:#0A0A0A; color:#ECECEC;">
+      <div class="title" style="color:#FFFFFF;">低音で、世界の周波数を上げる。</div>
+      <div class="sub" style="color:#9B9B9B;">UK Bass / Dub / Sound System Culture</div>
+      <span class="pill" style="background:#ECECEC;color:#0A0A0A;">PEACE</span>
+      <span class="pill" style="background:#4A4A4A;color:#fff;">LOVE</span>
+      <span class="pill" style="background:#171717;color:#ECECEC;border:1px solid #4A4A4A;">UNITY</span>
+      <span class="pill" style="background:#FFFFFF;color:#0A0A0A;">RESPECT</span>
+      <div style="margin-top:16px;font-size:11px;color:#666;">隠し味（任意）：
+        <span class="pill" style="background:#B026FF;color:#fff;">UV #B026FF</span>
+        <span class="pill" style="background:#FF2D2D;color:#fff;">Strobe #FF2D2D</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
