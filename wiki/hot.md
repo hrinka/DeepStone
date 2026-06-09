@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-08
+updated: 2026-06-09
 tags:
   - meta
   - hot-cache
@@ -16,6 +16,7 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-06-09: EP-51「The Prodigy — 最初は、踊っていただけだった。」生成・GitHub push 完了（ブレインツリーの The Barn でキース・フリントとライム・ハウレットが出会う（1990）→ 「Music for the Jilted Generation」（1994）=CJA 1994への怒りで制作・明るいレイブサウンドを全廃→インダストリアル×テクノ→ 「Firestarter」（1996）でフリントがダンサーからフロントマンへ転身・UK #1・MTV半ば放送禁止 → 「Fat of the Land」（1997年6月30日）初週317,000枚・20カ国1位・US Billboard 200首位・UK最速セールスダンスアルバム → パンク×レイブ×インダストリアルロックの融合 → 2019年3月4日 Keith Flint 享年49歳 → ハックニー壁画（Akse P19, 2021年9月9日 Beechwood Road）→ 2026年3月 Essex Bocking メモリアルベンチ）。
 2026-06-09: POST-51「草は、月を見ている。— 月暦で育てる白魔女のハーブ菜園」生成・GitHub push 完了（ハーブ菜園ピラー / バイオダイナミック農業 / ルドルフ・シュタイナー1924年「農業講座」/ 根の日（牡羊・獅子・射手）・葉の日（蟹・蠍・魚）・花の日（双子・天秤・水瓶）・果実の日（牡牛・乙女・山羊）の4種類 / 新月=種まき・意図設定 / 満月=香り成分ピーク・収穫ベスト / 下弦=剪定・手放し / Rinka菜園10種ハーブ全て適用表付き / 「月と話すように育てること」= 波動を合わせる白魔女の農法）。
 2026-06-09: ブランド正式制定——[[Visual Brand System]] 作成。FLAVA FM（月光ハーバリスト・#F4EFE6/#869177/#A99BC0/#C9A86A/#33403A/#2C2A26）／ PLUR SYSTEM DIARY（黒白・#0A0A0A〜#FFFFFF）の配色確定。theme-factory skill導入＋カスタムテーマ2件。レイブアカウント名「PLUR SYSTEM DIARY」(@plur_system_diary)制定。Nano Banana（Gemini 2.5 Flash Image）で無料画像生成500枚/日 導入準備中（要Gemini APIキー）。朝のレター復活（💌 毎朝7:00 JST、旧Daily Brief改名）。OpenClaw Telegram送信停止。
 2026-06-08: EP-50「Hardcore Continuum — 全部、1本の線だった。」生成・GitHub push 完了（Simon Reynolds が1999年に2ステップ・ガレージの6本目の記事を書きながら気づいた連続性：UK Hardcore Rave（1991）→ Jungle（1993）→ Drum and Bass（1995）→ UK Garage（1997）→ Grime（2001）→ Dubstep（2002）→ UK Funky（2005）。連続するのは4つ：①ジャマイカ移民のサウンドシステム文化 ②海賊ラジオ ③ロンドン東部/南部の黒人ブリティッシュ・コミュニティ ④ベースの重さだけは変わらなかった。著書『Energy Flash』（1998年）/The Wire 第300号連続エッセイ（2009年2月）。批判：ロンドン中心主義・白人批評家の定義問題・進化論的誤謬。EP-50 節目にこれまでの全エピソードを貫く一本の線を可視化）。

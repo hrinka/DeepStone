@@ -121,6 +121,12 @@ tags:
 |[[Research: Japanese Dub Scene]]|Synthesis: Japanese dub scene history, key artists, open questions|
 |[[Research: Dub Techno and Grime]]|Synthesis: Basic Channel / Berlin dub techno + Grime's dub DNA|
 
+## Sources (Rave — EP)
+
+|Page|Description|
+|---|---|
+|[[EP-51 — 2026-06-09 — the-prodigy-fire-from-essex]]|The Prodigy: エセックスのダンサー → 世界制覇。CJA抵抗・Keith Flint・Fat of the Land（1997）|
+
 ## Sources (Dub)
 
 |Page|Description|

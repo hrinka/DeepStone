@@ -14,6 +14,14 @@
 - プレビュー: brand/palettes-preview.html
 - レイブアカウント名を「PLUR SYSTEM DIARY」(@plur_system_diary) に制定
 
+## [2026-06-09] auto-ep | EP-51: The Prodigy — 最初は、踊っていただけだった。
+- Script (50〜55秒): rave-team/output/EP-51/script_ja.md
+- Carousel (8枚): rave-team/output/EP-51/carousel.md
+- Research memo: rave-team/output/EP-51/research.md
+- Wiki source: wiki/sources/rave/EP-51 — 2026-06-09 — the-prodigy-fire-from-essex.md
+- ピラー: the-prodigy / keith-flint / liam-howlett / essex-rave / criminal-justice-act / fat-of-the-land / punk-rave
+- トピック: ブレインツリーのレイブクラブ The Barn でダンサーだったキース・フリントが世界的フロントマンへ。「Music for the Jilted Generation」（1994）はCJAへの怒りで生まれた。「Fat of the Land」（1997）初週317,000枚・20カ国1位。2019年3月4日Keith Flint 享年49歳で逝去。ハックニー壁画（2021）に炎は生き続ける。
+
 ## [2026-06-08] auto-ep | EP-50: Hardcore Continuum — 全部、1本の線だった。
 - Script (50〜60秒): rave-team/output/EP-50/script_ja.md
 - Carousel (8枚): rave-team/output/EP-50/carousel.md
