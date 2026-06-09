@@ -24,7 +24,7 @@ slides.json schema:
 """
 import json, sys, argparse, math, random
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageChops
+from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageChops, ImageOps
 
 W, H = 1080, 1350  # Instagram 4:5
 TEX = Path(__file__).parent / "textures"
@@ -110,9 +110,11 @@ def add_grain(img, sigma):
     rgb = Image.merge("RGB", (noise, noise, noise))
     return ImageChops.overlay(img, rgb)
 
-def make_bg(theme, src, darken):
+def make_bg(theme, src, darken, bw=False):
     if src and Path(src).exists():
         im = Image.open(src).convert("RGB")
+        if bw:  # 白黒化（PLURのモノクロ世界に合わせる）
+            im = ImageOps.grayscale(im).convert("RGB")
         r = max(W/im.width, H/im.height)
         im = im.resize((int(im.width*r), int(im.height*r)))
         x = (im.width-W)//2; y = (im.height-H)//2
@@ -121,18 +123,31 @@ def make_bg(theme, src, darken):
     base = Image.new("RGB", (W, H), theme["bg"])
     return add_grain(base, theme["grain"])  # フラット地にグレインを乗せて単調回避
 
-def render_slide(slide, theme, cover_bg):
+def _resolve(base_dir, p):
+    if not p:
+        return None
+    pp = Path(p)
+    if pp.is_absolute() or pp.exists():
+        return str(pp)
+    return str(Path(base_dir) / pp)  # slides.json の隣を基準に解決
+
+def render_slide(slide, theme, cover_bg, base_dir="."):
     typ = slide.get("type", "body")
-    per_bg = slide.get("bg")
+    per_bg = _resolve(base_dir, slide.get("bg"))
+    bw = bool(slide.get("bw", False))
     if typ == "cover":
         # 表紙：cover.jpg があればそれ、無ければテーマ地
         src = cover_bg or per_bg
         darken = 0.45 if theme["bg"] == "#0A0A0A" else 0.82
+    elif per_bg:
+        # 2〜8枚目で写真を個別指定：文字を読ませるため強めに暗くする
+        src = per_bg
+        darken = 0.5 if theme["bg"] == "#0A0A0A" else 0.8
     else:
-        # 2〜8枚目：個別指定 > ブランド共通テクスチャ > 単色グレイン
-        src = per_bg or theme.get("body_texture")
+        # ブランド共通テクスチャ > 単色グレイン
+        src = theme.get("body_texture")
         darken = theme.get("body_dark", 0.8)
-    img = make_bg(theme, src, darken)
+    img = make_bg(theme, src, darken, bw=bw)
     d = ImageDraw.Draw(img)
     pad = 110
     mw = W - 2*pad
@@ -182,10 +197,11 @@ def main():
     if bgc:
         theme["bg"] = bgc
 
+    base_dir = Path(a.slides_json).parent  # 個別bgはjsonの隣を基準に解決
     out = Path(a.out); out.mkdir(parents=True, exist_ok=True)
     slides = spec["slides"]
     for i, s in enumerate(slides, 1):
-        img = render_slide(s, theme, a.cover_bg)
+        img = render_slide(s, theme, a.cover_bg, base_dir)
         p = out / f"slide_{i:02d}.png"
         img.save(p, "PNG")
         print("saved", p)

@@ -41,6 +41,9 @@ _attachments/
 **/IMG_*.png
 **/IMG_*.HEIC
 **/IMG_*.heic
+**/bg-*.jpg
+**/bg-*.jpeg
+**/bg-*.png
 
 # レンダー済みスライドPNG（slides.jsonから再生成可・写真が焼き込まれるため公開しない）
 **/slides/slide_*.png
