@@ -27,6 +27,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageChops
 
 W, H = 1080, 1350  # Instagram 4:5
+TEX = Path(__file__).parent / "textures"
 
 THEMES = {
     "plur": {
@@ -35,6 +36,8 @@ THEMES = {
         "font_head": "/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf",
         "font_body": "/System/Library/Fonts/HelveticaNeue.ttc",
         "motif": True, "grain": 14,
+        # 2〜8枚目(body)のブランド共通地。あれば自動採用＝全PLUR投稿が「日記」の質感に。
+        "body_texture": str(TEX / "notebook-black.jpg"), "body_dark": 0.78,
     },
     "flava": {
         "bg": "#F4EFE6", "main": "#33403A", "strobe": "#869177",
@@ -42,6 +45,7 @@ THEMES = {
         "font_head": "/System/Library/Fonts/Hiragino Sans GB.ttc",
         "font_body": "/System/Library/Fonts/Hiragino Sans GB.ttc",
         "motif": False, "grain": 6,
+        "body_texture": str(TEX / "notebook-ivory.jpg"), "body_dark": 0.92,
     },
 }
 
@@ -106,23 +110,29 @@ def add_grain(img, sigma):
     rgb = Image.merge("RGB", (noise, noise, noise))
     return ImageChops.overlay(img, rgb)
 
-def make_bg(theme, src, is_cover):
+def make_bg(theme, src, darken):
     if src and Path(src).exists():
         im = Image.open(src).convert("RGB")
         r = max(W/im.width, H/im.height)
         im = im.resize((int(im.width*r), int(im.height*r)))
         x = (im.width-W)//2; y = (im.height-H)//2
         im = im.crop((x, y, x+W, y+H))
-        f = 0.45 if theme["bg"] == "#0A0A0A" else 0.82  # 文字可読性のため暗く/淡く
-        return ImageEnhance.Brightness(im).enhance(f)
+        return ImageEnhance.Brightness(im).enhance(darken)
     base = Image.new("RGB", (W, H), theme["bg"])
     return add_grain(base, theme["grain"])  # フラット地にグレインを乗せて単調回避
 
 def render_slide(slide, theme, cover_bg):
     typ = slide.get("type", "body")
     per_bg = slide.get("bg")
-    src = cover_bg if (typ == "cover" and cover_bg) else per_bg
-    img = make_bg(theme, src, typ == "cover")
+    if typ == "cover":
+        # 表紙：cover.jpg があればそれ、無ければテーマ地
+        src = cover_bg or per_bg
+        darken = 0.45 if theme["bg"] == "#0A0A0A" else 0.82
+    else:
+        # 2〜8枚目：個別指定 > ブランド共通テクスチャ > 単色グレイン
+        src = per_bg or theme.get("body_texture")
+        darken = theme.get("body_dark", 0.8)
+    img = make_bg(theme, src, darken)
     d = ImageDraw.Draw(img)
     pad = 110
     mw = W - 2*pad
