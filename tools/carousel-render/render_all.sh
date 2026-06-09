@@ -19,13 +19,14 @@ while IFS= read -r json; do
   if [ -d "$out" ] && [ "$out/slide_01.png" -nt "$json" ]; then
     continue
   fi
-  bg=""
-  for cand in "$dir/bg.jpg" "$dir/bg.png" "$dir/bg.jpeg"; do
-    [ -f "$cand" ] && bg="$cand" && break
+  # 表紙(slide1)だけに敷く背景。cover.jpg/png があれば採用。2枚目以降は私のデザイン地。
+  cover=""
+  for cand in "$dir/cover.jpg" "$dir/cover.png" "$dir/cover.jpeg"; do
+    [ -f "$cand" ] && cover="$cand" && break
   done
   echo "▶ $dir"
-  if [ -n "$bg" ]; then
-    "$PY" "$RENDER" "$json" --out "$out" --bg "$bg"
+  if [ -n "$cover" ]; then
+    "$PY" "$RENDER" "$json" --out "$out" --cover-bg "$cover"
   else
     "$PY" "$RENDER" "$json" --out "$out"
   fi
