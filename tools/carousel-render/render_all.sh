@@ -19,9 +19,9 @@ while IFS= read -r json; do
   if [ -d "$out" ] && [ "$out/slide_01.png" -nt "$json" ]; then
     continue
   fi
-  # 表紙(slide1)だけに敷く背景。cover.jpg/png があれば採用。2枚目以降は私のデザイン地。
+  # 表紙(slide1)だけに敷く背景。cover*.jpg / cover(1).jpg / cover 2.png 等を拾う（最初の1枚）。
   cover=""
-  for cand in "$dir/cover.jpg" "$dir/cover.png" "$dir/cover.jpeg"; do
+  for cand in "$dir"/cover*.jpg "$dir"/cover*.jpeg "$dir"/cover*.png "$dir"/cover*.JPG "$dir"/cover*.PNG; do
     [ -f "$cand" ] && cover="$cand" && break
   done
   echo "▶ $dir"

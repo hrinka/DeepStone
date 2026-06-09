@@ -31,3 +31,16 @@ node_modules/
 
 # 画像（ローカルのみ・GitHub には上げない）
 _attachments/
+
+# カルーセル表紙の個人写真（ローカルのみ・流出防止）
+**/cover*.jpg
+**/cover*.jpeg
+**/cover*.png
+**/IMG_*.jpg
+**/IMG_*.jpeg
+**/IMG_*.png
+**/IMG_*.HEIC
+**/IMG_*.heic
+
+# レンダー済みスライドPNG（slides.jsonから再生成可・写真が焼き込まれるため公開しない）
+**/slides/slide_*.png
