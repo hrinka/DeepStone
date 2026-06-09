@@ -1,14 +1,15 @@
 {
   "account": "plur",
   "background": {"color": "#0A0A0A"},
+  "_note": "cover(slide1)の背景は cover.jpg を置けば自動採用。text/quote等は配列で1行ずつ＝意味・カンマ・ハイフンで改行。",
   "slides": [
     {"type": "cover", "main": "PLUR", "sub": "the unwritten law of the dancefloor"},
-    {"type": "body", "text": "Peace. Love. Unity. Respect.", "sub": "Four words. One code."},
-    {"type": "body", "text": "It wasn't written by a philosopher.", "sub": "It was shouted from a stage."},
-    {"type": "body", "text": "Brooklyn. Early 90s.", "sub": "A fight breaks out in the middle of a rave."},
-    {"type": "quote", "quote": "Show some peace, love and unity — or I'll break your faces.", "note": "Frankie Bones. He threatened them into peace."},
-    {"type": "body", "text": "'Respect' came later.", "sub": "The fourth pillar. PLUR was complete."},
-    {"type": "body", "text": "It became a handshake.", "sub": "Kandi beads, traded hand to hand."},
-    {"type": "cta", "text": "A rave isn't an event.", "strobe": "It's an agreement.", "cta": "Save this. Pass it on — hand to hand."}
+    {"type": "body", "text": ["Peace. Love.", "Unity. Respect."], "sub": "Four words. One code."},
+    {"type": "body", "text": ["It wasn't written", "by a philosopher."], "sub": "It was shouted from a stage."},
+    {"type": "body", "text": ["Brooklyn.", "Early 90s."], "sub": "A fight breaks out in the middle of a rave."},
+    {"type": "quote", "quote": ["Show some peace,", "love and unity —", "or I'll break your faces."], "note": "Frankie Bones. He threatened them into peace."},
+    {"type": "body", "text": ["'Respect'", "came later."], "sub": "The fourth pillar. PLUR was complete."},
+    {"type": "body", "text": ["It became", "a handshake."], "sub": "Kandi beads, traded hand to hand."},
+    {"type": "cta", "text": ["A rave isn't", "an event."], "strobe": "It's an agreement.", "cta": "Save this. Pass it on — hand to hand."}
   ]
 }
