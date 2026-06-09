@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "rave-team/output/LAUNCH-01-PLUR/IMG_5783.jpg"
+                "file": "rave-team/output/LAUNCH-01-PLUR/cover.jpg"
               },
               "icon": "lucide-image",
-              "title": "IMG_5783"
+              "title": "cover"
             }
           }
         ]
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f04656cf52464558",
+  "active": "3ea8fc1ac4812fd1",
   "lastOpenFiles": [
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_08.png",
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_07.png",
@@ -189,9 +189,9 @@
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_03.png",
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_02.png",
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_01.png",
-    "rave-team/output/LAUNCH-01-PLUR/cover.jpg",
     "rave-team/output/EP-01/discussion.md",
-    "rave-team/output/LAUNCH-01-PLUR/IMG_5783.jpg",
+    "rave-team/output/LAUNCH-01-PLUR/cover.jpg",
+    "rave-team/output/LAUNCH-01-PLUR/cover.jpg",
     "rave-team/output/EP-01/carousel.md",
     "rave-team/output/EP-01/script_ja.md",
     "rave-team/output/EP-01/script_en.md",
@@ -204,7 +204,6 @@
     "tools",
     "journal/2026-06-09.md",
     "rave-team/output/LAUNCH-01-PLUR",
-    "brand/test-images/poll_test.png",
     "brand/test-images",
     "wiki/concepts/Instagram Carousel Playbook.md",
     "wiki/concepts/Visual Brand System.md",
