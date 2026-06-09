@@ -11,12 +11,14 @@
             "id": "f04656cf52464558",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "rave-team/output/LAUNCH-01-PLUR/cover.jpg"
+                "file": "rave-team/output/LAUNCH-01-PLUR/carousel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "cover"
+              "icon": "lucide-file",
+              "title": "carousel"
             }
           }
         ]
@@ -179,23 +181,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ea8fc1ac4812fd1",
+  "active": "f04656cf52464558",
   "lastOpenFiles": [
-    "rave-team/output/LAUNCH-01-PLUR/slides/slide_08.png",
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_07.png",
+    "rave-team/output/LAUNCH-01-PLUR/cover.jpg",
+    "rave-team/output/LAUNCH-01-PLUR/carousel.md",
+    "rave-team/output/LAUNCH-01-PLUR/bg-07.png",
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_06.png",
-    "rave-team/output/LAUNCH-01-PLUR/slides/slide_05.png",
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_04.png",
-    "rave-team/output/LAUNCH-01-PLUR/slides/slide_03.png",
-    "rave-team/output/LAUNCH-01-PLUR/slides/slide_02.png",
     "rave-team/output/LAUNCH-01-PLUR/slides/slide_01.png",
+    "rave-team/output/LAUNCH-01-PLUR/slides/slide_02.png",
+    "rave-team/output/LAUNCH-01-PLUR/slides/slide_08.png",
+    "rave-team/output/LAUNCH-01-PLUR/slides/slide_05.png",
+    "rave-team/output/LAUNCH-01-PLUR/slides/slide_03.png",
+    "tools/carousel-render/textures/notebook-black.jpg",
+    "tools/carousel-render/textures/README.md",
+    "tools/carousel-render/textures",
     "rave-team/output/EP-01/discussion.md",
-    "rave-team/output/LAUNCH-01-PLUR/cover.jpg",
-    "rave-team/output/LAUNCH-01-PLUR/cover.jpg",
     "rave-team/output/EP-01/carousel.md",
     "rave-team/output/EP-01/script_ja.md",
     "rave-team/output/EP-01/script_en.md",
-    "rave-team/output/LAUNCH-01-PLUR/carousel.md",
     "tools/carousel-render/render_all.sh",
     "rave-team/output/LAUNCH-01-PLUR/slides",
     "rave-team/output/LAUNCH-01-PLUR/slides.json",
@@ -208,7 +213,6 @@
     "wiki/concepts/Instagram Carousel Playbook.md",
     "wiki/concepts/Visual Brand System.md",
     "brand/palettes-preview.html",
-    "brand",
     "journal/2026-06-06.md",
     "journal/2026-06-05.md",
     "journal/2026-06-04.md",
@@ -225,7 +229,6 @@
     "rave-team/output/EP-49/script_ja.md",
     "rave-team/output/EP-49/research.md",
     "rave-team/output/EP-49/carousel.md",
-    "rave-team/output/EP-48/script_ja.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
