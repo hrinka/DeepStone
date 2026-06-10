@@ -1,0 +1,77 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0F"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "The Underground Took the Prize.",
+      "sub": "Drum and Bass — 1993 to 1997"
+    },
+    {
+      "type": "body",
+      "text": [
+        "1993. London.",
+        "Jungle was changing.",
+        "Reggae samples left.",
+        "Something colder came in."
+      ],
+      "sub": "Metal bass. Mechanical dreams."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1994. Goldie — 'Inner City Life.'",
+        "175 BPM.",
+        "Strings that made you feel.",
+        "This was not club music."
+      ],
+      "sub": "This was art."
+    },
+    {
+      "type": "body",
+      "text": [
+        "LTJ Bukem brought intelligence into the room.",
+        "'Logical Progression,' 1996.",
+        "Jazz, ambient, DnB.",
+        "You could hear it anywhere."
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "The dancefloor and the bedroom,",
+        "the same record."
+      ],
+      "note": "That had never happened in club music before."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1997. Roni Size won the Mercury Prize.",
+        "Britain's most prestigious music award.",
+        "The underground",
+        "stood at the top."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "DnB is not one thing.",
+        "Liquid Funk — soft, melodic.",
+        "Neurofunk — cold, mechanical.",
+        "Techstep — steel and silence."
+      ],
+      "sub": "The bass arrives first. Always."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Not the speed.",
+        "The silence between the notes.",
+        "That is DnB."
+      ],
+      "strobe": "The underground outlasted everything.",
+      "cta": "Save this. Listen again."
+    }
+  ]
+}

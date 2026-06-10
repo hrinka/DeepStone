@@ -1,0 +1,76 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "They Made Music a Crime.",
+      "sub": "UK Criminal Justice Act, 1994"
+    },
+    {
+      "type": "body",
+      "text": [
+        "May 1992.",
+        "A field in England.",
+        "20,000 people.",
+        "No one sent invitations."
+      ],
+      "sub": "The sound was playing. That was enough."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Castlemorton Common.",
+        "One week. It did not end.",
+        "Spiral Tribe. Bedlam. DiY Sound System."
+      ],
+      "sub": "The government panicked."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Music characterised by the emission",
+        "of a succession of repetitive beats."
+      ],
+      "note": "The legal definition. Techno became illegal."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Police could stop anyone within 8 kilometres.",
+        "Preparing for a rave was enough to be arrested.",
+        "20 people. A repetitive beat.",
+        "That was a crime."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "Autechre wrote 65 beat patterns into one track.",
+        "Proof it was not repetitive.",
+        "The sleeve note read:",
+        "bring a lawyer and a musicologist."
+      ],
+      "sub": "They fought back with sound."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The Prodigy named it.",
+        "Their Law.",
+        "The law could not stop the music.",
+        "It only drove it underground."
+      ],
+      "sub": "And the underground built everything."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Free parties still happen.",
+        "The law never caught up."
+      ],
+      "strobe": "Music outlasted the act.",
+      "cta": "Save this. You will want to come back."
+    }
+  ]
+}
