@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "rave-team/output/EP-02/slide_3.png"
+                "file": "rave-team/output/EP-01/slides/slide_05.png"
               },
               "icon": "lucide-image",
-              "title": "slide_3"
+              "title": "slide_05"
             }
           }
         ]
@@ -181,19 +181,19 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
-    "rave-team/output/EP-07/slides/slide_08.png",
-    "rave-team/output/EP-07/slides/slide_07.png",
-    "rave-team/output/EP-07/slides/slide_06.png",
-    "rave-team/output/EP-07/slides/slide_05.png",
-    "rave-team/output/EP-07/slides/slide_04.png",
-    "rave-team/output/EP-07/slides/slide_03.png",
-    "rave-team/output/EP-07/slides/slide_02.png",
-    "rave-team/output/EP-07/slides/slide_01.png",
+    "rave-team/output/EP-01/slides/slide_04.png",
+    "rave-team/output/EP-01/slides/slide_02.png",
+    "rave-team/output/EP-01/slides/slide_01.png",
+    "rave-team/output/EP-02/slides/slide_02.png",
+    "rave-team/output/EP-02/slides/slide_03.png",
+    "rave-team/output/EP-02/slides/slide_04.png",
+    "rave-team/output/EP-02/slides/slide_05.png",
+    "rave-team/output/EP-02/slides/slide_06.png",
+    "rave-team/output/EP-02/slides/slide_07.png",
+    "rave-team/output/EP-02/slides/slide_08.png",
+    "rave-team/output/EP-02/slides/slide_01.png",
     "rave-team/output/EP-07/slides",
     "rave-team/output/EP-07/slides.json",
-    "rave-team/output/EP-02/slides/slide_08.png",
-    "rave-team/output/EP-02/slides/slide_07.png",
-    "rave-team/output/EP-02/slides/slide_06.png",
     "wiki/concepts/spirit/futomani-divination.md",
     "wiki/concepts/spirit/hayasasura-hime.md",
     "wiki/concepts/spirit/ibukido-nushi.md",
