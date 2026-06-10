@@ -44,6 +44,9 @@ _attachments/
 **/bg-*.jpg
 **/bg-*.jpeg
 **/bg-*.png
+**/slide_[1-9].jpg
+**/slide_[1-9].jpeg
+**/slide_[1-9].png
 
 # レンダー済みスライドPNG（slides.jsonから再生成可・写真が焼き込まれるため公開しない）
 **/slides/slide_*.png

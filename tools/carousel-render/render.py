@@ -134,6 +134,17 @@ def draw_block(draw, lines, font, fill, cy, line_gap=1.18):
         y += lh
     return y
 
+def draw_colored_block(draw, items, font, cy, line_gap=1.18):
+    """(行, 色) のリストを均等な行間で1ブロックとして中央描画"""
+    asc, desc = font.getmetrics(); lh = int((asc+desc)*line_gap)
+    total = lh * len(items)
+    y = cy - total // 2
+    for ln, col in items:
+        tw = draw.textlength(ln, font=font)
+        draw.text(((W - tw) // 2, y), ln, font=font, fill=col)
+        y += lh
+    return y
+
 def waveform(draw, color, y=H-95):
     pts = []
     for x in range(80, W-80, 6):
@@ -206,9 +217,10 @@ def render_slide(slide, theme, cover_bg, base_dir="."):
     elif typ == "cta":
         big = F(theme["font_head"], 120)
         cta = F(theme["font_body"], 34)
-        y = draw_block(d, as_lines(slide.get("text"), d, big, mw), big, theme["main"], int(H*0.38))
-        if slide.get("strobe"):
-            y = draw_block(d, as_lines(slide["strobe"], d, big, mw), big, theme["strobe"], y+40)
+        # text と strobe を均等行間の1ブロックに（色だけ分ける）
+        items = [(l, theme["main"]) for l in as_lines(slide.get("text"), d, big, mw)]
+        items += [(l, theme["strobe"]) for l in as_lines(slide.get("strobe"), d, big, mw)]
+        draw_colored_block(d, items, big, int(H*0.42))
         if slide.get("cta"):
             draw_block(d, as_lines(slide["cta"], d, cta, mw), cta, theme["sub"], int(H*0.80))
     else:  # body
@@ -231,7 +243,8 @@ def main():
     a = ap.parse_args()
 
     spec = json.loads(Path(a.slides_json).read_text())
-    theme = dict(THEMES[spec.get("account", "plur")])
+    account = spec.get("account", "plur")
+    theme = dict(THEMES[account])
     bgc = spec.get("background", {}).get("color")
     if bgc:
         theme["bg"] = bgc
@@ -240,6 +253,15 @@ def main():
     out = Path(a.out); out.mkdir(parents=True, exist_ok=True)
     slides = spec["slides"]
     for i, s in enumerate(slides, 1):
+        # フォルダに slide_N.(png/jpg) があれば、そのスライドの背景に自動採用（名前の通り）
+        if "bg" not in s:
+            for e in (".png", ".jpg", ".jpeg"):
+                cand = base_dir / f"slide_{i}{e}"
+                if cand.exists():
+                    s["bg"] = str(cand)
+                    if account == "plur" and "bw" not in s:
+                        s["bw"] = True  # PLURはモノクロ統一
+                    break
         img = render_slide(s, theme, a.cover_bg, base_dir)
         p = out / f"slide_{i:02d}.png"
         img.save(p, "PNG")
