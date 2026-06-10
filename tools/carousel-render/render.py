@@ -22,8 +22,15 @@ slides.json schema:
 文字列に "\\n" を入れてもよい。1行だけ長すぎる場合のみ自動折返しでフォールバック。
 表紙(cover)の背景：--cover-bg で渡した画像を slide 1 だけに敷く（2枚目以降はテーマ地）。
 """
-import json, sys, argparse, math, random
+import json, sys, argparse, math, random, re
 from pathlib import Path
+
+# フォントが表示できない絵文字・記号を除去（tofu □ 防止）。em-dash(—)や中黒(·)は残す。
+EMOJI = re.compile(
+    "[\U0001F000-\U0001FAFF\U00002600-\U000026FF\U00002700-\U000027BF"
+    "\U0001F1E6-\U0001F1FF\U00002B00-\U00002BFF️‍]+")
+def _san(s):
+    return EMOJI.sub("", str(s)).rstrip()
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageChops, ImageOps
 
 W, H = 1080, 1350  # Instagram 4:5
@@ -89,13 +96,15 @@ def as_lines(value, draw, font, max_w):
     if value is None:
         return []
     if isinstance(value, list):
-        raw = value
+        raw = [_san(x) for x in value]
     elif "\n" in value:
-        raw = value.split("\n")
+        raw = [_san(x) for x in value.split("\n")]
     else:
-        return greedy_wrap(draw, value, font, max_w)
+        return greedy_wrap(draw, _san(value), font, max_w)
     out = []
     for ln in raw:
+        if not ln:
+            continue
         if draw.textlength(ln, font=font) > max_w:
             out.extend(greedy_wrap(draw, ln, font, max_w))  # 長すぎる行だけ救済
         else:
