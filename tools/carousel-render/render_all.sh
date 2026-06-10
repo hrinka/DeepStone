@@ -31,7 +31,7 @@ while IFS= read -r json; do
     "$PY" "$RENDER" "$json" --out "$out"
   fi
   found=$((found+1))
-done < <(find "$SCAN" -name "slides.json" -not -path "*/node_modules/*")
+done < <(find "$SCAN" -name "slides.json" -not -path "*/node_modules/*" -not -path "*/_archive/*")
 
 echo ""
 if [ "$found" -eq 0 ]; then echo "レンダー対象なし（全部最新）"; else echo "✅ $found 件レンダー完了"; fi
