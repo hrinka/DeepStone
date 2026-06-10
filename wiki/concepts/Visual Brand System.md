@@ -88,6 +88,19 @@ Peace · Love · Unity · Respect
 
 ---
 
+## ロゴ（確定 2026-06-10）— PLUR SYSTEM DIARY
+
+**2案とも採用**（用途で使い分け）。生成: `tools/carousel-render/logo_gen.py`（DIN Condensed＋音楽波形）。
+
+| ロゴ | ファイル | 用途 |
+|------|---------|------|
+| **DIARY** | `brand/logos/plur-logo-diary.png` | ヘッダー・透かし・グッズ（縦の存在感・スパイラル綴じ＝日記） |
+| **DUBPLATE** | `brand/logos/plur-logo-dubplate.png` | Instagramプロフィール画像（円形に映える・レコード） |
+
+共通要素: 本物の音楽波形（縦バー）／全語「PLUR SYSTEM DIARY」／黒地・オフホワイト。1080×1080。
+
+---
+
 ## 言語ルール（確定 2026-06-09）
 
 | | スライド（画像内） | キャプション |
