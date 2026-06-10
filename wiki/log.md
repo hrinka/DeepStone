@@ -1,5 +1,16 @@
 # Wiki Log
 
+## [2026-06-10] autoresearch | ホツマツタヱ（秀真伝）
+- Rounds: 2 | Searches: 5 | Fetches: 3 | Pages created: 3
+- Created: [[ホツマツタヱ]], [[ヲシテ文字]], [[Research: ホツマツタヱ]]
+- Key finding: 学術的には江戸期の偽書だが、「瀬織津姫＝アマテル神（男神）の正妻」という記述が封印説の根拠。ヲシテ文字の一音一音が波動を持つという言霊思想はFLAVA FMの「言葉で波動を上げる」テーマと直結。
+
+## [2026-06-10] autoresearch | 日本神話三柱（瀬織津姫・素戔嗚尊・大己貴尊）
+- Rounds: 2 | Searches: 5 | Fetches: 4 | Pages created: 5
+- 新ピラー `wiki/concepts/spirit/` 開設
+- Created: [[瀬織津姫]], [[素戔嗚尊]], [[大己貴尊]], [[寄木神社]], [[Research: 日本神話三柱]]
+- Key finding: 平塚市大神の寄木神社（859年創建）は大己貴命（＝大国主）を祭神とし、スサノオ→大己貴尊の血統・瀬織津姫の浄化エネルギーはFLAVA FMの「白魔女・波動・浄化」テーマと完全共鳴。「スサノオの時代」＝2020年水瓶座グレートコンジャンクション以降の風の時代転換とも接続。
+
 ## [2026-06-10] 🎉 MILESTONE | PLUR SYSTEM DIARY 初投稿・Instagram デビュー
 - **Instagram アカウント `plur_system_diary` 始動・1本目を投稿**（Rinka の手で）
 - 投稿: LAUNCH-01「PLUR」— 表紙=現場写真＋PLUR / 2-6,8=黒ノート(DIARY質感) / 7=カンディ交換の白黒写真

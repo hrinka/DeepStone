@@ -9,7 +9,30 @@ tags:
 
 ## Master Index
 
-> **フォルダ構成**: `wiki/concepts/music/` — 音楽・レイブ関連concept  |  `wiki/concepts/numerology/` — 数秘・アロマ関連  |  `wiki/concepts/dev/` — エンジニアリング・開発関連
+> **フォルダ構成**: `wiki/concepts/music/` — 音楽・レイブ関連concept  |  `wiki/concepts/numerology/` — 数秘・アロマ関連  |  `wiki/concepts/dev/` — エンジニアリング・開発関連  |  `wiki/concepts/spirit/` — 日本神話・霊性・高次元
+
+### Spirit & 日本神話 (→ concepts/spirit/)
+
+| Concept | Description |
+|---|---|
+| [[瀬織津姫]] | 祓戸四神の筆頭・浄化の女神・白龍・大祓詞に息づく謎の女神 |
+| [[素戔嗚尊]] | 三貴子・荒魂・変容・スサノオの時代（水瓶座転換期） |
+| [[大己貴尊]] | 縁結び・国造り・医療・出雲大社・平塚市大神の守護神 |
+| [[ホツマツタヱ]] | 40章・11万字の叙事詩。ヲシテ文字で記述。瀬織津姫をアマテル神の正妻として記録 |
+| [[ヲシテ文字]] | 一音一音に宇宙的意味・言霊が宿る神代文字。アワ歌との関係 |
+
+### Spirit Entities (→ entities/)
+
+| Entity | Description |
+|---|---|
+| [[寄木神社]] | 平塚市大神・859年創建・大己貴命祭祀・Rinkaのルーツ地 |
+
+### Spirit Research (→ questions/)
+
+| Page | Description |
+|---|---|
+| [[Research: 日本神話三柱]] | 瀬織津姫・スサノオ・大己貴尊の繋がりとFLAVA FM接続点の総合研究 |
+| [[Research: ホツマツタヱ]] | 成立・偽書論争・記紀との相違・瀬織津姫の「正妻」記述・言霊接続 |
 
 ### Genres & Concepts (→ concepts/music/)
 
