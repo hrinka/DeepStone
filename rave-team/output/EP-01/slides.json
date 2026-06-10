@@ -1,0 +1,15 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "_topic": "What is a Rave — デジタルブック第1章。レイブの本質＝一夜限りの世界・自我の溶解・PLURの約束。",
+  "slides": [
+    {"type": "cover", "main": "WHAT IS A RAVE?", "sub": "Not a party. Something older."},
+    {"type": "body", "text": ["Strip away the lights.", "The bass. The crowd."], "sub": "What's left is the oldest human act — gathering to lose yourself together."},
+    {"type": "body", "text": ["A rave is a", "temporary world."], "sub": "It appears for one night. Then vanishes. No address. No owner."},
+    {"type": "body", "text": ["Everyone", "is no one."], "sub": "No VIP. No stage to worship. The DJ faces the same dark as you."},
+    {"type": "quote", "quote": ["On the floor,", "the self dissolves."], "note": "Ego death by four-to-the-floor. This is why people cry at 4am."},
+    {"type": "body", "text": ["It was never", "about the music."], "sub": "The music is the doorway. Unity is the room."},
+    {"type": "body", "text": ["Peace. Love.", "Unity. Respect."], "sub": "A rave runs on an agreement — not a ticket."},
+    {"type": "cta", "text": ["You don't", "attend a rave."], "strobe": "You belong to it.", "cta": "Save this. This is chapter one."}
+  ]
+}
