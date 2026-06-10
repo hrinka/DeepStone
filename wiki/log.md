@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-10] auto-ep | EP-52 — Orbital
+- Files: rave-team/output/EP-52/script_ja.md, carousel.md, research.md
+- Wiki: wiki/sources/rave/EP-52 — 2026-06-10 — orbital-hartnoll.md
+- Topic: 兄弟フィル＆ポール・ハートノール / M25高速道路の名を冠したバンド / 「Chime」1ポンド物置録音 / UK#17 / グラストンベリー1994 Pyramid Stage / CJA抗議4分間無音 / メガネのトーチライト
+
 ## [2026-06-10] research | 祓戸四神全体 & フトマニ実占
 - Pages created: 5
 - Created: [[祓戸四神]], [[速秋津比売]], [[気吹戸主]], [[速佐須良比売]], [[フトマニ歌占い——実践ガイド]]

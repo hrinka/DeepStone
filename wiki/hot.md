@@ -21,6 +21,8 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-06-10: EP-52「Orbital — 階段の下の物置から、世界は始まった。」生成・GitHub push 完了（ケント州セヴノークスの兄弟フィル＆ポール・ハートノール / 1989年親父のカセットデッキで物置録音した「Chime」制作費1ポンド以下 → M25沿いレイブDJが流す → Pete Tong（FFRR）が拾いUKシングルチャート17位（1990年3月12日）→ バンド名はロンドン環状高速道路M25の別名 → グリーンアルバム（1991）・ブラウンアルバム（1993）→ グラストンベリー1994 Pyramid Stage：電子音楽がロックの聖地に立った夜・メガネにトーチライト → CJA 1994抗議：「Are We Here?」B面「Criminal Justice Bill?」4分間の完全な無音 → 「In Sides」（1996）Greenpeaceソーラー電源録音 → 2004年解散・2009年再結成）。
+
 2026-06-09: EP-51「The Prodigy — 最初は、踊っていただけだった。」生成・GitHub push 完了（ブレインツリーの The Barn でキース・フリントとライム・ハウレットが出会う（1990）→ 「Music for the Jilted Generation」（1994）=CJA 1994への怒りで制作・明るいレイブサウンドを全廃→インダストリアル×テクノ→ 「Firestarter」（1996）でフリントがダンサーからフロントマンへ転身・UK #1・MTV半ば放送禁止 → 「Fat of the Land」（1997年6月30日）初週317,000枚・20カ国1位・US Billboard 200首位・UK最速セールスダンスアルバム → パンク×レイブ×インダストリアルロックの融合 → 2019年3月4日 Keith Flint 享年49歳 → ハックニー壁画（Akse P19, 2021年9月9日 Beechwood Road）→ 2026年3月 Essex Bocking メモリアルベンチ）。
 2026-06-09: POST-51「草は、月を見ている。— 月暦で育てる白魔女のハーブ菜園」生成・GitHub push 完了（ハーブ菜園ピラー / バイオダイナミック農業 / ルドルフ・シュタイナー1924年「農業講座」/ 根の日（牡羊・獅子・射手）・葉の日（蟹・蠍・魚）・花の日（双子・天秤・水瓶）・果実の日（牡牛・乙女・山羊）の4種類 / 新月=種まき・意図設定 / 満月=香り成分ピーク・収穫ベスト / 下弦=剪定・手放し / Rinka菜園10種ハーブ全て適用表付き / 「月と話すように育てること」= 波動を合わせる白魔女の農法）。
 2026-06-10: 🎉 **PLUR SYSTEM DIARY、Instagram デビュー！** アカウント `plur_system_diary` で1本目「PLUR」を投稿（Rinkaの手で）。カルーセル制作パイプライン完成（carousel.md→slides.json→`render.py`組版→PNG、AI画像ゼロ・¥0）。DeepStone Content Team 発足（FLAVA Writer / PLUR Writer / Slides Builder[毎日8:40 JST] / Renderer `/carousel-render`）。PLUR共通テクスチャ=黒ノート(DIARY質感)、表紙=cover*.jpg差し替え、個別背景+白黒(bw)対応。写真は.gitignoreでローカル限定。**次=ロゴ制作**。
