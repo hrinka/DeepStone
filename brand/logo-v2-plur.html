@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PLUR SYSTEM DIARY — Logo v2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#1a1a1a;color:#eee;font-family:-apple-system,"Hiragino Sans",sans-serif;padding:40px 20px}
+  h1{font-family:'Oswald';font-weight:300;letter-spacing:6px;text-align:center;font-size:20px;margin-bottom:4px}
+  .note{text-align:center;color:#888;font-size:12px;margin-bottom:36px}
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:30px;max-width:920px;margin:0 auto}
+  .card{background:#0A0A0A;border:1px solid #262626;border-radius:18px;padding:26px;text-align:center}
+  .tag{font-family:'Oswald';font-weight:600;letter-spacing:2px;font-size:12px;color:#777;margin-bottom:18px}
+  .row{display:flex;align-items:center;justify-content:center;gap:24px;flex-wrap:wrap}
+  .sq{width:300px;height:300px;background:#0A0A0A;border:1px solid #222}
+  .pf{width:120px;height:120px;border-radius:50%;overflow:hidden;border:2px solid #333;flex:0 0 auto}
+  .pf svg{width:120px;height:120px}
+  .pflabel{font-size:10px;color:#666;margin-top:6px;letter-spacing:1px}
+  .desc{font-size:12px;color:#9B9B9B;line-height:1.6;margin-top:18px}
+  svg text{font-family:'Oswald'}
+</style>
+</head>
+<body>
+<h1>PLUR SYSTEM DIARY</h1>
+<div class="note">Logo v2 — 実音波形(縦バー) ＋ 全語 / 右=円形プロフィール枠プレビュー</div>
+<div class="grid">
+
+  <div class="card">
+    <div class="tag">① DIARY — spiral + soundwave</div>
+    <div class="row">
+      <svg class="sq" viewBox="0 0 300 300" id="diary-lg"></svg>
+      <div><div class="pf"><svg viewBox="0 0 300 300" id="diary-pf"></svg></div><div class="pflabel">PROFILE</div></div>
+    </div>
+    <div class="desc">スパイラル綴じ＝DIARY。中央に音楽波形。下に全語スタック。日記×音。</div>
+  </div>
+
+  <div class="card">
+    <div class="tag">② DUBPLATE — record + soundwave</div>
+    <div class="row">
+      <svg class="sq" viewBox="0 0 300 300" id="dub-lg"></svg>
+      <div><div class="pf"><svg viewBox="0 0 300 300" id="dub-pf"></svg></div><div class="pflabel">PROFILE</div></div>
+    </div>
+    <div class="desc">ダブプレート（レコード）。中央ラベルに全語、波形を芯に。回す＝音。</div>
+  </div>
+
+</div>
+
+<script>
+const HEIGHTS = [0.25,0.5,0.32,0.66,0.85,0.5,0.97,0.6,0.4,0.72,1.0,0.55,0.34,0.78,0.48,0.88,0.44,0.3,0.62,0.42,0.74,0.52,0.26,0.58,0.36,0.68,0.3,0.5,0.22];
+
+// 音楽波形：中心線から上下対称の縦バー
+function waveform(cx, cy, totalW, maxH, color, bars=HEIGHTS){
+  const n = bars.length, bw = totalW/(n*1.7), gap = bw*0.7;
+  const step = bw+gap;
+  let x = cx - (n*step - gap)/2;
+  let s = `<g fill="${color}">`;
+  for(const h of bars){
+    const hh = Math.max(maxH*h, bw);
+    s += `<rect x="${x.toFixed(1)}" y="${(cy-hh/2).toFixed(1)}" width="${bw.toFixed(1)}" height="${hh.toFixed(1)}" rx="${(bw/2).toFixed(1)}"/>`;
+    x += step;
+  }
+  return s + `</g>`;
+}
+
+// ① DIARY
+function diary(){
+  let s = '';
+  // spiral binding (top)
+  s += `<g stroke="#ECECEC" stroke-width="4" stroke-linecap="round">`;
+  for(let i=0;i<9;i++){ const x=70+i*20.5; s+=`<line x1="${x}" y1="40" x2="${x}" y2="20"/>`; }
+  s += `</g>`;
+  s += `<line x1="55" y1="40" x2="245" y2="40" stroke="#444" stroke-width="1.5"/>`;
+  // soundwave
+  s += waveform(150, 120, 200, 110, '#FFFFFF');
+  // wordmark all three words
+  s += `<text x="150" y="205" fill="#fff" font-weight="700" font-size="40" text-anchor="middle" letter-spacing="3">PLUR</text>`;
+  s += `<text x="150" y="240" fill="#ECECEC" font-weight="500" font-size="22" text-anchor="middle" letter-spacing="4">SYSTEM DIARY</text>`;
+  return s;
+}
+// ② DUBPLATE
+function dub(){
+  let s = '';
+  s += `<circle cx="150" cy="150" r="120" fill="none" stroke="#ECECEC" stroke-width="2.5"/>`;
+  s += `<circle cx="150" cy="150" r="104" fill="none" stroke="#2a2a2a" stroke-width="1"/>`;
+  s += `<circle cx="150" cy="150" r="92" fill="none" stroke="#2a2a2a" stroke-width="1"/>`;
+  s += `<circle cx="150" cy="150" r="60" fill="#0A0A0A" stroke="#ECECEC" stroke-width="1.5"/>`;
+  s += `<circle cx="150" cy="150" r="5" fill="#ECECEC"/>`;
+  // soundwave across middle (under center)
+  s += waveform(150, 150, 150, 70, '#FFFFFF');
+  // wordmark
+  s += `<text x="150" y="120" fill="#fff" font-weight="700" font-size="34" text-anchor="middle" letter-spacing="2">PLUR</text>`;
+  s += `<text x="150" y="205" fill="#ECECEC" font-weight="600" font-size="15" text-anchor="middle" letter-spacing="3">SYSTEM DIARY</text>`;
+  return s;
+}
+
+const D = diary(), U = dub();
+diary_lg.innerHTML = D; diary_pf.innerHTML = D;
+dub_lg.innerHTML = U; dub_pf.innerHTML = U;
+</script>
+</body>
+</html>
