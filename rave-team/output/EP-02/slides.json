@@ -1,0 +1,52 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "PLUR",
+      "sub": "Peace. Love. Unity. Respect. — where it really came from."
+    },
+    {
+      "type": "body",
+      "text": ["Show peace, love, and unity.", "Or I will break your face."],
+      "sub": "This is where the word was born."
+    },
+    {
+      "type": "body",
+      "text": ["1993.", "Brooklyn.", "Storm Rave.", "A fight broke out."]
+    },
+    {
+      "type": "body",
+      "text": ["Frankie Bones.", "The DJ grabbed the mic."]
+    },
+    {
+      "type": "body",
+      "text": [
+        "Four years earlier, he was in London.",
+        "An aircraft hangar.",
+        "25,000 people."
+      ],
+      "sub": "He saw something he had to bring home."
+    },
+    {
+      "type": "quote",
+      "quote": ["'I am taking this back to America.'"],
+      "note": "Frankie Bones, London 1989."
+    },
+    {
+      "type": "body",
+      "text": [
+        "A word born in a night of violence",
+        "became a culture.",
+        "That is PLUR."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": ["Do you still believe in it."],
+      "strobe": "🌑",
+      "cta": "Save this."
+    }
+  ]
+}

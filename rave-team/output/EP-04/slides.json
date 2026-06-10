@@ -1,0 +1,57 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "The Moment DJs Became Artists",
+      "sub": "1973. The Bronx."
+    },
+    {
+      "type": "body",
+      "text": [
+        "When did a DJ stop being",
+        "just someone who plays records."
+      ]
+    },
+    {
+      "type": "body",
+      "text": ["1973.", "New York.", "One room in a Bronx apartment."]
+    },
+    {
+      "type": "body",
+      "text": [
+        "Kool Herc.",
+        "Two turntables.",
+        "He looped only the break.",
+        "Over and over."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "Until then, DJs were connective tissue.",
+        "The artists were always the main event."
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": ["Playing a record", "became an act of creation."],
+      "note": "The moment everything changed."
+    },
+    {
+      "type": "body",
+      "text": [
+        "House. Techno. Drum & Bass.",
+        "Every branch of electronic music",
+        "started here."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": ["The roots of electronic music", "are in the Bronx."],
+      "strobe": "🌑",
+      "cta": "Save this."
+    }
+  ]
+}

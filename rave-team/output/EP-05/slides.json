@@ -1,0 +1,64 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "Why the Neon",
+      "sub": "It wasn't fashion. It was survival."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The fluorescent yellow was not about style.",
+        "It was how you found your people",
+        "in the dark."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "1988.",
+        "People came in shoes they could run in.",
+        "In case they needed to leave fast.",
+        "Or move to the next location."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "UV gear traced your outline in the crowd.",
+        "Dummies stopped the jaw grinding.",
+        "Kandi bracelets said: you are one of us."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "1994.",
+        "The government made raves illegal.",
+        "For the first time,",
+        "a hood had a reason."
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": ["Being anonymous", "became resistance."],
+      "note": "The hood was political."
+    },
+    {
+      "type": "body",
+      "text": [
+        "This look was not designed.",
+        "It was built by the night",
+        "and what the night demanded."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": ["The origin of this aesthetic", "is after dark."],
+      "strobe": "🌑",
+      "cta": "Save this."
+    }
+  ]
+}
