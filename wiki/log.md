@@ -1,5 +1,14 @@
 # Wiki Log
 
+## [2026-06-10] 🎉 MILESTONE | PLUR SYSTEM DIARY 初投稿・Instagram デビュー
+- **Instagram アカウント `plur_system_diary` 始動・1本目を投稿**（Rinka の手で）
+- 投稿: LAUNCH-01「PLUR」— 表紙=現場写真＋PLUR / 2-6,8=黒ノート(DIARY質感) / 7=カンディ交換の白黒写真
+- 制作パイプライン完成: carousel.md → slides.json → `render.py`（Pillow組版）→ PNG。AI画像生成ゼロ・コスト¥0
+- DeepStone Content Team 発足: FLAVA Writer / PLUR Writer / **Slides Builder（新設・毎日8:40 JST）** / Renderer(`/carousel-render`)
+- ビジュアル: PLUR共通テクスチャ `notebook-black.jpg`、個別背景＋白黒(bw)対応、cover*.jpg で表紙差し替え
+- 写真流出防止: cover*/IMG_*/bg-*/slide_*.png を .gitignore（ローカル限定）
+- **次**: ロゴ制作（明日以降）
+
 ## [2026-06-09] aroma-post | POST-51: 草は、月を見ている。— 月暦で育てる白魔女のハーブ菜園
 - Carousel (8枚): flava-fm/output/POST-51/carousel.md
 - Research memo: flava-fm/output/POST-51/research.md
