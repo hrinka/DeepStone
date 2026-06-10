@@ -1,0 +1,54 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "Warehouse Party",
+      "sub": "1988. The address was just a postcode."
+    },
+    {
+      "type": "body",
+      "text": ["M25. Exit 14.", "That was all."]
+    },
+    {
+      "type": "body",
+      "text": ["No address.", "No start time.", "No ticket.", "No dress code."]
+    },
+    {
+      "type": "quote",
+      "quote": ["Finding it", "was the beginning of the experience."],
+      "note": "The search was part of it."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Concrete floor.",
+        "The smell of rust.",
+        "Almost no light.",
+        "The absence was the aesthetic."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "In 1994, the UK government",
+        "made gatherings with repetitive beats",
+        "a criminal offence."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "The tempo of music became illegal.",
+        "That law fixed the legend."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": ["There are nights you still don't know about."],
+      "strobe": "🌑",
+      "cta": "Save this."
+    }
+  ]
+}
