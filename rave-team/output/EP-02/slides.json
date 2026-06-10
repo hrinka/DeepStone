@@ -1,52 +1,15 @@
 {
   "account": "plur",
-  "background": { "color": "#0A0A0A" },
+  "background": {"color": "#0A0A0A"},
+  "_topic": "Sound System Culture — Jamaica→UK。アカウント名SYSTEMの由来。全UKベースミュージックの母。",
   "slides": [
-    {
-      "type": "cover",
-      "main": "PLUR",
-      "sub": "Peace. Love. Unity. Respect. — where it really came from."
-    },
-    {
-      "type": "body",
-      "text": ["Show peace, love, and unity.", "Or I will break your face."],
-      "sub": "This is where the word was born."
-    },
-    {
-      "type": "body",
-      "text": ["1993.", "Brooklyn.", "Storm Rave.", "A fight broke out."]
-    },
-    {
-      "type": "body",
-      "text": ["Frankie Bones.", "The DJ grabbed the mic."]
-    },
-    {
-      "type": "body",
-      "text": [
-        "Four years earlier, he was in London.",
-        "An aircraft hangar.",
-        "25,000 people."
-      ],
-      "sub": "He saw something he had to bring home."
-    },
-    {
-      "type": "quote",
-      "quote": ["'I am taking this back to America.'"],
-      "note": "Frankie Bones, London 1989."
-    },
-    {
-      "type": "body",
-      "text": [
-        "A word born in a night of violence",
-        "became a culture.",
-        "That is PLUR."
-      ]
-    },
-    {
-      "type": "cta",
-      "text": ["Do you still believe in it."],
-      "strobe": "🌑",
-      "cta": "Save this."
-    }
+    {"type": "cover", "main": "SOUND SYSTEM", "sub": "where bass became a religion"},
+    {"type": "body", "text": ["Kingston, Jamaica.", "The 1950s."], "sub": "Those who couldn't afford clubs built their own."},
+    {"type": "body", "text": ["A truck.", "Speaker stacks.", "A vacant lot."], "sub": "The dancehall was born in the street."},
+    {"type": "body", "text": ["They didn't", "play records.", "They fought", "with them."], "sub": "Sound clash — two systems, one winner. The crowd decides."},
+    {"type": "body", "text": ["Then King Tubby", "did something strange."], "sub": "He stripped the vocals. Pushed the bass. Drowned it in echo."},
+    {"type": "quote", "quote": ["The mixing desk", "became", "an instrument."], "note": "Dub was born. The remix was born. Everything downstream begins here."},
+    {"type": "body", "text": ["Windrush carried it", "to London."], "sub": "Notting Hill. The blueprint for jungle, dubstep, grime."},
+    {"type": "cta", "text": ["Bass isn't heard.", "It's felt."], "strobe": "This is the SYSTEM.", "cta": "Save this. The root of it all."}
   ]
 }

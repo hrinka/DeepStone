@@ -1,79 +1,43 @@
-# EP-02: PLUR — 顔を割る哲学 — Instagram カルーセル
+# EP-02: SOUND SYSTEM — Instagram カルーセル（作り替え 2026-06-10）
 
-## カラーパレット
-- メインカラー: #0d1117（深夜の紺黒）
-- アクセント: #e8a838（アンバー・燃える金）
-- テキスト: #f0ede6（クリーム白）
-- ムード: 緊張感・哲学・暴力と平和の共存
-- フォントイメージ: 太いサンセリフ（タイトル）× 細いゴシック（本文）
+> 旧EP-02「PLUR」はLAUNCH-01で投稿済みのため、Sound System Culture に差し替え。
+> アカウント名「PLUR SYSTEM DIARY」の "SYSTEM" の由来＝サウンドシステム文化そのもの。
 
----
+## メタ
+- アカウント: PLUR SYSTEM DIARY (@plur_system_diary)
+- スライド言語: 英語 / キャプション: 日本語
+- トピック: サウンドシステム文化（ジャマイカ→UK）。全UKベースミュージックの母。
+- 関連wiki: [[King Tubby]] [[Kingston Dub Club]] [[Sound System Culture]] [[Dub-Reggae]]
 
-## スライド1（表紙）
-**タイトル**: 「PLUR」
-**サブタイトル**: 「Peace. Love. Unity. Respect. — の本当の起源」
-**画像案**: 夜のブルックリン。工業地帯のストリート。錆びたフェンス越しに遠くにビルの灯り。冷たく、孤独な夜の質感。
-　→ 検索: `"Brooklyn industrial street night 1990s vintage photography"`
-**レイアウト**: 「PLUR」を極めて大きく画面中央。サブタイトルはその下に細く。下部1/4に収める。
+## カラーパレット（Sound System Black）
+- 背景: 黒ノート質感（body共通テクスチャ）/ 表紙=cover.jpgあれば
+- 文字: オフホワイト #ECECEC / 強調: ストロボ白 / モチーフ: 波形
 
 ---
 
-## スライド2
-**テキスト**: 「ピース、ラブ、ユニティを見せろ。さもなくば顔を割る」
-**画像案**: マイクスタンドのクローズアップ。ステージ照明の逆光。DJまたは人物のシルエットが後方に。
-　→ 検索: `"microphone stand stage backlight silhouette dark"`
-**レイアウト**: テキスト中央。引用符（「」）を大きく表示して囲む形。インパクト重視。
+## スライド構成（slides.json と一致）
+1. 表紙: SOUND SYSTEM / where bass became a religion
+2. Kingston, Jamaica. The 1950s. — クラブに行けない人々が自分たちの場を作った
+3. A truck. Speaker stacks. A vacant lot. — ダンスは street で生まれた
+4. They didn't play records. They fought with them. — サウンドクラッシュ：2台のシステム、勝者は群衆が決める
+5. Then King Tubby did something strange. — ボーカルを抜き、低音を押し上げ、エコーで沈めた
+6. （引用）The mixing desk became an instrument. — ダブ誕生・リミックス誕生・全ての源流
+7. Windrush carried it to London. — ノッティングヒル。ジャングル・ダブステップ・グライムの設計図
+8. （締め）Bass isn't heard. It's felt. / This is the SYSTEM. / 保存トリガー
 
 ---
 
-## スライド3
-**テキスト**: 「1993年。ブルックリン。Storm Rave。喧嘩が起きた。」
-**画像案**: 1990年代のレイブ会場の白黒写真風。人が密集している。暗い。光は点在する。
-　→ 検索: `"1990s rave party black white photography crowded"`
-**レイアウト**: テキスト左上に小さく年/場所。その下に大きく「喧嘩が起きた。」
+## キャプション（日本語・自動翻訳で海外も読める）
 
----
+サウンドシステム。これが、全ての低音の母。
 
-## スライド4
-**テキスト**: 「Frankie Bones。DJはマイクを掴んだ。」
-**画像案**: DJブースの手元。レコードに触れる手のクローズアップ。アナログの質感。
-　→ 検索: `"DJ hands vinyl record close up warm light analog"`
-**レイアウト**: 「Frankie Bones」を細いフォントで上部。「DJはマイクを掴んだ。」を大きく中央。
+1950年代キングストン。クラブに行けない人たちが、トラックにスピーカーを積み上げ、空き地を踊り場に変えた。セレクターたちは「サウンドクラッシュ」で音を競い合い、勝者は群衆が決めた。
 
----
+そして King Tubby が、奇妙なことをした。ボーカルを抜き、低音を押し上げ、エコーで沈める——ミキシング卓を「楽器」に変えた瞬間、ダブが生まれた。リミックスが生まれた。ここから全てが始まった。
 
-## スライド5
-**テキスト**: 「4年前、彼はロンドンにいた。飛行機格納庫の中。25,000人。」
-**画像案**: 飛行機格納庫の内部。天井が異常に高く、広大な空間。人の大群のシルエット（合成可）。霧と光。
-　→ 検索: `"aircraft hangar interior vast space crowd people"`
-**レイアウト**: 数字（25,000人）を極めて大きく中央。前後のテキストは小さく。
+ウィンドラッシュ移民がこの文化をロンドンへ運び、ジャングル・ダブステップ・グライムの設計図になった。
 
----
+低音は、聴くものじゃない。感じるもの。
+これが、SYSTEM。
 
-## スライド6
-**テキスト**: 「『これをアメリカへ持ち帰る』と彼は思った。」
-**画像案**: 飛行機の窓から見た夜の街の灯り。大西洋を越える感覚。
-　→ 検索: `"airplane window night city lights aerial view"`
-**レイアウト**: テキストを引用形式で斜体風に。画像は背景（暗め）。
-
----
-
-## スライド7
-**テキスト**: 「暴力の夜から生まれた言葉が、文化になった。それが PLUR だ。」
-**画像案**: 握手またはピースサイン。モノクロ。暗い背景に手だけ浮かぶ。
-　→ 検索: `"hand peace sign black white minimal dark background"`
-**レイアウト**: テキスト中央。「PLUR」だけアクセントカラー（アンバー）で強調。
-
----
-
-## スライド8（最終スライド）
-**テキスト**: 「あなたはまだ信じますか。　保存しておいて。」
-**画像案**: スライド1の画像をモノクロ・暗め処理で再利用。Charlotte R1nR1n タグを右下に細く。
-**レイアウト**: テキスト中央下。余白最大。ミニマル。
-
----
-
-## 制作メモ
-- アンバー（#e8a838）はテキストの強調と細いボーダーラインに使う
-- フォント案: 「Zen Kaku Gothic New」Heavy（タイトル）× 「Noto Sans JP」Light（本文）
-- Canva テンプレート参考: `"dark gold typography instagram carousel"`
+#soundsystem #dub #kingtubby #reggae #ukbass #soundclash #raveculture #plur #サウンドシステム #ダブ
