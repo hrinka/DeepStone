@@ -1,0 +1,15 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "_topic": "Acid House / TB-303。デジタルブック第3章。誰も欲しがらなかった失敗作の機械から、UKレイブが生まれた。",
+  "slides": [
+    {"type": "cover", "main": "ACID HOUSE", "sub": "born from a machine nobody wanted"},
+    {"type": "body", "text": ["Roland built", "a bass machine."], "sub": "The TB-303. 1981. Meant to replace a bass guitarist."},
+    {"type": "body", "text": ["It didn't work.", "It sounded wrong."], "sub": "Discontinued in three years. A commercial failure."},
+    {"type": "body", "text": ["Then someone turned", "the wrong knobs."], "sub": "Chicago, 1987. Phuture found the squelch by accident."},
+    {"type": "quote", "quote": ["The mistake", "became", "the sound."], "note": "Acid was born from a machine nobody wanted."},
+    {"type": "body", "text": ["It crossed", "the ocean."], "sub": "1988, Britain. Warehouses. Fields. A new world every weekend."},
+    {"type": "body", "text": ["A yellow smiley.", "Two dots, one curve."], "sub": "The face of a generation that found ecstasy — in every sense."},
+    {"type": "cta", "text": ["The future was built", "from a reject."], "strobe": "Acid never died.", "cta": "Save this. Chapter three."}
+  ]
+}
