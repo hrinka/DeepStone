@@ -1,11 +1,26 @@
 # Wiki Log
 
+## [2026-06-09] aroma-post | POST-51: 草は、月を見ている。— 月暦で育てる白魔女のハーブ菜園
+- Carousel (8枚): flava-fm/output/POST-51/carousel.md
+- Research memo: flava-fm/output/POST-51/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-51-2026-06-09-moon-gardening.md
+- ピラー: ハーブ菜園 / 月暦 / バイオダイナミック農業 / 月のリズム
+- トピック: ルドルフ・シュタイナー1924年「農業講座」/ 根の日・葉の日・花の日・果実の日 / 新月=意図設定・満月=収穫ピーク・下弦=手放し / Rinka菜園10種ハーブへの適用表 / 「月と話すように育てること」が白魔女の農法 / 科学より「気がする」感覚を大切に
+
 ## [2026-06-09] branding | Visual Brand System 正式制定
 - 2アカウントの公式ブランド定義: [[Visual Brand System]]
 - FLAVA FM = Moonlit Herbalist（月光ハーバリスト・6色）/ PLUR SYSTEM DIARY = Sound System Black（黒白6色）
 - theme-factory skill インストール＋カスタムテーマ2件登録（~/.claude/skills/theme-factory/themes/）
 - プレビュー: brand/palettes-preview.html
 - レイブアカウント名を「PLUR SYSTEM DIARY」(@plur_system_diary) に制定
+
+## [2026-06-09] auto-ep | EP-51: The Prodigy — 最初は、踊っていただけだった。
+- Script (50〜55秒): rave-team/output/EP-51/script_ja.md
+- Carousel (8枚): rave-team/output/EP-51/carousel.md
+- Research memo: rave-team/output/EP-51/research.md
+- Wiki source: wiki/sources/rave/EP-51 — 2026-06-09 — the-prodigy-fire-from-essex.md
+- ピラー: the-prodigy / keith-flint / liam-howlett / essex-rave / criminal-justice-act / fat-of-the-land / punk-rave
+- トピック: ブレインツリーのレイブクラブ The Barn でダンサーだったキース・フリントが世界的フロントマンへ。「Music for the Jilted Generation」（1994）はCJAへの怒りで生まれた。「Fat of the Land」（1997）初週317,000枚・20カ国1位。2019年3月4日Keith Flint 享年49歳で逝去。ハックニー壁画（2021）に炎は生き続ける。
 
 ## [2026-06-08] auto-ep | EP-50: Hardcore Continuum — 全部、1本の線だった。
 - Script (50〜60秒): rave-team/output/EP-50/script_ja.md

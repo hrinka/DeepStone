@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-51 (2026-06-09): The Prodigy — 最初は、踊っていただけだった。 — ブレインツリー The Barn でキース・フリントとライム・ハウレットが出会う（1990）。CJA 1994への怒りで「Music for the Jilted Generation」制作。「Firestarter」（1996）でダンサーがフロントマンへ転身・UK #1。「Fat of the Land」（1997）初週317,000枚・20カ国1位・UK最速セールスダンスアルバム。パンク×レイブ×インダストリアルロックの融合。2019年3月4日 Keith Flint 享年49歳。ハックニー壁画（Akse P19, 2021）に炎は生きている。
+
 - EP-50 (2026-06-08): Hardcore Continuum — 全部、1本の線だった。 — サイモン・レイノルズが1999年に気づいた連続性：UK Hardcore Rave（1991）→ Jungle → Drum and Bass → UK Garage → Grime → Dubstep → UK Funky → UK Bass。繋いでいるのはジャマイカ移民のサウンドシステム文化・海賊ラジオ・ロンドン東部と南部の黒人コミュニティ・DIY白レーベル12インチ。そしてどの世代でも変わらなかったベースの重さ。レイノルズ著『Energy Flash』（1998）・The Wire 第300号連続エッセイ（2009年2月）。批判：ロンドン中心主義・白人批評家による定義問題。EP-50 節目に全EPを貫く1本の線を可視化。
 
 - EP-49 (2026-06-07): Warp Records — ダンスフロアを捨てた夜、電子音楽は芸術になった。 — Sheffield 製鉄業衰退の廃工場から誕生（Steve Beckett・Rob Mitchell・Rob Gordon 1989年創設）→ LFO「LFO」UK #12・130,000枚・Bleep Techno 確立（1990）→「Artificial Intelligence」コンピ（1992）= Aphex Twin・Autechre・Richie Hawtin「座って聴け・踊らなくていい」IDM 宣言 → Boards of Canada・Squarepusher・Broadcast も輩出 → Rob Mitchell 38歳死去（2001）→「シングルでなくアルバム・一夜でなく生涯」フィロソフィー
@@ -54,6 +56,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 51 | The Prodigy — 最初は、踊っていただけだった。 | ✅ Complete | 2026-06-09 | — |
 | 50 | Hardcore Continuum — 全部、1本の線だった。 | ✅ Complete | 2026-06-08 | — |
 | 49 | Warp Records — ダンスフロアを捨てた夜、電子音楽は芸術になった。 | ✅ Complete | 2026-06-07 | — |
 | 48 | Bristol Sound — 誰も踊らなかった。でも、世界中が止まった。 | ✅ Complete | 2026-06-06 | — |
