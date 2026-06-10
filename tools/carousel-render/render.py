@@ -55,16 +55,33 @@ def F(path, size):
     except Exception:
         return ImageFont.load_default()
 
+def _break_token(draw, word, font, max_w):
+    """長すぎる語を文字単位で割る（CJK＝スペース無し・長い英単語の両方に対応）"""
+    if draw.textlength(word, font=font) <= max_w:
+        return [word]
+    out, piece = [], ""
+    for ch in word:
+        if draw.textlength(piece + ch, font=font) <= max_w or not piece:
+            piece += ch
+        else:
+            out.append(piece); piece = ch
+    if piece: out.append(piece)
+    return out
+
 def greedy_wrap(draw, text, font, max_w):
-    words, lines, cur = text.split(" "), [], ""
-    for w in words:
+    lines, cur = [], ""
+    for w in text.split(" "):
         t = (cur + " " + w).strip()
         if draw.textlength(t, font=font) <= max_w:
             cur = t
         else:
-            if cur: lines.append(cur)
-            cur = w
-    if cur: lines.append(cur)
+            if cur:
+                lines.append(cur); cur = ""
+            parts = _break_token(draw, w, font, max_w)  # 語自体が長ければ文字割り
+            lines.extend(parts[:-1])
+            cur = parts[-1]
+    if cur:
+        lines.append(cur)
     return lines
 
 def as_lines(value, draw, font, max_w):
@@ -84,6 +101,18 @@ def as_lines(value, draw, font, max_w):
         else:
             out.append(ln)
     return out
+
+def fit_font(draw, value, font_path, maxw, maxh, hi, lo=70):
+    """長文でも収まる最大サイズを選ぶ（cover/cta用の自動縮小）"""
+    for size in range(hi, lo-1, -6):
+        f = F(font_path, size)
+        lines = as_lines(value, draw, f, maxw)
+        asc, desc = f.getmetrics(); lh = int((asc+desc)*1.18)
+        widest = max((draw.textlength(l, font=f) for l in lines), default=0)
+        if widest <= maxw and lh*len(lines) <= maxh:
+            return f, lines
+    f = F(font_path, lo)
+    return f, as_lines(value, draw, f, maxw)
 
 def draw_block(draw, lines, font, fill, cy, line_gap=1.18):
     asc, desc = font.getmetrics()
@@ -153,11 +182,12 @@ def render_slide(slide, theme, cover_bg, base_dir="."):
     mw = W - 2*pad
 
     if typ == "cover":
-        big = F(theme["font_head"], 230)
-        sub = F(theme["font_body"], 40)
-        draw_block(d, as_lines(slide.get("main"), d, big, mw), big, theme["strobe"], int(H*0.42))
+        # タイトルは長さに応じて自動縮小（最大230・上限 band=H*0.46）
+        bigf, lines = fit_font(d, slide.get("main"), theme["font_head"], mw, int(H*0.46), 230)
+        yb = draw_block(d, lines, bigf, theme["strobe"], int(H*0.40))
         if slide.get("sub"):
-            draw_block(d, as_lines(slide["sub"], d, sub, mw), sub, theme["sub"], int(H*0.60))
+            subf = F(theme["font_body"], 40)
+            draw_block(d, as_lines(slide["sub"], d, subf, mw), subf, theme["sub"], yb + 70)
     elif typ == "quote":
         q = F(theme["font_head"], 92)
         note = F(theme["font_body"], 34)
