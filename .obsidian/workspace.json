@@ -11,12 +11,14 @@
             "id": "f04656cf52464558",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "rave-team/output/EP-01/slides/slide_05.png"
+                "file": "journal/2026-06-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "slide_05"
+              "icon": "lucide-file",
+              "title": "2026-06-11"
             }
           }
         ]
@@ -181,6 +183,10 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
+    "journal/2026-06-10.md",
+    "journal/2026-06-09.md",
+    "journal/2026-06-11.md",
+    "rave-team/output/EP-01/slides/slide_05.png",
     "rave-team/output/EP-12/slides.json",
     "rave-team/output/EP-11/slides.json",
     "rave-team/output/EP-10/slides.json",
@@ -207,9 +213,7 @@
     "rave-team/output/EP-02/slides/slide_05.png",
     "rave-team/output/EP-02/slides/slide_06.png",
     "rave-team/output/EP-02/slides/slide_07.png",
-    "rave-team/output/EP-02/slides/slide_08.png",
     "rave-team/output/EP-07/slides",
-    "rave-team/output/EP-07/slides.json",
     "wiki/concepts/spirit/futomani-divination.md",
     "wiki/concepts/spirit/hayasasura-hime.md",
     "wiki/concepts/spirit/ibukido-nushi.md",
@@ -225,8 +229,6 @@
     "rave-team/output/EP-01/script_ja.md",
     "rave-team/output/EP-01/script_en.md",
     "rave-team/output/EP-01/research.md",
-    "rave-team/output/EP-01/discussion.md",
-    "rave-team/output/EP-01/production_brief.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
