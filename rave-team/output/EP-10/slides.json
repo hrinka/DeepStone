@@ -1,0 +1,74 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "Why Does the UK Keep Inventing Music.",
+      "sub": "50 years. 10 genres. One thread."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Population: 66 million.",
+        "Land: smaller than Japan.",
+        "In 50 years —",
+        "more than ten new genres."
+      ],
+      "sub": "Why the UK."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1950s. Jamaican immigrants arrived in London.",
+        "They were not allowed in clubs.",
+        "So they brought speakers into the streets.",
+        "That was the sound system."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "1980s. Thatcher closed the factories.",
+        "Young people had nowhere to go.",
+        "No money.",
+        "So they made music."
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Every time the mainstream shut a door,",
+        "the underground opened a floor."
+      ],
+      "note": "Excluded people build their own spaces. Every time."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Dub. Punk. Acid House. Jungle.",
+        "Drum and Bass. UK Garage. Dubstep. Grime.",
+        "These are not separate genres.",
+        "This is one line."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "UK music carries the smell of wounds.",
+        "Poverty was the fuel.",
+        "Exclusion was the spark.",
+        "The underground is the record."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": [
+        "The line has not ended.",
+        "It is still being written."
+      ],
+      "strobe": "Boredom, poverty, exclusion — that is the formula.",
+      "cta": "Save this. The story continues."
+    }
+  ]
+}

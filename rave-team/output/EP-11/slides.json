@@ -1,0 +1,76 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "Six Seconds Changed the World.",
+      "sub": "Jungle — East London, 1991"
+    },
+    {
+      "type": "body",
+      "text": [
+        "1969.",
+        "A drummer named Gregory C. Coleman",
+        "played a six-second solo.",
+        "That recording became the Amen Break."
+      ],
+      "sub": "It never stopped looping."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1990. The acid house heat faded.",
+        "Breakbeat accelerated.",
+        "Bass got heavier.",
+        "Dancehall vocals slipped in."
+      ],
+      "sub": "They called it Breakbeat Hardcore."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1991. East London. Forest Gate.",
+        "'We Are I.E.' — Lennie De Ice.",
+        "Amen Break, reggae bass, North African melody.",
+        "No one had heard this before."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "1992. The scene split.",
+        "Happy or Dark.",
+        "Pirate radio Kool FM 94.5 chose Dark.",
+        "The music still had no name."
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Jungle Techno.",
+        "Hardcore Jungle."
+      ],
+      "note": "They were searching for the word. They called it Jungle."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Fabio. Grooverider. DJ Hype. DJ Ron.",
+        "AWOL. Telepathy. Roast.",
+        "160 BPM shook the floors.",
+        "Only they knew this music."
+      ],
+      "sub": "Then came Drum and Bass. Grime. Dubstep. All from here."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "A six-second drum solo.",
+        "Looping for thirty years."
+      ],
+      "strobe": "It started in a basement. It never ended.",
+      "cta": "Save this. The loop goes on."
+    }
+  ]
+}

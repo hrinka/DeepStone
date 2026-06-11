@@ -1,0 +1,78 @@
+{
+  "account": "plur",
+  "background": {"color": "#0D0D0D"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "One Phone Call. One Genre.",
+      "sub": "Detroit, 1987 — the night Techno was named"
+    },
+    {
+      "type": "body",
+      "text": [
+        "Detroit, 1987.",
+        "Factories were closing.",
+        "Three young men",
+        "were making beats in a basement."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "Juan Atkins.",
+        "Derrick May.",
+        "Kevin Saunderson.",
+        "Belleville High School."
+      ],
+      "sub": "The Belleville Three."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "George Clinton and Kraftwerk",
+        "stuck in an elevator."
+      ],
+      "note": "Derrick May's words. That was the sound they were making."
+    },
+    {
+      "type": "body",
+      "text": [
+        "A UK DJ found a Transmat record.",
+        "A phone number was on the sleeve.",
+        "He called.",
+        "Derrick answered."
+      ],
+      "sub": "Neil Rushton. Six months later, everything changed."
+    },
+    {
+      "type": "body",
+      "text": [
+        "May 1988.",
+        "'Techno — The New Dance Sound of Detroit.'",
+        "The title was almost 'New House Sound.'",
+        "One song name changed the word."
+      ],
+      "sub": "Juan Atkins had a track called 'Techno Music.'"
+    },
+    {
+      "type": "body",
+      "text": [
+        "Kevin Saunderson made Inner City.",
+        "'Good Life' — UK singles chart, number 4.",
+        "Detroit's loneliness",
+        "reached Britain's lonely."
+      ],
+      "sub": "Distance did not matter. The emotion was the same."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "One phone call.",
+        "One word.",
+        "Thirty years of music."
+      ],
+      "strobe": "It started on a record sleeve.",
+      "cta": "Save this. Come back to it."
+    }
+  ]
+}
