@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-11] auto-post | POST-53 — メリッサ精油（アロマ）
+- Files: `aroma-insta/output/POST-53/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-53-2026-06-11-melissa-joy-frequency.md`
+- Topic: メリッサ（レモンバーム）精油 / melissa=蜂（ギリシャ語）/ 葉5〜8トンで精油1kg・世界最高価格クラス / パラケルスス「生命のエリキシール」/ カルメル会の奇跡の水・ルイ14世〜16世が特許 / イブン・スィーナ「心を明るく陽気にする」/ GABA-A受容体活性化+CB2受容体 / ミツバチのフェロモンを模倣する唯一の植物 / Rinkaの庭にいる / 「喜び」に最も直結する精油
+
 ## [2026-06-10] auto-ep | EP-52 — Orbital
 - Files: rave-team/output/EP-52/script_ja.md, carousel.md, research.md
 - Wiki: wiki/sources/rave/EP-52 — 2026-06-10 — orbital-hartnoll.md
