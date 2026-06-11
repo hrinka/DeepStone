@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-53 (2026-06-11): Aphex Twin — コーンウォールの少年が、夜を発明した。 — リムリック生まれ・コーンウォール育ちのRichard D. James（1971年）が14歳から廃棄シンセを自作改造し録音を開始。1991年「Analogue Bubblebath EP」デビュー・Rephlex Records設立。1992年「Selected Ambient Works 85-92」（14歳からの録音集・アンビエント・テクノの礎）・「Digeridoo」EPがロンドン海賊ラジオとレイブフロアを席巻・Warp「Artificial Intelligence」コンピに"Dice Man"名義で参加（IDM誕生の瞬間）。1994年「SAW Vol.II」（眠れない夜の純粋アンビエント）。1997年「Come to Daddy」（Chris Cunningham監督MV・MTVで子どもを泣かせた）。1999年「Windowlicker」（Daft Punkが影響公言・Flying Lotus・James Blakeの源流）。私生活：戦車1台所持・廃銀行ボルトに居住・ロシア潜水艦を「パーティに使えそう」と購入検討。2001年「Drukqs」→13年の沈黙。2014年「Syro」（Warp）Grammy受賞・授賞式には現れなかった。
+
 - EP-52 (2026-06-10): Orbital — 階段の下の物置から、世界は始まった。 — ケント州セヴノークスの兄弟フィル・ハートノールとポール・ハートノールが1989年に親父のカセットデッキで物置録音した「Chime」（制作費1ポンド以下）→M25沿いレイブDJが回しPete Tong（FFRR）が拾ってUKシングルチャート17位→バンド名はロンドン環状高速道路M25の別名→グリーンアルバム（1991）／ブラウンアルバム（1993）→グラストンベリー1994 Pyramid Stage：電子音楽がロックの聖地に立った夜・メガネにトーチライトが象徴→CJA 1994抗議：シングルB面「Criminal Justice Bill?」4分間の無音→「In Sides」（1996）Greenpeaceソーラー電源録音→2004年解散・2009年再結成。M25を走りレイブへ向かう行為そのものがバンド名になった。
 
 - EP-51 (2026-06-09): The Prodigy — 最初は、踊っていただけだった。 — ブレインツリー The Barn でキース・フリントとライム・ハウレットが出会う（1990）。CJA 1994への怒りで「Music for the Jilted Generation」制作。「Firestarter」（1996）でダンサーがフロントマンへ転身・UK #1。「Fat of the Land」（1997）初週317,000枚・20カ国1位・UK最速セールスダンスアルバム。パンク×レイブ×インダストリアルロックの融合。2019年3月4日 Keith Flint 享年49歳。ハックニー壁画（Akse P19, 2021）に炎は生きている。
@@ -58,6 +60,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 53 | Aphex Twin — コーンウォールの少年が、夜を発明した。 | ✅ Complete | 2026-06-11 | — |
 | 52 | Orbital — 階段の下の物置から、世界は始まった。 | ✅ Complete | 2026-06-10 | — |
 | 51 | The Prodigy — 最初は、踊っていただけだった。 | ✅ Complete | 2026-06-09 | — |
 | 50 | Hardcore Continuum — 全部、1本の線だった。 | ✅ Complete | 2026-06-08 | — |
