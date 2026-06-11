@@ -1,0 +1,77 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "GRIME",
+      "sub": "Sound from the streets. How East London changed music."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Early 2000s.",
+        "UK Garage was fading.",
+        "East London youth built something",
+        "from the leftover parts."
+      ],
+      "sub": "UK Garage × Hip-Hop × Dancehall = something with no name yet."
+    },
+    {
+      "type": "body",
+      "text": [
+        "140BPM.",
+        "Wiley said —",
+        "'FL Studio's default tempo.",
+        "That became our sound.'"
+      ],
+      "sub": "An accident became a genre."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Rinse FM.",
+        "Founded 1994. Illegal until 2010.",
+        "Every first Grime voice",
+        "ran through this pirate station."
+      ],
+      "sub": "Wiley. Dizzee Rascal. Skepta. All started here."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2003.",
+        "Dizzee Rascal. 17 years old.",
+        "Boy in da Corner.",
+        "Mercury Prize."
+      ],
+      "sub": "Recorded in an East London housing estate. Won Britain's highest music award."
+    },
+    {
+      "type": "body",
+      "text": [
+        "140BPM.",
+        "Metallic synths that cut through walls.",
+        "MCs who spit — not rap.",
+        "Bass wide and low. Raw piano loops."
+      ],
+      "sub": "The complete anatomy of Grime in one slide."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Skepta. Shutdown.",
+        "BRIT Awards — beside Kanye West.",
+        "Konnichiwa — Mercury Prize.",
+        "Album launched in Tokyo."
+      ],
+      "note": "2015–2016. Grime became a global language. The streets of East London reached everywhere."
+    },
+    {
+      "type": "cta",
+      "text": ["The excluded voice", "always travels furthest."],
+      "strobe": "SAVE THIS",
+      "cta": "Save this. The story behind the sound you already know."
+    }
+  ]
+}

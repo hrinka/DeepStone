@@ -1,0 +1,72 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "BIG BEAT",
+      "sub": "Rave went mainstream. Four years that moved the world."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Heavy breakbeats.",
+        "Rock guitars.",
+        "Hip-hop samples.",
+        "One track. One floor."
+      ],
+      "sub": "BPM 100–140. The sound of collision."
+    },
+    {
+      "type": "body",
+      "text": ["1993. London.", "A bar on Oxford Street.", "200 people. 5 pounds in."],
+      "sub": "The Dust Brothers — later Chemical Brothers — started mixing rave and hip-hop there."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Exit Planet Dust. UK #9.",
+        "Dig Your Own Hole. UK #1.",
+        "Setting Sun — UK #1.",
+        "Block Rockin' Beats — Grammy."
+      ],
+      "sub": "Two former ravers reinvented the rave inside a studio."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Norman Cook. Brighton.",
+        "Big Beat Boutique.",
+        "Every Friday at the Concorde Club.",
+        "A party name became a genre name."
+      ],
+      "sub": "You've Come a Long Way, Baby — 12 million copies worldwide."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "The Fat of the Land.",
+        "UK and US #1 simultaneously.",
+        "16 countries.",
+        "317,000 copies — first week."
+      ],
+      "note": "The Prodigy, July 1997. Essex hardcore ravers at the top of the Billboard. Nobody saw it coming."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2001. Big Beat Boutique closed.",
+        "The genre's official end.",
+        "But the DNA survived.",
+        "Electroclash. Breakbeat. Modern UK Bass."
+      ],
+      "sub": "Going mainstream was not death. It was a door to what came next."
+    },
+    {
+      "type": "cta",
+      "text": ["Those four years", "moved something real."],
+      "strobe": "SAVE THIS",
+      "cta": "Save this. Tonight — one track from 1997. Start there."
+    }
+  ]
+}

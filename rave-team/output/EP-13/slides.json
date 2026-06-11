@@ -1,0 +1,61 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "NO TRAINERS.",
+      "sub": "London dressed up and changed its sound. UK Garage 1994–2002."
+    },
+    {
+      "type": "body",
+      "text": ["If Jungle was sweat,", "UKG was a suit."],
+      "sub": "The same city. A different room."
+    },
+    {
+      "type": "body",
+      "text": ["1994.", "Someone stepped off the 170BPM floor."],
+      "sub": "130BPM. Shuffling hi-hats. Bass that sang."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Jamaican sound system DNA.",
+        "Pirate radio ran the unreleased cuts.",
+        "Rinse FM. Deja Vu FM.",
+        "Dress code enforced. No trainers."
+      ],
+      "sub": "Velvet Rooms. Ministry of Sound."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1999. 2-step exploded.",
+        "Sweet Like Chocolate — UK #1.",
+        "Re-Rewind. Sincere.",
+        "London's nights began reaching the world."
+      ],
+      "sub": "UKG's first chart moment."
+    },
+    {
+      "type": "quote",
+      "quote": ["21 MCs.", "21 seconds each.", "One track. One number one."],
+      "note": "So Solid Crew — '21 Seconds', 2001. The moment Garage went darker — and Grime was born next door."
+    },
+    {
+      "type": "body",
+      "text": [
+        "UKG gave birth to Grime.",
+        "Dubstep grew in its shadow.",
+        "Disclosure and Jamie xx revived it a decade later."
+      ],
+      "sub": "Every London night runs through UK Garage."
+    },
+    {
+      "type": "cta",
+      "text": ["Elegance can be", "the sharpest resistance."],
+      "strobe": "SAVE THIS",
+      "cta": "Save this. You will want to come back."
+    }
+  ]
+}
