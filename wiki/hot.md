@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-10
+updated: 2026-06-11
 tags:
   - meta
   - hot-cache
@@ -23,6 +23,8 @@ related:
 Navigation: [[index]] | [[log]]
 
 ## Last Updated
+2026-06-11: EP-53「Aphex Twin — コーンウォールの少年が、夜を発明した。」生成・GitHub push 完了（リムリック生まれコーンウォール育ちRichard D. James / 14歳から廃棄シンセ自作改造 / 1991年デビュー・Rephlex Records設立 / 1992年「SAW 85-92」IDMの礎・「Digeridoo」レイブフロア席巻・Warp「Artificial Intelligence」コンピ"Dice Man"名義 / 1994年「SAW Vol.II」眠れない夜の純粋アンビエント / 1997年「Come to Daddy」Chris Cunningham MV・MTVで子どもを泣かせた / 1999年「Windowlicker」Daft Punkが影響公言・Flying Lotus/James Blake源流 / 戦車所持・廃銀行ボルト居住・ロシア潜水艦「パーティに使えそう」発言 / 13年の沈黙後2014年「Syro」Grammy受賞・授賞式欠席）。
+
 2026-06-10: EP-52「Orbital — 階段の下の物置から、世界は始まった。」生成・GitHub push 完了（ケント州セヴノークスの兄弟フィル＆ポール・ハートノール / 1989年親父のカセットデッキで物置録音した「Chime」制作費1ポンド以下 → M25沿いレイブDJが流す → Pete Tong（FFRR）が拾いUKシングルチャート17位（1990年3月12日）→ バンド名はロンドン環状高速道路M25の別名 → グリーンアルバム（1991）・ブラウンアルバム（1993）→ グラストンベリー1994 Pyramid Stage：電子音楽がロックの聖地に立った夜・メガネにトーチライト → CJA 1994抗議：「Are We Here?」B面「Criminal Justice Bill?」4分間の完全な無音 → 「In Sides」（1996）Greenpeaceソーラー電源録音 → 2004年解散・2009年再結成）。
 
 2026-06-09: EP-51「The Prodigy — 最初は、踊っていただけだった。」生成・GitHub push 完了（ブレインツリーの The Barn でキース・フリントとライム・ハウレットが出会う（1990）→ 「Music for the Jilted Generation」（1994）=CJA 1994への怒りで制作・明るいレイブサウンドを全廃→インダストリアル×テクノ→ 「Firestarter」（1996）でフリントがダンサーからフロントマンへ転身・UK #1・MTV半ば放送禁止 → 「Fat of the Land」（1997年6月30日）初週317,000枚・20カ国1位・US Billboard 200首位・UK最速セールスダンスアルバム → パンク×レイブ×インダストリアルロックの融合 → 2019年3月4日 Keith Flint 享年49歳 → ハックニー壁画（Akse P19, 2021年9月9日 Beechwood Road）→ 2026年3月 Essex Bocking メモリアルベンチ）。
