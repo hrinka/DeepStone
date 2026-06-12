@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-12] auto-ep | EP-54 — King Tubby — ベースを発明した男
+- Files: `rave-team/output/EP-54/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-54 — 2026-06-12 — king-tubby-bass-inventor.md`
+- Topic: King Tubby（Osbourne Ruddock, 1941〜1989）/ キングストン・ウォーターハウスのラジオ修理工 / 1968年Home Town Hi-Fi構築 / Duke Reid Treasure Isleでヴォーカル除去→ダブを発明 / 18 Dromilly Ave自作4trk / バージョン＝リミックスの起源 / Lee Perry Black Ark回路設計 / 弟子：Scientist・Prince Jammy / 1989年2月6日自宅前で射殺享年48 / DnB・Dubstep・Grime全ての源流
+
 ## [2026-06-12] auto-post | POST-54 — コンパニオンプランティング（ハーブ菜園）
 - Files: `aroma-insta/output/POST-54/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-54-2026-06-12-companion-planting.md`

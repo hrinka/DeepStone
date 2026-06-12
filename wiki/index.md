@@ -157,6 +157,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-54 — 2026-06-12 — king-tubby-bass-inventor]]|King Tubby: キングストン・ウォーターハウスの修理工→1968年Home Town Hi-Fi構築→ダブの発明（バージョン＝リミックスの起源）→自室18 Dromilly Ave自作スタジオ→Lee Perry Black Ark回路設計→弟子Scientist・Prince Jammy→1989年2月6日射殺享年48。DnB・Dubstep・Grime・UK Bass全ての源流|
 |[[EP-53 — 2026-06-11 — aphex-twin-richard-d-james]]|Aphex Twin: コーンウォールの少年が14歳から廃棄シンセを自作→「SAW 85-92」（1992）IDMの礎→「Digeridoo」でレイブフロア席巻→「SAW Vol.II」（1994）純粋アンビエント→「Come to Daddy」（1997）MTVで子どもを泣かせる→「Windowlicker」（1999）→13年の沈黙→「Syro」（2014）Grammy受賞・授賞式欠席。戦車・廃銀行ボルト居住・ロシア潜水艦購入計画|
 |[[EP-52 — 2026-06-10 — orbital-hartnoll]]|Orbital: 物置録音「Chime」（1ポンド以下）→ M25レイブ → FFRR UK#17 → グラストンベリー1994 Pyramid Stage → CJA抗議4分間の無音 → 「In Sides」Greenpeaceソーラー録音|
 |[[EP-51 — 2026-06-09 — the-prodigy-fire-from-essex]]|The Prodigy: エセックスのダンサー → 世界制覇。CJA抵抗・Keith Flint・Fat of the Land（1997）|
