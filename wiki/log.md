@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-12] auto-post | POST-54 — コンパニオンプランティング（ハーブ菜園）
+- Files: `aroma-insta/output/POST-54/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-54-2026-06-12-companion-planting.md`
+- Topic: コンパニオンプランティング / VOC（揮発性有機化合物）による植物間コミュニケーション / アレロパシー（他感作用）/ 地中海カルテット（ラベンダー×ローズマリー×タイム×セージ）/ ペパーミントの孤独・鉢植え隔離 / ゼラニウムの守護機能 / メリッサの社交性 / 「隣に何を置くかが波動を決める」白魔女アングル
+
 ## [2026-06-11] auto-post | POST-53 — メリッサ精油（アロマ）
 - Files: `aroma-insta/output/POST-53/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-53-2026-06-11-melissa-joy-frequency.md`
