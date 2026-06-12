@@ -50,3 +50,14 @@ _attachments/
 
 # レンダー済みスライドPNG（slides.jsonから再生成可・写真が焼き込まれるため公開しない）
 **/slides/slide_*.png
+
+# 投稿フォルダ内の画像は全てローカル限定（素材・背景・完成スライド／著作物保護）
+rave-team/output/**/*.png
+rave-team/output/**/*.jpg
+rave-team/output/**/*.jpeg
+flava-fm/output/**/*.png
+flava-fm/output/**/*.jpg
+flava-fm/output/**/*.jpeg
+aroma-insta/output/**/*.png
+aroma-insta/output/**/*.jpg
+aroma-insta/output/**/*.jpeg
