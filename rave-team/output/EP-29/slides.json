@@ -1,0 +1,77 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "One camera changed everything.",
+      "sub": "Boiler Room — London, 2010. A revolution from a basement."
+    },
+    {
+      "type": "body",
+      "text": [
+        "March 2010.",
+        "Hackney, London.",
+        "A derelict warehouse.",
+        "A webcam taped to the wall."
+      ],
+      "sub": "No stage. No lighting. No plan."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Blaise Bellville said —",
+        "'Get a DJ to play.",
+        "Point a camera.",
+        "That is all.'"
+      ],
+      "sub": "The smallest possible idea. The largest possible reach."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The rules.",
+        "— DJ faces away from the crowd.",
+        "— No editing.",
+        "— No stage.",
+        "— Just be in the room."
+      ],
+      "sub": "Every rule was about removing performance."
+    },
+    {
+      "type": "body",
+      "text": [
+        "First crowd: a few friends.",
+        "Online — numbers grew slowly.",
+        "Jamie xx. Hudson Mohawke. James Blake.",
+        "All unknown. All played that basement."
+      ],
+      "sub": "The room was small. The window was the whole world."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "'Facing away is not a pose.",
+        "Because it is not a performance.",
+        "We are in the same room.'"
+      ],
+      "note": "The Boiler Room ethos — presence over show. No fourth wall. The crowd surrounds."
+    },
+    {
+      "type": "body",
+      "text": [
+        "200 cities.",
+        "8,000 sets recorded.",
+        "The angle has never changed.",
+        "Back. Sweat. Mixer."
+      ],
+      "sub": "Scale without losing the original frame."
+    },
+    {
+      "type": "cta",
+      "text": ["The moment", "is more honest", "than the highlight reel."],
+      "strobe": "SAVE THIS",
+      "cta": "Save this. The best sets are the ones where nothing is performed."
+    }
+  ]
+}

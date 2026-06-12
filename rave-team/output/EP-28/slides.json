@@ -1,0 +1,72 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "Dubstep was born in a church basement.",
+      "sub": "The moment it left, it became something else."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2001. South London.",
+        "Someone cut the UK Garage beat in half.",
+        "The tempo dropped.",
+        "The bass stayed."
+      ],
+      "sub": "A new room opened below the floor."
+    },
+    {
+      "type": "body",
+      "text": ["140BPM. Half-tempo.", "Darkness.", "Bass with no bottom."],
+      "sub": "There were no words for this yet."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Croydon. Big Apple Records.",
+        "Skream sold records by day.",
+        "Made music no one heard at night.",
+        "He was 16."
+      ],
+      "sub": "That music was Dubstep before anyone called it that."
+    },
+    {
+      "type": "body",
+      "text": [
+        "5 March 2005.",
+        "Brixton. St Matthew's Church basement.",
+        "DMZ started.",
+        "11pm until 7am."
+      ],
+      "sub": "The room that gave Dubstep its name and its home."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2010. Skrillex.",
+        "Scary Monsters and Nice Sprites.",
+        "The underground became an arena.",
+        "UK called it Brostep."
+      ],
+      "sub": "Same tempo. Different gravity."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "'There is nothing we can do.",
+        "But I recognise what he did",
+        "for the music.'",
+        "— Skream"
+      ],
+      "note": "Rusko: 'Brostep is partly my fault. I hate it now.' The genre watched itself split in two."
+    },
+    {
+      "type": "cta",
+      "text": ["The real thing", "stayed quiet."],
+      "strobe": "SAVE THIS",
+      "cta": "Save this. The next sound is already somewhere — in a quiet room."
+    }
+  ]
+}
