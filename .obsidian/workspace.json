@@ -11,14 +11,12 @@
             "id": "f04656cf52464558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_templates/daily-note.md",
-                "mode": "source",
-                "source": false
+                "file": "rave-team/output/EP-07/slides/slide_02.png"
               },
-              "icon": "lucide-file",
-              "title": "daily-note"
+              "icon": "lucide-image",
+              "title": "slide_02"
             }
           }
         ]
@@ -183,6 +181,20 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
+    "rave-team/output/EP-07/slides/slide_03.png",
+    "rave-team/output/EP-07/slides/slide_05.png",
+    "rave-team/output/EP-07/slides/slide_06.png",
+    "rave-team/output/EP-07/slides/slide_07.png",
+    "rave-team/output/EP-07/carousel.md",
+    "rave-team/output/EP-07/slides/slide_04.png",
+    "rave-team/output/EP-07/slides/slide_02.png",
+    "rave-team/output/EP-07/slides/slide_01.png",
+    "rave-team/output/EP-07/slide_1.png",
+    "rave-team/output/EP-07/tb303.png",
+    "rave-team/output/EP-07/smile.png",
+    "tools/carousel-render/mix_bg.py",
+    "rave-team/output/EP-02/carousel.md",
+    "_templates/daily-note.md",
     "journal/2026-06-12.md",
     "journal/2026-06-11.md",
     "rave-team/output/EP-29/slides.json",
@@ -201,10 +213,8 @@
     "aroma-insta/output/POST-53",
     "journal/2026-06-10.md",
     "journal/2026-06-09.md",
-    "rave-team/output/EP-01/slides/slide_05.png",
     "rave-team/output/EP-12/slides.json",
     "rave-team/output/EP-11/slides.json",
-    "rave-team/output/EP-10/slides.json",
     "wiki/sources/rave/EP-52 — 2026-06-10 — orbital-hartnoll.md",
     "wiki/sources/aroma/aroma-POST-52-2026-06-10-challenge-numbers.md",
     "rave-team/output/EP-52/script_ja.md",
@@ -213,22 +223,9 @@
     "aroma-insta/output/POST-52/research.md",
     "aroma-insta/output/POST-52/carousel.md",
     "aroma-insta/output/posts.md",
-    "rave-team/output/EP-01/slides/slide_04.png",
-    "rave-team/output/EP-01/slides/slide_02.png",
-    "rave-team/output/EP-01/slides/slide_01.png",
-    "rave-team/output/EP-02/slides/slide_02.png",
-    "rave-team/output/EP-02/slides/slide_03.png",
-    "rave-team/output/EP-02/slides/slide_04.png",
-    "rave-team/output/EP-02/slides/slide_05.png",
-    "rave-team/output/EP-02/slides/slide_06.png",
-    "rave-team/output/EP-02/slides/slide_07.png",
     "wiki/concepts/spirit/futomani-divination.md",
     "wiki/concepts/spirit/hayasasura-hime.md",
     "wiki/concepts/spirit/ibukido-nushi.md",
-    "wiki/concepts/spirit/hayaakitsu-hime.md",
-    "wiki/concepts/spirit/haraedo-shishin.md",
-    "wiki/questions/Research: アワ歌とヲシテ名前読み解き.md",
-    "wiki/concepts/spirit/mikasafumi-futomani.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
