@@ -1,0 +1,80 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "BERGHAIN",
+      "sub": "The hardest door in the world held the most freedom inside."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1989.",
+        "The Berlin Wall fell.",
+        "The east side left ruins behind."
+      ],
+      "sub": "And the ruins became something else."
+    },
+    {
+      "type": "body",
+      "text": [
+        "People started dancing in those ruins.",
+        "Empty warehouses.",
+        "Abandoned factories.",
+        "Power stations.",
+        "The rubble became a dancefloor."
+      ],
+      "sub": "East Berlin, after the wall"
+    },
+    {
+      "type": "body",
+      "text": [
+        "2004.",
+        "A former power plant became a club.",
+        "Name: Berghain.",
+        "Ceiling height: 18 metres.",
+        "Friday night to Monday noon.",
+        "60 hours. No end."
+      ],
+      "sub": "Berlin, Friedrichshain"
+    },
+    {
+      "type": "body",
+      "text": [
+        "The door.",
+        "Sven Marquardt.",
+        "Tattoos. Leather jacket. Quiet eyes.",
+        "Nobody tells you why you're let in."
+      ],
+      "sub": "Or why you're not."
+    },
+    {
+      "type": "body",
+      "text": [
+        "No cameras.",
+        "Your phone gets a sticker over the lens.",
+        "No photographs survive.",
+        "Only tonight exists."
+      ],
+      "sub": "The absence is the point."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "This is not a concert.",
+        "This is a cultural institution."
+      ],
+      "note": "German court ruling, 2016 — Berghain legally classified as Kulturbetrieb, taxed as art"
+    },
+    {
+      "type": "cta",
+      "text": [
+        "After the wall came down,",
+        "the real freedom began."
+      ],
+      "strobe": "2004 — Berghain opens",
+      "cta": "Save this. You'll want to read it again."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "They stole the airwaves.",
+      "sub": "And built a culture. UK Pirate Radio — 1989–2000"
+    },
+    {
+      "type": "body",
+      "text": [
+        "1989. London.",
+        "Radio wouldn't play this music.",
+        "BBC. Commercial stations.",
+        "Acid House didn't exist to them."
+      ],
+      "sub": "So they built their own."
+    },
+    {
+      "type": "body",
+      "text": [
+        "8 May 1989.",
+        "Centreforce. 88.3 FM.",
+        "East London. Newham.",
+        "The UK's first 24/7 rave station.",
+        "It also broadcast where the raves were."
+      ],
+      "sub": "THE FIRST 24/7 RAVE STATION"
+    },
+    {
+      "type": "body",
+      "text": [
+        "You never knew where to dance",
+        "until the night before.",
+        "People tuned in and waited.",
+        "Then the DJ would whisper:",
+        "\"Tonight, head north on the M25.\""
+      ],
+      "sub": "The radio was the map."
+    },
+    {
+      "type": "body",
+      "text": [
+        "28 November 1991.",
+        "Kool FM. Hackney.",
+        "Rooftop antenna on Bannister House.",
+        "The studio — a neighbour's bedroom.",
+        "The word Jungle didn't exist yet."
+      ],
+      "sub": "KOOL FM — 1991 — HACKNEY"
+    },
+    {
+      "type": "body",
+      "text": [
+        "The DTI came for the equipment.",
+        "Minutes later, another transmitter went up.",
+        "500+ illegal stations across the UK.",
+        "They couldn't stop it."
+      ],
+      "sub": "500+ stations. It never stopped."
+    },
+    {
+      "type": "body",
+      "text": [
+        "September 1994.",
+        "Rinse FM came online.",
+        "Geeneus. Slimzee.",
+        "The breeding ground for Grime.",
+        "Dizzee. Skepta. Stormzy.",
+        "All came through Rinse."
+      ],
+      "sub": "RINSE FM — 1994 — THE BIRTH OF GRIME"
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Jungle. Grime. Dubstep.",
+        "All of it started",
+        "on stolen frequencies."
+      ],
+      "strobe": "88.3 FM — 8 May 1989",
+      "cta": "Save this. You'll want to read it again."
+    }
+  ]
+}
