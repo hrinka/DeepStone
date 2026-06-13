@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-13] auto-post | POST-55 — ピナクルナンバー（数秘）
+- Files: `aroma-insta/output/POST-55/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-55-2026-06-13-pinnacle-numbers.md`
+- Topic: ピナクルナンバー（Pinnacle Numbers / 達成数）/ 人生を4つの時期に分け、各時期の恵み・才能・開花の形を示す / 第1（種まき）→第2（人との繋がり）→第3（使命との一致・最も豊か）→第4（知恵・統合） / 計算: P1=月+日 / P2=日+年 / P3=P1+P2 / P4=月+年 / 第1終了=36−LP数歳 / Rinka: P1=4(〜31歳)・P2=2(31〜40歳)・P3=6(40〜49歳)・P4=4(49歳〜) / 「今いる山は、その山にしかない景色を持っている」白魔女アングル / チャレンジ数（POST-52）との対
+
 ## [2026-06-12] auto-ep | EP-54 — King Tubby — ベースを発明した男
 - Files: `rave-team/output/EP-54/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-54 — 2026-06-12 — king-tubby-bass-inventor.md`
