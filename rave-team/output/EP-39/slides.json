@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "Summer 1988.\nThe whole UK became one dance floor.",
+      "sub": "Second Summer of Love — how it happened."
+    },
+    {
+      "type": "body",
+      "text": ["It started in Ibiza.", "Four DJs. One summer night.", "They had to bring it home."],
+      "sub": "Oakenfold, Rampling, Holloway, Treacy. 1987."
+    },
+    {
+      "type": "body",
+      "text": ["Shoom. A gym basement.", "100 capacity.", "Week two: a queue outside."],
+      "sub": "November 1987. Southwark, London. The yellow smiley was born here."
+    },
+    {
+      "type": "body",
+      "text": ["100 people.", "Then 2,500.", "Then fields of 25,000."],
+      "sub": "Spectrum at Astoria. Haçienda in Manchester. One summer."
+    },
+    {
+      "type": "body",
+      "text": ["M25. The orbital motorway.", "Every weekend. Fields. Warehouses.", "A phone number. A location. Nobody told you where."],
+      "sub": "Everyone got there. Orbital took their name from these raves."
+    },
+    {
+      "type": "body",
+      "text": ["The 808 beat. The TB-303 squeal.", "Strangers held hands.", "Class, race, fear — dissolved."],
+      "sub": "Football violence in England dropped that summer."
+    },
+    {
+      "type": "quote",
+      "quote": ["\"Before that summer", "and after it —", "the world looked different.\""],
+      "note": "— a dancer, 1988"
+    },
+    {
+      "type": "cta",
+      "text": ["That summer planted the seed.", "Jungle. Grime. Dubstep."],
+      "strobe": "All roads lead back to 1988.",
+      "cta": "Save this. It all starts here."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "Japan built it.\nThe world danced to it.",
+      "sub": "TB-303 — failed machine. Rave soul."
+    },
+    {
+      "type": "body",
+      "text": ["1981.", "Roland released a bass synth.", "No one bought it."],
+      "sub": "TB-303. Retail: ¥65,000. Clearance: under ¥5,000."
+    },
+    {
+      "type": "body",
+      "text": ["Chicago picked one up.", "Twisted the knobs.", "A strange sound came out."],
+      "sub": "1987 — DJ Pierre / Phuture. Acid Tracks."
+    },
+    {
+      "type": "body",
+      "text": ["That sound became Acid House.", "UK exploded.", "One million people danced."],
+      "sub": "1988 — Second Summer of Love."
+    },
+    {
+      "type": "quote",
+      "quote": ["\"I learned everything", "from Yellow Magic Orchestra.\""],
+      "note": "— Derrick May, founder of Detroit Techno"
+    },
+    {
+      "type": "body",
+      "text": ["TR-808. TR-909. TB-303.", "Three Japanese failures.", "Three genres born."],
+      "sub": "Hip Hop. Techno. Acid House. All from Japan."
+    },
+    {
+      "type": "body",
+      "text": ["UK rave came back to Japan.", "Denki Groove absorbed it.", "The circle kept turning."],
+      "sub": "Makoto. WIRE Festival. Tokyo — London — Tokyo."
+    },
+    {
+      "type": "cta",
+      "text": ["Japan exported the sound.", "The world sent culture back."],
+      "strobe": "The loop is still running.",
+      "cta": "Save this. Next time you hear a bassline, you'll want to know where it started."
+    }
+  ]
+}

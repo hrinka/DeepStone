@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "What you wore\nwas a statement.",
+      "sub": "Rave fashion — 1988 to now."
+    },
+    {
+      "type": "body",
+      "text": ["1988.", "You wore a smiley tee to a dress-code club.", "That was the revolution."],
+      "sub": "Bucket hat. Dungarees. A whistle around your neck."
+    },
+    {
+      "type": "body",
+      "text": ["1990–1993.", "Kappa tracksuit. Air Max 90.", "The street moved to the floor."],
+      "sub": "Hardcore. Jungle. Acid Techno. No dress code needed."
+    },
+    {
+      "type": "body",
+      "text": ["Mid-90s. Two answers.", "One club: dress code returned.", "One field: mud and morning."],
+      "sub": "UK Garage vs. free parties. Same decade. Opposite rules."
+    },
+    {
+      "type": "body",
+      "text": ["2000s.", "PVC. Goggles. UV paint.", "Being seen was the weapon."],
+      "sub": "Cyber goth. Kandi bracelets. Glow in the dark."
+    },
+    {
+      "type": "body",
+      "text": ["2010s. Berlin said:", "go black.", "Blend in. Disappear."],
+      "sub": "Berghain. No logos. No photos. Anonymity as style."
+    },
+    {
+      "type": "body",
+      "text": ["Now. Y2K is back.", "Bucket hats cost hundreds.", "The rave became a trend."],
+      "sub": "TikTok spread it. Vintage shops priced it. Still a ripple from 1988."
+    },
+    {
+      "type": "cta",
+      "text": ["Look at what people wore.", "You'll know what they needed that night."],
+      "strobe": "Freedom. Anger. Anonymity. Love.",
+      "cta": "Save this. Fashion is just the rave's answer to its own time."
+    }
+  ]
+}

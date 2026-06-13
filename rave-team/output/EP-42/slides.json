@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "They sold records\nto keep a club alive.",
+      "sub": "New Order and the Haçienda — 15 years of debt."
+    },
+    {
+      "type": "body",
+      "text": ["1976. Manchester.", "Tony Wilson started Factory Records.", "Joy Division. Then New Order."],
+      "sub": "FAC 01. A label with no contracts — just handshakes."
+    },
+    {
+      "type": "body",
+      "text": ["1982. A converted boat showroom.", "Way over budget.", "New Order put in the money."],
+      "sub": "The Haçienda. FAC 51. Opened 21 May 1982."
+    },
+    {
+      "type": "body",
+      "text": ["Year one: £300,000 in the red.", "Drinks cheaper than the pub next door.", "Blue Monday was made to pay the bills."],
+      "sub": "Every copy sold. Every pound went to the Haçienda."
+    },
+    {
+      "type": "body",
+      "text": ["1986. Friday nights.", "DJ Mike Pickering spun house music.", "Chicago and Detroit met a Manchester factory floor."],
+      "sub": "NUDE nights. The first house music club night in the UK."
+    },
+    {
+      "type": "quote",
+      "quote": ["Indie kids and football hooligans", "danced side by side."],
+      "note": "— Madchester, Summer 1988"
+    },
+    {
+      "type": "body",
+      "text": ["1997. The Haçienda closed.", "2001: demolished.", "Now it's luxury flats."],
+      "sub": "Only the name survived."
+    },
+    {
+      "type": "cta",
+      "text": ["The box is gone.", "The frequency isn't."],
+      "strobe": "Culture outlasts the building.",
+      "cta": "Save this. Some things don't need walls to survive."
+    }
+  ]
+}

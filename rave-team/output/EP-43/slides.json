@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": "Racism built\nthe biggest dance floor in Europe.",
+      "sub": "Notting Hill Carnival — the other origin of UK rave."
+    },
+    {
+      "type": "body",
+      "text": ["1958.", "Nine days of racial violence", "in Notting Hill, London."],
+      "sub": "White nationalist mobs attacked Caribbean immigrants on the street."
+    },
+    {
+      "type": "body",
+      "text": ["Claudia Jones.", "Trinidadian journalist. Activist.", "Her answer: a carnival."],
+      "sub": "January 1959. London's first Caribbean carnival. BBC broadcast it live."
+    },
+    {
+      "type": "body",
+      "text": ["1966.", "A street party for the neighborhood kids.", "A steel band walked. A carnival was born."],
+      "sub": "The first Notting Hill Carnival. The streets became the stage."
+    },
+    {
+      "type": "body",
+      "text": ["1973.", "Duke Vin brought the sound system.", "Bass you felt in your chest."],
+      "sub": "Dub and reggae took root in London's streets."
+    },
+    {
+      "type": "body",
+      "text": ["Sound systems:", "no venue, no entry fee.", "The street was the floor."],
+      "sub": "Two systems clash — who moves the crowd deeper. Dub plates. The war of frequencies."
+    },
+    {
+      "type": "body",
+      "text": ["Without Notting Hill Carnival:", "no Jungle. No DnB.", "No Grime. No Dubstep."],
+      "sub": "Every genre stands on the sound of this street."
+    },
+    {
+      "type": "cta",
+      "text": ["Resistance became music.", "Music became culture.", "Culture moved two million people."],
+      "strobe": "The roots go deeper than any genre.",
+      "cta": "Save this. Next time you hear a bassline, trace it back."
+    }
+  ]
+}
