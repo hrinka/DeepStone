@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-13] auto-ep | EP-55 — Lee Scratch Perry — スタジオを神殿にした男
+- Files: `rave-team/output/EP-55/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-55 — 2026-06-13 — lee-scratch-perry-black-ark.md`
+- Topic: Lee Scratch Perry（本名Rainford Hugh Perry, 1936〜2021）/ Studio One床掃除からスタート / "The Chicken Scratch"（1965）→ニックネームScratch定着 / Bob Marley & The Wailers初期プロデュース（Small Axe・Duppy Conqueror・Soul Rebel）/ 1973年自宅裏にBlack Ark Studio建設（4トラック）/ Junior Murvin "Police and Thieves"（1976）→The Clashカバー / The Congos "Heart of the Congos"（1977）ダブ最高傑作候補 / The Clash "Complete Control"（1977）ロンドンでプロデュース / 1983年Black Ark消失（電気事故説・Perry放火説）/ EP-54 King Tubbyとの対比：エンジニア的Tubby vs シャーマン的Perry
+
 ## [2026-06-13] auto-post | POST-55 — ピナクルナンバー（数秘）
 - Files: `aroma-insta/output/POST-55/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-55-2026-06-13-pinnacle-numbers.md`
