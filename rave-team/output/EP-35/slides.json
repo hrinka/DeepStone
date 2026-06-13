@@ -1,0 +1,82 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "WAREHOUSE PARTY",
+      "sub": "The illegal aesthetic — 40,000 people danced on a forbidden night."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1989. London.",
+        "You never knew where you'd dance",
+        "until the night before.",
+        "The address was never posted in advance."
+      ],
+      "sub": "The night was always a secret."
+    },
+    {
+      "type": "body",
+      "text": [
+        "You called a number.",
+        "A recorded message played:",
+        "\"Head north on the M25.",
+        "Exit at junction 8.",
+        "Turn left when you see the sign.\""
+      ],
+      "sub": "The motorway was the venue."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Abandoned factories.",
+        "Derelict warehouses. Old hospitals.",
+        "Speakers reaching the ceiling.",
+        "5,000. 10,000. 25,000 people."
+      ],
+      "sub": "The spaces no one wanted became the places everyone needed."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Tony Colston-Hayter. 22 years old.",
+        "He named the parties Sunrise.",
+        "There was a loophole:",
+        "call it members only —",
+        "and legally you were safe."
+      ],
+      "sub": "For a while."
+    },
+    {
+      "type": "body",
+      "text": [
+        "22 May 1992.",
+        "Castlemorton Common.",
+        "Spiral Tribe. DiY Sound System. Bedlam.",
+        "One week. 40,000 people.",
+        "It never stopped."
+      ],
+      "sub": "The government was watching."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Music characterised by",
+        "the emission of a succession",
+        "of repetitive beats."
+      ],
+      "note": "Criminal Justice Act, 1994 — the legal definition of rave music, now a criminal offence"
+    },
+    {
+      "type": "cta",
+      "text": [
+        "No one was thinking about the law.",
+        "They were just dancing."
+      ],
+      "strobe": "Castlemorton 1992",
+      "cta": "Save this. You'll want to read it again."
+    }
+  ]
+}

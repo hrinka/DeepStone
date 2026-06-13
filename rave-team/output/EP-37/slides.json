@@ -1,0 +1,90 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "No one believed in the DJ.",
+      "sub": "No name. No credit. No stage. And yet everything started there."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1935.",
+        "A radio announcer played a record.",
+        "Not a performer.",
+        "Not a composer.",
+        "So he got no credit."
+      ],
+      "sub": "The first DJ had no name."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1969. New York.",
+        "Francis Grasso.",
+        "He put on headphones",
+        "and matched beat to beat.",
+        "The silence between songs",
+        "disappeared that night."
+      ],
+      "sub": "The first beatmix."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1973. The Bronx.",
+        "Kool Herc.",
+        "A man from Jamaica.",
+        "Two copies of the same record.",
+        "The breakbeat — extended forever.",
+        "The origin of hip-hop.",
+        "The origin of all DJ technique."
+      ],
+      "sub": "Everything traces back here."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "It wasn't religion.",
+        "It was something deeper.",
+        "A place for the soul."
+      ],
+      "note": "On Frankie Knuckles' Warehouse, Chicago 1977 — the root of house music"
+    },
+    {
+      "type": "body",
+      "text": [
+        "UK rave.",
+        "The DJ was in the dark.",
+        "No face. No name.",
+        "Twenty thousand people",
+        "followed the sound."
+      ],
+      "sub": "The music was enough."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The 90s made DJs into stars.",
+        "Then the next generation hid their faces again.",
+        "Burial never appeared.",
+        "Daft Punk wore helmets.",
+        "If the sound speaks,",
+        "you don't need a face."
+      ],
+      "sub": "The anonymous ones carried it further."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "If the sound speaks,",
+        "no name is needed.",
+        "But there are things",
+        "worth leaving behind."
+      ],
+      "strobe": "1935 → 1969 → 1973 → 1977",
+      "cta": "Save this. You'll want to read it again."
+    }
+  ]
+}

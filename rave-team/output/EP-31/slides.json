@@ -1,0 +1,83 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": "The Night Fabric Died.",
+      "sub": "And the world refused to stay silent."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1999. London.",
+        "Beneath a former meat market.",
+        "Soot-stained stone ceilings.",
+        "A club was born."
+      ],
+      "sub": "Farringdon, EC1"
+    },
+    {
+      "type": "body",
+      "text": [
+        "The floor vibrated.",
+        "400 transducers.",
+        "Sound entered the body directly.",
+        "Europe's first Bodysonic floor."
+      ],
+      "sub": "DJ Mag No.1 — 2007, 2008"
+    },
+    {
+      "type": "body",
+      "text": [
+        "26 June 2016.",
+        "A young man died.",
+        "6 August — another. Eighteen years old."
+      ],
+      "sub": "August: Fabric suspended. 7 September: licence revoked."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "This club has a drug culture.",
+        "We cannot manage it."
+      ],
+      "note": "Islington Council — the reason given for closure, September 2016"
+    },
+    {
+      "type": "body",
+      "text": [
+        "No one stayed quiet.",
+        "DJs worldwide spoke out.",
+        "£100,000 raised in four days.",
+        "£330,000 in total.",
+        "Sadiq Khan said:",
+        "\"This decision is wrong.\""
+      ],
+      "sub": "The industry answered."
+    },
+    {
+      "type": "body",
+      "text": [
+        "November 2016.",
+        "Fabric and the council reached a deal.",
+        "Forty new conditions.",
+        "Stricter security. ID scanning.",
+        "6 January 2017 —",
+        "the doors opened again."
+      ],
+      "sub": "Seventeen years of memory survived."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "A club is not a playground.",
+        "It is the root of culture.",
+        "You only understand what was there",
+        "when you almost lose it."
+      ],
+      "strobe": "6 January 2017",
+      "cta": "Save this. You'll want to read it again."
+    }
+  ]
+}
