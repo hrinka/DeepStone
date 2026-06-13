@@ -11,12 +11,14 @@
             "id": "f04656cf52464558",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "rave-team/output/EP-07/slides/slide_02.png"
+                "file": "rave-team/output/EP-52/carousel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "slide_02"
+              "icon": "lucide-file",
+              "title": "carousel"
             }
           }
         ]
@@ -181,17 +183,20 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
+    "rave-team/output/EP-53/research.md",
+    "rave-team/output/EP-53/script_ja.md",
+    "rave-team/output/EP-53/carousel.md",
     "rave-team/output/EP-07/slides/slide_03.png",
-    "rave-team/output/EP-07/slides/slide_05.png",
-    "rave-team/output/EP-07/slides/slide_06.png",
+    "rave-team/output/EP-07/slides/slide_01.png",
+    "rave-team/output/EP-07/slides/slide_08.png",
     "rave-team/output/EP-07/slides/slide_07.png",
-    "rave-team/output/EP-07/carousel.md",
+    "rave-team/output/EP-07/slides/slide_06.png",
+    "rave-team/output/EP-07/slides/slide_05.png",
     "rave-team/output/EP-07/slides/slide_04.png",
     "rave-team/output/EP-07/slides/slide_02.png",
-    "rave-team/output/EP-07/slides/slide_01.png",
     "rave-team/output/EP-07/slide_1.png",
-    "rave-team/output/EP-07/tb303.png",
-    "rave-team/output/EP-07/smile.png",
+    "rave-team/output/EP-07/slide_7.png",
+    "rave-team/output/EP-07/carousel.md",
     "tools/carousel-render/mix_bg.py",
     "rave-team/output/EP-02/carousel.md",
     "_templates/daily-note.md",
@@ -204,9 +209,6 @@
     "rave-team/output/EP-13/slides.json",
     "wiki/sources/rave/EP-53 — 2026-06-11 — aphex-twin-richard-d-james.md",
     "wiki/sources/aroma/aroma-POST-53-2026-06-11-melissa-joy-frequency.md",
-    "rave-team/output/EP-53/script_ja.md",
-    "rave-team/output/EP-53/research.md",
-    "rave-team/output/EP-53/carousel.md",
     "rave-team/output/EP-53",
     "aroma-insta/output/POST-53/research.md",
     "aroma-insta/output/POST-53/carousel.md",
