@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["From an abandoned city,", "a universe began."],
+      "sub": "Sheffield 1989. The night Warp Records made electronic music into art."
+    },
+    {
+      "type": "body",
+      "text": ["1979. Thatcher won.", "The steel mills closed.", "Sheffield became a city left behind.", "The dark of those empty factories", "became a music incubator."],
+      "sub": "Abandoned industry. A sound born from inside its walls."
+    },
+    {
+      "type": "body",
+      "text": ["Steve Beckett.", "Rob Mitchell.", "Rob Gordon.", "A record shop in Sheffield. 1987.", "Two years later, they pressed a single.", "That was Warp Records."],
+      "sub": "First release: Forgemasters, Track with No Name. 1989."
+    },
+    {
+      "type": "body",
+      "text": ["LFO. 1990.", "UK chart position 12.", "130,000 copies.", "This sound is like", "the Sheffield factories.", "Sparks. Anvils. Steel.", "They called it Bleep Techno."],
+      "sub": "Gez Varley and Mark Bell. Leeds. The record that kept Warp alive."
+    },
+    {
+      "type": "quote",
+      "quote": ["You don't have to dance.", "Sit down and listen.", "Like Kraftwerk.", "Like Pink Floyd."],
+      "note": "Warp, 1992. Artificial Intelligence. Aphex Twin, Autechre, Richie Hawtin, B12. The birth of IDM. Electronic music that refused the dance floor."
+    },
+    {
+      "type": "body",
+      "text": ["Aphex Twin: Selected Ambient Works II. 1994.", "Autechre: Incunabula. 1993.", "Boards of Canada:", "Music Has The Right To Children. 1998.", "Squarepusher:", "Feed Me Weird Things. 1996."],
+      "sub": "Not singles. Albums. Not one night. A lifetime. That was Warp's philosophy."
+    },
+    {
+      "type": "body",
+      "text": ["October 8, 2001.", "Rob Mitchell died.", "Thirty-eight years old.", "Co-founder. Half the soul of Warp.", "Steve Beckett continued alone.", "The label did not stop."],
+      "sub": "Flying Lotus. Oneohtrix Point Never. Battles. Warp kept moving forward."
+    },
+    {
+      "type": "cta",
+      "text": ["Listen to Aphex Twin.", "Selected Ambient Works II.", "Track one. Lights off."],
+      "strobe": "The city the world abandoned made the most enduring electronic music ever released.",
+      "cta": "Save this."
+    }
+  ]
+}

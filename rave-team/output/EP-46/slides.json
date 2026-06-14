@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["A face no one has seen."],
+      "sub": "The most critically acclaimed music of this century was made by a man nobody knows."
+    },
+    {
+      "type": "quote",
+      "quote": ["Only five people in the world", "know my music."],
+      "note": "Burial. 2007. South London. First signed to Hyperdub. Told no one."
+    },
+    {
+      "type": "body",
+      "text": ["South London.", "A rainy night.", "The night bus home.", "Sound still in his body.", "That was his source material."],
+      "sub": "Field recordings. Rain. City noise. Vinyl crackle laid over the top. One room. Not a studio."
+    },
+    {
+      "type": "body",
+      "text": ["A broken laptop.", "Smoke coming out of it.", "SoundForge.", "No timeline. No grid.", "Just the waveform.", "When the drums look right,", "they look like a fish skeleton."],
+      "sub": "He never learned the correct way. That is why the sound was entirely his."
+    },
+    {
+      "type": "body",
+      "text": ["Untrue. November 2007.", "Wire: album of the year.", "Uncut: album of the year.", "Mixmag: album of the year.", "Mercury Prize nominated.", "He did not show up."],
+      "sub": "Urban loneliness as music. A landmark in electronic music history."
+    },
+    {
+      "type": "body",
+      "text": ["Thom Yorke.", "Massive Attack.", "Four Tet.", "He worked with all of them.", "No interviews.", "No photographs.", "No press."],
+      "sub": "The Independent printed his name in 2008. He stayed silent."
+    },
+    {
+      "type": "body",
+      "text": ["James Blake.", "Mount Kimbie.", "Future Garage.", "Every one of them says it:", "Without Burial,", "we wouldn't exist."],
+      "sub": "No four-on-the-floor. No BPM race. Just the night. The loneliness that stayed hidden reached the most people."
+    },
+    {
+      "type": "cta",
+      "text": ["Listen to Untrue.", "Alone. At night."],
+      "strobe": "The city's loneliness, made into sound, became the most heard silence of the century.",
+      "cta": "Save this."
+    }
+  ]
+}

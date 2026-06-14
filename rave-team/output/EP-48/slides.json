@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["Nobody danced.", "The whole world stopped."],
+      "sub": "Bristol Sound. The night dance music became something you could not move to."
+    },
+    {
+      "type": "body",
+      "text": ["Two hours from London.", "St. Pauls.", "Caribbean immigrants put down roots.", "Jamaica's music came in through the port.", "In 1980, the streets pushed back.", "Out of that district, the music came."],
+      "sub": "The St. Pauls uprising. The ground the sound grew from."
+    },
+    {
+      "type": "body",
+      "text": ["3D. Mushroom. Daddy G.", "Tricky Kid. Nellee Hooper.", "They had a sound system.", "Wild Bunch.", "Reggae. Hip-hop. Rock. Soul.", "Mix everything. Erase the genre."],
+      "sub": "1979 to 1988. The first definition of what Bristol sounded like."
+    },
+    {
+      "type": "body",
+      "text": ["Three of them left Wild Bunch.", "1991. Blue Lines.", "Reggae bass. Hip-hop breaks.", "Soul vocal. Dub space.", "During the Gulf War,", "they removed the word Attack.", "It felt wrong."],
+      "sub": "Massive Attack. Later called the first trip-hop album. They never used that word."
+    },
+    {
+      "type": "quote",
+      "quote": ["A forty-piece orchestra.", "One long take.", "The camera never cut."],
+      "note": "Unfinished Sympathy. 1991. BBC Radio 2: one of the most moving songs in dance music history. Nobody danced."
+    },
+    {
+      "type": "body",
+      "text": ["Geoff Barrow and Beth Gibbons", "met on an unemployment course.", "1994. Dummy.", "Mercury Prize. Double platinum.", "Trip-hop?", "I hate that word.", "London put that label on us."],
+      "sub": "Portishead. Spy-film sound. Sadness made beautiful."
+    },
+    {
+      "type": "body",
+      "text": ["Tricky. 1995. Maxinquaye.", "A voice like a whisper.", "Sound like a locked room.", "Three artists.", "Three visions.", "All rejected the genre name.", "The world kept it anyway."],
+      "sub": "Wild Bunch scattered into three separate languages. All of them essential."
+    },
+    {
+      "type": "cta",
+      "text": ["Put on Unfinished Sympathy.", "Sit still."],
+      "strobe": "The city that gave music weight asked nothing from your feet.",
+      "cta": "Save this."
+    }
+  ]
+}

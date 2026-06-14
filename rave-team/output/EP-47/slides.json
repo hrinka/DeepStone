@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["Sunday nights.", "The darkest room", "in the world opened."],
+      "sub": "Metalheadz. Hoxton, 1994. Drum and bass found its home."
+    },
+    {
+      "type": "body",
+      "text": ["Placed in care at three.", "He drew graffiti.", "He made gold teeth and sold them.", "That was his first language."],
+      "sub": "Goldie. Before the music, there was the street."
+    },
+    {
+      "type": "body",
+      "text": ["1994.", "Kemistry and Storm", "brought Goldie to a club.", "On the walk home he said:", "I want to make this.", "Let us start a label.", "That night, Metalheadz was born."],
+      "sub": "Kemistry and Storm would become two of drum and bass's defining DJs."
+    },
+    {
+      "type": "body",
+      "text": ["Hoxton. Blue Note.", "Sundays only.", "Low ceiling.", "Bass with nowhere to escape.", "Lights cut all the way down.", "Inside, your body became sound."],
+      "sub": "The floor they built was unlike anything before or after."
+    },
+    {
+      "type": "body",
+      "text": ["Every Sunday, the same names:", "Photek.", "Dillinja.", "Grooverider.", "Doc Scott.", "Source Direct.", "Nobody knew them.", "They were making history."],
+      "sub": "1994 to 1999. Five years. The underground was everything."
+    },
+    {
+      "type": "quote",
+      "quote": ["My job is to make breakbeat", "more acceptable."],
+      "note": "Goldie. Timeless, 1995. UK chart position 7. A twenty-two-minute symphony. The first time drum and bass was called music."
+    },
+    {
+      "type": "body",
+      "text": ["October 1999.", "Kemistry died.", "The Blue Note Sundays ended.", "The bass from that room", "is somewhere still."],
+      "sub": "Some venues cannot be recreated. Only remembered."
+    },
+    {
+      "type": "cta",
+      "text": ["Find Goldie.", "Timeless.", "Play it from the start."],
+      "strobe": "A label born in one night became the heartbeat of drum and bass.",
+      "cta": "Save this."
+    }
+  ]
+}

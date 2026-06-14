@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["The sound that never left London."],
+      "sub": "UK Funky. Summer 2008. One scene. No export."
+    },
+    {
+      "type": "body",
+      "text": ["UK Garage scraps.", "African percussion.", "Jamaican dancehall.", "BPM 130.", "Heavy bass. Off-beat drums.", "Someone called it UK Funky."],
+      "sub": "First track: Apple's Dutty Dance. Made on Fruity Loops. Nothing else."
+    },
+    {
+      "type": "body",
+      "text": ["Kyla. Do You Mind.", "One Crazy Cousinz remix.", "Two summers. That was all it took.", "Rinse FM to the floor.", "London had one sound."],
+      "sub": "2008. The whole city ran on this rhythm."
+    },
+    {
+      "type": "body",
+      "text": ["Roska.", "Cooly G.", "Apple.", "Lil Silva.", "Almost all Black British.", "Almost all ignored by the press.", "All making history."],
+      "sub": "Lil Silva later produced Adele's record. No one wrote about where he came from."
+    },
+    {
+      "type": "body",
+      "text": ["It hit the charts in 2009.", "Cheap copies followed.", "The name survived.", "The feeling didn't.", "Dubstep arrived.", "By 2012, the silence was complete."],
+      "sub": "The philosophy never crossed over. Just the label."
+    },
+    {
+      "type": "body",
+      "text": ["It didn't disappear.", "It became the root.", "Amapiano's groove.", "Gqom's off-beat.", "DJ Plead's movement.", "The failed genre", "moves dance floors now."],
+      "sub": "Twenty years later. Every underground floor carries it."
+    },
+    {
+      "type": "quote",
+      "quote": ["Real scenes live in the producer's room,", "the basement club,", "and the pirate radio frequency."],
+      "note": "The people the press ignored built what the world dances to. That never changes."
+    },
+    {
+      "type": "cta",
+      "text": ["Find Kyla.", "Do You Mind.", "Listen tonight."],
+      "strobe": "The music they ignored became the root of everything.",
+      "cta": "Save this."
+    }
+  ]
+}
