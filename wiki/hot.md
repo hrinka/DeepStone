@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-12
+updated: 2026-06-13
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,8 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-06-13: EP-55「Lee "Scratch" Perry — スタジオを神殿にした男、そして燃やした男。」生成・GitHub push完了（本名Rainford Hugh Perry / 1936年ジャマイカ・ケンダル生まれ / Studio One床掃除から独学 / 1965年"The Chicken Scratch"でデビュー→ニックネームScratch定着 / Bob Marley初期プロデューサー（Small Axe・Duppy Conqueror・Soul Rebel）/ 1973年自宅裏Black Ark Studio建設（4トラック）/ Junior Murvin "Police and Thieves"（1976）→The Clashデビューアルバムカバー→パンク×レゲエ接続 / The Congos "Heart of the Congos"（1977）/ The Clash "Complete Control"（1977）ロンドンでプロデュース / 1983年Black Ark消失 / 2021年8月29日享年85 / EP-54 King Tubbyとの対比：エンジニア的Tubby vs シャーマン的Perry）。
+2026-06-13: POST-55「あなたの人生には、4つの山がある。— ピナクルナンバーと恵みの時期」生成・GitHub push 完了（数秘ピラー / Pinnacle Numbers（達成数・頂点数）/ 人生を4つのサイクルに分け各時期の開花を示す / 計算: P1=誕生月+誕生日 / P2=誕生日+誕生年 / P3=P1+P2 / P4=誕生月+誕生年 / 第1終了=36−LP数歳・以降9年ずつ / 1=自立・2=感受性・3=創造・4=勤勉・5=自由・6=愛・7=霊性・8=達成・9=慈悲・11=光の使者・22=建築家 / Rinka: P1=4(〜31歳・今ここ・基盤を築く)・P2=2(31〜40歳・人との繋がり)・P3=6(40〜49歳・使命と才能が重なる最も豊かな山)・P4=4(49歳〜・深く根付く) / チャレンジナンバー（POST-52「試練」）の対として「恵みの番号」という角度 / 「今いる山は、その山にしかない景色を持っている」白魔女アングル）。
 2026-06-12: EP-54「King Tubby — ベースを発明した男」生成・GitHub push完了（レイブピラー / 本名Osbourne Ruddock / 1941年キングストン生まれ・ウォーターハウスのラジオ修理工 / 1968年「King Tubby's Home Town Hi-Fi」自作構築 / Duke Reid Treasure Isleでヴォーカル除去→ダブ誕生 / 18 Dromilly Ave自室スタジオ・カスタム4trk自作ミキサー / バージョン（version）文化＝リミックスの世界的起源 / Lee Perry Black Ark Studio回路設計 / 弟子：Scientist・Prince Jammy・Prince Philip Smart / 1989年2月6日自宅前で射殺享年48 / DnB・Dubstep・Grime・UK Bass全ての源流 / EP-02サウンドシステム・EP-50ハードコアコンティニュームの「最初の点」）。
 2026-06-12: POST-54「植物は、隣を選んでいる。— コンパニオンプランティングと植物の化学コミュニケーション」生成・GitHub push 完了（ハーブ菜園ピラー / コンパニオンプランティング / VOC（揮発性有機化合物）= 植物が空気中で会話する物質・Journal of Experimental Botany 2022など科学的証明済み / アレロパシー（他感作用）= 植物の化学物質が隣の植物の成長・防御に影響 / 地中海カルテット（ラベンダー×ローズマリー×タイム×セージ）= 同じ原産地・同じ周波数帯・最強の共生グループ / ペパーミント = 地下茎で爆発的拡張・鉢植え隔離必須「境界を持つことも愛」/ ゼラニウム = 声なき守護者・アブラムシをVOCで遠ざける / メリッサ = 最も社交的なハーブ・誰とでも共生可能 / 「隣に何を置くかが菜園の波動を決める」白魔女アングル / 植物の会話 × 人間の波動論の融合）。
 2026-06-12: **ボサノバ**調査完了。`wiki/questions/bossanova.md` 作成（ジョアン・ジルベルト・ジョビン・三巨頭 / 必聴7枚：Getz/Gilberto(1964)・Chega de Saudade(1959)・Wave(1967)・Elis&Tom(1974)・White Album(1973)・Amoroso(1977)・Rain Forest(1966) / サウダーデ（Saudade）= 失われたものへの愛しさ / 2026年コンテンポラリー：Luísa Sonza×Menescal「Bossa Sempre Nova」(Sony)・Joyce Moreno(MCB)・Bossacucanova / Neo-Bossa×R&Bトレンド台頭 / Rinkaの音楽との接点：メリッサの「喜びの周波数」× サウダーデの「郷愁の周波数」の間に宿る音）。

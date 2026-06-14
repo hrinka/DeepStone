@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-06-13] auto-ep | EP-55 — Lee Scratch Perry — スタジオを神殿にした男
+- Files: `rave-team/output/EP-55/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-55 — 2026-06-13 — lee-scratch-perry-black-ark.md`
+- Topic: Lee Scratch Perry（本名Rainford Hugh Perry, 1936〜2021）/ Studio One床掃除からスタート / "The Chicken Scratch"（1965）→ニックネームScratch定着 / Bob Marley & The Wailers初期プロデュース（Small Axe・Duppy Conqueror・Soul Rebel）/ 1973年自宅裏にBlack Ark Studio建設（4トラック）/ Junior Murvin "Police and Thieves"（1976）→The Clashカバー / The Congos "Heart of the Congos"（1977）ダブ最高傑作候補 / The Clash "Complete Control"（1977）ロンドンでプロデュース / 1983年Black Ark消失（電気事故説・Perry放火説）/ EP-54 King Tubbyとの対比：エンジニア的Tubby vs シャーマン的Perry
+
+## [2026-06-13] auto-post | POST-55 — ピナクルナンバー（数秘）
+- Files: `aroma-insta/output/POST-55/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-55-2026-06-13-pinnacle-numbers.md`
+- Topic: ピナクルナンバー（Pinnacle Numbers / 達成数）/ 人生を4つの時期に分け、各時期の恵み・才能・開花の形を示す / 第1（種まき）→第2（人との繋がり）→第3（使命との一致・最も豊か）→第4（知恵・統合） / 計算: P1=月+日 / P2=日+年 / P3=P1+P2 / P4=月+年 / 第1終了=36−LP数歳 / Rinka: P1=4(〜31歳)・P2=2(31〜40歳)・P3=6(40〜49歳)・P4=4(49歳〜) / 「今いる山は、その山にしかない景色を持っている」白魔女アングル / チャレンジ数（POST-52）との対
+
 ## [2026-06-12] auto-ep | EP-54 — King Tubby — ベースを発明した男
 - Files: `rave-team/output/EP-54/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-54 — 2026-06-12 — king-tubby-bass-inventor.md`

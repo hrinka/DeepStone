@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-55 (2026-06-13): Lee "Scratch" Perry — スタジオを神殿にした男、そして燃やした男。 — 本名Rainford Hugh Perry（1936〜2021）。Studio One床掃除から独学、1965年"The Chicken Scratch"でデビュー。Bob Marley & The Wailersの初期プロデューサー（"Small Axe" / "Duppy Conqueror" / "Soul Rebel"）。1973年キングストン自宅裏に4トラックのBlack Ark Studioを建設。Junior Murvin "Police and Thieves"（1976）がThe Clashカバー → パンク×レゲエの握手。The Congos "Heart of the Congos"（1977）はダブ最高傑作候補。The Clash "Complete Control"（1977）をロンドンでプロデュース。1983年Black Ark消失。「スタジオは機械ではなく生きている」という哲学がUK Dub・ブリストル・電子音楽の精神的起源。2021年8月29日享年85。
+
 - EP-54 (2026-06-12): King Tubby — ベースを発明した男。 — キングストン・ウォーターハウスのラジオ修理工Osbourne Ruddock（1941〜1989）が1968年に「King Tubby's Home Town Hi-Fi」を自作構築。Duke ReidのTreasure Isleでヴォーカルを落とした瞬間にダブを発明。18 Dromilly Avenueの自室スタジオ・自作4トラックミキサーで「バージョン（version）」文化＝リミックスの概念を世界に先駆け確立。Lee PERRYのBlack Ark Studio回路を設計。弟子：Scientist・Prince Jammy・Prince Philip Smart。1989年2月6日、自宅前で射殺、享年48。DnBもDubstepも知らぬまま死んだが、彼のダブは大西洋を渡りJungle→DnB→Dubstep→Grimeになった。
 
 - EP-53 (2026-06-11): Aphex Twin — コーンウォールの少年が、夜を発明した。 — リムリック生まれ・コーンウォール育ちのRichard D. James（1971年）が14歳から廃棄シンセを自作改造し録音を開始。1991年「Analogue Bubblebath EP」デビュー・Rephlex Records設立。1992年「Selected Ambient Works 85-92」（14歳からの録音集・アンビエント・テクノの礎）・「Digeridoo」EPがロンドン海賊ラジオとレイブフロアを席巻・Warp「Artificial Intelligence」コンピに"Dice Man"名義で参加（IDM誕生の瞬間）。1994年「SAW Vol.II」（眠れない夜の純粋アンビエント）。1997年「Come to Daddy」（Chris Cunningham監督MV・MTVで子どもを泣かせた）。1999年「Windowlicker」（Daft Punkが影響公言・Flying Lotus・James Blakeの源流）。私生活：戦車1台所持・廃銀行ボルトに居住・ロシア潜水艦を「パーティに使えそう」と購入検討。2001年「Drukqs」→13年の沈黙。2014年「Syro」（Warp）Grammy受賞・授賞式には現れなかった。
@@ -62,6 +64,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 55 | Lee "Scratch" Perry — スタジオを神殿にした男 | ✅ Complete | 2026-06-13 | — |
 | 54 | King Tubby — ベースを発明した男 | ✅ Complete | 2026-06-12 | — |
 | 53 | Aphex Twin — コーンウォールの少年が、夜を発明した。 | ✅ Complete | 2026-06-11 | — |
 | 52 | Orbital — 階段の下の物置から、世界は始まった。 | ✅ Complete | 2026-06-10 | — |
