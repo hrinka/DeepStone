@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-13
+updated: 2026-06-14
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,7 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-06-14: POST-56「5トンの花が、1滴の愛を作る。— ローズオットーと愛の周波数」生成・GitHub push完了（アロマピラー / ダマスクローズ（Rosa damascena）/ ブルガリア「バラの谷」世界80%生産 / 1kgに350〜500万輪 / 毎年5月の20日間のみ夜明け前に手摘み / 13世紀十字軍がダマスカスから欧州へ / 5000年の歴史 / 600種以上の芳香成分（シトロネロール30〜40%・ゲラニオール・ネロール・リナロール）/ 臨床試験でうつ・不安・ストレス有意低下 / ドーパミン放出・血圧・コルチゾール低下 / 「落ち着くのに気分が上がる」逆説 / ハートチャクラ対応・アフロディーテの花 / 「350万輪が1kgになる = 痛みが愛に変わる錬金術」白魔女アングル）。
 2026-06-13: EP-55「Lee "Scratch" Perry — スタジオを神殿にした男、そして燃やした男。」生成・GitHub push完了（本名Rainford Hugh Perry / 1936年ジャマイカ・ケンダル生まれ / Studio One床掃除から独学 / 1965年"The Chicken Scratch"でデビュー→ニックネームScratch定着 / Bob Marley初期プロデューサー（Small Axe・Duppy Conqueror・Soul Rebel）/ 1973年自宅裏Black Ark Studio建設（4トラック）/ Junior Murvin "Police and Thieves"（1976）→The Clashデビューアルバムカバー→パンク×レゲエ接続 / The Congos "Heart of the Congos"（1977）/ The Clash "Complete Control"（1977）ロンドンでプロデュース / 1983年Black Ark消失 / 2021年8月29日享年85 / EP-54 King Tubbyとの対比：エンジニア的Tubby vs シャーマン的Perry）。
 2026-06-13: POST-55「あなたの人生には、4つの山がある。— ピナクルナンバーと恵みの時期」生成・GitHub push 完了（数秘ピラー / Pinnacle Numbers（達成数・頂点数）/ 人生を4つのサイクルに分け各時期の開花を示す / 計算: P1=誕生月+誕生日 / P2=誕生日+誕生年 / P3=P1+P2 / P4=誕生月+誕生年 / 第1終了=36−LP数歳・以降9年ずつ / 1=自立・2=感受性・3=創造・4=勤勉・5=自由・6=愛・7=霊性・8=達成・9=慈悲・11=光の使者・22=建築家 / Rinka: P1=4(〜31歳・今ここ・基盤を築く)・P2=2(31〜40歳・人との繋がり)・P3=6(40〜49歳・使命と才能が重なる最も豊かな山)・P4=4(49歳〜・深く根付く) / チャレンジナンバー（POST-52「試練」）の対として「恵みの番号」という角度 / 「今いる山は、その山にしかない景色を持っている」白魔女アングル）。
 2026-06-12: EP-54「King Tubby — ベースを発明した男」生成・GitHub push完了（レイブピラー / 本名Osbourne Ruddock / 1941年キングストン生まれ・ウォーターハウスのラジオ修理工 / 1968年「King Tubby's Home Town Hi-Fi」自作構築 / Duke Reid Treasure Isleでヴォーカル除去→ダブ誕生 / 18 Dromilly Ave自室スタジオ・カスタム4trk自作ミキサー / バージョン（version）文化＝リミックスの世界的起源 / Lee Perry Black Ark Studio回路設計 / 弟子：Scientist・Prince Jammy・Prince Philip Smart / 1989年2月6日自宅前で射殺享年48 / DnB・Dubstep・Grime・UK Bass全ての源流 / EP-02サウンドシステム・EP-50ハードコアコンティニュームの「最初の点」）。

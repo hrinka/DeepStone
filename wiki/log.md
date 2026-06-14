@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-14] auto-post | POST-56 — ローズオットー（ダマスクローズ）— 愛の周波数
+- Files: `aroma-insta/output/POST-56/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-56-2026-06-14-rose-otto.md`
+- Topic: ローズオットー（Rosa damascena）/ ブルガリア「バラの谷」世界80%生産 / 1kgに350〜500万輪・20日間・夜明け前に手摘み / 13世紀十字軍がダマスカスから欧州へ / 5000年の歴史 / 600種以上の芳香成分（シトロネロール30〜40%・ゲラニオール・ネロール・リナロール）/ 臨床試験でうつ・不安・ストレス有意低下 / ドーパミン放出・血圧・コルチゾール低下 / 「落ち着くのに気分が上がる」逆説 / ハートチャクラ対応・アフロディーテの花 / 「350万輪が1kgになる = 痛みが愛に変わる錬金術」白魔女アングル
+
 ## [2026-06-13] auto-ep | EP-55 — Lee Scratch Perry — スタジオを神殿にした男
 - Files: `rave-team/output/EP-55/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-55 — 2026-06-13 — lee-scratch-perry-black-ark.md`
