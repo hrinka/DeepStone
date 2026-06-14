@@ -5,6 +5,11 @@
 - Wiki source: `wiki/sources/aroma/aroma-POST-56-2026-06-14-rose-otto.md`
 - Topic: ローズオットー（Rosa damascena）/ ブルガリア「バラの谷」世界80%生産 / 1kgに350〜500万輪・20日間・夜明け前に手摘み / 13世紀十字軍がダマスカスから欧州へ / 5000年の歴史 / 600種以上の芳香成分（シトロネロール30〜40%・ゲラニオール・ネロール・リナロール）/ 臨床試験でうつ・不安・ストレス有意低下 / ドーパミン放出・血圧・コルチゾール低下 / 「落ち着くのに気分が上がる」逆説 / ハートチャクラ対応・アフロディーテの花 / 「350万輪が1kgになる = 痛みが愛に変わる錬金術」白魔女アングル
 
+## [2026-06-14] auto-ep | EP-56 — Hyperdub Records — グラスゴーの哲学者が、ロンドンの地下室を変えた20年
+- Files: `rave-team/output/EP-56/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-56 — 2026-06-14 — hyperdub-records.md`
+- Topic: Hyperdub Records（Steve Goodman / Kode9）/ グラスゴー生まれ哲学PhD→「音を武器として論じた博士論文」→1999年ウェブジン Hyperdub 開設（dubplate.net）→2004年レーベル創設 / 第1弾: Kode9 & The Spaceape "Sine of the Dub"（2004, HYP001）Prince の"Sign O' The Times"リワーク / BurialがCD-Rを郵便で送り続け→"South London Boroughs"（2005, HYP003）→Burialデビュー→Wire誌年間最高（2006）/ 2009年MIT Press「Sonic Warfare: Sound, Affect, and the Ecology of Fear」ベース音楽＝政治的抵抗の理論 / The Spaceape（2014死去, 血液疾患享年40代）/ Ikonika（2008〜）・Laurel Halo（2012〜）・Jessy Lanza（2013〜）・DJ Rashad「Double Cup」（2013, 2014死去享年34）/ 理論から始まった唯一のレーベル
+
 ## [2026-06-13] auto-ep | EP-55 — Lee Scratch Perry — スタジオを神殿にした男
 - Files: `rave-team/output/EP-55/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-55 — 2026-06-13 — lee-scratch-perry-black-ark.md`
