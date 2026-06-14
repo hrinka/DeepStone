@@ -47,9 +47,9 @@ THEMES = {
         "body_texture": str(TEX / "notebook-black.jpg"), "body_dark": 0.78,
     },
     "flava": {
-        "bg": "#F4EFE6", "main": "#33403A", "strobe": "#869177",
-        "sub": "#A99BC0", "rule": "#C9A86A",
-        "font_head": "/System/Library/Fonts/Hiragino Sans GB.ttc",
+        "bg": "#F4EFE6", "main": "#33403A", "strobe": "#2C2A26",
+        "sub": "#8C8276", "rule": "#C9A86A",
+        "font_head": "/System/Library/Fonts/ヒラギノ明朝 ProN.ttc",  # 明朝（詩的）
         "font_body": "/System/Library/Fonts/Hiragino Sans GB.ttc",
         "motif": False, "grain": 6,
         "body_texture": str(TEX / "notebook-ivory.jpg"), "body_dark": 0.92,
@@ -75,6 +75,15 @@ def _break_token(draw, word, font, max_w):
     if piece: out.append(piece)
     return out
 
+_KINSOKU_START = "、。，．・,.)）」』】〕｝!?！？ー~〜ゃゅょっぁぃぅぇぉ゛゜"  # 行頭禁止
+def _kinsoku(lines):
+    """行頭に来てはいけない文字を前の行末へ送る（日本語の見栄え）"""
+    for i in range(1, len(lines)):
+        while lines[i] and lines[i][0] in _KINSOKU_START and lines[i-1]:
+            lines[i-1] += lines[i][0]
+            lines[i] = lines[i][1:]
+    return [l for l in lines if l]
+
 def greedy_wrap(draw, text, font, max_w):
     lines, cur = [], ""
     for w in text.split(" "):
@@ -89,7 +98,7 @@ def greedy_wrap(draw, text, font, max_w):
             cur = parts[-1]
     if cur:
         lines.append(cur)
-    return lines
+    return _kinsoku(lines)
 
 def as_lines(value, draw, font, max_w):
     """配列→そのまま / "\\n"入り文字列→分割 / 普通の文字列→必要時のみ折返し"""
