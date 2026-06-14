@@ -120,17 +120,28 @@ def as_lines(value, draw, font, max_w):
             out.append(ln)
     return out
 
-def fit_font(draw, value, font_path, maxw, maxh, hi, lo=70):
-    """長文でも収まる最大サイズを選ぶ（cover/cta用の自動縮小）"""
-    for size in range(hi, lo-1, -6):
+def _raw_lines(value):
+    """配列 or \\n → そのまま分割（再折返ししない・作者の改行を尊重）"""
+    if value is None:
+        return []
+    if isinstance(value, list):
+        return [_san(x) for x in value if _san(x)]
+    if "\n" in value:
+        return [_san(x) for x in value.split("\n") if _san(x)]
+    return None  # ただの文字列 → 呼び出し側で折返し
+
+def fit_font(draw, value, font_path, maxw, maxh, hi, lo=44):
+    """配列/改行入りは作者の行を尊重しフォント縮小で収める。素の文字列は折返し。"""
+    raw = _raw_lines(value)
+    for size in range(hi, lo-1, -5):
         f = F(font_path, size)
-        lines = as_lines(value, draw, f, maxw)
+        lines = raw if raw is not None else greedy_wrap(draw, _san(value), f, maxw)
         asc, desc = f.getmetrics(); lh = int((asc+desc)*1.18)
         widest = max((draw.textlength(l, font=f) for l in lines), default=0)
         if widest <= maxw and lh*len(lines) <= maxh:
             return f, lines
     f = F(font_path, lo)
-    return f, as_lines(value, draw, f, maxw)
+    return f, (raw if raw is not None else greedy_wrap(draw, _san(value), f, maxw))
 
 def draw_block(draw, lines, font, fill, cy, line_gap=1.18):
     asc, desc = font.getmetrics()
@@ -218,24 +229,25 @@ def render_slide(slide, theme, cover_bg, base_dir="."):
             subf = F(theme["font_body"], 40)
             draw_block(d, as_lines(slide["sub"], d, subf, mw), subf, theme["sub"], yb + 70)
     elif typ == "quote":
-        q = F(theme["font_head"], 92)
+        qf, qlines = fit_font(d, slide.get("quote"), theme["font_head"], mw, int(H*0.42), 96)
         note = F(theme["font_body"], 34)
-        y = draw_block(d, as_lines(slide.get("quote"), d, q, mw), q, theme["strobe"], int(H*0.44))
+        y = draw_block(d, qlines, qf, theme["strobe"], int(H*0.42))
         if slide.get("note"):
             draw_block(d, as_lines(slide["note"], d, note, mw), note, theme["sub"], y+70)
     elif typ == "cta":
-        big = F(theme["font_head"], 120)
+        hi = 120 if theme["motif"] else 96
+        bigf, tlines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*0.40), hi)
         cta = F(theme["font_body"], 34)
-        # text と strobe を均等行間の1ブロックに（色だけ分ける）
-        items = [(l, theme["main"]) for l in as_lines(slide.get("text"), d, big, mw)]
-        items += [(l, theme["strobe"]) for l in as_lines(slide.get("strobe"), d, big, mw)]
-        draw_colored_block(d, items, big, int(H*0.42))
+        items = [(l, theme["main"]) for l in tlines]
+        items += [(l, theme["strobe"]) for l in (_raw_lines(slide.get("strobe")) or ([_san(slide["strobe"])] if slide.get("strobe") else []))]
+        draw_colored_block(d, items, bigf, int(H*0.42))
         if slide.get("cta"):
             draw_block(d, as_lines(slide["cta"], d, cta, mw), cta, theme["sub"], int(H*0.80))
     else:  # body
-        head = F(theme["font_head"], 110) if theme["motif"] else F(theme["font_head"], 80)
+        hi = 110 if theme["motif"] else 84
+        headf, blines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*0.42), hi)
         sub = F(theme["font_body"], 38)
-        y = draw_block(d, as_lines(slide.get("text"), d, head, mw), head, theme["main"], int(H*0.44))
+        y = draw_block(d, blines, headf, theme["main"], int(H*0.44))
         if slide.get("sub"):
             draw_block(d, as_lines(slide["sub"], d, sub, mw), sub, theme["sub"], y+55)
 
