@@ -157,6 +157,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-57 — 2026-06-15 — klf-burn-a-million]]|The KLF: Bill Drummond + Jimmy Cauty / 1987年The JAMs→ABBA著作権紛争 / 「Chill Out」（1990）アンビエントハウス誕生 / 「3 AM Eternal」（1991）UK#1・世界最多売シングルアクト / Tammy Wynette共演18カ国#1 / 1992年BRITアワードで空砲機関銃+退場宣言+死んだ羊 / 全カタログ削除 / 1994年ジュラ島で£1,000,000現金焼却|
 |[[EP-56 — 2026-06-14 — hyperdub-records]]|Hyperdub Records: Steve Goodman（Kode9）/ グラスゴー生まれ哲学PhD / 1999年ウェブジン→2004年レーベル創設 / 第1弾リリース: Kode9 & Spaceape "Sine of the Dub"（2004）/ BurialがCD-Rを郵送→"South London Boroughs"（2005）・自タイトル（2006）Wire誌最高 / "Sonic Warfare"（2009 MIT Press）ベース音楽＝政治的抵抗の理論 / Ikonika・Laurel Halo・Jessy Lanza・DJ Rashad（2013死去）/ 理論から始まった20年|
 |[[EP-55 — 2026-06-13 — lee-scratch-perry-black-ark]]|Lee Scratch Perry: 1936年ジャマイカ生まれ / Studio One床掃除からスタート / Bob Marley初期プロデューサー（Small Axe・Duppy Conqueror・Soul Rebel）/ 1973年自宅裏にBlack Ark Studio建設（4トラック）/ "Police and Thieves"（1976）→The Clashカバー / Heart of the Congos（1977）ダブ最高峰 / The Clash "Complete Control"（1977）ロンドンでプロデュース / 1983年Black Ark消失 / 2021年8月29日享年85 / King Tubbyと並ぶダブ二大巨頭|
 |[[EP-54 — 2026-06-12 — king-tubby-bass-inventor]]|King Tubby: キングストン・ウォーターハウスの修理工→1968年Home Town Hi-Fi構築→ダブの発明（バージョン＝リミックスの起源）→自室18 Dromilly Ave自作スタジオ→Lee Perry Black Ark回路設計→弟子Scientist・Prince Jammy→1989年2月6日射殺享年48。DnB・Dubstep・Grime・UK Bass全ての源流|

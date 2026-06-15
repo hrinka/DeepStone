@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-14
+updated: 2026-06-15
 tags:
   - meta
   - hot-cache
@@ -15,6 +15,7 @@ related:
 
 ## Last Updated
 2026-06-15: POST-57「光が頂点に達する日、植物は満ちる。— 夏至のハーブ菜園」生成・GitHub push完了（ハーブ菜園ピラー / 夏至6月21日まで6日 / 高光照射→二次代謝産物（精油成分）最大生成を科学論文PMC7514039で裏付け / ラベンダー開花直前・タイム小花前が酢酸リナリル+チモールのピーク / フランス・プロヴァンス「サン・ジャンの夜」= 夏至前夜600年のハーブ収穫伝統、Rinkaの菜園4種（ローズマリー・ラベンダー・タイム・セージ）が完全一致 / ドルイド僧・ヴィクトリア朝タイム×妖精×シェイクスピア「夏の夜の夢」/ 「科学と古代の知恵が夏至に交差する」白魔女アングル / 菜園10種の夏至状況マップ付き）。
+2026-06-15: EP-57「The KLF — 世界一になって、全部消した」生成・GitHub push完了（The KLF = Bill Drummond + Jimmy Cauty / 1987年The JAMs結成・ABBA著作権紛争で全在庫廃棄 / 1988年Timelords「Doctorin' the Tardis」UK#1・「The Manual」でチャート攻略法を全公開 / 1990年「Chill Out」44分一発録音・アンビエントハウス誕生（Orbital・Aphex Twinに影響）/ 1991年「3 AM Eternal」UK#1・US#5・世界最多売シングルアクト / Tammy Wynette共演「Justified & Ancient」18カ国#1 / 1992年2月BRITアワード→Extreme Noise Terrorと空砲機関銃発砲・退場宣言・死んだ羊 / 1992年5月全カタログ削除 / 1994年8月23日ジュラ島（オーウェルが「1984」を書いた孤島）で£1,000,000現金焼却・2時間 / 「I think it was the only honest thing left to do.」/ アンビエントハウスとスタジアムハウスの起源）。
 2026-06-14: POST-56「5トンの花が、1滴の愛を作る。— ローズオットーと愛の周波数」生成・GitHub push完了（アロマピラー / ダマスクローズ（Rosa damascena）/ ブルガリア「バラの谷」世界80%生産 / 1kgに350〜500万輪 / 毎年5月の20日間のみ夜明け前に手摘み / 13世紀十字軍がダマスカスから欧州へ / 5000年の歴史 / 600種以上の芳香成分（シトロネロール30〜40%・ゲラニオール・ネロール・リナロール）/ 臨床試験でうつ・不安・ストレス有意低下 / ドーパミン放出・血圧・コルチゾール低下 / 「落ち着くのに気分が上がる」逆説 / ハートチャクラ対応・アフロディーテの花 / 「350万輪が1kgになる = 痛みが愛に変わる錬金術」白魔女アングル）。
 2026-06-14: EP-56「Hyperdub Records — グラスゴーの哲学者が、ロンドンの地下室を変えた20年」生成・GitHub push完了（創設者Steve Goodman（Kode9）/ グラスゴー1973年生まれ / ウォーリック大学哲学PhD / 1999年ウェブジンHyperdub開設（dubplate.net）→2004年レーベル創設 / 第1弾リリース: Kode9 & The Spaceape "Sine of the Dub"（HYP001, 2004）= Princeの"Sign O' The Times"ダブステップリワーク / Burialが2002年頃からKode9のウェブサイトのファン→名無しCD-Rを郵便で送り続ける→HYP003「South London Boroughs」（2005）= Burial のデビュー / 2006年自タイトルアルバム→Wire誌年間最高 / 2007年Untrue→Mercury Prize候補 / The Spaceape（Stephen Samuel Gordon）= ジャマイカ系英国人MC・Kode9の主要コラボ相手・2014年1月血液疾患死去享年40代 / 2009年MIT Press「Sonic Warfare: Sound, Affect, and the Ecology of Fear」= ベース音楽が政治的抵抗になりうることを学術的に証明 / Ikonika（2008〜）・Laurel Halo（2012〜）・Jessy Lanza（2013〜）・DJ Rashad「Double Cup」（2013, 2014死去享年34）/ EP-46 Burialとの接続: Hyperdubが発掘したアーティスト / EP-28 Dubstepとの接続: Hyperdubが最重要レーベルの一つ）。
 2026-06-13: EP-55「Lee "Scratch" Perry — スタジオを神殿にした男、そして燃やした男。」生成・GitHub push完了（本名Rainford Hugh Perry / 1936年ジャマイカ・ケンダル生まれ / Studio One床掃除から独学 / 1965年"The Chicken Scratch"でデビュー→ニックネームScratch定着 / Bob Marley初期プロデューサー（Small Axe・Duppy Conqueror・Soul Rebel）/ 1973年自宅裏Black Ark Studio建設（4トラック）/ Junior Murvin "Police and Thieves"（1976）→The Clashデビューアルバムカバー→パンク×レゲエ接続 / The Congos "Heart of the Congos"（1977）/ The Clash "Complete Control"（1977）ロンドンでプロデュース / 1983年Black Ark消失 / 2021年8月29日享年85 / EP-54 King Tubbyとの対比：エンジニア的Tubby vs シャーマン的Perry）。

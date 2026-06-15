@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-57 (2026-06-15): The KLF — 世界一になって、全部消した。 — Bill Drummond + Jimmy Cauty / 1987年The JAMs結成・ABBA著作権侵害で全在庫廃棄 / 1988年Timelords「Doctorin' the Tardis」UK#1 / 1990年「Chill Out」44分一発録音・アンビエントハウス誕生 / 1991年「3 AM Eternal」UK#1・世界最多売シングルアクト / Tammy Wynetteと18カ国#1 / 1992年BRITアワードで空砲機関銃・死んだ羊「bon appetit」・音楽業界退場宣言 / 1992年5月全カタログ削除 / 1994年8月23日ジュラ島（オーウェルが1984を書いた孤島）で£1,000,000焼却・2時間。
+
 - EP-56 (2026-06-14): Hyperdub Records — グラスゴーの哲学者が、ロンドンの地下室を変えた20年。 — Steve Goodman（Kode9）哲学PhD / 1999年ウェブジン→2004年レーベル / 第1弾: Kode9 & Spaceape "Sine of the Dub" / BurialのCD-R郵送→"South London Boroughs"（2005）→Wire誌最高 / "Sonic Warfare"（2009 MIT Press）ベース=政治的抵抗の理論 / The Spaceape死去2014 / Ikonika・Laurel Halo・Jessy Lanza・DJ Rashad死去2014 / 理論から始まった唯一のレーベル。
 
 - EP-55 (2026-06-13): Lee "Scratch" Perry — スタジオを神殿にした男、そして燃やした男。 — 本名Rainford Hugh Perry（1936〜2021）。Studio One床掃除から独学、1965年"The Chicken Scratch"でデビュー。Bob Marley & The Wailersの初期プロデューサー（"Small Axe" / "Duppy Conqueror" / "Soul Rebel"）。1973年キングストン自宅裏に4トラックのBlack Ark Studioを建設。Junior Murvin "Police and Thieves"（1976）がThe Clashカバー → パンク×レゲエの握手。The Congos "Heart of the Congos"（1977）はダブ最高傑作候補。The Clash "Complete Control"（1977）をロンドンでプロデュース。1983年Black Ark消失。「スタジオは機械ではなく生きている」という哲学がUK Dub・ブリストル・電子音楽の精神的起源。2021年8月29日享年85。
@@ -66,6 +68,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 57 | The KLF — 世界一になって、全部消した | ✅ Complete | 2026-06-15 | — |
 | 56 | Hyperdub Records — グラスゴーの哲学者が、ロンドンの地下室を変えた20年 | ✅ Complete | 2026-06-14 | — |
 | 55 | Lee "Scratch" Perry — スタジオを神殿にした男 | ✅ Complete | 2026-06-13 | — |
 | 54 | King Tubby — ベースを発明した男 | ✅ Complete | 2026-06-12 | — |

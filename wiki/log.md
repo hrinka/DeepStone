@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-15] auto-ep | EP-57 — The KLF — 世界一になって、全部消した
+- Files: `rave-team/output/EP-57/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-57 — 2026-06-15 — klf-burn-a-million.md`
+- Topic: The KLF（Bill Drummond + Jimmy Cauty）/ 1987年The JAMs→「1987 (What the Fuck Is Going On?)」ABBA著作権紛争で全在庫廃棄 / 1988年Timelords「Doctorin' the Tardis」UK#1・「The Manual」でチャート攻略法を全公開 / 1990年「Chill Out」44分一発録音・アンビエントハウス誕生（Orbital・Aphex Twinに影響）/ 1991年「3 AM Eternal」UK#1・US#5・世界最多売シングルアクト / Tammy Wynette共演「Justified & Ancient」18カ国#1 / 1992年2月BRITアワード→Extreme Noise Terrorと空砲機関銃発砲・退場宣言・死んだ羊 / 1992年5月全カタログ削除 / 1994年8月23日ジュラ島（オーウェルが「1984」を書いた孤島）で£1,000,000現金焼却・2時間
+
 ## [2026-06-15] auto-post | POST-57 — 夏至のハーブ菜園 — 光が頂点に達する日、植物は満ちる
 - Files: `aroma-insta/output/POST-57/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-57-2026-06-15-summer-solstice-herb-garden.md`
