@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-14.md",
+                "file": "journal/2026-06-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-14"
+              "title": "2026-06-15"
             }
           }
         ]
@@ -183,9 +183,10 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
-    "journal/2026-06-15.md",
-    "wiki/projects/EvoOps プロジェクト概要.md",
     "wiki/projects/EvoOps-Onboarding.md",
+    "wiki/projects/EvoOps プロジェクト概要.md",
+    "journal/2026-06-15.md",
+    "journal/2026-06-14.md",
     "tools/carousel-render/daily_render.sh",
     "rave-team/output/EP-13/slides/slide_08.png",
     "rave-team/output/EP-13/slides/slide_07.png",
@@ -212,7 +213,6 @@
     "rave-team/output/EP-56/carousel.md",
     "aroma-insta/output/POST-56/research.md",
     "aroma-insta/output/POST-56/carousel.md",
-    "journal/2026-06-14.md",
     "journal/2026-06-13.md",
     "wiki/sources/rave/EP-55 — 2026-06-13 — lee-scratch-perry-black-ark.md",
     "wiki/sources/aroma/aroma-POST-55-2026-06-13-pinnacle-numbers.md",
