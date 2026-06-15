@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-15] auto-post | POST-57 — 夏至のハーブ菜園 — 光が頂点に達する日、植物は満ちる
+- Files: `aroma-insta/output/POST-57/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-57-2026-06-15-summer-solstice-herb-garden.md`
+- Topic: 夏至（6月21日）× ハーブ菜園 / 高光照射 → 二次代謝産物（精油成分）最大生成（PMC7514039）/ ラベンダー・タイムは今が収穫の黄金期 / フランス・プロヴァンス「サン・ジャンの夜」600年の伝統（ローズマリー・ラベンダー・タイム・セージ×Rinkaの菜園4種が完全一致）/ ヴィクトリア朝タイム×妖精・シェイクスピア「夏の夜の夢」/ 「科学と古代の知恵が夏至に交差する」白魔女アングル / ピラー: ハーブ菜園
+
 ## [2026-06-14] auto-post | POST-56 — ローズオットー（ダマスクローズ）— 愛の周波数
 - Files: `aroma-insta/output/POST-56/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-56-2026-06-14-rose-otto.md`
