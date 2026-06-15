@@ -11,14 +11,12 @@
             "id": "f04656cf52464558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "journal/2026-06-15.md",
-                "mode": "source",
-                "source": false
+                "file": "rave-team/output/EP-08/slides/slide_07.png"
               },
-              "icon": "lucide-file",
-              "title": "2026-06-15"
+              "icon": "lucide-image",
+              "title": "slide_07"
             }
           }
         ]
@@ -183,22 +181,28 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
+    "rave-team/output/EP-08/caption.txt",
+    "rave-team/output/EP-08/slides/slide_06.png",
+    "rave-team/output/EP-08/slides/slide_05.png",
+    "rave-team/output/EP-08/slides/slide_04.png",
+    "rave-team/output/EP-08/slides/slide_03.png",
+    "rave-team/output/EP-08/slides/slide_02.png",
+    "rave-team/output/EP-08/slides/slide_07.png",
+    "rave-team/output/EP-08/slides/slide_08.png",
+    "rave-team/output/EP-08/slides/slide_01.png",
+    "rave-team/output/EP-07/script_ja.md",
+    "rave-team/output/EP-07/carousel.md",
+    "rave-team/output/EP-08/carousel.md",
+    "rave-team/output/EP-08/script_ja.md",
+    "rave-team/output/EP-08/research.md",
+    "journal/2026-06-15.md",
     "wiki/projects/EvoOps-Onboarding.md",
     "wiki/projects/EvoOps プロジェクト概要.md",
-    "journal/2026-06-15.md",
     "journal/2026-06-14.md",
     "tools/carousel-render/daily_render.sh",
     "rave-team/output/EP-13/slides/slide_08.png",
     "rave-team/output/EP-13/slides/slide_07.png",
-    "rave-team/output/EP-13/slides/slide_06.png",
-    "rave-team/output/EP-13/slides/slide_05.png",
-    "rave-team/output/EP-13/slides/slide_04.png",
-    "rave-team/output/EP-13/slides/slide_03.png",
-    "rave-team/output/EP-13/slides/slide_02.png",
-    "rave-team/output/EP-13/slides/slide_01.png",
     "rave-team/output/EP-13/slides",
-    "rave-team/output/EP-47/slides/slide_08.png",
-    "rave-team/output/EP-47/slides/slide_07.png",
     "rave-team/output/EP-47/slides",
     "rave-team/output/EP-49/slides",
     "rave-team/output/EP-12/slides",
@@ -222,13 +226,7 @@
     "aroma-insta/output/POST-55/carousel.md",
     "journal/2026-06-12.md",
     "journal/2026-06-11.md",
-    "rave-team/output/EP-08/carousel.md",
-    "rave-team/output/EP-07/carousel.md",
     "flava-fm/output/POST-02/carousel.md",
-    "flava-fm/output/POST-01/carousel.md",
-    "rave-team/output/EP-52/carousel.md",
-    "wiki/sources/rave/EP-54 — 2026-06-12 — king-tubby-bass-inventor.md",
-    "wiki/sources/aroma/aroma-POST-54-2026-06-12-companion-planting.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
