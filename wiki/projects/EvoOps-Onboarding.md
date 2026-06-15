@@ -50,7 +50,7 @@ related:
   - 「ドキュメントをベクトル化して保存」
   - 「質問と類似したドキュメントを検索」
   - 「検索結果をLLMのコンテキストに渡す」
-- [ ] Qdrant 公式ドキュメントを読む → https://qdrant.tech/documentation/
+- [x] Qdrant 公式ドキュメントを読む → https://qdrant.tech/documentation/
 - [ ] Python で Qdrant に接続するサンプルを動かす（`pip install qdrant-client`）
 
 ### ③ Orama を理解する
