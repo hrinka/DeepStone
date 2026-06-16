@@ -221,35 +221,37 @@ def render_slide(slide, theme, cover_bg, base_dir="."):
     pad = 110
     mw = W - 2*pad
 
+    m = theme["motif"]  # PLUR は大きく詰めて目を引く / FLAVA は余白を活かす
     if typ == "cover":
-        # タイトルは長さに応じて自動縮小（最大230・上限 band=H*0.46）
-        bigf, lines = fit_font(d, slide.get("main"), theme["font_head"], mw, int(H*0.46), 230)
-        yb = draw_block(d, lines, bigf, theme["strobe"], int(H*0.40))
+        cap, band = (270, 0.56) if m else (230, 0.46)
+        bigf, lines = fit_font(d, slide.get("main"), theme["font_head"], mw, int(H*band), cap)
+        yb = draw_block(d, lines, bigf, theme["strobe"], int(H*(0.40 if m else 0.40)))
         if slide.get("sub"):
-            subf = F(theme["font_body"], 40)
+            subf = F(theme["font_body"], 44 if m else 40)
             draw_block(d, as_lines(slide["sub"], d, subf, mw), subf, theme["sub"], yb + 70)
     elif typ == "quote":
-        qf, qlines = fit_font(d, slide.get("quote"), theme["font_head"], mw, int(H*0.42), 96)
-        note = F(theme["font_body"], 34)
+        cap, band = (138, 0.54) if m else (96, 0.42)
+        qf, qlines = fit_font(d, slide.get("quote"), theme["font_head"], mw, int(H*band), cap)
+        note = F(theme["font_body"], 36 if m else 34)
         y = draw_block(d, qlines, qf, theme["strobe"], int(H*0.42))
         if slide.get("note"):
             draw_block(d, as_lines(slide["note"], d, note, mw), note, theme["sub"], y+70)
     elif typ == "cta":
-        hi = 120 if theme["motif"] else 96
-        bigf, tlines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*0.40), hi)
+        cap, band = (160, 0.52) if m else (96, 0.40)
+        bigf, tlines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*band), cap)
         cta = F(theme["font_body"], 34)
         items = [(l, theme["main"]) for l in tlines]
         items += [(l, theme["strobe"]) for l in (_raw_lines(slide.get("strobe")) or ([_san(slide["strobe"])] if slide.get("strobe") else []))]
-        draw_colored_block(d, items, bigf, int(H*0.42))
+        draw_colored_block(d, items, bigf, int(H*0.44))
         if slide.get("cta"):
-            draw_block(d, as_lines(slide["cta"], d, cta, mw), cta, theme["sub"], int(H*0.80))
+            draw_block(d, as_lines(slide["cta"], d, cta, mw), cta, theme["sub"], int(H*0.82))
     else:  # body
-        hi = 110 if theme["motif"] else 84
-        headf, blines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*0.42), hi)
-        sub = F(theme["font_body"], 38)
-        y = draw_block(d, blines, headf, theme["main"], int(H*0.44))
+        cap, band = (164, 0.56) if m else (84, 0.42)
+        headf, blines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*band), cap)
+        sub = F(theme["font_body"], 40 if m else 38)
+        y = draw_block(d, blines, headf, theme["main"], int(H*(0.46 if m else 0.44)))
         if slide.get("sub"):
-            draw_block(d, as_lines(slide["sub"], d, sub, mw), sub, theme["sub"], y+55)
+            draw_block(d, as_lines(slide["sub"], d, sub, mw), sub, theme["sub"], y+58)
 
     # signature motif（PLURのみ波形）。ページ番号は表示しない。
     if theme["motif"]:
