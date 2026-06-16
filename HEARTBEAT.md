@@ -1,7 +1,44 @@
-# HEARTBEAT.md Template
+# HEARTBEAT.md
 
-```markdown
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+定期チェックリスト。Claude Code のハートビートで使う。
+1日2〜4回程度ローテーション。深夜（0:00〜08:00）はサイレント。
 
-# Add tasks below when you want the agent to check something periodically.
-```
+---
+
+## チェック項目（順番に回す）
+
+### 📅 カレンダー
+- Google Calendar で今日・明日の予定を確認
+-　イベント・ DJ（7月mix / 8月mix）が近づいていたら警告
+
+### ✅ タスク
+- 今日の journal の「📅 今日の予定」を確認
+- 未完了タスクがあれば状況を把握
+
+### 🎵 音楽進捗
+- EP制作・mix作業・音楽活動が止まっていないか
+- 長期間止まっていたら「そろそろ動こうか」と声かけ
+
+### 🌱 生活
+- 庭・水槽の定期チェックリマインダー
+
+---
+
+## 声をかけるタイミング
+
+**かける：**
+- 重要な予定が2時間以内
+- DJ締め切りが1週間以内
+- 8時間以上何もやり取りがない（起きてるはずの時間帯）
+- journal に「やっておいて欲しいこと」が書いてある
+
+**サイレント：**
+- 深夜（23:00〜08:00）
+- 直前に確認済み（30分以内）
+- 特に何もない
+
+---
+
+## 状態ファイル
+
+`memory/heartbeat-state.json` に最終チェック時刻を記録。
