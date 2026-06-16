@@ -9,6 +9,7 @@
 
 ## Episodes
 
+- EP-58 (2026-06-16): Spiral Tribe — 国を追われ、大陸を手に入れた。 — 1990年ロンドンのスクワットから結成（Mark Harrison・Debbie Griffith・Simone Feeney）/ 1990年10月Kensal Riseの廃校舎で初パーティ「De-tension」/ 1992年5月Castlemorton Common Festival（2〜5万人・5日間）英国史上最大の違法レイブ→Criminal Justice Act 1994の直接的引き金 / 13人逮捕・10週間・£400万の英国刑事史上最長級裁判→全員無罪（1994年3月） / 裁判待ち中に旧軍用トラック隊列で大陸へ脱出 / 1993年夏フランス・ボーヴェで最初のTeknival開催（命名: Debbie Spiral） / Mutoid Waste Companyと協働・ミグ戦闘機ジャンク彫刻 / Teknivalムーブメントは現在も欧州各地で毎年夏継続。
 - EP-57 (2026-06-15): The KLF — 世界一になって、全部消した。 — Bill Drummond + Jimmy Cauty / 1987年The JAMs結成・ABBA著作権侵害で全在庫廃棄 / 1988年Timelords「Doctorin' the Tardis」UK#1 / 1990年「Chill Out」44分一発録音・アンビエントハウス誕生 / 1991年「3 AM Eternal」UK#1・世界最多売シングルアクト / Tammy Wynetteと18カ国#1 / 1992年BRITアワードで空砲機関銃・死んだ羊「bon appetit」・音楽業界退場宣言 / 1992年5月全カタログ削除 / 1994年8月23日ジュラ島（オーウェルが1984を書いた孤島）で£1,000,000焼却・2時間。
 
 - EP-56 (2026-06-14): Hyperdub Records — グラスゴーの哲学者が、ロンドンの地下室を変えた20年。 — Steve Goodman（Kode9）哲学PhD / 1999年ウェブジン→2004年レーベル / 第1弾: Kode9 & Spaceape "Sine of the Dub" / BurialのCD-R郵送→"South London Boroughs"（2005）→Wire誌最高 / "Sonic Warfare"（2009 MIT Press）ベース=政治的抵抗の理論 / The Spaceape死去2014 / Ikonika・Laurel Halo・Jessy Lanza・DJ Rashad死去2014 / 理論から始まった唯一のレーベル。
@@ -68,6 +69,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 58 | Spiral Tribe — 国を追われ、大陸を手に入れた | ✅ Complete | 2026-06-16 | — |
 | 57 | The KLF — 世界一になって、全部消した | ✅ Complete | 2026-06-15 | — |
 | 56 | Hyperdub Records — グラスゴーの哲学者が、ロンドンの地下室を変えた20年 | ✅ Complete | 2026-06-14 | — |
 | 55 | Lee "Scratch" Perry — スタジオを神殿にした男 | ✅ Complete | 2026-06-13 | — |

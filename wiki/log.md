@@ -5,6 +5,11 @@
 - Wiki source: `wiki/sources/aroma/aroma-POST-58-2026-06-16-angel-numbers.md`
 - Topic: エンジェルナンバー（数秘ピラー） / 起源: ピタゴラス数秘術→20世紀ドリーン・バーチューが命名・普及 / 網様体賦活系（RAS）= 脳が重要と判断した情報のみ意識に通すフィルター / カール・ユングのシンクロニシティ（共時性）概念 / 111〜999の意味早見表 / 「数字は答えではなく気づきの入口」白魔女アングル
 
+## [2026-06-16] auto-ep | EP-58 — Spiral Tribe — 国を追われ、大陸を手に入れた
+- Files: `rave-team/output/EP-58/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-58 — 2026-06-16 — spiral-tribe-teknival.md`
+- Topic: Spiral Tribe（1990年ロンドン結成、Mark Harrison・Debbie Griffith・Simone Feeney）/ 1990年10月Kensal Riseの廃校舎で初パーティ「De-tension」/ 1992年5月Castlemorton Common Festival（2〜5万人・5日間）英国史上最大の違法レイブ / Criminal Justice Act 1994制定の直接的引き金 / 13人逮捕、10週間・£400万の英国刑事史上最長級裁判で全員無罪（1994年3月） / 裁判待ち中に旧軍用トラック隊列で大陸へ脱出 / 1993年夏フランス・ボーヴェで最初のTeknival開催（命名: Debbie Spiral） / Mutoid Waste Companyと協働・ミグ戦闘機ジャンク彫刻 / Teknivalムーブメントは現在も欧州各地で毎年夏継続
+
 ## [2026-06-15] auto-ep | EP-57 — The KLF — 世界一になって、全部消した
 - Files: `rave-team/output/EP-57/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-57 — 2026-06-15 — klf-burn-a-million.md`
