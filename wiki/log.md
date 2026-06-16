@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-16] auto-post | POST-58 — ゾロ目に呼ばれている — エンジェルナンバーと、脳が選んだ光
+- Files: `aroma-insta/output/POST-58/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-58-2026-06-16-angel-numbers.md`
+- Topic: エンジェルナンバー（数秘ピラー） / 起源: ピタゴラス数秘術→20世紀ドリーン・バーチューが命名・普及 / 網様体賦活系（RAS）= 脳が重要と判断した情報のみ意識に通すフィルター / カール・ユングのシンクロニシティ（共時性）概念 / 111〜999の意味早見表 / 「数字は答えではなく気づきの入口」白魔女アングル
+
 ## [2026-06-15] auto-ep | EP-57 — The KLF — 世界一になって、全部消した
 - Files: `rave-team/output/EP-57/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-57 — 2026-06-15 — klf-burn-a-million.md`
