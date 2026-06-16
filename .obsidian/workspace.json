@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rave-team/output/EP-01/caption.md",
+                "file": "raw/develop/Qdrant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "caption"
+              "title": "Qdrant"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
+    "rave-team/output/EP-01/caption.md",
     "rave-team/output/EP-07/caption.md",
     "rave-team/output/EP-02/script_ja.md",
     "rave-team/output/EP-02/carousel.md",
@@ -208,7 +209,6 @@
     "rave-team/output/EP-01/discussion.md",
     "rave-team/output/EP-01/carousel.md",
     "rave-team/output/EP-08/script_ja.md",
-    "rave-team/output/EP-26/caption.md",
     "rave-team/output/EP-26/caption.txt",
     "rave-team/output/EP-23/caption.txt",
     "rave-team/output/EP-13/caption.txt",
