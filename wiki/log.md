@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-17] auto-ep | EP-59 — A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ
+- Files: `rave-team/output/EP-59/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-59 — 2026-06-17 — a-guy-called-gerald-voodoo-ray.md`
+- Topic: Gerald Simpson、マンチェスター・モスサイド出身（父のレゲエレコード・母のペンテコステ派教会・地元サウンドシステム文化が土壌）/ 808 State在籍中「Pacific State」制作中に脱退、クレジットと報酬を巡る対立で経済的困窮 / 1988年Moonraker Studiosでの録音中、ボーカルサンプル「Voodoo Rage」がエンジニアの誤りで末尾切断され「Voodoo Ray」に / Rham!レーベルから発売、初回500枚1日完売、UKチャート最高12位・18週ランクイン、1989年BPIベストセラー・インディーズシングル / The Haçienda発アシッドハウス・アンセム / 1991年Juice Box Records設立で孤独な再出発、そのブレイクビート・リリース群がジャングルの種に / 1995年「Black Secret Technology」がFact・Pitchfork・Freaky Triggerで「史上最高のジャングルアルバム」と評価、David Bowie「Earthling」にも影響
+
 ## [2026-06-17] auto-post | POST-59 — 傷ついた木が、一番尊い香りになる — フランキンセンスと、聖なる涙の物語
 - Files: `aroma-insta/output/POST-59/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-59-2026-06-17-frankincense.md`

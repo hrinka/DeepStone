@@ -157,6 +157,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-59 — 2026-06-17 — a-guy-called-gerald-voodoo-ray]]|A Guy Called Gerald: マンチェスター・モスサイド出身Gerald Simpson / 808 State在籍中「Pacific State」制作中に脱退、クレジット紛争・経済的困窮 / 1988年Moonraker Studiosでの偶発的ミス（「Voodoo Rage」のサンプルが誤って切断され「Voodoo Ray」に）/ The Haçienda発アシッドハウス・アンセム、UK最高12位・18週ランクイン / 1991年Juice Box Records設立で孤独な再出発 / そのブレイクビート・リリース群がジャングルの種に / 1995年「Black Secret Technology」が複数媒体で「史上最高のジャングルアルバム」と評価、David Bowieにも影響|
 |[[EP-58 — 2026-06-16 — spiral-tribe-teknival]]|Spiral Tribe: 1990年ロンドンのスクワットから結成（Mark Harrison・Debbie Griffith・Simone Feeney）/ 1992年5月Castlemorton Common Festival（2〜5万人・5日間）英国史上最大の違法レイブ→Criminal Justice Act 1994の直接的引き金 / 13人逮捕・10週間・£400万の英国刑事史上最長級裁判→全員無罪（1994年3月） / 裁判待ち中に旧軍用トラック隊列で大陸へ脱出 / 1993年夏フランス・ボーヴェで最初のTeknival開催（命名: Debbie Spiral） / Mutoid Waste Companyと協働 / Teknivalムーブメントは現在も欧州で毎年夏継続|
 |[[EP-57 — 2026-06-15 — klf-burn-a-million]]|The KLF: Bill Drummond + Jimmy Cauty / 1987年The JAMs→ABBA著作権紛争 / 「Chill Out」（1990）アンビエントハウス誕生 / 「3 AM Eternal」（1991）UK#1・世界最多売シングルアクト / Tammy Wynette共演18カ国#1 / 1992年BRITアワードで空砲機関銃+退場宣言+死んだ羊 / 全カタログ削除 / 1994年ジュラ島で£1,000,000現金焼却|
 |[[EP-56 — 2026-06-14 — hyperdub-records]]|Hyperdub Records: Steve Goodman（Kode9）/ グラスゴー生まれ哲学PhD / 1999年ウェブジン→2004年レーベル創設 / 第1弾リリース: Kode9 & Spaceape "Sine of the Dub"（2004）/ BurialがCD-Rを郵送→"South London Boroughs"（2005）・自タイトル（2006）Wire誌最高 / "Sonic Warfare"（2009 MIT Press）ベース音楽＝政治的抵抗の理論 / Ikonika・Laurel Halo・Jessy Lanza・DJ Rashad（2013死去）/ 理論から始まった20年|

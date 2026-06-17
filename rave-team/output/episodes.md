@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-59 (2026-06-17): A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ。 — Gerald Simpson、マンチェスター・モスサイド出身 / 父のレゲエレコード・母のペンテコステ派教会・地元サウンドシステム文化が土壌 / 808 State在籍中「Pacific State」制作中に脱退、クレジットと報酬を巡る対立で経済的困窮 / 1988年Moonraker Studiosでの録音中、ボーカルサンプル「Voodoo Rage」がエンジニアの誤りで末尾切断され「Voodoo Ray」に / Rham!レーベルから発売、初回500枚1日完売、UKチャート最高12位・18週ランクイン、1989年BPIベストセラー・インディーズシングル / The Haçienda発アシッドハウス・アンセム / 1991年Juice Box Records設立で孤独な再出発、そのブレイクビート・リリース群がジャングルの種に / 1995年「Black Secret Technology」がFact・Pitchfork・Freaky Triggerで「史上最高のジャングルアルバム」と評価、David Bowie「Earthling」にも影響。
+
 - EP-58 (2026-06-16): Spiral Tribe — 国を追われ、大陸を手に入れた。 — 1990年ロンドンのスクワットから結成（Mark Harrison・Debbie Griffith・Simone Feeney）/ 1990年10月Kensal Riseの廃校舎で初パーティ「De-tension」/ 1992年5月Castlemorton Common Festival（2〜5万人・5日間）英国史上最大の違法レイブ→Criminal Justice Act 1994の直接的引き金 / 13人逮捕・10週間・£400万の英国刑事史上最長級裁判→全員無罪（1994年3月） / 裁判待ち中に旧軍用トラック隊列で大陸へ脱出 / 1993年夏フランス・ボーヴェで最初のTeknival開催（命名: Debbie Spiral） / Mutoid Waste Companyと協働・ミグ戦闘機ジャンク彫刻 / Teknivalムーブメントは現在も欧州各地で毎年夏継続。
 - EP-57 (2026-06-15): The KLF — 世界一になって、全部消した。 — Bill Drummond + Jimmy Cauty / 1987年The JAMs結成・ABBA著作権侵害で全在庫廃棄 / 1988年Timelords「Doctorin' the Tardis」UK#1 / 1990年「Chill Out」44分一発録音・アンビエントハウス誕生 / 1991年「3 AM Eternal」UK#1・世界最多売シングルアクト / Tammy Wynetteと18カ国#1 / 1992年BRITアワードで空砲機関銃・死んだ羊「bon appetit」・音楽業界退場宣言 / 1992年5月全カタログ削除 / 1994年8月23日ジュラ島（オーウェルが1984を書いた孤島）で£1,000,000焼却・2時間。
 
@@ -69,6 +71,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 59 | A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ | ✅ Complete | 2026-06-17 | — |
 | 58 | Spiral Tribe — 国を追われ、大陸を手に入れた | ✅ Complete | 2026-06-16 | — |
 | 57 | The KLF — 世界一になって、全部消した | ✅ Complete | 2026-06-15 | — |
 | 56 | Hyperdub Records — グラスゴーの哲学者が、ロンドンの地下室を変えた20年 | ✅ Complete | 2026-06-14 | — |
