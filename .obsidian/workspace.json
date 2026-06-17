@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-06-17.md",
+                "file": "journal/2026-06/2026-06-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-17"
+              "title": "2026-06-16"
             }
           }
         ]
@@ -181,10 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f04656cf52464558",
+  "active": "3ea8fc1ac4812fd1",
   "lastOpenFiles": [
-    "rave-team/output/EP-09/caption.md",
     "journal/2026-06-17.md",
+    "journal/2026-06/2026-06-15.md",
+    "journal/2026-06/2026-06-16.md",
+    "journal/2026-06/2026-06-17.md",
+    "journal/2026-06/2026-06-01.md",
+    "journal/2026-05/2026-05-15.md",
+    "journal/無題のフォルダ/無題のフォルダ",
+    "journal/2026-06",
+    "journal/2026-05",
+    "journal/2026-06/2026-06-14.md",
+    "rave-team/output/EP-09/caption.md",
     "wiki/sources/rave/EP-58 — 2026-06-16 — spiral-tribe-teknival.md",
     "wiki/sources/aroma/aroma-POST-58-2026-06-16-angel-numbers.md",
     "rave-team/output/EP-58/research.md",
@@ -211,24 +220,15 @@
     "rave-team/output/EP-09/slides/slide_05.png",
     "rave-team/output/EP-08/caption.md",
     "rave-team/output/EP-08/carousel.md",
-    "journal/2026-06-16.md",
-    "journal/2026-06-15.md",
     "raw/develop/Qdrant.md",
     "rave-team/output/EP-01/caption.md",
     "rave-team/output/EP-07/caption.md",
     "rave-team/output/EP-02/script_ja.md",
-    "rave-team/output/EP-02/carousel.md",
-    "rave-team/output/EP-02/caption.md",
-    "wiki/sources/EP-12 — 2026-05-16 — dnb-evolution.md",
-    "rave-team/output/_archive/EP-06/script_ja.md",
     "rave-team/output/EP-26/caption.txt",
     "rave-team/output/EP-23/caption.txt",
     "rave-team/output/EP-13/caption.txt",
     "rave-team/output/EP-12/caption.txt",
     "rave-team/output/EP-11/caption.txt",
-    "rave-team/output/EP-57",
-    "rave-team/output/EP-10/caption.txt",
-    "rave-team/output/EP-09/caption.txt",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
