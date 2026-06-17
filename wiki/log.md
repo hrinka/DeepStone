@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-17] auto-post | POST-59 — 傷ついた木が、一番尊い香りになる — フランキンセンスと、聖なる涙の物語
+- Files: `aroma-insta/output/POST-59/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-59-2026-06-17-frankincense.md`
+- Topic: フランキンセンス（乳香 / Boswellia sacra、アロマピラー） / アラビア半島・アフリカの角の乾燥地に育つ樹、樹皮を傷つけると樹脂が滲出し約2週間で固まり黄金色の「ティアーズ」になる / 最高級グレード「ホジャリ」はオマーン・ドファール産 / 紀元前4000年頃の古代エジプト墳墓から発見、神殿の薫香・ミイラ防腐・コール（アイメイク）に使用、黄金と同価値の交易品 / 新約聖書: 東方の三博士が黄金・乳香・没薬を捧げた逸話 / 2008年ジョンズ・ホプキンス大学＋ヘブライ大学研究（FASEB Journal）でインセンソール・アセテートが脳内TRPV3チャネルを活性化し抗不安様・抗抑うつ様効果を確認 / 主成分α-ピネンは森林浴成分と共通 / 「傷つけられないと最も尊い香りを生まない樹」= 痛みが香りに変わる白魔女アングル
+
 ## [2026-06-16] auto-post | POST-58 — ゾロ目に呼ばれている — エンジェルナンバーと、脳が選んだ光
 - Files: `aroma-insta/output/POST-58/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-58-2026-06-16-angel-numbers.md`
