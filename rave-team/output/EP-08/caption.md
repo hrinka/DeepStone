@@ -16,4 +16,6 @@ The Prodigy は「Their Law」で真正面から怒りを叫んだ。
 
 ——PLUR SYSTEM DIARY 第4章。
 
+
+🎧 今日の一曲: The Prodigy - Their Law (1994)（プレイリストはbioに）
 #レイブ #レイブ禁止法 #CriminalJusticeAct #UKレイブ #ベースミュージック #音楽の歴史 #rave #raveculture #ukbass #plursystemdiary

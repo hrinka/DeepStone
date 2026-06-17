@@ -12,4 +12,6 @@ Kevin SaundersonのInner City「Good Life」はUKシングルチャート4位を
 
 PLUR SYSTEM DIARY 第5章
 
+
+🎧 今日の一曲: Derrick May - Strings of Life (1987)（プレイリストはbioに）
 #detroittechno #bellevillethree #techno #juanatkins #derrickmay #innercity #テクノ #デトロイト #plursystemdiary #dancemusic #rave #electronic

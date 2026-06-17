@@ -8,4 +8,6 @@
 
 PLUR SYSTEM DIARY 第1章
 
+
+🎧 今日の一曲: Joey Beltram - Energy Flash (1990)（プレイリストはbioに）
 #rave #raveculture #plur #ukbass #secondsummeroflove #acidhouse #レイブ #ダンスミュージック #レイブカルチャー #plursystemdiary #underground #dancemusic

@@ -14,4 +14,6 @@ Rinse FMという海賊ラジオが電波を飛ばし続けた。1994年創設�
 
 PLUR SYSTEM DIARY 第11章
 
+
+🎧 今日の一曲: Dizzee Rascal - I Luv U (2003)（プレイリストはbioに）
 #grime #dizzeerascal #skepta #wiley #rinsefm #eastlondon #rave文化 #グライム #ukbassmusic #ravehistory #londonsound #plursystemdiary

@@ -14,4 +14,6 @@ Norman Cook（Fatboy Slim）はブライトンのConcorde Clubで「Big Beat Bou
 
 PLUR SYSTEM DIARY 第10章
 
+
+🎧 今日の一曲: The Chemical Brothers - Block Rockin' Beats (1997)（プレイリストはbioに）
 #bigbeat #chemicalbrothers #fatboyslim #theprodigy #rave文化 #ravehistory #ukrave #レイブ #electronicmusic #ukunderground #rave #plursystemdiary

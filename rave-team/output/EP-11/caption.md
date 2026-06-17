@@ -12,4 +12,6 @@ The Winstons というバンドが録音したB面曲の、誰も意識しなか
 
 PLUR SYSTEM DIARY 第7章
 
+
+🎧 今日の一曲: Lennie De Ice - We Are I.E. (1991)（プレイリストはbioに）
 #jungle #ukrave #amenbreak #eastlondon #ravehistory #レイブ #ジャングルミュージック #breakbeat #ukunderground #rave文化 #音楽の歴史 #plursystemdiary

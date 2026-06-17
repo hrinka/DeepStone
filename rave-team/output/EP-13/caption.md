@@ -12,4 +12,6 @@ UKGなしに、現代のロンドン音楽は存在しない。
 
 PLUR SYSTEM DIARY 第9章
 
+
+🎧 今日の一曲: MJ Cole - Sincere (1998)（プレイリストはbioに）
 #ukgarage #2stepgarage #sosolidcrew #rinsefm #londonsound #ロンドン音楽 #ガレージ #rave文化 #ukbassmusic #ravehistory #eastlondon #plursystemdiary

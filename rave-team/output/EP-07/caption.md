@@ -12,4 +12,6 @@ The Sunは「クールでイカしてる」と書いた。7日後、同じ紙面
 
 PLUR SYSTEM DIARY 第3章
 
+
+🎧 今日の一曲: Phuture - Acid Tracks (1987)（プレイリストはbioに）
 #acidhouse #tb303 #roland #phuture #rave #raveculture #レイブ #アシッドハウス #plursystemdiary #shoom #secondsummeroflove #djpierre

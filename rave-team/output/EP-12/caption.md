@@ -12,4 +12,6 @@ DnBには今も多くの顔がある。Liquid Funk、Neurofunk、Techstep、Jump
 
 PLUR SYSTEM DIARY 第8章
 
+
+🎧 今日の一曲: Goldie - Inner City Life (1994)（プレイリストはbioに）
 #drumandbass #dnb #goldie #ronisize #ltjbukem #ukrave #ドラムンベース #ravehistory #ukbassmusic #eastlondon #rave文化 #plursystemdiary

@@ -10,4 +10,6 @@
 
 PLUR SYSTEM DIARY 第2章
 
+
+🎧 今日の一曲: King Tubby - Dub From the Roots（プレイリストはbioに）
 #soundsystem #dub #kingtubby #reggae #ukbass #dubstep #grime #jungle #サウンドシステム #レイブカルチャー #plursystemdiary #jamaica

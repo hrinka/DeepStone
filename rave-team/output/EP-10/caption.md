@@ -12,4 +12,6 @@
 
 PLUR SYSTEM DIARY 第6章
 
+
+🎧 今日の一曲: Massive Attack - Teardrop (1998)（プレイリストはbioに）
 #ukbass #dubstep #grime #jungle #drumandbass #raveculture #soundsystem #レイブ #UKミュージック #plursystemdiary #underground #pirateradio
