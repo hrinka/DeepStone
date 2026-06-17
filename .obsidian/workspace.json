@@ -11,14 +11,12 @@
             "id": "f04656cf52464558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "journal/2026-06/2026-06-17.md",
-                "mode": "source",
-                "source": false
+                "file": "rave-team/output/EP-08/スクリーンショット 2026-06-16 21.06.43.png"
               },
-              "icon": "lucide-file",
-              "title": "2026-06-17"
+              "icon": "lucide-image",
+              "title": "スクリーンショット 2026-06-16 21.06.43"
             }
           }
         ]
@@ -181,10 +179,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f04656cf52464558",
+  "active": "3ea8fc1ac4812fd1",
   "lastOpenFiles": [
-    "journal/2026-06/2026-06-16.md",
+    "rave-team/output/EP-09/slides/slide_08.png",
+    "rave-team/output/EP-09/slides/slide_07.png",
+    "rave-team/output/EP-09/slides/slide_06.png",
+    "rave-team/output/EP-09/slides/slide_05.png",
+    "rave-team/output/EP-09/slides/slide_04.png",
+    "rave-team/output/EP-09/slides/slide_03.png",
+    "rave-team/output/EP-09/slides/slide_02.png",
+    "rave-team/output/EP-09/slides/slide_01.png",
+    "rave-team/output/EP-08/slides/slide_08.png",
+    "rave-team/output/EP-08/slides/slide_07.png",
+    "rave-team/output/EP-08/slides/slide_06.png",
     "journal/2026-06/2026-06-17.md",
+    "journal/2026-06/2026-06-16.md",
     "journal/2026-06-17.md",
     "journal/2026-06/2026-06-15.md",
     "journal/2026-06/2026-06-01.md",
@@ -207,23 +216,12 @@
     "aroma-insta/output/POST-58/research.md",
     "aroma-insta/output/POST-58/carousel.md",
     "aroma-insta/output/POST-58",
-    "rave-team/output/EP-09/スクリーンショット 2026-06-16 21.18.36.png",
-    "rave-team/output/EP-09/スクリーンショット 2026-06-16 21.17.45.png",
-    "rave-team/output/EP-09/スクリーンショット 2026-06-16 21.15.55.png",
-    "rave-team/output/EP-09/スクリーンショット 2026-06-16 21.19.58.png",
-    "rave-team/output/EP-09/slides/slide_02.png",
-    "rave-team/output/EP-09/slides/slide_01.png",
     "rave-team/output/EP-09/script_ja.md",
-    "rave-team/output/EP-09/slides/slide_08.png",
-    "rave-team/output/EP-09/slides/slide_07.png",
-    "rave-team/output/EP-09/slides/slide_06.png",
-    "rave-team/output/EP-09/slides/slide_05.png",
     "rave-team/output/EP-08/caption.md",
     "rave-team/output/EP-08/carousel.md",
     "raw/develop/Qdrant.md",
     "rave-team/output/EP-01/caption.md",
     "rave-team/output/EP-07/caption.md",
-    "rave-team/output/EP-02/script_ja.md",
     "rave-team/output/EP-26/caption.txt",
     "rave-team/output/EP-23/caption.txt",
     "rave-team/output/EP-13/caption.txt",
