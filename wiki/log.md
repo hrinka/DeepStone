@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-18] auto-post | POST-60 — 雨は、洗うためにある — 梅雨のハーブ菜園と、水のエレメント
+- Files: `aroma-insta/output/POST-60/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-60-2026-06-18-rainy-season-herb-garden.md`
+- Topic: ハーブ菜園ピラー / 個別ハーブ10種（ラベンダー・ジャスミン・ゼラニウム・メリッサ・ユーカリ・タイム・ローズマリー・セージ・パセリ・ペパーミント）が全て既出のため季節テーマで再構成 / 梅雨＝五行で水のエレメントが最も強まる季節 / 環境ストレス（湿度・温度）が精油成分・テルペン等の防御物質生成を促進する科学的根拠（MDPI Sustainability 2023 / JEBAS Review）/ 実務知識: 梅雨入り前の間引き剪定で株元の風通しを確保、タイムなど細葉ハーブは葉間に水が溜まりやすく蒸れに弱い、マルチングで泥はね・病気予防（GardenStory / おにわにわ）/ 「風を通す＝気を流す」蒸れは滞りのメタファーという白魔女アングル
+
 ## [2026-06-17] auto-ep | EP-59 — A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ
 - Files: `rave-team/output/EP-59/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-59 — 2026-06-17 — a-guy-called-gerald-voodoo-ray.md`
