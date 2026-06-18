@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-61 (2026-06-18): Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ。 — 1963年ウィンザー生まれ・2020年没 / Terry Farley・Cymon Eckel・Steve MayesとBoy's Ownジン創刊、1988年アシッドハウス爆発期の発信源 / 1988年Danny Ramplingの「Shoom」で初DJブッキング、音楽ライターからDJへの転身 / Boy's OwnでPrimal Screamの2作目を好意的レビュー→アシッドハウスのパーティで親交→「I'm Losing More Than I'll Ever Have」リミックス依頼 / バンド側近Andrew Innesに「Just fucking destroy it」と言われ演奏をほぼ全削除→別物の「Loaded」（1990年2月19日）誕生 / 『Screamadelica』（1991）はWeatherall・Hugo Nicolson・The Orb（Alex Paterson）・Hypnotone・元Rolling StonesプロデューサーJimmy Millerら複数プロデューサーによる縫合的作品、「Movin' On Up」はエンジニア降板後Jimmy Millerが緊急参加しコカコーラの瓶を打楽器に使用 / 1992年創設第一回Mercury Prize受賞・65万枚セールス→アシッドハウス文化が主流批評の場で正統性獲得した象徴的出来事 / 1993年Sabres of Paradise結成（Gary Burns・Jagz Kooner・Warp Records）/ Björk・My Bloody Valentine・Manic Street Preachers・Beth Orton・Saint Etienneらのリミックスも手がける / 2020年2月17日ロンドンWhipps Cross病院で肺塞栓症のため死去（56歳）。
+
 - EP-59 (2026-06-17): A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ。 — Gerald Simpson、マンチェスター・モスサイド出身 / 父のレゲエレコード・母のペンテコステ派教会・地元サウンドシステム文化が土壌 / 808 State在籍中「Pacific State」制作中に脱退、クレジットと報酬を巡る対立で経済的困窮 / 1988年Moonraker Studiosでの録音中、ボーカルサンプル「Voodoo Rage」がエンジニアの誤りで末尾切断され「Voodoo Ray」に / Rham!レーベルから発売、初回500枚1日完売、UKチャート最高12位・18週ランクイン、1989年BPIベストセラー・インディーズシングル / The Haçienda発アシッドハウス・アンセム / 1991年Juice Box Records設立で孤独な再出発、そのブレイクビート・リリース群がジャングルの種に / 1995年「Black Secret Technology」がFact・Pitchfork・Freaky Triggerで「史上最高のジャングルアルバム」と評価、David Bowie「Earthling」にも影響。
 
 - EP-58 (2026-06-16): Spiral Tribe — 国を追われ、大陸を手に入れた。 — 1990年ロンドンのスクワットから結成（Mark Harrison・Debbie Griffith・Simone Feeney）/ 1990年10月Kensal Riseの廃校舎で初パーティ「De-tension」/ 1992年5月Castlemorton Common Festival（2〜5万人・5日間）英国史上最大の違法レイブ→Criminal Justice Act 1994の直接的引き金 / 13人逮捕・10週間・£400万の英国刑事史上最長級裁判→全員無罪（1994年3月） / 裁判待ち中に旧軍用トラック隊列で大陸へ脱出 / 1993年夏フランス・ボーヴェで最初のTeknival開催（命名: Debbie Spiral） / Mutoid Waste Companyと協働・ミグ戦闘機ジャンク彫刻 / Teknivalムーブメントは現在も欧州各地で毎年夏継続。
@@ -71,6 +73,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 61 | Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ | ✅ Complete | 2026-06-18 | — |
 | 59 | A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ | ✅ Complete | 2026-06-17 | — |
 | 58 | Spiral Tribe — 国を追われ、大陸を手に入れた | ✅ Complete | 2026-06-16 | — |
 | 57 | The KLF — 世界一になって、全部消した | ✅ Complete | 2026-06-15 | — |

@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-18] auto-ep | EP-61 — Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ
+- Files: `rave-team/output/EP-61/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-61 — 2026-06-18 — andrew-weatherall-screamadelica.md`
+- Topic: Andrew Weatherall（1963年ウィンザー生まれ〜2020年没）/ Terry Farley・Cymon Eckel・Steve Mayesと共にBoy's Ownジン創刊・ストリートカルチャー誌として1988年アシッドハウス爆発期の発信源に / 1988年Danny Ramplingの「Shoom」で初DJブッキング（音楽ライターからDJへの転身）/ Boy's OwnでPrimal Screamの2作目を好意的レビュー→アシッドハウスのパーティで親交→「I'm Losing More Than I'll Ever Have」リミックス依頼 / バンド側近Andrew Innesに「Just fucking destroy it」と言われ演奏をほぼ全削除→別物の「Loaded」（1990年2月19日）誕生 / 『Screamadelica』（1991）はWeatherall・Hugo Nicolson・The Orb（Alex Paterson）・Hypnotone・元Rolling StonesプロデューサーJimmy Millerら複数プロデューサーによる縫合的作品、「Movin' On Up」はエンジニア降板後Jimmy Millerが緊急参加しコカコーラの瓶を打楽器に使用 / 1992年創設第一回Mercury Prize受賞・65万枚セールス→アシッドハウス文化が主流批評の場で正統性獲得した象徴的出来事 / 1993年Sabres of Paradise結成（Gary Burns・Jagz Kooner・Warp Records）/ Björk・My Bloody Valentine・Manic Street Preachers・Beth Orton・Saint Etienneらのリミックスも手がける / 2020年2月17日ロンドンWhipps Cross病院で肺塞栓症のため死去（56歳）/ EP-39 Second Summer of Love（Shoom・Danny Rampling）、EP-49 Warp Records（Sabres of Paradise）との接続。
+
 ## [2026-06-18] auto-post | POST-60 — 雨は、洗うためにある — 梅雨のハーブ菜園と、水のエレメント
 - Files: `aroma-insta/output/POST-60/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-60-2026-06-18-rainy-season-herb-garden.md`
