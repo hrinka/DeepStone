@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-19] auto-post | POST-62 — ミイラの名前は、この樹からきた — ミルラと、死を癒しに変える智慧
+- Files: `aroma-insta/output/POST-62/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-62-2026-06-19-myrrh.md`
+- Topic: アロマピラー / ミルラ（没薬 / Commiphora myrrha）/ ソマリア・エチオピア・イエメンの乾燥地に育つ樹、フランキンセンスと同じ「傷つけられて樹脂を流す」生態だが赤褐色の樹脂 / 日本語「ミイラ」はミルラ（防腐剤）由来とされる語源説 / 古代エジプトのミイラ防腐処理・太陽神ラーへの薫香 / 新約聖書: 東方三博士の贈り物（黄金・乳香・没薬）の中で唯一「死すべき運命」を象徴・ヨハネ19:39でニコデモが同じ没薬をイエスの遺体に使用→誕生と死の両端に同じ香りが立ち会う構造 / フラノセスキテルペン類（フラノユーデスマ-1,3-ジエン・クルゼレン・リンデステレン）がGABA-A経路で鎮痛・鎮静（MyrLiq研究 PMC5463107）/ 抗菌力が既存抗生物質に匹敵するとする研究報告 / EP-59フランキンセンス「傷ついて生まれる尊さ」と対になる「死の側に立つことで最も深く生を癒す」白魔女アングル。
+
 ## [2026-06-18] auto-ep | EP-61 — Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ
 - Files: `rave-team/output/EP-61/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-61 — 2026-06-18 — andrew-weatherall-screamadelica.md`
