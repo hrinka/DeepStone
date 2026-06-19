@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["He was just", "the dancer."],
+      "sub": "The Prodigy. Essex, 1990. A raver who became the face of a generation."
+    },
+    {
+      "type": "body",
+      "text": ["1990. Braintree, Essex.", "The Barn. A rave club.", "Keith Flint was dancing.", "Nothing more.", "Liam Howlett handed him a tape.", "He came back the next day.", "Let me dance to your music."],
+      "sub": "A dancer found a producer. Neither knew what it would become."
+    },
+    {
+      "type": "body",
+      "text": ["1994.", "The government made", "repetitive beats a crime.", "Howlett got angry."],
+      "sub": "Music for the Jilted Generation was written in that anger."
+    },
+    {
+      "type": "body",
+      "text": ["1996.", "Flint stopped dancing.", "He picked up the mic.", "Firestarter.", "Number one in the UK.", "MTV tried to ban it.", "It played anyway."],
+      "sub": "The dancer became the frontman. The face rave never had."
+    },
+    {
+      "type": "body",
+      "text": ["June 1997.", "Fat of the Land.", "317,000 copies, week one.", "Number one in twenty countries.", "Fastest-selling dance album ever."],
+      "sub": "A warehouse dancer's band had just conquered the world."
+    },
+    {
+      "type": "quote",
+      "quote": ["Not a rave band.", "Not a techno band.", "Punk and rave,", "colliding."],
+      "note": "Maxim. Keith Flint. Liam Howlett. Three roles, one explosion. Genre stopped meaning anything."
+    },
+    {
+      "type": "body",
+      "text": ["March 4, 2019.", "Essex.", "Keith Flint. 49.", "Howlett wrote:", "He took his own life."],
+      "sub": "A mural went up in Hackney. Near the club where he first took the stage in 1990."
+    },
+    {
+      "type": "cta",
+      "text": ["Play Firestarter.", "Watch the dancer", "become the flame."],
+      "strobe": "It started with one man dancing in a warehouse. That was the whole story.",
+      "cta": "Save this."
+    }
+  ]
+}

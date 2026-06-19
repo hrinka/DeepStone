@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["A stolen 4-track.", "A cupboard.", "A world began."],
+      "sub": "Orbital. The motorway that named a sound."
+    },
+    {
+      "type": "body",
+      "text": ["Sevenoaks, Kent.", "Brothers Phil and Paul.", "ORBITAL is the M25.", "The ring road around London.", "1988 to 1989.", "25,000 people danced", "in fields beside that road", "every weekend."],
+      "sub": "The motorway they drove to the parties became the name."
+    },
+    {
+      "type": "body",
+      "text": ["1989. The 4-track was stolen.", "All that was left:", "their dad's cassette deck.", "The room: a cupboard", "under the stairs.", "Cost: under a pound.", "The track: Chime."],
+      "sub": "The cheapest record in rave history."
+    },
+    {
+      "type": "body",
+      "text": ["DJs played Chime", "in warehouses off the M25.", "Pete Tong heard it.", "What is this.", "March 1990. FFRR released it.", "Number 17, UK charts."],
+      "sub": "A cupboard recording hit the chart."
+    },
+    {
+      "type": "body",
+      "text": ["The Green Album. 1991.", "The Brown Album. 1992.", "No words on the cover.", "No title. Just colour."],
+      "sub": "Electronic music proved it needed no words."
+    },
+    {
+      "type": "body",
+      "text": ["1994. Glastonbury.", "The Pyramid Stage.", "Electronic music stood there", "for the first time.", "Glasses lit with light", "on every face.", "Ten thousand people", "watched it glow."],
+      "sub": "After that night, festivals were never the same."
+    },
+    {
+      "type": "quote",
+      "quote": ["Repetitive beats.", "Made illegal.", "They answered with", "four minutes of silence."],
+      "note": "Criminal Justice Bill?, the B-side. Silence as protest."
+    },
+    {
+      "type": "cta",
+      "text": ["Find Chime.", "Play it loud."],
+      "strobe": "A sound born in a cupboard under the stairs is still playing.",
+      "cta": "Save this."
+    }
+  ]
+}

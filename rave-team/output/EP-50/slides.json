@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["Fifty genres.", "Or one bloodline."],
+      "sub": "Hardcore Continuum. UK electronic music, 1991 to today, never broken."
+    },
+    {
+      "type": "body",
+      "text": ["Jungle.", "Drum and bass.", "UK garage.", "Grime.", "Dubstep.", "You thought these", "were separate stories."],
+      "sub": "They are not."
+    },
+    {
+      "type": "body",
+      "text": ["This is the same music.", "Still going."],
+      "sub": "Hardcore Continuum."
+    },
+    {
+      "type": "body",
+      "text": ["UK hardcore rave. 1991.", "Jungle. 1993.", "Drum and bass. 1995.", "UK garage. 1997.", "Grime. 2001.", "Dubstep. 2002.", "UK funky. 2005.", "Today. Still unnamed."],
+      "sub": "One line, drawn across thirty years."
+    },
+    {
+      "type": "body",
+      "text": ["Sound system culture", "Jamaican migrants carried in.", "Black communities", "in east and south London.", "Pirate radio.", "DIY white-label twelves.", "The bass.", "Only the bass never changed."],
+      "sub": "Five threads. One rope."
+    },
+    {
+      "type": "quote",
+      "quote": ["I have been writing", "about the same music", "for six years."],
+      "note": "Simon Reynolds, 1999, mid-essay on 2-step garage. Energy Flash, 1998, the first book to trace it all as one story."
+    },
+    {
+      "type": "body",
+      "text": ["The theory has shadows.", "London-centred.", "Manchester. Bristol. Sheffield", "fade from the frame.", "A critic's lens", "defining Black culture", "from the outside.", "Still, the map holds."],
+      "sub": "Even a flawed map can be the only one we have."
+    },
+    {
+      "type": "cta",
+      "text": ["Find the line.", "Follow it back."],
+      "strobe": "Fifty genres were never fifty stories. They were one bloodline, still running.",
+      "cta": "Save this."
+    }
+  ]
+}
