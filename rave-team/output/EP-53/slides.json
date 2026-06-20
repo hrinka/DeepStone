@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["A boy in Cornwall", "invented the night."],
+      "sub": "The story of Aphex Twin, a solitary universe."
+    },
+    {
+      "type": "body",
+      "text": ["August 18, 1971.", "Born in Limerick, Ireland.", "Raised in Cornwall.", "Sheep, fog, abandoned factories.", "There, he became obsessed with sound."],
+      "sub": "Richard D. James. Before the name meant anything."
+    },
+    {
+      "type": "body",
+      "text": ["At fourteen,", "he collected discarded synths", "and rebuilt them himself.", "\"I couldn't buy one. So I built one.\"", "The sound in that room", "had no name yet."],
+      "sub": "DIY, before DIY was a word."
+    },
+    {
+      "type": "body",
+      "text": ["1991. Debut: Analogue Bubblebath.", "1992. Selected Ambient Works 85-92.", "A record of sounds made since age fourteen.", "Pirate radio played it one night in London.", "No one could explain what it was."],
+      "sub": "The blueprint for IDM."
+    },
+    {
+      "type": "body",
+      "text": ["He had three faces.", "Digeridoo — wrecked the rave floor.", "Selected Ambient Works II — quieted sleepless nights.", "Come to Daddy — made children cry on MTV.", "All the same man."],
+      "sub": "Contradiction as a method."
+    },
+    {
+      "type": "quote",
+      "quote": ["He owned a tank.", "He lived in a bank vault.", "He tried to buy a Russian submarine —", "\"thought it'd be good for a party.\""],
+      "note": "All confirmed true."
+    },
+    {
+      "type": "body",
+      "text": ["After 2001, official releases stopped.", "The world waited.", "September 23, 2014. Syro.", "Thirteen years of silence, broken.", "He won a Grammy.", "He still explained nothing."],
+      "sub": "Thirteen years. One return."
+    },
+    {
+      "type": "cta",
+      "text": ["Sometimes the unexplainable", "is the realest thing there is."],
+      "strobe": "1971 → 1992 → 2001 → 2014",
+      "cta": "Save this."
+    }
+  ]
+}

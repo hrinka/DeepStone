@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["He Built a Temple", "Out of Sound."],
+      "sub": "Then he burned it down."
+    },
+    {
+      "type": "body",
+      "text": ["Lee \"Scratch\" Perry.", "Born 1936, Kendal, Jamaica.", "Died 2021, aged 85.", "Before Bob Marley was Bob Marley,", "Perry was producing him."],
+      "sub": "The producer behind the legend."
+    },
+    {
+      "type": "body",
+      "text": ["He started by sweeping floors at Studio One.", "Watching. Memorizing.", "His first single: \"The Chicken Scratch.\"", "The nickname: Scratch.", "It stayed for 60 years."],
+      "sub": "From the floor to the booth."
+    },
+    {
+      "type": "body",
+      "text": ["He produced Bob Marley's early recordings.", "\"Small Axe.\" \"Duppy Conqueror.\" \"Soul Rebel.\"", "These were not pop songs.", "They were weapons.", "Perry taught Marley to use the studio", "as a second instrument."],
+      "sub": "Reggae as resistance."
+    },
+    {
+      "type": "body",
+      "text": ["In 1973, he built a studio", "behind his family home in Kingston.", "A 4-track recorder. Used equipment.", "He named it Black Ark.", "\"Not a studio,\" he said. \"A temple.\""],
+      "sub": "Built from almost nothing."
+    },
+    {
+      "type": "body",
+      "text": ["From that 4-track came:", "Junior Murvin — \"Police and Thieves\" (1976)", "The Congos — \"Heart of the Congos\" (1977)", "The Clash — \"Complete Control\" (1977)", "Reggae and punk shook hands."],
+      "sub": "One room. One man. Three movements."
+    },
+    {
+      "type": "body",
+      "text": ["By 1979, the walls of Black Ark", "were covered in writing.", "Prayers. Curses. Messages to God.", "In 1983, the studio burned.", "Perry said: \"I had to destroy the temple", "to free the spirit.\""],
+      "sub": "The end he chose."
+    },
+    {
+      "type": "cta",
+      "text": ["Every producer who reaches for an echo", "is reaching for what Perry invented.", "He treated silence", "as the loudest sound in the room."],
+      "strobe": "\"The studio is alive. You do not record inside it. You speak with it.\"",
+      "cta": "Save this."
+    }
+  ]
+}

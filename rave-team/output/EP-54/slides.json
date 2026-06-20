@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["The Man Who", "Invented Bass"],
+      "sub": "He fixed TVs for a living. Then he rewired music forever."
+    },
+    {
+      "type": "body",
+      "text": ["1941. Kingston, Jamaica.", "A boy named Osbourne Ruddock", "learns to fix radios and televisions.", "Not a musician.", "An engineer.", "But in Waterhouse,", "the two were the same thing."],
+      "sub": "Before there was King Tubby, there was a repairman."
+    },
+    {
+      "type": "body",
+      "text": ["1968.", "He builds his own sound system.", "King Tubby's Home Town Hi-Fi.", "He points speakers at the sky.", "He plays music loud enough", "to change what music means."],
+      "sub": "Waterhouse, Kingston."
+    },
+    {
+      "type": "body",
+      "text": ["Working at Treasure Isle.", "One night, the vocal track drops.", "Only bass and drums remain.", "He reaches for the faders.", "He adds delay. Reverb.", "The crowd doesn't run.", "They move deeper."],
+      "sub": "The accident that became dub."
+    },
+    {
+      "type": "body",
+      "text": ["He called them \"versions.\"", "A ghost of the original song.", "No vocalist. Just the riddim.", "Bass where the voice used to be.", "He named the genre", "without knowing it.", "This was Dub."],
+      "sub": "Dub, before it had a name."
+    },
+    {
+      "type": "body",
+      "text": ["18 Dromilly Avenue.", "A room in his house.", "He built the mixing board himself.", "No manual. No school.", "His students: Scientist. Prince Jammy.", "Lee Perry asked him", "to wire his Black Ark Studio."],
+      "sub": "A repairman of radios became the architect of sound."
+    },
+    {
+      "type": "body",
+      "text": ["He never heard drum & bass.", "He never heard dubstep.", "He died in 1989.", "Shot outside his own house. Age 48.", "But what he built crossed the Atlantic —", "and became Jungle. DnB. Dubstep. Grime."],
+      "sub": "Waterhouse to London. The line never broke."
+    },
+    {
+      "type": "cta",
+      "text": ["Every bass drop you feel", "on the dancefloor —", "every frequency", "that moves your chest —", "started here."],
+      "strobe": "Waterhouse. Kingston. 1968.",
+      "cta": "Save this."
+    }
+  ]
+}

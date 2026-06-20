@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["THE KLF"],
+      "sub": "The world's best-selling act of 1991. Then they deleted everything."
+    },
+    {
+      "type": "body",
+      "text": ["1987. London.", "Bill Drummond. Jimmy Cauty.", "Two men who didn't fit.", "They named themselves after a secret society", "from a conspiracy novel:", "The Justified Ancients of Mu Mu.", "Their first album was recalled by ABBA."],
+      "sub": "It started with someone else's lawyers."
+    },
+    {
+      "type": "body",
+      "text": ["February 1990. They release Chill Out.", "44 minutes. One continuous take.", "Recorded live in a single session.", "Elvis. Fleetwood Mac. Train static.", "The sound of driving alone at 3am", "through the American South.", "The first ambient house album."],
+      "sub": "A road trip nobody actually took."
+    },
+    {
+      "type": "body",
+      "text": ["1991. Three singles. All massive.", "\"What Time Is Love.\"", "\"3 A.M. Eternal.\"", "\"Last Train to Trancentral.\"", "They called it stadium house:", "rave music built like a cathedral.", "The biggest-selling singles act", "in the world that year."],
+      "sub": "Rave music, built like a cathedral."
+    },
+    {
+      "type": "body",
+      "text": ["December 1991. They called Tammy Wynette.", "Country legend. Grand Ole Opry.", "She said yes.", "She stood inside a rocket.", "Wore a KLF dress. Sang about ice cream vans.", "Number one in 18 countries.", "She said she still didn't know", "what it was about."],
+      "sub": "Number one, with no explanation."
+    },
+    {
+      "type": "body",
+      "text": ["February 1992. BRIT Awards.", "They took the stage with a grindcore band:", "Extreme Noise Terror.", "Bill Drummond fired blanks into the crowd.", "No one knew they were blanks.", "Then a statement:", "\"The KLF have left the music industry.\""],
+      "sub": "The exit, staged like chaos."
+    },
+    {
+      "type": "body",
+      "text": ["May 1992. They delete their entire catalog.", "No explanation.", "August 1994. Isle of Jura, Scotland —", "where Orwell wrote 1984.", "One million pounds in cash.", "Burned in a boathouse.", "It takes two hours. They film it."],
+      "sub": "Success, set on fire."
+    },
+    {
+      "type": "cta",
+      "text": ["In 1999, Bill Drummond said:", "\"I think it was the only honest thing", "left to do.\""],
+      "strobe": "1987 → 1991 → 1992 → 1994",
+      "cta": "Save this."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["THE LABEL THAT TURNED", "BASS INTO A THEORY"],
+      "sub": "Hyperdub Records. 2004. London."
+    },
+    {
+      "type": "body",
+      "text": ["Steve Goodman.", "Born Glasgow, 1973.", "PhD in philosophy.", "University of Warwick.", "His thesis: sound as a weapon.", "Then he made music."],
+      "sub": "A philosopher before a producer."
+    },
+    {
+      "type": "body",
+      "text": ["1999. He started a website.", "Called it Hyperdub.", "A place for ideas about bass music.", "Not for listening. For thinking.", "2004. He turned it into a record label."],
+      "sub": "Theory first. Label second."
+    },
+    {
+      "type": "body",
+      "text": ["The first release:", "Kode9 & The Spaceape.", "\"Sine of the Dub.\" 2004.", "A dubstep rework of a Prince song.", "Around the same time,", "someone began mailing him homemade CD-Rs.", "No name. Just music."],
+      "sub": "An anonymous tape in the post."
+    },
+    {
+      "type": "body",
+      "text": ["The CD-Rs were Burial.", "\"South London Boroughs.\" 2005.", "Third release on Hyperdub.", "Burial's debut.", "The Wire named it album of the year.", "One anonymous person from South London", "changed everything."],
+      "sub": "No face. No name. All impact."
+    },
+    {
+      "type": "body",
+      "text": ["2009. Goodman published \"Sonic Warfare.\"", "A book about how governments use sound", "to control people.", "How bass can be a political act.", "The label and the theory", "were always one thing."],
+      "sub": "Bass as politics."
+    },
+    {
+      "type": "body",
+      "text": ["Ikonika. 2008. Laurel Halo. 2012.", "Jessy Lanza. 2013. DJ Rashad. 2013.", "Chicago footwork. Canadian R&B.", "American art-pop.", "Hyperdub never stayed in one room.", "The theory kept moving."],
+      "sub": "Genre never mattered."
+    },
+    {
+      "type": "cta",
+      "text": ["Most labels follow trends.", "Hyperdub built a theory first,", "then found the music that proved it."],
+      "strobe": "Twenty years later, every bass-heavy record owes something to a Glasgow philosopher who moved to South London and listened.",
+      "cta": "Save this."
+    }
+  ]
+}
