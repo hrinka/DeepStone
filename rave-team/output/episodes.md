@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-63 (2026-06-21): Drexciya — 海に消えた者たちが、海の下で国を作った。 — James Stinson（1969〜2002）+ Gerald Donaldのデュオ・デトロイト出身 / 1989年9月18日午前3時Stinsonが眠れず起き上がり「Drexciya」と発言、そこから3年構想 / 1992年「Deep Sea Dweller」EPでデビュー（Shockwave Records）/ Underground Resistance（Mad Mike Banks主宰）から3作: Bubble Metropolis(1993)・Aquatic Invasion(1994)・The Return of Drexciya(1996)、Submergeから2作(1994)、Warp Records「The Journey Home」(1995)でUKシーンと直接接続 / ライナーノーツの神話: 奴隷船から海に投げ落とされた身重の女性の胎児が水中で生きる力を得て誕生→海底文明Drexciyaを建国、1781年Zong号事件など実在の奴隷貿易史が下敷き / 1997年コンピ「The Quest」が神話の最詳細版・Paul Gilroy『The Black Atlantic』(1993)の理論的影響(Kodwo Eshun指摘) / インタビュー皆無・写真非公開の徹底した匿名性、同業者Daniel Bellが「very surreal」と評す / James Stinson 2002年9月3日ジョージア州ニューナンで心臓疾患のため32歳で死去 / Gerald DonaldはDopplereffekt・Arpanet等多数の名義で活動継続。
+
 - EP-61 (2026-06-18): Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ。 — 1963年ウィンザー生まれ・2020年没 / Terry Farley・Cymon Eckel・Steve MayesとBoy's Ownジン創刊、1988年アシッドハウス爆発期の発信源 / 1988年Danny Ramplingの「Shoom」で初DJブッキング、音楽ライターからDJへの転身 / Boy's OwnでPrimal Screamの2作目を好意的レビュー→アシッドハウスのパーティで親交→「I'm Losing More Than I'll Ever Have」リミックス依頼 / バンド側近Andrew Innesに「Just fucking destroy it」と言われ演奏をほぼ全削除→別物の「Loaded」（1990年2月19日）誕生 / 『Screamadelica』（1991）はWeatherall・Hugo Nicolson・The Orb（Alex Paterson）・Hypnotone・元Rolling StonesプロデューサーJimmy Millerら複数プロデューサーによる縫合的作品、「Movin' On Up」はエンジニア降板後Jimmy Millerが緊急参加しコカコーラの瓶を打楽器に使用 / 1992年創設第一回Mercury Prize受賞・65万枚セールス→アシッドハウス文化が主流批評の場で正統性獲得した象徴的出来事 / 1993年Sabres of Paradise結成（Gary Burns・Jagz Kooner・Warp Records）/ Björk・My Bloody Valentine・Manic Street Preachers・Beth Orton・Saint Etienneらのリミックスも手がける / 2020年2月17日ロンドンWhipps Cross病院で肺塞栓症のため死去（56歳）。
 
 - EP-59 (2026-06-17): A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ。 — Gerald Simpson、マンチェスター・モスサイド出身 / 父のレゲエレコード・母のペンテコステ派教会・地元サウンドシステム文化が土壌 / 808 State在籍中「Pacific State」制作中に脱退、クレジットと報酬を巡る対立で経済的困窮 / 1988年Moonraker Studiosでの録音中、ボーカルサンプル「Voodoo Rage」がエンジニアの誤りで末尾切断され「Voodoo Ray」に / Rham!レーベルから発売、初回500枚1日完売、UKチャート最高12位・18週ランクイン、1989年BPIベストセラー・インディーズシングル / The Haçienda発アシッドハウス・アンセム / 1991年Juice Box Records設立で孤独な再出発、そのブレイクビート・リリース群がジャングルの種に / 1995年「Black Secret Technology」がFact・Pitchfork・Freaky Triggerで「史上最高のジャングルアルバム」と評価、David Bowie「Earthling」にも影響。
@@ -73,6 +75,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 63 | Drexciya — 海に消えた者たちが、海の下で国を作った | ✅ Complete | 2026-06-21 | — |
 | 61 | Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ | ✅ Complete | 2026-06-18 | — |
 | 59 | A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ | ✅ Complete | 2026-06-17 | — |
 | 58 | Spiral Tribe — 国を追われ、大陸を手に入れた | ✅ Complete | 2026-06-16 | — |

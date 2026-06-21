@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-21] auto-ep | EP-63 — Drexciya — 海に消えた者たちが、海の下で国を作った
+- Files: `rave-team/output/EP-63/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-63 — 2026-06-21 — drexciya-underwater-mythology.md`
+- Topic: レイブピラー / James Stinson（1969〜2002）+ Gerald Donald・デトロイト出身エレクトロ/テクノデュオ / 1989年9月18日午前3時Stinsonが眠れず起き上がり「Drexciya」と発言、3年構想 / 1992年「Deep Sea Dweller」EPでデビュー（Shockwave Records）/ Underground Resistance（Mad Mike Banks主宰）から3作・Submergeから2作・Warp Records「The Journey Home」(1995)でUKシーンと直接接続 / ライナーノーツの神話: 奴隷船から海に投げ落とされた身重の女性の胎児が水中で生きる力を得て誕生→海底文明Drexciya建国、1781年Zong号事件など実在の奴隷貿易史が下敷き / 1997年コンピ「The Quest」が神話の最詳細版・Paul Gilroy『The Black Atlantic』(1993)の理論的影響(Kodwo Eshun指摘) / インタビュー皆無・写真非公開の徹底した匿名性、同業者Daniel Bellが「very surreal」と評す / James Stinson 2002年9月3日心臓疾患で32歳死去 / Gerald DonaldはDopplereffekt・Arpanet等で活動継続 / EP-09 Detroit Techno・EP-46 Burial匿名性・EP-56 Hyperdub理論との接続。
+
 ## [2026-06-21] auto-post | POST-63 — 朝摘みのハーブ菜園 — 香りが空に還る前に、手を伸ばす
 - Files: `aroma-insta/output/POST-63/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-63-2026-06-21-morning-harvest-herb-garden.md`
