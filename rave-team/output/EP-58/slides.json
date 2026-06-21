@@ -1,0 +1,14 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {"type": "cover", "main": ["SPIRAL TRIBE"], "sub": "England banned them. So they took the rave to a continent."},
+    {"type": "body", "text": ["London, 1990.", "Three squatters.", "One sound system.", "No license. No permission.", "No one asked them to start."], "sub": "It started in a building no one was using."},
+    {"type": "body", "text": ["October 1990.", "An empty schoolhouse in Kensal Rise.", "They call the party De-tension.", "Free party culture in Britain", "starts here."], "sub": "Squatted, not booked."},
+    {"type": "body", "text": ["Two years. Thirty free parties.", "Then May 1992.", "Castlemorton Common, Worcestershire.", "Five sound systems converge", "on one field.", "40,000 people. Five days.", "No one leaves."], "sub": "The biggest illegal rave in British history."},
+    {"type": "body", "text": ["Police call it a riot.", "Parliament calls it a crisis.", "Thirteen members arrested.", "Castlemorton becomes the excuse", "for a new law:", "the Criminal Justice Act."], "sub": "One field changed the law."},
+    {"type": "body", "text": ["They don't wait for the verdict.", "A convoy of ex-military trucks", "crosses the Channel.", "A field outside Beauvais, France.", "Summer 1993.", "They name it: Teknival."], "sub": "Exiled, they built a new continent of parties."},
+    {"type": "body", "text": ["January 1994.", "They return to face trial.", "Ten weeks. Four million pounds.", "The longest criminal trial", "in British legal history.", "Acquitted of everything."], "sub": "Free, after the longest trial in British history."},
+    {"type": "cta", "text": ["The borders changed.", "The bassline didn't."], "strobe": "Teknival still happens across Europe, every summer.", "cta": "Save this."}
+  ]
+}

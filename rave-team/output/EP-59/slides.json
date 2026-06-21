@@ -1,0 +1,14 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {"type": "cover", "main": ["A GUY CALLED GERALD"], "sub": "An engineer cut one word short. A genre walked out of what was left."},
+    {"type": "body", "text": ["Manchester. Moss Side.", "His father's blue beat and reggae records.", "His mother's Pentecostal church.", "Sound systems on the street outside.", "This is what he grew up inside of."], "sub": "Three sounds, one childhood."},
+    {"type": "body", "text": ["1988. Moonraker Studios.", "Two days of recording.", "A vocal sample is meant to say", "\"Voodoo Rage.\"", "The tape gets cut short", "by mistake."], "sub": "A mistake on a two-day session."},
+    {"type": "body", "text": ["It comes out as \"Voodoo Ray.\"", "500 copies. Gone in a day.", "18 weeks on the chart.", "The Haçienda plays it", "until the floor remembers it", "by heart."], "sub": "A typo the dancefloor never forgot."},
+    {"type": "body", "text": ["He's also building a track", "with 808 State.", "\"Pacific State.\"", "He leaves before it's finished.", "They finish it without him.", "He fights for the credit.", "Money runs out."], "sub": "A credit he had to fight for."},
+    {"type": "body", "text": ["1991. He starts again. Alone.", "Juice Box Records.", "He speeds up the breaks.", "Chops them. Breaks them further.", "Something nobody has a name for yet", "is forming in his room."], "sub": "Alone in a room, building a sound with no name."},
+    {"type": "body", "text": ["1995. Black Secret Technology.", "Critics still call it", "the best jungle album ever made.", "David Bowie says it", "changed the sound of his own", "next record."], "sub": "Bowie was listening too."},
+    {"type": "cta", "text": ["One mistake on a tape.", "One genre on the other side of it."], "strobe": "Voodoo Rage → Voodoo Ray → Jungle", "cta": "Save this."}
+  ]
+}

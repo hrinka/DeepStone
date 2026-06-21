@@ -1,0 +1,14 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {"type": "cover", "main": ["ANDREW WEATHERALL"], "sub": "He was told to destroy a song. He built a bridge instead."},
+    {"type": "body", "text": ["London, late 1980s.", "Four friends write a fanzine.", "Football. Fashion. Records.", "They call it Boy's Own.", "He is one of them."], "sub": "A music writer, before anything else."},
+    {"type": "body", "text": ["1988. Acid house arrives.", "He gets his first DJ booking", "at Danny Rampling's Shoom.", "A music writer", "becomes a man behind decks."], "sub": "From the page to the booth."},
+    {"type": "body", "text": ["Primal Scream were a guitar band.", "He reviewed their album in the zine.", "He liked it. They met at a party.", "They asked him to remix a song", "called \"I'm Losing More Than I'll Ever Have.\""], "sub": "A remix request from a band he'd written about."},
+    {"type": "quote", "quote": ["\"Just fucking destroy it,\"", "they told him."], "note": "The band hated his first version. He did. What was left was barely the same song. They called it \"Loaded.\""},
+    {"type": "body", "text": ["1991. Screamadelica.", "Rock, gospel, dub, acid house —", "stitched into one record.", "Jimmy Miller, who once produced the Stones.", "The Orb, who turned one song into cosmic dub.", "And him, holding it all together."], "sub": "Four genres, one record."},
+    {"type": "body", "text": ["1992. The first Mercury Prize ever given.", "It goes to Screamadelica.", "A rock band, remade by a club DJ,", "wins where rock critics", "never expected dance music to stand."], "sub": "A club DJ won where rock critics didn't expect it."},
+    {"type": "cta", "text": ["He kept building bridges", "nobody asked him to build,", "until 2020."], "strobe": "Boy's Own → Loaded → Screamadelica", "cta": "Save this."}
+  ]
+}

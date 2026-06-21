@@ -1,0 +1,14 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {"type": "cover", "main": ["DREXCIYA"], "sub": "The ones who fell never drowned."},
+    {"type": "body", "text": ["Detroit, 1992.", "Two producers.", "No faces.", "No names on the record."], "sub": "Anonymous from the very first pressing."},
+    {"type": "body", "text": ["James Stinson and Gerald Donald", "called themselves Drexciya.", "Nobody saw their faces", "for ten years."], "sub": "A decade with no face attached to the name."},
+    {"type": "body", "text": ["Their liner notes told a story.", "Slave ships, 1655 to 1857.", "Pregnant women thrown overboard", "so the ship could go faster."], "sub": "A myth built from a real horror."},
+    {"type": "body", "text": ["The myth says the unborn children", "learned to breathe underwater", "in the womb.", "They survived.", "They built a nation below the surface.", "They called it Drexciya."], "sub": "A nation, born underwater."},
+    {"type": "body", "text": ["1989. 3am.", "Stinson woke up", "and said one word out loud.", "Drexciya.", "They spent three years", "before releasing a single track."], "sub": "Three years of silence before the first record."},
+    {"type": "body", "text": ["Underground Resistance pressed their records.", "Warp released \"The Journey Home.\"", "Then in 2002,", "Stinson's heart stopped.", "He was 32."], "sub": "Gone at 32, the myth outlived him."},
+    {"type": "cta", "text": ["The myth was never", "just a myth."], "strobe": "1992 → 2002 → still surfacing", "cta": "Save this."}
+  ]
+}
