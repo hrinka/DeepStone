@@ -5,6 +5,11 @@
 - Wiki source: `wiki/sources/aroma/aroma-POST-64-2026-06-22-hidden-passion-number.md`
 - Topic: 数秘ピラー / 既出のコアナンバー群と重複しない「フルネームの頻度」に注目した未着手概念 / 隠れた情熱数（Hidden Passion Number）= フルネームをピタゴラス対応表で数字化し最も頻出する数字を特定（表現数の「合計」・ソウルナンバーの「母音のみ合計」とは異なるアルゴリズム）/ 日本語圏に解説記事がほぼ存在せずSEOブルーオーシャン / Rinka（FUKAISHI RINKA）の計算例: 9が4回（I×3, R×1）で最多 → 隠れた情熱数9（慈悲・普遍の愛・自己超越）/ Rinkaの根本ビジョン「自分自身と出会った人の波動を上げて、世界を旅すること」と直接共鳴する角度で最終スライドに使用。
 
+## [2026-06-22] auto-ep | EP-64 — Jah Shaka — ダブステップに名前がつく前から、彼の教会はそこにあった
+- Files: `rave-team/output/EP-64/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-64 — 2026-06-22 — jah-shaka-zulu-warrior.md`
+- Topic: レイブピラー / Jah Shaka（ジャマイカ・クラレンドン教区生まれ c.1948〜2023年4月12日）/ 1956年ウィンドラッシュ世代として渡英・ロンドン南東部ブロックリーへ / 12歳でFreddie Cloudburst Sound Systemのオペレーターとして開始→自身のサウンドシステム設立、ラスタファライの「Jah」+ズールー王Shaka Zuluから命名 / 1970年代後半、霊的内容・高エネルギー・巨大音圧でロンドンのサウンドシステム文化の中心人物に / 1980年「Jah Shaka Music」レーベル設立（第1弾African Princess「Jah Children Cry」）/ 1982年「The Commandments of Dub」シリーズ開始・50以上のリリース（Max Romeo・Horace Andy・Aswad・Twinkle Brothersら）/ メディア露出は極端に少なく本名も諸説未確定 / サウンドシステムを娯楽でなく霊的実践の場として運営・徹夜のダンス文化 / Mala（Digital Mystikz）証言「Before DMZ, I'd only ever really seen that happen at Jah Shaka dances」→DMZ・ダブステップの直接的な精神的起源 / Jumpin Jack Frost「the greatest soundman that ever lived」/ The Bug「A heroic figure who kept Dub alive, when few cared」/ 2023年4月12日死去 / EP-54 King Tubby・EP-55 Lee Perry・EP-28 Dubstep vs Brostepとの接続 / 既存entityページ[[Jah Shaka]]の初の専用ソース化。
+
 ## [2026-06-21] auto-ep | EP-63 — Drexciya — 海に消えた者たちが、海の下で国を作った
 - Files: `rave-team/output/EP-63/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-63 — 2026-06-21 — drexciya-underwater-mythology.md`

@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-64 (2026-06-22): Jah Shaka — ダブステップに名前がつく前から、彼の教会はそこにあった。 — ジャマイカ・クラレンドン教区生まれ（c.1948〜2023年4月12日）、1956年ウィンドラッシュ世代として渡英・ロンドン南東部ブロックリーへ / 12歳でFreddie Cloudburst Sound Systemのオペレーターとして開始→自身のサウンドシステム設立、ラスタファライの「Jah」+ズールー王Shaka Zuluから命名 / 1970年代後半、霊的内容・高エネルギー・巨大音圧・カリスマ性でロンドンのサウンドシステム文化の中心人物に / 1980年「Jah Shaka Music」レーベル設立（第1弾African Princess「Jah Children Cry」）/ 1982年「The Commandments of Dub」シリーズ開始・50以上のリリース（Max Romeo・Horace Andy・Aswad・Twinkle Brothersら）/ メディア露出は極端に少なく本名も諸説未確定 / サウンドシステムを娯楽でなく霊的実践の場として運営・徹夜のダンス文化 / Mala（Digital Mystikz）証言「Before DMZ, I'd only ever really seen that happen at Jah Shaka dances」→DMZ・ダブステップの直接的な精神的起源 / Jumpin Jack Frost「the greatest soundman that ever lived」/ The Bug「A heroic figure who kept Dub alive, when few cared」/ 2023年4月12日死去。
+
 - EP-63 (2026-06-21): Drexciya — 海に消えた者たちが、海の下で国を作った。 — James Stinson（1969〜2002）+ Gerald Donaldのデュオ・デトロイト出身 / 1989年9月18日午前3時Stinsonが眠れず起き上がり「Drexciya」と発言、そこから3年構想 / 1992年「Deep Sea Dweller」EPでデビュー（Shockwave Records）/ Underground Resistance（Mad Mike Banks主宰）から3作: Bubble Metropolis(1993)・Aquatic Invasion(1994)・The Return of Drexciya(1996)、Submergeから2作(1994)、Warp Records「The Journey Home」(1995)でUKシーンと直接接続 / ライナーノーツの神話: 奴隷船から海に投げ落とされた身重の女性の胎児が水中で生きる力を得て誕生→海底文明Drexciyaを建国、1781年Zong号事件など実在の奴隷貿易史が下敷き / 1997年コンピ「The Quest」が神話の最詳細版・Paul Gilroy『The Black Atlantic』(1993)の理論的影響(Kodwo Eshun指摘) / インタビュー皆無・写真非公開の徹底した匿名性、同業者Daniel Bellが「very surreal」と評す / James Stinson 2002年9月3日ジョージア州ニューナンで心臓疾患のため32歳で死去 / Gerald DonaldはDopplereffekt・Arpanet等多数の名義で活動継続。
 
 - EP-61 (2026-06-18): Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ。 — 1963年ウィンザー生まれ・2020年没 / Terry Farley・Cymon Eckel・Steve MayesとBoy's Ownジン創刊、1988年アシッドハウス爆発期の発信源 / 1988年Danny Ramplingの「Shoom」で初DJブッキング、音楽ライターからDJへの転身 / Boy's OwnでPrimal Screamの2作目を好意的レビュー→アシッドハウスのパーティで親交→「I'm Losing More Than I'll Ever Have」リミックス依頼 / バンド側近Andrew Innesに「Just fucking destroy it」と言われ演奏をほぼ全削除→別物の「Loaded」（1990年2月19日）誕生 / 『Screamadelica』（1991）はWeatherall・Hugo Nicolson・The Orb（Alex Paterson）・Hypnotone・元Rolling StonesプロデューサーJimmy Millerら複数プロデューサーによる縫合的作品、「Movin' On Up」はエンジニア降板後Jimmy Millerが緊急参加しコカコーラの瓶を打楽器に使用 / 1992年創設第一回Mercury Prize受賞・65万枚セールス→アシッドハウス文化が主流批評の場で正統性獲得した象徴的出来事 / 1993年Sabres of Paradise結成（Gary Burns・Jagz Kooner・Warp Records）/ Björk・My Bloody Valentine・Manic Street Preachers・Beth Orton・Saint Etienneらのリミックスも手がける / 2020年2月17日ロンドンWhipps Cross病院で肺塞栓症のため死去（56歳）。
@@ -75,6 +77,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 64 | Jah Shaka — ダブステップに名前がつく前から、彼の教会はそこにあった | ✅ Complete | 2026-06-22 | — |
 | 63 | Drexciya — 海に消えた者たちが、海の下で国を作った | ✅ Complete | 2026-06-21 | — |
 | 61 | Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ | ✅ Complete | 2026-06-18 | — |
 | 59 | A Guy Called Gerald — 一文字の間違いが、二つのジャンルをつないだ | ✅ Complete | 2026-06-17 | — |
