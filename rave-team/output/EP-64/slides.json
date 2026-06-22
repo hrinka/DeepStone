@@ -1,0 +1,43 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["JAH SHAKA"],
+      "sub": "Before dubstep had a name, it had a chapel."
+    },
+    {
+      "type": "body",
+      "text": ["Clarendon Parish, Jamaica. 1956.", "A boy arrives in South East London.", "He is twelve years old."],
+      "sub": "The Windrush generation, in miniature."
+    },
+    {
+      "type": "body",
+      "text": ["He starts as an operator", "on someone else's sound system.", "Freddie Cloudburst.", "Then he builds his own."]
+    },
+    {
+      "type": "body",
+      "text": ["He names it after a Zulu king.", "Jah Shaka.", "By the late seventies,", "South London knows the name."]
+    },
+    {
+      "type": "body",
+      "text": ["1980. His own label.", "Fifty-plus releases over the decades.", "Almost no interviews.", "The music spoke. He didn't have to."]
+    },
+    {
+      "type": "body",
+      "text": ["His dances ran all night.", "No stage lighting rig.", "No countdown to a drop.", "Just bass, moving through the room", "until it felt like something", "close to prayer."]
+    },
+    {
+      "type": "body",
+      "text": ["Decades later, a young producer", "named Mala walks into a Shaka dance.", "He feels the bass before he hears it.", "He builds DMZ on that exact feeling."],
+      "sub": "Dubstep's first chapel, found by accident."
+    },
+    {
+      "type": "cta",
+      "text": ["April 12, 2023.", "He passed."],
+      "strobe": "Somewhere tonight, a system he inspired is still playing.",
+      "cta": "Save this."
+    }
+  ]
+}
