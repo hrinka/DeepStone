@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-21
+updated: 2026-06-22
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,7 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-06-22: POST-64「名前の中で、一番うるさく自己主張している数字がある — 隠れた情熱数（ヒドゥンパッションナンバー）」生成・GitHub push完了（数秘ピラー / 既出コアナンバー群（ソウル・表現・バースデー・パーソナルイヤー・波動グループ・カルミックデット・マチュリティ・アティテュード・チャレンジ・ピナクル・エンジェルナンバー）と重複しない「フルネームの頻度」軸 / 隠れた情熱数 = ピタゴラス対応表で名前を数字化し最頻出の数字を特定（合計ではなく頻度で見る点が表現数・ソウルナンバーと異なる）/ 日本語圏にこの用語の解説記事がほぼ存在せずSEOブルーオーシャン / Rinka（FUKAISHI RINKA）の計算例: 9が4回（I×3, R×1）で最多→隠れた情熱数9（慈悲・普遍の愛・自己超越）/ Rinkaの根本ビジョン「自分自身と出会った人の波動を上げて、世界を旅すること」と直接共鳴する角度を最終スライドに採用）。
 2026-06-21: EP-63「Drexciya — 海に消えた者たちが、海の下で国を作った」生成・GitHub push完了（レイブピラー / James Stinson（1969〜2002）+ Gerald Donald・デトロイト出身エレクトロ/テクノデュオ / 1989年9月18日午前3時Stinsonが眠れず起き上がり「Drexciya」と発言、3年構想 / 1992年「Deep Sea Dweller」EPデビュー（Shockwave Records）/ Underground Resistance（Mad Mike Banks主宰）から3作: Bubble Metropolis(1993)・Aquatic Invasion(1994)・The Return of Drexciya(1996)、Submergeから2作(1994)、Warp Records「The Journey Home」(1995)でUKシーンと直接接続 / ライナーノーツの神話: 奴隷船から海に投げ落とされた身重の女性の胎児が水中で生きる力を得て誕生→海底文明Drexciya建国、1781年Zong号事件など実在の奴隷貿易史が下敷き / 1997年コンピ「The Quest」が神話の最詳細版・Paul Gilroy『The Black Atlantic』(1993)の理論的影響(Kodwo Eshun指摘) / インタビュー皆無・写真非公開の徹底した匿名性、同業者Daniel Bellが「very surreal」と評す / James Stinson 2002年9月3日ジョージア州ニューナンで心臓疾患のため32歳死去 / Gerald DonaldはDopplereffekt・Arpanet等多数の名義で活動継続 / EP-09 Detroit Techno・EP-46 Burial匿名性・EP-56 Hyperdub理論との接続）。
 2026-06-21: POST-63「朝摘みのハーブ菜園 — 香りが空に還る前に、手を伸ばす」生成・GitHub push完了（ハーブ菜園ピラー / 個別ハーブ10種・季節テーマ・栽培知識に続く「収穫の時間帯」という未出の角度 / 精油が最も豊富になるのは開花直前、1日では朝霧が乾いたあと〜日差しが強くなる前（朝6〜10時頃）/ 精油は葉表面のグランデュラー・トリコームに貯蔵され夜間に蓄積 / 科学的根拠: 貯蔵モノテルペンの揮発は気温に対して指数関数的に増加（PMC10489858, PMC3957141）→気温が上がるほど精油は大気中へ放出される / 白魔女アングル「植物は毎朝香りを世界に贈っている、与えられる前に静かに受け取る朝の儀式」）。
 2026-06-19: POST-62「ミイラの名前は、この樹からきた。— ミルラと、死を癒しに変える智慧」生成・GitHub push完了（アロマピラー / ミルラ（没薬 / Commiphora myrrha）/ ソマリア・エチオピア・イエメンの乾燥地に育つ樹、フランキンセンスと同じ「傷つけられて樹脂を流す」生態だが赤褐色の樹脂 / 日本語「ミイラ」はミルラ（防腐剤）由来とされる語源説 / 古代エジプトのミイラ防腐処理・太陽神ラーへの薫香 / 新約聖書: 東方三博士の贈り物（黄金・乳香・没薬）の中で唯一「死すべき運命」を象徴・ヨハネ19:39でニコデモが同じ没薬をイエスの遺体に使用→誕生と死の両端に同じ香りが立ち会う構造 / フラノセスキテルペン類（フラノユーデスマ-1,3-ジエン・クルゼレン・リンデステレン）がGABA-A経路で鎮痛・鎮静（MyrLiq研究 PMC5463107）/ 抗菌力が既存抗生物質に匹敵するとする研究報告 / POST-59フランキンセンス「傷ついて生まれる尊さ」と対になる「死の側に立つことで最も深く生を癒す」白魔女アングル）。
@@ -96,7 +97,7 @@ Navigation: [[index]] | [[log]]
 - **Wiki synthesis**: 3（Jamaican Diaspora as UK Origin, Mixer as Instrument, Bass as Physical Force）
 - **Wiki research**: 3（Dub Music History, Japanese Dub Scene, Dub Techno and Grime）
 - **EP outputs**: EP-01〜EP-38 GitHub同期済み（自動生成継続中）
-- **Aroma Insta**: POST-01〜POST-38 自動生成継続中
+- **Aroma Insta**: POST-01〜POST-64 自動生成継続中
 - **Auto EP**: 毎朝8時 JST に自動生成（DeepStone Daily EP ルーティン）
 - **Daily Brief**: 毎朝7時 JST に journal/YYYY-MM-DD.md 自動生成（交換日記形式）
 

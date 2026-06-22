@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-22] auto-post | POST-64 — 隠れた情熱数（ヒドゥンパッションナンバー）— 名前の中で一番うるさい数字
+- Files: `aroma-insta/output/POST-64/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-64-2026-06-22-hidden-passion-number.md`
+- Topic: 数秘ピラー / 既出のコアナンバー群と重複しない「フルネームの頻度」に注目した未着手概念 / 隠れた情熱数（Hidden Passion Number）= フルネームをピタゴラス対応表で数字化し最も頻出する数字を特定（表現数の「合計」・ソウルナンバーの「母音のみ合計」とは異なるアルゴリズム）/ 日本語圏に解説記事がほぼ存在せずSEOブルーオーシャン / Rinka（FUKAISHI RINKA）の計算例: 9が4回（I×3, R×1）で最多 → 隠れた情熱数9（慈悲・普遍の愛・自己超越）/ Rinkaの根本ビジョン「自分自身と出会った人の波動を上げて、世界を旅すること」と直接共鳴する角度で最終スライドに使用。
+
 ## [2026-06-21] auto-ep | EP-63 — Drexciya — 海に消えた者たちが、海の下で国を作った
 - Files: `rave-team/output/EP-63/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-63 — 2026-06-21 — drexciya-underwater-mythology.md`
