@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-23] auto-post | POST-65 — ヘリクリサム（イモーテル）— 切り取られても、色を失わない花
+- Files: `aroma-insta/output/POST-65/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-65-2026-06-23-helichrysum-immortelle.md`
+- Topic: アロマピラー / ヘリクリサム（Helichrysum italicum、地中海・コルシカ島の乾いた岩場に自生）/ 名前の由来はギリシャ語Helios（太陽）+chrysos（黄金）/ フランス語別名「イモーテル」=切っても乾かしても色褪せない特性に由来 / 75kgの花から1kgしか採れない世界最高価格帯の精油 / コルシカ産特有のジケトン類「イタリドン」が組織再生に寄与 / 「液体の絆創膏」と称される瘢痕ケア・肌再生作用 / トラウマ・閉ざした感情の解放サポート / 1815年マルセイユBarthelemy Dagnanの逸話を起点に19世紀ヨーロッパの墓地装飾文化「イモーテル」と結びつき「想いは消えない」象徴に / POST-59フランキンセンス・POST-62ミルラに続く「傷と光」三部作の完結編という角度を採用。
+
 ## [2026-06-22] auto-post | POST-64 — 隠れた情熱数（ヒドゥンパッションナンバー）— 名前の中で一番うるさい数字
 - Files: `aroma-insta/output/POST-64/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-64-2026-06-22-hidden-passion-number.md`
