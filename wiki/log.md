@@ -5,6 +5,11 @@
 - Wiki source: `wiki/sources/aroma/aroma-POST-65-2026-06-23-helichrysum-immortelle.md`
 - Topic: アロマピラー / ヘリクリサム（Helichrysum italicum、地中海・コルシカ島の乾いた岩場に自生）/ 名前の由来はギリシャ語Helios（太陽）+chrysos（黄金）/ フランス語別名「イモーテル」=切っても乾かしても色褪せない特性に由来 / 75kgの花から1kgしか採れない世界最高価格帯の精油 / コルシカ産特有のジケトン類「イタリドン」が組織再生に寄与 / 「液体の絆創膏」と称される瘢痕ケア・肌再生作用 / トラウマ・閉ざした感情の解放サポート / 1815年マルセイユBarthelemy Dagnanの逸話を起点に19世紀ヨーロッパの墓地装飾文化「イモーテル」と結びつき「想いは消えない」象徴に / POST-59フランキンセンス・POST-62ミルラに続く「傷と光」三部作の完結編という角度を採用。
 
+## [2026-06-23] auto-ep | EP-66 — FWD>> — 49Hzのために設計された部屋で、ダブステップはまだ名前を持たなかった
+- Files: `rave-team/output/EP-66/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-66 — 2026-06-23 — fwd-plastic-people.md`
+- Topic: レイブピラー / FWD>> / Plastic People（Shoreditch, Curtain Road）/ 創設者Ade Fakileはナイジェリア・イバダン出身、父がサウンドシステム運営→「active darkness（能動的な暗闇）」設計思想 / 英国初のFunktion-One導入クラブ、200本のマイクで部屋を測定し49Hz以下の歪みを発見・フォーム＆ベーストラップで対策 / FWD>>は2001年Soho Velvet Roomsで開始→2005年前後Plastic Peopleへ移転定着 / DJ Hatchaがクロイドン「Big Apple Records」のカウンターで出会った十代のSkream・Bengaのダブプレートを流した回路がダブステップ形成の重要な現場に / 同時期Mala・Coki・LoefahのDMZ（Brixton, 2004年設立・2005年3月〜定期開催）と並走する姉妹的シーン / 2010年警察介入の法的トラブル / 2015年1月2日Floating Points×Four Tetの6時間セットを最後に閉店 / EP-64 Jah Shaka（ジャマイカ系ディアスポラのサウンドシステム哲学）と対をなす、ナイジェリア系ディアスポラの音響工学的アプローチという新軸 / EP-28 Dubstep vs Brostep・EP-46 Burial・EP-56 Hyperdubとの接続。
+
 ## [2026-06-22] auto-post | POST-64 — 隠れた情熱数（ヒドゥンパッションナンバー）— 名前の中で一番うるさい数字
 - Files: `aroma-insta/output/POST-64/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-64-2026-06-22-hidden-passion-number.md`
