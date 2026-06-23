@@ -1,0 +1,42 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["FWD>>"],
+      "sub": "a room built for a frequency no one had named yet"
+    },
+    {
+      "type": "body",
+      "text": ["Curtain Road, Shoreditch.", "No sign on the door.", "Just a staircase, down."]
+    },
+    {
+      "type": "body",
+      "text": ["Ade Fakile built the room.", "His father had run sound systems", "back home, in Ibadan, Nigeria."]
+    },
+    {
+      "type": "body",
+      "text": ["He called his approach", "active darkness.", "No lights.", "Nothing to look at but the sound."]
+    },
+    {
+      "type": "body",
+      "text": ["Two hundred microphones,", "every wall mapped.", "Below 49Hz, the room itself", "was bending the bass.", "He fixed it — foam, bass traps,", "the UK's first Funktion-One rig."]
+    },
+    {
+      "type": "body",
+      "text": ["Thursday nights, a DJ named Hatcha", "cut dubplates from two teenagers", "who hung around a record shop in Croydon.", "Their names: Skream. Benga."]
+    },
+    {
+      "type": "body",
+      "text": ["They called the night FWD>>.", "No one had a word", "for the music yet."],
+      "sub": "Mala and Loefah played there too — before they built DMZ down the road in Brixton."
+    },
+    {
+      "type": "cta",
+      "text": ["January 2015.", "The room closed", "without much noise."],
+      "strobe": "Built for a frequency. Never needed a name.",
+      "cta": "Save this."
+    }
+  ]
+}
