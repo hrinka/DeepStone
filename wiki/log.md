@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-24] auto-post | POST-67 — バランスナンバー — 崩れたときだけ、姿を見せる数字
+- Files: `aroma-insta/output/POST-67/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-67-2026-06-24-balance-number.md`
+- Topic: 数秘ピラー / バランスナンバー（Balance Number）= 出生名のイニシャル（頭文字）のみをピタゴラス対応表で数字化し一桁に縮めるコアナンバー / 他の数秘数（ライフパス・表現数・パーソナルイヤー等）が常時働くのに対し、危機・不安・大きな決断など人生の土台が揺れる時期にのみ強く作用する「緊急時専用の感情の安定装置」という独自の位置づけ / マスターナンバー（11・22・33）を保持せず必ず一桁まで縮める点が他のコアナンバー計算と異なる / 日本語圏では訳語記事がほぼ存在せず、同じ「バランス」を使う日本独自概念「バランスボックス」と混同されやすい点に注意 / Rinka（FUKAISHI RINKA）の計算例: イニシャルF・R→6+9=15→6「癒す力」/ Rinkaの根本ビジョン「波動を上げて世界を旅する」と、バランスナンバー6の課題「人を助ける手を自分にも向ける」が直接共鳴する角度を採用 / POST-64隠れた情熱数（常時鳴る数字）の対として「崩れたときだけ起きる数字」という新軸。
+
 ## [2026-06-23] auto-post | POST-65 — ヘリクリサム（イモーテル）— 切り取られても、色を失わない花
 - Files: `aroma-insta/output/POST-65/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-65-2026-06-23-helichrysum-immortelle.md`
