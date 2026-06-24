@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-24] auto-ep | EP-68 — DMZ — 教会の地下で、低音は祈りになった
+- Files: `rave-team/output/EP-68/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-68 — 2026-06-24 — dmz-mass-brixton.md`
+- Topic: レイブピラー / DMZ / BrixtonのMass（元St Matthew's教会・1970年代初頭に脱聖化）で2005年3月5日開始 / 主催Mala・Coki（Digital Mystikz）・Loefah・MC Sgt Pokes / 標語「Come meditate on bass weight」はフライヤーの余白を埋めるために書かれた一文から誕生 / Loefahの極端なミニマリズム（half-step先駆け）・Cokiのウォブルベース・Malaの幅広い質感、3者の異なる音が並走 / 1周年に400人の部屋へ600人が行列・会場をメインルームへ移動——ダブステップ史の転換点 / FWD>>（EP-66）と並ぶ最も影響力のある2つの定期クラブナイト / 東欧・日本・東南アジア・南米まで広がり米国「Dub War」と連動 / 8周年（2013年）頃に不定期化・Malaの言葉「the dances ended themselves」/ 会場Massは2012年債務問題で閉鎖 / EP-64 Jah Shakaの「霊的実践の場」としてのサウンドシステム哲学を「meditate」という標語が直接継承する角度を採用。
+
 ## [2026-06-24] auto-post | POST-67 — バランスナンバー — 崩れたときだけ、姿を見せる数字
 - Files: `aroma-insta/output/POST-67/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-67-2026-06-24-balance-number.md`

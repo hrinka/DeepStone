@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-68 (2026-06-24): DMZ — 教会の地下で、低音は祈りになった。 — BrixtonのMass（元St Matthew's教会、1970年代初頭に脱聖化）で2005年3月5日開始 / 主催Mala・Coki（Digital Mystikz）・Loefah・MC Sgt Pokes / 隔月深夜開催・最初の夜は300人規模・スピーカー2台 / 標語「Come meditate on bass weight」はフライヤーの空白を埋めるためにMalaが書いた一文から誕生 / Loefahの極端なミニマリズム（暗く重いベースの「ボム」、Horror Show・28gなどでhalf-stepを先駆け）・Cokiの荒々しいウォブルベース+ダンスホール由来ボーカル・Malaのダーク&ハウス的シェイカーから哀愁あるボーカルアンセムまで、3者の異なる音が同じ夜に並走 / 1周年に400人規模の部屋へ600人の行列ができ会場をMassのメインルームへ移動——ダブステップ史の転換点 / FWD>>（EP-66, Shoreditch）と並ぶ「ダブステップ最も影響力のある2つの定期クラブナイト」 / 東欧・日本・東南アジア・南米まで広がる国際的現象、米国ニューヨークの「Dub War」と連動 / 8周年（2013年）頃に不定期化、ダブステップの主流化と共に自然消滅 / Malaの言葉「We didn't really end the dances, the dances ended themselves」/ 会場Massは2012年債務問題で閉鎖 / EP-64 Jah Shaka（サウンドシステムを霊的実践の場とした先行世代）の直接的継承として「meditate」という標語を読む。
+
 - EP-66 (2026-06-23): FWD>> — 49Hzのために設計された部屋で、ダブステップはまだ名前を持たなかった。 — Plastic People（Shoreditch, Curtain Road）/ 創設者Ade Fakile（ナイジェリア・イバダン出身、父がサウンドシステム運営）/ コンセプト「active darkness」/ 英国初のFunktion-One導入、200本のマイクで49Hz以下の歪みを測定・対策 / FWD>>は2001年Soho Velvet Roomsで開始→2005年前後Plastic Peopleへ定着 / DJ Hatchaがクロイドン「Big Apple Records」で出会った十代のSkream・Bengaのダブプレートを流した回路がダブステップ形成の重要な現場に / 同時期Mala・Coki・LoefahのDMZ（Brixton, 2004〜）と並走 / 2010年警察介入・2015年1月2日Floating Points×Four Tetの6時間セットで閉店。
 
 - EP-64 (2026-06-22): Jah Shaka — ダブステップに名前がつく前から、彼の教会はそこにあった。 — ジャマイカ・クラレンドン教区生まれ（c.1948〜2023年4月12日）、1956年ウィンドラッシュ世代として渡英・ロンドン南東部ブロックリーへ / 12歳でFreddie Cloudburst Sound Systemのオペレーターとして開始→自身のサウンドシステム設立、ラスタファライの「Jah」+ズールー王Shaka Zuluから命名 / 1970年代後半、霊的内容・高エネルギー・巨大音圧・カリスマ性でロンドンのサウンドシステム文化の中心人物に / 1980年「Jah Shaka Music」レーベル設立（第1弾African Princess「Jah Children Cry」）/ 1982年「The Commandments of Dub」シリーズ開始・50以上のリリース（Max Romeo・Horace Andy・Aswad・Twinkle Brothersら）/ メディア露出は極端に少なく本名も諸説未確定 / サウンドシステムを娯楽でなく霊的実践の場として運営・徹夜のダンス文化 / Mala（Digital Mystikz）証言「Before DMZ, I'd only ever really seen that happen at Jah Shaka dances」→DMZ・ダブステップの直接的な精神的起源 / Jumpin Jack Frost「the greatest soundman that ever lived」/ The Bug「A heroic figure who kept Dub alive, when few cared」/ 2023年4月12日死去。
@@ -79,6 +81,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 68 | DMZ — 教会の地下で、低音は祈りになった | ✅ Complete | 2026-06-24 | — |
 | 64 | Jah Shaka — ダブステップに名前がつく前から、彼の教会はそこにあった | ✅ Complete | 2026-06-22 | — |
 | 63 | Drexciya — 海に消えた者たちが、海の下で国を作った | ✅ Complete | 2026-06-21 | — |
 | 61 | Andrew Weatherall — 橋を架けた男、ロックとアシッドハウスをつないだDJ | ✅ Complete | 2026-06-18 | — |
