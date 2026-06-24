@@ -1,0 +1,42 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["DMZ"],
+      "sub": "come meditate on bass weight"
+    },
+    {
+      "type": "body",
+      "text": ["Brixton.", "A church, deconsecrated.", "Inside, a room called Mass."]
+    },
+    {
+      "type": "body",
+      "text": ["March 5th, 2005.", "Three hundred people.", "Two speakers.", "No name for the sound yet."]
+    },
+    {
+      "type": "body",
+      "text": ["The flyer looked bare.", "Mala filled the space with a line:", "come meditate on bass weight."]
+    },
+    {
+      "type": "body",
+      "text": ["Mala. Coki. Loefah.", "Three sounds, one night."]
+    },
+    {
+      "type": "body",
+      "text": ["Loefah kept cutting things away.", "He built basslines", "out of the space he left empty."]
+    },
+    {
+      "type": "body",
+      "text": ["One year in.", "The room held four hundred.", "Six hundred came."],
+      "sub": "DMZ and FWD>> — the two nights that built dubstep."
+    },
+    {
+      "type": "cta",
+      "text": ["We didn't end the dances.", "The dances ended themselves."],
+      "strobe": "The church is gone. The bass weight stayed.",
+      "cta": "Save this."
+    }
+  ]
+}
