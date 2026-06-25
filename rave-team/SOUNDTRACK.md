@@ -43,5 +43,6 @@
 | EP-57 | The KLF | The KLF — 3 A.M. Eternal (1991) |
 | EP-02 | Sound System | King Tubby — Dub From the Roots |
 | EP-01 | What is a Rave | Joey Beltram — Energy Flash (1990) |
+| EP-70 | Dubstep Warz | Kode9 & The Spaceape — Sine of the Dub (2006) |
 
 ※ EP-54以降など script_ja の無い回は、テーマから象徴曲を補完。聴き比べて差し替え可。

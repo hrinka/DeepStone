@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["DUBSTEP WARZ"],
+      "sub": "The night the radio became the basement."
+    },
+    {
+      "type": "body",
+      "text": ["2005.", "South London.", "The sound had no name", "outside a few hundred people."],
+      "sub": "Before the broadcast, before the name — just a few hundred people who knew."
+    },
+    {
+      "type": "body",
+      "text": ["Mary Anne Hobbs.", "A journalist who became", "a Radio 1 host.", "She ran the one hour", "nobody controlled —", "The Breezeblock."],
+      "sub": "Sounds, NME, Loaded — then fourteen years hosting BBC Radio 1's most fearless hour."
+    },
+    {
+      "type": "body",
+      "text": ["She heard it in 2005", "and called it a conversion.", "She felt a flashpoint coming."],
+      "sub": "A Damascene conversion, in her own words."
+    },
+    {
+      "type": "body",
+      "text": ["January 9th, 2006.", "Midnight.", "Mala. Skream.", "Kode9 & The Spaceape.", "Vex'd. Hatcha & Crazy D.", "Loefah & Sgt Pokes. Distance."],
+      "sub": "Burial and Benga's tracks played too — though neither stood at the mic that night."
+    },
+    {
+      "type": "quote",
+      "quote": ["If you can deliver one show", "with the impact of this", "in a lifetime —", "it's a miracle."],
+      "note": "— Mary Anne Hobbs"
+    },
+    {
+      "type": "body",
+      "text": ["By morning,", "a sound with no name", "had a name", "the whole world could search."],
+      "sub": "Dubstep, searchable from that night on."
+    },
+    {
+      "type": "cta",
+      "text": ["One broadcast.", "One frequency.", "The basement never closed —", "it just got louder."],
+      "strobe": "Years later, Burial sent her a text before she signed off air.",
+      "cta": "Save this."
+    }
+  ]
+}
