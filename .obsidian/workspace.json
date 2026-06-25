@@ -11,14 +11,12 @@
             "id": "f04656cf52464558",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "journal/2026-06-25.md",
-                "mode": "source",
-                "source": false
+                "file": "rave-team/output/EP-09/slides/slide_02.png"
               },
-              "icon": "lucide-file",
-              "title": "2026-06-25"
+              "icon": "lucide-image",
+              "title": "slide_02"
             }
           }
         ]
@@ -183,20 +181,21 @@
   },
   "active": "f04656cf52464558",
   "lastOpenFiles": [
-    "journal/2026-06/2026-06-24.md",
+    "rave-team/output/EP-09/slides/slide_01.png",
+    "rave-team/output/EP-08/slides/slide_08.png",
+    "rave-team/output/EP-08/slides/slide_07.png",
+    "rave-team/output/EP-08/slides/slide_06.png",
+    "rave-team/output/EP-08/slides/slide_05.png",
+    "rave-team/output/EP-08/slides/slide_04.png",
+    "rave-team/output/EP-08/slides/slide_03.png",
+    "rave-team/output/EP-08/slides/slide_02.png",
+    "rave-team/output/EP-08/slides/slide_01.png",
     "journal/2026-06-25.md",
+    "journal/2026-06/2026-06-24.md",
     "journal/2026-06-22.md",
     "rave-team/output/EP-68/slides/slide_08.png",
     "rave-team/output/EP-68/slides/slide_07.png",
-    "rave-team/output/EP-68/slides/slide_06.png",
-    "rave-team/output/EP-68/slides/slide_05.png",
-    "rave-team/output/EP-68/slides/slide_04.png",
-    "rave-team/output/EP-68/slides/slide_03.png",
-    "rave-team/output/EP-68/slides/slide_02.png",
-    "rave-team/output/EP-68/slides/slide_01.png",
     "rave-team/output/EP-68/slides",
-    "flava-fm/output/POST-09/slides/slide_08.png",
-    "flava-fm/output/POST-09/slides/slide_07.png",
     "flava-fm/output/POST-09/slides",
     "flava-fm/output/POST-12/slides",
     "flava-fm/output/POST-11/slides",
@@ -228,7 +227,6 @@
     "flava-fm/output/POST-05/caption.md",
     "aroma-insta/output/POST-65/research.md",
     "aroma-insta/output/POST-65/carousel.md",
-    "journal/2026-06/2026-06-23.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
