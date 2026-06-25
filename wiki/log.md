@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-25] auto-ep | EP-70 — Dubstep Warz — その夜、BBCの電波が地下室になった
+- Files: `rave-team/output/EP-70/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-70 — 2026-06-25 — dubstep-warz-mary-anne-hobbs.md`
+- Topic: レイブピラー / Dubstep Warz / BBC Radio 1のDJ Mary Anne Hobbs（元Sounds誌・NME誌ジャーナリスト、1991年Nirvana表紙記事執筆、実験番組「The Breezeblock」を14年担当）が2006年1月9〜10日深夜に放送した特番 / 2005年、南ロンドンの地下ダブステップシーン（FWD>>・DMZ）に「ダマスカス的回心」を経験 / 出演Mala・Skream・Kode9 & The Spaceape・Vex'd・Hatcha & Crazy D・Loefah & Sgt Pokes・Distance（Burial・Bengaの曲もプレイ）/ それまで国家規模では無名だったサウンドが一晩でBBC Radio 1という最大級のプラットフォームに乗った「グローバルな転換点」/ Hobbsの言葉「If, as a broadcaster, you can deliver one show with the cultural & historical impact of this one in a lifetime... it's a miracle」/ 放送10周年・15周年にBBC 6 Musicで記念特番が継続 / Hobbsの最後のRadio 1放送ではKode9とBurialが送別ミックスを担当 / EP-66 FWD>>・EP-68 DMZ（地下室）の直接的な「次の章」として地下シーンが国の電波に乗った瞬間を描く角度を採用。
+
 ## [2026-06-25] auto-post | POST-69 — メリッサ — 新しい巣に、香りで呼びかける
 - Files: `aroma-insta/output/POST-69/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-69-2026-06-25-melissa-growing-beekeeping.md`
