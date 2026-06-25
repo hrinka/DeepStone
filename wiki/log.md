@@ -1,5 +1,15 @@
 # Wiki Log
 
+## [2026-06-25] auto-ep | EP-70 — Dubstep Warz — その夜、BBCの電波が地下室になった
+- Files: `rave-team/output/EP-70/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-70 — 2026-06-25 — dubstep-warz-mary-anne-hobbs.md`
+- Topic: レイブピラー / Dubstep Warz / BBC Radio 1のDJ Mary Anne Hobbs（元Sounds誌・NME誌ジャーナリスト、1991年Nirvana表紙記事執筆、実験番組「The Breezeblock」を14年担当）が2006年1月9〜10日深夜に放送した特番 / 2005年、南ロンドンの地下ダブステップシーン（FWD>>・DMZ）に「ダマスカス的回心」を経験 / 出演Mala・Skream・Kode9 & The Spaceape・Vex'd・Hatcha & Crazy D・Loefah & Sgt Pokes・Distance（Burial・Bengaの曲もプレイ）/ それまで国家規模では無名だったサウンドが一晩でBBC Radio 1という最大級のプラットフォームに乗った「グローバルな転換点」/ Hobbsの言葉「If, as a broadcaster, you can deliver one show with the cultural & historical impact of this one in a lifetime... it's a miracle」/ 放送10周年・15周年にBBC 6 Musicで記念特番が継続 / Hobbsの最後のRadio 1放送ではKode9とBurialが送別ミックスを担当 / EP-66 FWD>>・EP-68 DMZ（地下室）の直接的な「次の章」として地下シーンが国の電波に乗った瞬間を描く角度を採用。
+
+## [2026-06-25] auto-post | POST-69 — メリッサ — 新しい巣に、香りで呼びかける
+- Files: `aroma-insta/output/POST-69/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-69-2026-06-25-melissa-growing-beekeeping.md`
+- Topic: ハーブ菜園ピラー / 菜園10種のうちメリッサ（レモンバーム）だけ「育成知識」視点の単独回が未出だった隙間を埋める / 属名Melissaはギリシャ語「蜂」由来 / 耐陰性があり半日陰でも生育・開花 / こぼれ種・地下茎で増える・増やし方は種まき・挿し木・株分けの3種で株分けが最も根付きやすい / 摘芯・切り戻しで脇芽が増え収穫量UP / 古代の養蜂家は新しい巣箱の内側に生の葉を擦り込み蜂を呼び込み定着させた（プリニウス・ウェルギリウス記録）/ 強い誘蜂性で果樹・野菜のコンパニオンプランツとしても優秀（受粉促進）/ 9世紀カール大帝が修道院の庭への栽植を勅令 / POST-53（アロマピラー、蜂のフェロモン模倣・喜びの周波数）とは異なる栽培知識×養蜂史の角度を採用 / 「新しい場所へ向かうとき、香りが先に居場所を作っておいてくれる」白魔女アングルをRinkaのUK渡航準備テーマと共鳴させた。
+
 ## [2026-06-24] auto-ep | EP-68 — DMZ — 教会の地下で、低音は祈りになった
 - Files: `rave-team/output/EP-68/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-68 — 2026-06-24 — dmz-mass-brixton.md`
