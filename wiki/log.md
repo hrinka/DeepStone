@@ -5,6 +5,11 @@
 - Wiki source: `wiki/sources/aroma/aroma-POST-71-2026-06-26-vetiver.md`
 - Topic: アロマピラー / ベチバー（Vetiver / Chrysopogon zizanioides）/ タミール語「掘り起こした根（vettiveru）」が語源 / リグ・ヴェーダ時代から続く5000年の歴史、インド・スリランカで「静寂の精油（Oil of Tranquility）」と呼ばれる / 根を織ったすだれ「カース・タティ」に水を含ませる古代の天然冷却法 / 垂直に深く伸びる密な根系が100カ国以上で土砂崩れ防止に使われる「Vetiver System」 / ハイチでは斜面に等高線状に植え3列のうち1列を輪番収穫——精油採取と土壌保全が同じ栽培行為として両立 / 主成分クシモール（ベチベロール）はサンダルウッド・シダーウッドと同じグラウンディング系 / 2001年Terry Friedmann研究：ADHD児童20名への吸入で脳波バランス・集中力改善の報告 / POST-44白檀「他の木に根を絡ませて生きる（繋がる根）」との対として「自分でまっすぐ深く根を張る（単独の根）」という角度を採用 / Rinkaの渡英準備期との「動く前に根を張る」共鳴を白魔女アングルに。
 
+## [2026-06-26] auto-ep | EP-71 — Adrian Sherwood — ダブを楽器にした男、ブリストルの種を運んだ17歳
+- Files: `rave-team/output/EP-71/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-71 — 2026-06-26 — adrian-sherwood-on-u-sound.md`
+- Topic: レイブピラー / Adrian Sherwood（1958年1月20日生・イングランド出身）/ 11歳、地元ウェスト・インディアン系クラブの外でPrince Busterのスカに踊る / 17〜18歳、ブリストルのRevolver Recordsで14〜15歳のMark Stewart（後のThe Pop Group）と出会う——「the van from Zion」を待つ少年 / 1979〜1980年On-U Sound（+On-U Sound System）設立 / Mark Stewart・The Slits周辺とNew Age Stepperでダブをニューウェイヴ/インダストリアルへ接続 / 1984年NYのNew Music Seminarで「The Message」「White Lines」を手がけたSugarhillハウス・リズムセクション（Doug Wimbish・Skip McDonald・Keith LeBlanc）と出会いロンドンでTackhead結成 / African Head Charge・Dub Syndicate・Singers & Players等On-Uプロジェクト / 後年Nine Inch Nails「Down In It」「Starfuckers, Inc.」・Ministry「All Day」・Sinéad O'Connorをリミックス/プロデュース / 本人の言葉「Not being a musician you feel a little bit of an imposter, but I've got a passion for it」/ ミキシングデスクを楽器として弾く制作哲学 / King Tubby（EP-54）・Lee Scratch Perry（EP-55）の系譜を継ぎつつジャマイカ/ロンドンの外（ポストパンク・インダストリアル）へダブを輸出した角度を採用 / Mark Stewartとの出会いをBristol Sound（EP-48）の直接的前史として接続。
+
 ## [2026-06-25] auto-ep | EP-70 — Dubstep Warz — その夜、BBCの電波が地下室になった
 - Files: `rave-team/output/EP-70/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-70 — 2026-06-25 — dubstep-warz-mary-anne-hobbs.md`

@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-71 (2026-06-26): Adrian Sherwood — ダブを楽器にした男、ブリストルの種を運んだ17歳。 — 1958年1月20日生・イングランド出身、現ケント在住 / 11歳、地元ウェスト・インディアン系クラブの外でPrince Busterのスカに合わせて舗道で踊っていたのがジャマイカ音楽との出会い / 17〜18歳の頃、ブリストルの中古レコード店「Revolver Records」で14〜15歳のMark Stewart（後のThe Pop Group）と出会う——Stewartは輸入盤の到着を「the van from Zion」と呼んで待っていた / 1979〜1980年、自身のレーベル On-U Sound（+ツアー体制 On-U Sound System）設立 / Mark Stewart・The Slits周辺とNew Age Stepperでダブをニューウェイヴ/インダストリアルへ接続 / 1984年ニューヨークのNew Music Seminarで、Grandmaster Flash「The Message」「White Lines」を手がけたSugarhill Recordsのハウス・リズムセクション（Doug Wimbish・Skip McDonald・Keith LeBlanc）と出会い、ロンドンでTackhead結成 / African Head Charge・Dub Syndicate・Singers & Players等On-U主要プロジェクト / 後年Nine Inch Nails「Down In It」「Starfuckers, Inc.」・Ministry「All Day」・Sinéad O'Connorらをリミックス/プロデュース / 本人の言葉「Not being a musician you feel a little bit of an imposter, but I've got a passion for it」/ ミキシングデスクを楽器として弾く制作哲学 / King Tubby（EP-54）・Lee Scratch Perry（EP-55）の系譜を継ぎつつ、ジャマイカ/ロンドンの外（ポストパンク・インダストリアル）へダブを輸出した角度を採用 / Mark Stewartとの出会いはBristol Sound（EP-48: Wild Bunch→Massive Attack→Portishead）の直接的な前史として接続。
+
 - EP-70 (2026-06-25): Dubstep Warz — その夜、BBCの電波が地下室になった。 — BBC Radio 1のDJ Mary Anne Hobbs（元Sounds誌・NME誌ジャーナリスト、1991年Nirvana表紙記事を執筆、実験番組「The Breezeblock」を14年担当）が2006年1月9〜10日深夜に放送した特番「Dubstep Warz」/ 2005年、南ロンドンの地下ダブステップシーン（FWD>>・DMZ）に「ダマスカス的回心」を経験 / 出演: Mala・Skream・Kode9 & The Spaceape・Vex'd・Hatcha & Crazy D・Loefah & Sgt Pokes・Distance（Burial・Bengaの曲もプレイ）/ それまで国家規模では無名だったサウンドが一晩でBBC Radio 1という最大級のプラットフォームに乗った「グローバルな転換点」/ Hobbs自身の言葉「If, as a broadcaster, you can deliver one show with the cultural & historical impact of this one in a lifetime... it's a miracle」/ 放送10周年・15周年にBBC 6 Musicで記念特番が継続放送 / Hobbsの最後のRadio 1放送ではKode9とBurialが送別ミックスを担当 / EP-66 FWD>>・EP-68 DMZ（地下室）の直接的な「次の章」として、地下シーンが国の電波に乗った瞬間を描く角度を採用。
 
 - EP-68 (2026-06-24): DMZ — 教会の地下で、低音は祈りになった。 — BrixtonのMass（元St Matthew's教会、1970年代初頭に脱聖化）で2005年3月5日開始 / 主催Mala・Coki（Digital Mystikz）・Loefah・MC Sgt Pokes / 隔月深夜開催・最初の夜は300人規模・スピーカー2台 / 標語「Come meditate on bass weight」はフライヤーの空白を埋めるためにMalaが書いた一文から誕生 / Loefahの極端なミニマリズム（暗く重いベースの「ボム」、Horror Show・28gなどでhalf-stepを先駆け）・Cokiの荒々しいウォブルベース+ダンスホール由来ボーカル・Malaのダーク&ハウス的シェイカーから哀愁あるボーカルアンセムまで、3者の異なる音が同じ夜に並走 / 1周年に400人規模の部屋へ600人の行列ができ会場をMassのメインルームへ移動——ダブステップ史の転換点 / FWD>>（EP-66, Shoreditch）と並ぶ「ダブステップ最も影響力のある2つの定期クラブナイト」 / 東欧・日本・東南アジア・南米まで広がる国際的現象、米国ニューヨークの「Dub War」と連動 / 8周年（2013年）頃に不定期化、ダブステップの主流化と共に自然消滅 / Malaの言葉「We didn't really end the dances, the dances ended themselves」/ 会場Massは2012年債務問題で閉鎖 / EP-64 Jah Shaka（サウンドシステムを霊的実践の場とした先行世代）の直接的継承として「meditate」という標語を読む。
@@ -83,6 +85,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 71 | Adrian Sherwood — ダブを楽器にした男、ブリストルの種を運んだ17歳 | ✅ Complete | 2026-06-26 | — |
 | 68 | DMZ — 教会の地下で、低音は祈りになった | ✅ Complete | 2026-06-24 | — |
 | 64 | Jah Shaka — ダブステップに名前がつく前から、彼の教会はそこにあった | ✅ Complete | 2026-06-22 | — |
 | 63 | Drexciya — 海に消えた者たちが、海の下で国を作った | ✅ Complete | 2026-06-21 | — |
