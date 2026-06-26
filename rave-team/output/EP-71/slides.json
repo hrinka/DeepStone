@@ -1,0 +1,46 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["ADRIAN", "SHERWOOD"],
+      "sub": "He never played an instrument. The desk was his."
+    },
+    {
+      "type": "body",
+      "text": ["Slough, England.", "Age 11.", "He stood outside", "a West Indian club,", "dancing on the pavement", "to Prince Buster", "leaking through the wall."],
+      "sub": "Before the desk, there was only the wall."
+    },
+    {
+      "type": "body",
+      "text": ["Bristol. Revolver Records.", "Age 17.", "A 14-year-old schoolboy", "was waiting there too —", "for what he called", "'the van from Zion.'", "His name was Mark Stewart."],
+      "sub": "Two boys. One record shop."
+    },
+    {
+      "type": "body",
+      "text": ["1980.", "He founded On-U Sound.", "No separation between", "dub and noise.", "Same desk. Same hands."],
+      "sub": "The label that refused to choose a genre."
+    },
+    {
+      "type": "body",
+      "text": ["That schoolboy grew into", "The Pop Group.", "Dub bass collided with", "industrial guitar noise.", "A decade later,", "Bristol called it", "trip-hop."],
+      "sub": "The seed of a whole city's sound."
+    },
+    {
+      "type": "body",
+      "text": ["New York, 1984.", "The house rhythm section behind", "'The Message' and 'White Lines'", "met him at a music seminar.", "They moved to London.", "Tackhead was born."],
+      "sub": "A transatlantic accident."
+    },
+    {
+      "type": "body",
+      "text": ["Decades on,", "the desk followed him", "into Nine Inch Nails,", "Ministry, Sinéad O'Connor.", "Same hands.", "Different noise."],
+      "sub": "The desk never stopped moving."
+    },
+    {
+      "type": "quote",
+      "quote": ["Not being a musician,", "you feel a little bit", "of an imposter.", "But I've got a passion for it."],
+      "note": "— Adrian Sherwood. Save this."
+    }
+  ]
+}
