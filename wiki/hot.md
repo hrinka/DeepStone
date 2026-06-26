@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-25
+updated: 2026-06-26
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,7 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-06-26: POST-71「流されないための根を持つ草がある。— ベチバーと、大地に根を張る力」生成・GitHub push完了（アロマピラー / ベチバー（Vetiver / Chrysopogon zizanioides）/ タミール語「掘り起こした根（vettiveru）」が語源 / リグ・ヴェーダ時代から続く5000年の歴史、インド・スリランカで「静寂の精油（Oil of Tranquility）」と呼ばれる / 根を織ったすだれ「カース・タティ」に水を含ませる古代の天然冷却法 / 垂直に深く伸びる密な根系が100カ国以上で土砂崩れ防止に使われる「Vetiver System」 / ハイチでは斜面に等高線状に植え3列のうち1列を輪番収穫——精油採取と土壌保全が同じ栽培行為として両立 / 主成分クシモール（ベチベロール）はサンダルウッド・シダーウッドと同じグラウンディング系 / 2001年Terry Friedmann研究：ADHD児童20名への吸入で脳波バランス・集中力改善の報告 / POST-44白檀「他の木に根を絡ませて生きる（繋がる根）」との対として「自分でまっすぐ深く根を張る（単独の根）」という角度を採用 / Rinkaの渡英準備期との「動く前に根を張る」共鳴を白魔女アングルに採用）。
 2026-06-25: EP-70「Dubstep Warz — その夜、BBCの電波が地下室になった」生成・GitHub push完了（レイブピラー / BBC Radio 1のDJ Mary Anne Hobbs（元Sounds誌・NME誌ジャーナリスト、1991年Nirvana表紙記事執筆、Loaded誌創刊にも関与、実験番組「The Breezeblock」を14年担当）が2006年1月9〜10日深夜に放送した特番「Dubstep Warz」/ 2005年、南ロンドンの地下ダブステップシーン（FWD>>・DMZ）に「ダマスカス的回心（Damascene conversion）」を経験 / 出演Mala・Skream・Kode9 & The Spaceape・Vex'd・Hatcha & Crazy D・Loefah & Sgt Pokes・Distance（Burial・Bengaの曲もプレイ）/ それまで国家規模では誰も知らなかったサウンドが一晩でBBC Radio 1という最大級のプラットフォームに乗った「グローバルな転換点」/ Hobbsの言葉「If, as a broadcaster, you can deliver one show with the cultural & historical impact of this one in a lifetime... it's a miracle」/ ダブステップを「the music that changed my life」と表現 / 放送10周年（2016）・15周年（2021）にBBC 6 Musicで記念特番が継続放送 / 2010年に14年在籍したRadio 1を退局しXFM/6 Musicへ / Hobbsの最後のRadio 1放送ではKode9とBurialが送別ミックスを担当——後年6Music番組でBurial本人から直接テキストメッセージが届いたこともある / EP-66 FWD>>・EP-68 DMZ（地下室の2つの定期パーティ）の直接的な「次の章」として、地下シーンが初めて国の電波に乗った瞬間を描く角度を採用）。
 2026-06-25: POST-69「新しい巣に、香りで呼びかける。— メリッサと、迎え入れる菜園の知恵」生成・GitHub push完了（ハーブ菜園ピラー / 菜園10種のうちメリッサ（レモンバーム）だけ「育成知識」視点の単独回が未出だった隙間を埋める / 属名Melissaはギリシャ語「蜂」由来 / 耐陰性があり半日陰でも生育・開花 / こぼれ種・地下茎で増える・増やし方は種まき・挿し木・株分けの3種で株分けが最も根付きやすい / 摘芯・切り戻しで脇芽が増え収穫量UP / 古代の養蜂家は新しい巣箱の内側に生の葉を擦り込み蜂を呼び込み定着させた（プリニウス・ウェルギリウス記録）/ 強い誘蜂性で果樹・野菜のコンパニオンプランツとしても優秀（受粉促進）/ 9世紀カール大帝が修道院の庭への栽植を勅令 / POST-53（アロマピラー、蜂のフェロモン模倣・喜びの周波数）とは異なる栽培知識×養蜂史の角度を採用 / 「新しい場所へ向かうとき、香りが先に居場所を作っておいてくれる」白魔女アングルをRinkaのUK渡航準備テーマと共鳴させた）。
 2026-06-24: EP-68「DMZ — 教会の地下で、低音は祈りになった」生成・GitHub push完了（レイブピラー / DMZ / BrixtonのMass（元St Matthew's教会・1970年代初頭に脱聖化された建物）で2005年3月5日開始 / 主催Mala・Coki（Digital Mystikz）・Loefah・MC Sgt Pokes・隔月深夜開催 / 標語「Come meditate on bass weight」はフライヤーの余白を埋めるためにMalaが書いた一文から誕生 / Loefahの極端なミニマリズム（Horror Show・28gでhalf-stepを先駆け）・Cokiのウォブルベース+ダンスホール由来ボーカル・Malaのダーク&ハウス的シェイカーから哀愁あるボーカルアンセムまで、3者の異なる音が同じ夜に並走 / 1周年に400人規模の部屋へ600人の行列ができ会場をメインルームへ移動——ダブステップ史の転換点 / FWD>>（EP-66, Shoreditch）と並ぶ「ダブステップ最も影響力のある2つの定期クラブナイト」 / 東欧・日本・東南アジア・南米まで広がる国際的現象、米国「Dub War」と連動 / 8周年（2013年）頃に不定期化・ダブステップ主流化と共に自然消滅 / Malaの言葉「We didn't really end the dances, the dances ended themselves」/ 会場Massは2012年債務問題で閉鎖 / EP-64 Jah Shaka（サウンドシステムを霊的実践の場とした先行世代）の「meditate」標語への直接継承という角度を採用）。

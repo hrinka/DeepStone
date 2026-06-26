@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-26] auto-post | POST-71 — ベチバー — 流されないための根を持つ草がある
+- Files: `aroma-insta/output/POST-71/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-71-2026-06-26-vetiver.md`
+- Topic: アロマピラー / ベチバー（Vetiver / Chrysopogon zizanioides）/ タミール語「掘り起こした根（vettiveru）」が語源 / リグ・ヴェーダ時代から続く5000年の歴史、インド・スリランカで「静寂の精油（Oil of Tranquility）」と呼ばれる / 根を織ったすだれ「カース・タティ」に水を含ませる古代の天然冷却法 / 垂直に深く伸びる密な根系が100カ国以上で土砂崩れ防止に使われる「Vetiver System」 / ハイチでは斜面に等高線状に植え3列のうち1列を輪番収穫——精油採取と土壌保全が同じ栽培行為として両立 / 主成分クシモール（ベチベロール）はサンダルウッド・シダーウッドと同じグラウンディング系 / 2001年Terry Friedmann研究：ADHD児童20名への吸入で脳波バランス・集中力改善の報告 / POST-44白檀「他の木に根を絡ませて生きる（繋がる根）」との対として「自分でまっすぐ深く根を張る（単独の根）」という角度を採用 / Rinkaの渡英準備期との「動く前に根を張る」共鳴を白魔女アングルに。
+
 ## [2026-06-25] auto-ep | EP-70 — Dubstep Warz — その夜、BBCの電波が地下室になった
 - Files: `rave-team/output/EP-70/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-70 — 2026-06-25 — dubstep-warz-mary-anne-hobbs.md`
