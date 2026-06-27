@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["UNDERWORLD"],
+      "sub": "A cry for help. The world sang it as a toast."
+    },
+    {
+      "type": "body",
+      "text": ["Cardiff. Late seventies.", "Two boys form a band.", "CBS shelves their second album.", "It ends."],
+      "sub": "Freur. 1983 to 1986. One song nobody remembers."
+    },
+    {
+      "type": "body",
+      "text": ["They try again.", "Eighties synth-pop.", "Two albums.", "Nobody remembers them."],
+      "sub": "Underworld, Mark I. Gone by 1990."
+    },
+    {
+      "type": "body",
+      "text": ["1992. Romford.", "They find a teenage DJ.", "They start over, again."],
+      "sub": "Darren Emerson joins. The sound changes to techno."
+    },
+    {
+      "type": "body",
+      "text": ["1995. Soho.", "Karl Hyde drinks alone", "in a pub on Wardour Street.", "He writes down everything he sees."],
+      "sub": "The B-side gets written in one night."
+    },
+    {
+      "type": "quote",
+      "quote": ["He called it a cry for help.", "Crowds raised their lager cans instead."],
+      "note": "He never wanted that."
+    },
+    {
+      "type": "body",
+      "text": ["A director finds the b-side", "in a record shop.", "He says, that's the ending.", "The band says no. Then, yes."],
+      "sub": "Trainspotting, 1996. The scene the song was never written for."
+    },
+    {
+      "type": "cta",
+      "text": ["Nobody asked what the song meant.", "Everyone sang it anyway."],
+      "strobe": "Lager, lager, lager.",
+      "cta": "Save this."
+    }
+  ]
+}
