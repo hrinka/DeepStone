@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-26
+updated: 2026-06-27
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,7 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-06-27: POST-72「半年分を、刈り落とす。— 夏越の祓と、ハーブ庭の剪定の儀式」生成・GitHub push完了（ハーブ菜園ピラー / 6月30日「夏越の祓」（立春から半年分の罪穢れを祓う神道行事）/ 茅の輪はチガヤ（イネ科の野草）で編まれ蘇民将来伝説（備後国風土記）が由来 / 京都の和菓子「水無月」（三角＝氷を象る・小豆＝邪気払い）/ 地中海原産ハーブ（ローズマリー・ラベンダー・タイム・セージ）は夏に涼しく乾燥する原産地気候に適応しており日本の梅雨〜盛夏の高温多湿が苦手 / 枝葉密集による「蒸れ」が立ち枯れ・カビの直接原因、ローズマリーは花後5〜6月上旬・梅雨入り前剪定がベスト / POST-45ラベンダー・POST-48ユーカリ脱皮の「手放し」メタファーとは異なり「6月30日という暦の一点に神事と園芸が実際に一致する」構造を軸にした新角度 / 「祓いは神社だけの行事じゃない、鋏を持つ瞬間も同じ」白魔女アングルを採用）。
 2026-06-26: POST-71「流されないための根を持つ草がある。— ベチバーと、大地に根を張る力」生成・GitHub push完了（アロマピラー / ベチバー（Vetiver / Chrysopogon zizanioides）/ タミール語「掘り起こした根（vettiveru）」が語源 / リグ・ヴェーダ時代から続く5000年の歴史、インド・スリランカで「静寂の精油（Oil of Tranquility）」と呼ばれる / 根を織ったすだれ「カース・タティ」に水を含ませる古代の天然冷却法 / 垂直に深く伸びる密な根系が100カ国以上で土砂崩れ防止に使われる「Vetiver System」 / ハイチでは斜面に等高線状に植え3列のうち1列を輪番収穫——精油採取と土壌保全が同じ栽培行為として両立 / 主成分クシモール（ベチベロール）はサンダルウッド・シダーウッドと同じグラウンディング系 / 2001年Terry Friedmann研究：ADHD児童20名への吸入で脳波バランス・集中力改善の報告 / POST-44白檀「他の木に根を絡ませて生きる（繋がる根）」との対として「自分でまっすぐ深く根を張る（単独の根）」という角度を採用 / Rinkaの渡英準備期との「動く前に根を張る」共鳴を白魔女アングルに採用）。
 2026-06-26: EP-71「Adrian Sherwood — ダブを楽器にした男、ブリストルの種を運んだ17歳」生成・GitHub push完了（レイブピラー / 1958年1月20日生・イングランド出身 / 11歳、地元ウェスト・インディアン系クラブの外でPrince Busterのスカに合わせて舗道で踊っていたのがジャマイカ音楽との出会い / 17〜18歳、ブリストルの中古レコード店「Revolver Records」で14〜15歳のMark Stewart（後のThe Pop Group）と出会う——Stewartは輸入盤の到着を「the van from Zion」と呼んで待っていた / 1979〜1980年、自身のレーベル On-U Sound（+ツアー体制 On-U Sound System）設立 / Mark Stewart・The Slits周辺とNew Age Stepperでダブをニューウェイヴ/インダストリアルへ接続 / 1984年ニューヨークのNew Music Seminarで、Grandmaster Flash「The Message」「White Lines」を手がけたSugarhill Recordsのハウス・リズムセクション（Doug Wimbish・Skip McDonald・Keith LeBlanc）と出会い、ロンドンでTackhead結成 / African Head Charge・Dub Syndicate・Singers & Players等On-U主要プロジェクト / 後年Nine Inch Nails「Down In It」「Starfuckers, Inc.」・Ministry「All Day」・Sinéad O'Connorをリミックス/プロデュース / 本人の言葉「Not being a musician you feel a little bit of an imposter, but I've got a passion for it」/ ミキシングデスクを楽器として弾く制作哲学 / King Tubby（EP-54）・Lee Scratch Perry（EP-55）の系譜を継ぎつつ、ジャマイカ/ロンドンの外（ポストパンク・インダストリアル）へダブを輸出した角度を採用 / Mark Stewartとの出会いはBristol Sound（EP-48: Wild Bunch→Massive Attack→Portishead）の直接的な前史として接続）。
 2026-06-25: EP-70「Dubstep Warz — その夜、BBCの電波が地下室になった」生成・GitHub push完了（レイブピラー / BBC Radio 1のDJ Mary Anne Hobbs（元Sounds誌・NME誌ジャーナリスト、1991年Nirvana表紙記事執筆、Loaded誌創刊にも関与、実験番組「The Breezeblock」を14年担当）が2006年1月9〜10日深夜に放送した特番「Dubstep Warz」/ 2005年、南ロンドンの地下ダブステップシーン（FWD>>・DMZ）に「ダマスカス的回心（Damascene conversion）」を経験 / 出演Mala・Skream・Kode9 & The Spaceape・Vex'd・Hatcha & Crazy D・Loefah & Sgt Pokes・Distance（Burial・Bengaの曲もプレイ）/ それまで国家規模では誰も知らなかったサウンドが一晩でBBC Radio 1という最大級のプラットフォームに乗った「グローバルな転換点」/ Hobbsの言葉「If, as a broadcaster, you can deliver one show with the cultural & historical impact of this one in a lifetime... it's a miracle」/ ダブステップを「the music that changed my life」と表現 / 放送10周年（2016）・15周年（2021）にBBC 6 Musicで記念特番が継続放送 / 2010年に14年在籍したRadio 1を退局しXFM/6 Musicへ / Hobbsの最後のRadio 1放送ではKode9とBurialが送別ミックスを担当——後年6Music番組でBurial本人から直接テキストメッセージが届いたこともある / EP-66 FWD>>・EP-68 DMZ（地下室の2つの定期パーティ）の直接的な「次の章」として、地下シーンが初めて国の電波に乗った瞬間を描く角度を採用）。
