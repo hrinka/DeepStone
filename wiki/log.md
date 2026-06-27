@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-27] auto-ep | EP-73 — Underworld — 酔っ払いの叫びが、誰も気づかずに世界の祝杯になった
+- Files: `rave-team/output/EP-73/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-73 — 2026-06-27 — underworld-born-slippy.md`
+- Topic: レイブピラー / Underworld（Karl Hyde + Rick Smith、後にDarren Emerson加入）/ カーディフ出身、Freur（CBS、1983年「Doot-Doot」のみヒット、続編リリース拒否され1986年解散）→1987年「Underworld」（"Mark I"）も80年代パスティーシュ的サウンドで2作出して1990年解散→1992年Romford移住、10代のDJ Darren Emersonをスカウトし"Mark II"として再起、Junior Boy's Own契約 / 1994年『dubnobasswithmyheadman』批評的成功 / 1995年5月1日「Born Slippy」発売、B面「.NUXX」はKarl Hydeがソーホー・ワーダー・ストリートのパブ「The Ship」で一晩飲んだ夜にそのまま書いた歌詞、Lou Reed『New York』とSam Shepard『Motel Chronicles』の影響 / 録音中に歌詞の位置を見失い同じ行を繰り返したことが"lager, lager, lager"の由来 / Hyde本人「ドリンキング・アンセムではなく助けてという叫び」、ライブで観客がラガー缶を掲げるのを見て動揺したと証言 / Danny Boyleがレコード店でシングルを見つけ「これが映画の終わりだ」と確信、Underworldは一度使用を拒否（「ドラッグ文化の一部ではない」「美化と結びつけたくない」）したが編集室での実映像説得後に許諾 / 1996年2月『Trainspotting』公開、.NUXXは同年7月再発でUKチャート2位、以降サッカースタジアム・パブの閉店時間・結婚式の定番曲になったが大半は「助けてという叫び」という原意を知らずに歌っている / EP-23 Big Beat・EP-50 Hardcore Continuumと同じ90年代UK文化圏だが、ジャマイカ移民音楽系譜ではなく80年代の二度の失敗から再生した英国白人デュオという対照的ルートを採用。
+
 ## [2026-06-27] auto-post | POST-72 — 夏越の祓とハーブの剪定 — 半年分を、刈り落とす
 - Files: `aroma-insta/output/POST-72/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/aroma/aroma-POST-72-2026-06-27-nagoshi-no-harae-herb-pruning.md`
