@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-28] auto-ep | EP-74 — Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった
+- Files: `rave-team/output/EP-74/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/rave/EP-74 — 2026-06-28 — wiley-eskimo-grime.md`
+- Topic: レイブピラー / Wiley（本名Richard Kylea Cowie Jr.、1979年1月19日生）東ロンドンBow出身・父はレゲエ・ミュージシャン / UKガラージクルー「Pay As U Go Cartel」で「Champagne Dance」（2001年）UKトップ20ヒット・2002年Top of the Pops出演 / クルー解散後、一人でガラージの暖かい2ステップ的グルーヴから外れた冷たく未来的なシンセの白盤インストゥルメンタル「Eskimo」を制作（原型1999〜2000年クリスマス頃、2002年7月12インチ白盤リリース）→grime最初期・最重要インストゥルメンタルの一つ、自称サブジャンル名「eskibeat」の起点 / 新クルー「Roll Deep」結成、十代のDizzee Rascal・Tinchy Stryderを早期メンバーに、後にSkepta・JME（Boy Better Know）もこの周辺から育つ / Dizzee Rascal『Boy in da Corner』（2003年）がMercury Prize受賞、19歳の弟子が師より先に批評的最高評価を獲得 / 2003年7月キプロス・アヤナパでRoll Deep対So Solid Crewの衝突、Wiley本人の証言では一度収まった喧嘩を翌日蒸し返し、報復に来た相手が見つけたのはWileyではなくDizzeeで、Dizzeeはナイフで切られ重傷、Wiley「自分が蒸し返したから彼が刺された」と責任を認める→長期断絶の引き金 / 2004年4月5日「Wot Do U Call It?」で新ジャンルの呼称論争を扱う——Wileyは「eskibeat」と呼びたかったが、DJ EZら周辺シーンの「grime」が定着し、自分が発明した音の名前を失う / 2018年1月MBE受章 / 名付けられなかったのに「Godfather of Grime」と呼ばれ続けている / EP-26 Grime（Dizzee・Skepta成功）の前段にあたる師の章、EP-13 UK Garageからの直接的系譜、EP-73 Underworld（意図と受容の断絶）と並ぶ「名前の主導権を失う」構造として接続。
+
 ## [2026-06-27] auto-ep | EP-73 — Underworld — 酔っ払いの叫びが、誰も気づかずに世界の祝杯になった
 - Files: `rave-team/output/EP-73/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-73 — 2026-06-27 — underworld-born-slippy.md`

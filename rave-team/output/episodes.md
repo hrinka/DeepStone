@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-74 (2026-06-28): Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった。 — 本名Richard Kylea Cowie Jr.（1979年1月19日生）、東ロンドンBow出身、父はレゲエ・ミュージシャン / UKガラージクルー「Pay As U Go Cartel」で「Champagne Dance」（2001年）UKトップ20ヒット・2002年Top of the Pops出演 / クルー解散後、一人でガラージの暖かさを抜いた冷たいシンセの白盤インストゥルメンタル「Eskimo」を制作（原型1999〜2000年、2002年7月リリース）→grime最初期・最重要インストゥルメンタルの一つ、自称サブジャンル名「eskibeat」の起点 / 新クルー「Roll Deep」結成、十代のDizzee Rascal・Tinchy Stryderを早期メンバーに、後にSkepta・JMEもこの周辺から育つ / Dizzee Rascal『Boy in da Corner』（2003年）がMercury Prize受賞、19歳の弟子が師より先に最高評価を獲得 / 2003年7月キプロス・アヤナパでRoll Deep対So Solid Crewの衝突、Wileyが翌日喧嘩を蒸し返した報復でDizzeeがナイフで切られ重傷、Wiley本人「自分が蒸し返したから彼が刺された」と責任を認める→長期断絶の引き金 / 2004年4月5日「Wot Do U Call It?」で新ジャンル呼称論争を扱う——Wileyは「eskibeat」を望んだが、周辺シーンの「grime」が定着、自分が発明した音の名前を失う / 2018年1月MBE受章 / 名付けられなかったのに「Godfather of Grime」と呼ばれ続けている / EP-26 Grime（Dizzee・Skepta成功）の前段にあたる師の章、EP-13 UK Garageからの直接的系譜として接続。
+
 - EP-73 (2026-06-27): Underworld — 酔っ払いの叫びが、誰も気づかずに世界の祝杯になった。 — Karl Hyde + Rick Smith、カーディフ出身 / Freur（CBS、1983年「Doot-Doot」のみヒット、続編を英国リリース拒否され1986年解散）→1987年「Underworld」（後の"Mark I"）結成も80年代パスティーシュ的サウンドで2作出して1990年解散→1992年Romfordへ移住、10代のDJ Darren Emersonをスカウトしテクノ/ハウス志向の"Mark II"として再起、Junior Boy's Ownと契約 / 1994年『dubnobasswithmyheadman』批評的成功 / 1995年5月1日「Born Slippy」発売、B面「.NUXX」はKarl Hydeがソーホー・ワーダー・ストリートのパブ「The Ship」で一晩飲んだ夜にそのまま書いた歌詞、Lou Reed『New York』とSam Shepard『Motel Chronicles』の影響 / 録音中に歌詞の位置を見失い同じ行を繰り返したことが"lager, lager, lager"の由来 / Hyde本人「ドリンキング・アンセムではなく助けてという叫び」、ライブで観客がラガー缶を掲げるのを見て動揺 / Danny Boyleがレコード店でシングルを見つけ「これが映画の終わりだ」と確信、Underworldは一度使用を拒否したが編集室での説得後に許諾 / 1996年2月『Trainspotting』公開、.NUXXは同年7月再発でUKチャート2位、以降サッカースタジアム・パブ・結婚式の定番曲になったが大半は原意を知らずに歌っている / EP-23 Big Beat・EP-50 Hardcore Continuumと同じ90年代UK文化圏だが、ジャマイカ移民音楽系譜ではなく80年代の二度の失敗から再生した英国白人デュオという対照的ルート。
 
 - EP-71 (2026-06-26): Adrian Sherwood — ダブを楽器にした男、ブリストルの種を運んだ17歳。 — 1958年1月20日生・イングランド出身、現ケント在住 / 11歳、地元ウェスト・インディアン系クラブの外でPrince Busterのスカに合わせて舗道で踊っていたのがジャマイカ音楽との出会い / 17〜18歳の頃、ブリストルの中古レコード店「Revolver Records」で14〜15歳のMark Stewart（後のThe Pop Group）と出会う——Stewartは輸入盤の到着を「the van from Zion」と呼んで待っていた / 1979〜1980年、自身のレーベル On-U Sound（+ツアー体制 On-U Sound System）設立 / Mark Stewart・The Slits周辺とNew Age Stepperでダブをニューウェイヴ/インダストリアルへ接続 / 1984年ニューヨークのNew Music Seminarで、Grandmaster Flash「The Message」「White Lines」を手がけたSugarhill Recordsのハウス・リズムセクション（Doug Wimbish・Skip McDonald・Keith LeBlanc）と出会い、ロンドンでTackhead結成 / African Head Charge・Dub Syndicate・Singers & Players等On-U主要プロジェクト / 後年Nine Inch Nails「Down In It」「Starfuckers, Inc.」・Ministry「All Day」・Sinéad O'Connorらをリミックス/プロデュース / 本人の言葉「Not being a musician you feel a little bit of an imposter, but I've got a passion for it」/ ミキシングデスクを楽器として弾く制作哲学 / King Tubby（EP-54）・Lee Scratch Perry（EP-55）の系譜を継ぎつつ、ジャマイカ/ロンドンの外（ポストパンク・インダストリアル）へダブを輸出した角度を採用 / Mark Stewartとの出会いはBristol Sound（EP-48: Wild Bunch→Massive Attack→Portishead）の直接的な前史として接続。
@@ -87,6 +89,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 74 | Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった | ✅ Complete | 2026-06-28 | — |
 | 71 | Adrian Sherwood — ダブを楽器にした男、ブリストルの種を運んだ17歳 | ✅ Complete | 2026-06-26 | — |
 | 68 | DMZ — 教会の地下で、低音は祈りになった | ✅ Complete | 2026-06-24 | — |
 | 64 | Jah Shaka — ダブステップに名前がつく前から、彼の教会はそこにあった | ✅ Complete | 2026-06-22 | — |
