@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["WILEY"],
+      "sub": "He built the sound. He didn't get to name it."
+    },
+    {
+      "type": "body",
+      "text": ["Bow. East London.", "His father played reggae.", "He grew up on hip-hop and drums."],
+      "sub": "Richard Kylea Cowie Jr. Born 1979."
+    },
+    {
+      "type": "body",
+      "text": ["A garage crew.", "Pay As U Go Cartel.", "A top 20 hit.", "Top of the Pops, 2002."],
+      "sub": "Before the sound had a name, it had a hit."
+    },
+    {
+      "type": "body",
+      "text": ["The crew splits.", "Alone with a synth,", "he makes something colder.", "He calls it Eskimo."],
+      "sub": "2002. The first grime instrumental."
+    },
+    {
+      "type": "body",
+      "text": ["He starts a new crew.", "Roll Deep.", "He brings in a teenager.", "Dizzee Rascal."],
+      "sub": "The student would outgrow the teacher."
+    },
+    {
+      "type": "body",
+      "text": ["Ayia Napa, 2003.", "A fight starts. It ends.", "The next night, it starts again."],
+      "sub": "He started it twice."
+    },
+    {
+      "type": "quote",
+      "quote": ["The people looking for him", "found Dizzee instead."],
+      "note": "Dizzee Rascal was stabbed that night."
+    },
+    {
+      "type": "cta",
+      "text": ["2004. A single asks", "what to call this sound.", "He says eskibeat.", "The streets say grime."],
+      "strobe": "The streets win.",
+      "cta": "Save this."
+    }
+  ]
+}
