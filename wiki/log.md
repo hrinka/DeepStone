@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-29] auto-post | POST-75 — マイコバクテリウム・ヴァッカエ — 土に触れると機嫌がよくなる、そのちゃんとした理由
+- Files: `aroma-insta/output/POST-75/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-75-2026-06-29-soil-bacteria-serotonin.md`
+- Topic: ハーブ菜園ピラー / 土壌細菌Mycobacterium vaccae（マイコバクテリウム・ヴァッカエ）が脳の背側縫線核のセロトニン産生ニューロンを活性化するという科学的発見（コロラド大学Lowry教授、2007〜2018年）/ 1998年Discover Magazine「Dirt is the New Prozac?」で初報 / 東京大学2016年メタ解析（77研究・6000人）でガーデニングの精神健康効果を確認 / 衛生仮説——清潔すぎる社会と精神健康悪化の相関 / 白魔女視点: 土=地のエレメント・グラウンディングの儀式として統合。POST-54コンパニオンプランティング・POST-60梅雨ハーブ菜園との繋がりあり。
+
 ## [2026-06-28] auto-ep | EP-74 — Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった
 - Files: `rave-team/output/EP-74/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-74 — 2026-06-28 — wiley-eskimo-grime.md`
