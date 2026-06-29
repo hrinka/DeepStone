@@ -1,0 +1,107 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["GOA TRANCE"],
+      "sub": "A saint built a rave out of an ancient ritual."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Anjuna Beach. Goa. 1960s.",
+        "",
+        "Hippies arrived",
+        "looking for hashish.",
+        "",
+        "Some of them",
+        "never left."
+      ],
+      "sub": "The shore where it began."
+    },
+    {
+      "type": "body",
+      "text": [
+        "A teenager from San Francisco",
+        "arrives in 1969.",
+        "",
+        "He meets a guru",
+        "in Kashmir.",
+        "",
+        "He becomes a holy man."
+      ],
+      "sub": "Not a musician. A pilgrim."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "His name is Goa Gil.",
+        "",
+        "He builds stages in the sand.",
+        "Guitars. Full moon. Fire.",
+        "",
+        "He calls it a ritual.",
+        "Not a party."
+      ],
+      "note": "Anjuna Beach, 1969."
+    },
+    {
+      "type": "body",
+      "text": [
+        "By the 1980s,",
+        "guitars become synthesizers.",
+        "",
+        "Something colder.",
+        "Something faster.",
+        "",
+        "140 BPM.",
+        "Layered with sitar.",
+        "Layered with chant."
+      ],
+      "sub": "The sound found its shape."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Israeli soldiers",
+        "finish their service.",
+        "",
+        "They fly to Goa",
+        "to forget the noise.",
+        "",
+        "Some bring the sound home.",
+        "",
+        "Tel Aviv learns the beat."
+      ],
+      "sub": "How a ritual becomes a genre."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2003.",
+        "The world found out.",
+        "",
+        "Police came.",
+        "The beach went quiet.",
+        "",
+        "The music moved",
+        "to forests.",
+        "To mountains.",
+        "To festivals everywhere."
+      ],
+      "sub": "The ritual survived the raid."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Anjuna is still.",
+        "",
+        "But the ritual",
+        "kept running."
+      ],
+      "strobe": "The beach is empty. The music is everywhere.",
+      "cta": "Save this."
+    }
+  ]
+}
