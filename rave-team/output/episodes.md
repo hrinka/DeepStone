@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-75 (2026-06-29): Goa Trance — 聖者がビーチで踊りを古代の儀式に書き換えた。 — Eight Finger Eddie（Yertward Mazamanian、アルメニア系アメリカ人）が1960年代ゴア州アンジュナビーチでキャンプファイヤーパーティを創始・1975年蚤の市を開設 / Goa Gil（本名Gilbert Levey、1951年10月11日〜2023年10月26日享年72）——18歳でサンフランシスコからインドへ渡り1972年頃カシミールでグルと出会い、Juna Akhara修道会のサドゥー（聖名: Shri Mahant Mangalanand Puri）として叙任後、砂浜にステージを建て「Redefining the Ancient Tribal Ritual for the 21st Century」として満月の夜に踊りを主宰 / 音楽進化: ギター→インダストリアル/EBM（DJ Laurent・Fred Disko・Goa Gil）→1990年代初頭140〜150 BPM・シタール/タブラサンプル・ヒンドゥーチャント・TB-303酸性ベースラインで「Goa trance」結晶化 / 1993年頃からイスラエルへ伝播——兵役終了後の若者がゴアへ飛び帰国後にテルアビブでシーン形成 / Astral Projection（Avi Nissim + Lior Perlmutter）が国際的顔に / UK: Dragonfly Records（Youth / ex-Killing Joke）・TIP Records・Flying Rhino Records / 2003年インド政府規制でビーチシーン解体→Boom Festival（ポルトガル）・Ozora（ハンガリー）等の野外フェスへ移行 / EP-64 Jah Shaka（「踊りは礼拝である」哲学の異なる系譜からの対）/ rave文化のJamaica/soundsystem系譜とは独立した「もう一本の根」（India/hippie trail系譜）を初めて描いた回。
+
 - EP-74 (2026-06-28): Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった。 — 本名Richard Kylea Cowie Jr.（1979年1月19日生）、東ロンドンBow出身、父はレゲエ・ミュージシャン / UKガラージクルー「Pay As U Go Cartel」で「Champagne Dance」（2001年）UKトップ20ヒット・2002年Top of the Pops出演 / クルー解散後、一人でガラージの暖かさを抜いた冷たいシンセの白盤インストゥルメンタル「Eskimo」を制作（原型1999〜2000年、2002年7月リリース）→grime最初期・最重要インストゥルメンタルの一つ、自称サブジャンル名「eskibeat」の起点 / 新クルー「Roll Deep」結成、十代のDizzee Rascal・Tinchy Stryderを早期メンバーに、後にSkepta・JMEもこの周辺から育つ / Dizzee Rascal『Boy in da Corner』（2003年）がMercury Prize受賞、19歳の弟子が師より先に最高評価を獲得 / 2003年7月キプロス・アヤナパでRoll Deep対So Solid Crewの衝突、Wileyが翌日喧嘩を蒸し返した報復でDizzeeがナイフで切られ重傷、Wiley本人「自分が蒸し返したから彼が刺された」と責任を認める→長期断絶の引き金 / 2004年4月5日「Wot Do U Call It?」で新ジャンル呼称論争を扱う——Wileyは「eskibeat」を望んだが、周辺シーンの「grime」が定着、自分が発明した音の名前を失う / 2018年1月MBE受章 / 名付けられなかったのに「Godfather of Grime」と呼ばれ続けている / EP-26 Grime（Dizzee・Skepta成功）の前段にあたる師の章、EP-13 UK Garageからの直接的系譜として接続。
 
 - EP-73 (2026-06-27): Underworld — 酔っ払いの叫びが、誰も気づかずに世界の祝杯になった。 — Karl Hyde + Rick Smith、カーディフ出身 / Freur（CBS、1983年「Doot-Doot」のみヒット、続編を英国リリース拒否され1986年解散）→1987年「Underworld」（後の"Mark I"）結成も80年代パスティーシュ的サウンドで2作出して1990年解散→1992年Romfordへ移住、10代のDJ Darren Emersonをスカウトしテクノ/ハウス志向の"Mark II"として再起、Junior Boy's Ownと契約 / 1994年『dubnobasswithmyheadman』批評的成功 / 1995年5月1日「Born Slippy」発売、B面「.NUXX」はKarl Hydeがソーホー・ワーダー・ストリートのパブ「The Ship」で一晩飲んだ夜にそのまま書いた歌詞、Lou Reed『New York』とSam Shepard『Motel Chronicles』の影響 / 録音中に歌詞の位置を見失い同じ行を繰り返したことが"lager, lager, lager"の由来 / Hyde本人「ドリンキング・アンセムではなく助けてという叫び」、ライブで観客がラガー缶を掲げるのを見て動揺 / Danny Boyleがレコード店でシングルを見つけ「これが映画の終わりだ」と確信、Underworldは一度使用を拒否したが編集室での説得後に許諾 / 1996年2月『Trainspotting』公開、.NUXXは同年7月再発でUKチャート2位、以降サッカースタジアム・パブ・結婚式の定番曲になったが大半は原意を知らずに歌っている / EP-23 Big Beat・EP-50 Hardcore Continuumと同じ90年代UK文化圏だが、ジャマイカ移民音楽系譜ではなく80年代の二度の失敗から再生した英国白人デュオという対照的ルート。
@@ -89,6 +91,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 75 | Goa Trance — 聖者がビーチで踊りを古代の儀式に書き換えた | ✅ Complete | 2026-06-29 | — |
 | 74 | Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった | ✅ Complete | 2026-06-28 | — |
 | 71 | Adrian Sherwood — ダブを楽器にした男、ブリストルの種を運んだ17歳 | ✅ Complete | 2026-06-26 | — |
 | 68 | DMZ — 教会の地下で、低音は祈りになった | ✅ Complete | 2026-06-24 | — |
