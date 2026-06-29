@@ -5,6 +5,11 @@
 - Wiki source: `wiki/sources/rave/EP-75 — 2026-06-29 — goa-trance-ritual.md`
 - Topic: レイブピラー / Goa Trance（ゴアトランス）/ 発祥: 1960年代インド・ゴア州アンジュナビーチ——ヒッピートレイルの終着地、Eight Finger Eddie（Yertward Mazamanian、アルメニア系アメリカ人）がキャンプファイヤーパーティを始め1975年アンジュナの蚤の市を創設 / Goa Gil（本名Gilbert Levey、1951年10月11日〜2023年10月26日）——18歳でサンフランシスコからインドへ渡り1972年頃カシミールでグルと出会い、Juna Akhara修道会のサドゥーとして叙任（聖名: Shri Mahant Mangalanand Puri）後、砂浜にステージを建て「Redefining the Ancient Tribal Ritual for the 21st Century」として満月の夜に踊りを主宰 / 音楽進化: ギター（70年代）→インダストリアル/EBM（80年代中盤）→1990年代初頭140〜150 BPM・シタール/タブラサンプル・ヒンドゥーチャント・TB-303酸性ベースラインで「Goa trance」結晶化 / イスラエルへの伝播: 1993年頃から兵役終了後の若者がゴアを訪れ帰国後にテルアビブへ音と美学を持ち帰る / Astral Projection（Avi Nissim + Lior Perlmutter）がGoa/Psytranceの国際的顔に / UK: Dragonfly Records（Youth/Killing Joke）・TIP・Flying Rhino Records / ドイツ・日本・オーストラリアにも多数のレーベル誕生 / 2003年インド政府規制でビーチシーン解体→Boom Festival（ポルトガル）・Ozora（ハンガリー）・Voov（ドイツ）等の野外フェスへ移行 / Goa Gil 2023年10月26日死去享年72 / EP-64 Jah Shaka（サウンドシステムを霊的実践の場とした先行世代）と同じ「踊りは霊的実践」哲学を異なる系譜（ヒンドゥー）で共有——rave文化の「もう一本の根」（Jamaica/soundsystem系譜と独立した India/hippie trail 系譜）を初めて描いた回。
 
+## [2026-06-29] auto-post | POST-75 — マイコバクテリウム・ヴァッカエ — 土に触れると機嫌がよくなる、そのちゃんとした理由
+- Files: `aroma-insta/output/POST-75/carousel.md` + `research.md`
+- Wiki source: `wiki/sources/aroma/aroma-POST-75-2026-06-29-soil-bacteria-serotonin.md`
+- Topic: ハーブ菜園ピラー / 土壌細菌Mycobacterium vaccae（マイコバクテリウム・ヴァッカエ）が脳の背側縫線核のセロトニン産生ニューロンを活性化するという科学的発見（コロラド大学Lowry教授、2007〜2018年）/ 1998年Discover Magazine「Dirt is the New Prozac?」で初報 / 東京大学2016年メタ解析（77研究・6000人）でガーデニングの精神健康効果を確認 / 衛生仮説——清潔すぎる社会と精神健康悪化の相関 / 白魔女視点: 土=地のエレメント・グラウンディングの儀式として統合。POST-54コンパニオンプランティング・POST-60梅雨ハーブ菜園との繋がりあり。
+
 ## [2026-06-28] auto-ep | EP-74 — Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった
 - Files: `rave-team/output/EP-74/carousel.md` + `research.md`
 - Wiki source: `wiki/sources/rave/EP-74 — 2026-06-28 — wiley-eskimo-grime.md`
