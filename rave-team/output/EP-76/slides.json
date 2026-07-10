@@ -1,0 +1,120 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["THURSDAY NIGHT", "AT HEAVEN"],
+      "sub": "The room where drum and bass was born."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Two DJs. One room.",
+        "Every Thursday.",
+        "",
+        "London, 1991.",
+        "",
+        "Fabio. Grooverider.",
+        "",
+        "They didn't headline the night.",
+        "They took the late slot.",
+        "But the room stayed for them."
+      ],
+      "sub": "Heaven — Charing Cross Road, London"
+    },
+    {
+      "type": "body",
+      "text": [
+        "They played dub versions.",
+        "",
+        "Not A-sides. Not vocals.",
+        "The mixes no one else would touch.",
+        "",
+        "Every week, the crowd came back.",
+        "",
+        "Something was building."
+      ],
+      "sub": "White labels. Pure pressure."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The music moved fast.",
+        "",
+        "Acid house.",
+        "Then hardcore.",
+        "Then something with no name.",
+        "",
+        "Broken rhythms.",
+        "Heavier bass.",
+        "",
+        "They called it jungle."
+      ],
+      "sub": "1991 — 1993"
+    },
+    {
+      "type": "body",
+      "text": [
+        "Grooverider went harder.",
+        "",
+        "Faster tempos.",
+        "Rougher edges.",
+        "",
+        "He coined the term: Hardstep.",
+        "Then Techstep.",
+        "",
+        "He was building something darker",
+        "than anyone had heard before."
+      ],
+      "sub": "Prototype Records — the techstep label"
+    },
+    {
+      "type": "body",
+      "text": [
+        "Fabio stayed warm.",
+        "",
+        "Rolling breaks.",
+        "Melodic chords.",
+        "The side of drum and bass that breathed.",
+        "",
+        "Two DJs in the same room.",
+        "Hearing a different music.",
+        "",
+        "That tension became the genre."
+      ],
+      "sub": "Liquid vs. Techstep — both were Rage"
+    },
+    {
+      "type": "body",
+      "text": [
+        "In 1998, they brought the sound to BBC Radio 1.",
+        "",
+        "A show that ran for 14 years.",
+        "",
+        "Grooverider was arrested in Dubai.",
+        "Sentenced to four years.",
+        "Pardoned after three months.",
+        "",
+        "He came back to the decks.",
+        "The show went on."
+      ],
+      "sub": "2007 — Dubai. 2008 — back on air."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Rage closed in 1993.",
+        "",
+        "Goldie was in that room.",
+        "Kemistry & Storm were in that room.",
+        "Everyone who ever made drum and bass",
+        "was, at some point, in that room.",
+        "",
+        "Every Thursday."
+      ],
+      "strobe": "Save this.",
+      "cta": "Save this. You'll need it soon."
+    }
+  ]
+}
