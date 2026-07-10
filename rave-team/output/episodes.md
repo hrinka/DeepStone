@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-76 (2026-07-10): Fabio & Grooverider — 毎週木曜、二人がドラムンベースを発明した。 — Fabio（本名Fitzroy Heslop）+ Grooverider（本名Raymond Bingham、1967年4月16日生・Streatham出身）/ 共にSouth Londonのパイレーツラジオ（Faze 1等）出身、ブリクストンのMendoza'sでハウスをプレイしコンビ結成 / 1991年、Heaven（London, Charing Cross Road）の週1木曜ナイト「Rage」にレジデント参加（Rageは1988年10月創設・Paul OakenfoldのSpectrumと同じ会場）/ ダブバージョン主体のセット——「下のフロアはA面とボーカル、うちらはピュアにダブバージョン」/ テクノとブレイクビートの実験が週ごとに進化: アシッドハウス→UKハードコア→"Dark Hardcore"→ジャングル→ドラムンベース / 常連客にGoldie・Kemistry & Storm（KemistryはGrooveriderに音楽の道を勧められた人物・1999年事故死）・Bailey・Doc Scott・Dillinja / Rage終幕1993年後半 / Grooveriderが「Hardstep」「Techstep」を命名・Prototype Records（1994年設立）がTechstepの主要レーベル / Kiss 100（1994–1997）→BBC Radio 1（1998–2012）14年間——DnBシーン史上最大リーチの番組 / 2007年11月24日Grooveriderがドバイ国際空港で大麻2.16g所持により逮捕、2008年2月懲役4年の判決→9月3日ラマダン恩赦で釈放→10月BBC Radio 1番組に復帰 / FabioはLiquid/Melodic DnB側・GrooveriderはDark/Techstep側——二人の対照がDnBというジャンルの幅の起源 / EP-11（Jungle）・EP-12（DnB）・EP-47（Metalheadz/Goldie）・EP-32（UK Pirate Radio）・EP-54（King Tubby/ダブの系譜）との直接接続。
+
 - EP-75 (2026-06-29): Goa Trance — 聖者がビーチで踊りを古代の儀式に書き換えた。 — Eight Finger Eddie（Yertward Mazamanian、アルメニア系アメリカ人）が1960年代ゴア州アンジュナビーチでキャンプファイヤーパーティを創始・1975年蚤の市を開設 / Goa Gil（本名Gilbert Levey、1951年10月11日〜2023年10月26日享年72）——18歳でサンフランシスコからインドへ渡り1972年頃カシミールでグルと出会い、Juna Akhara修道会のサドゥー（聖名: Shri Mahant Mangalanand Puri）として叙任後、砂浜にステージを建て「Redefining the Ancient Tribal Ritual for the 21st Century」として満月の夜に踊りを主宰 / 音楽進化: ギター→インダストリアル/EBM（DJ Laurent・Fred Disko・Goa Gil）→1990年代初頭140〜150 BPM・シタール/タブラサンプル・ヒンドゥーチャント・TB-303酸性ベースラインで「Goa trance」結晶化 / 1993年頃からイスラエルへ伝播——兵役終了後の若者がゴアへ飛び帰国後にテルアビブでシーン形成 / Astral Projection（Avi Nissim + Lior Perlmutter）が国際的顔に / UK: Dragonfly Records（Youth / ex-Killing Joke）・TIP Records・Flying Rhino Records / 2003年インド政府規制でビーチシーン解体→Boom Festival（ポルトガル）・Ozora（ハンガリー）等の野外フェスへ移行 / EP-64 Jah Shaka（「踊りは礼拝である」哲学の異なる系譜からの対）/ rave文化のJamaica/soundsystem系譜とは独立した「もう一本の根」（India/hippie trail系譜）を初めて描いた回。
 
 - EP-74 (2026-06-28): Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった。 — 本名Richard Kylea Cowie Jr.（1979年1月19日生）、東ロンドンBow出身、父はレゲエ・ミュージシャン / UKガラージクルー「Pay As U Go Cartel」で「Champagne Dance」（2001年）UKトップ20ヒット・2002年Top of the Pops出演 / クルー解散後、一人でガラージの暖かさを抜いた冷たいシンセの白盤インストゥルメンタル「Eskimo」を制作（原型1999〜2000年、2002年7月リリース）→grime最初期・最重要インストゥルメンタルの一つ、自称サブジャンル名「eskibeat」の起点 / 新クルー「Roll Deep」結成、十代のDizzee Rascal・Tinchy Stryderを早期メンバーに、後にSkepta・JMEもこの周辺から育つ / Dizzee Rascal『Boy in da Corner』（2003年）がMercury Prize受賞、19歳の弟子が師より先に最高評価を獲得 / 2003年7月キプロス・アヤナパでRoll Deep対So Solid Crewの衝突、Wileyが翌日喧嘩を蒸し返した報復でDizzeeがナイフで切られ重傷、Wiley本人「自分が蒸し返したから彼が刺された」と責任を認める→長期断絶の引き金 / 2004年4月5日「Wot Do U Call It?」で新ジャンル呼称論争を扱う——Wileyは「eskibeat」を望んだが、周辺シーンの「grime」が定着、自分が発明した音の名前を失う / 2018年1月MBE受章 / 名付けられなかったのに「Godfather of Grime」と呼ばれ続けている / EP-26 Grime（Dizzee・Skepta成功）の前段にあたる師の章、EP-13 UK Garageからの直接的系譜として接続。
@@ -91,6 +93,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 76 | Fabio & Grooverider — 毎週木曜、二人がドラムンベースを発明した | ✅ Complete | 2026-07-10 | — |
 | 75 | Goa Trance — 聖者がビーチで踊りを古代の儀式に書き換えた | ✅ Complete | 2026-06-29 | — |
 | 74 | Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった | ✅ Complete | 2026-06-28 | — |
 | 71 | Adrian Sherwood — ダブを楽器にした男、ブリストルの種を運んだ17歳 | ✅ Complete | 2026-06-26 | — |

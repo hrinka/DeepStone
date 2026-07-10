@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-10] EP-76 | Fabio & Grooverider — 毎週木曜、二人がドラムンベースを発明した
+- Files: `rave-team/output/EP-76/carousel.md`, `rave-team/output/EP-76/research.md`, `wiki/sources/rave/EP-76-2026-07-10-fabio-grooverider-rage.md`
+- Topic: 1991–1993年、Heaven（London）の週1木曜ナイト「Rage」にレジデントとして参加したFabio & Grooverider。ダブバージョン主体のセットがアシッドハウス→ハードコア→ジャングル→ドラムンベースへの変化を牽引。Goldie・Kemistry & StormらがあのフロアにいたことでDnBの精神的起源となった。Grooveriderによる「Hardstep」「Techstep」命名、Prototype Records（1994）、BBC Radio 1（1998–2012）14年間番組、Dubai逮捕（2007）→ラマダン釈放（2008）→BBC復帰を記録。
+
 ## [2026-07-10] aroma-POST-76 | ライフパスナンバー — 生まれた日に、宇宙が地図を渡した（数秘ピラー）
 - Files: `aroma-insta/output/POST-76/carousel.md`, `aroma-insta/output/POST-76/research.md`, `wiki/sources/aroma/aroma-POST-76-2026-07-10-life-path-number.md`
 - Topic: 数秘術最基本コアナンバー「ライフパスナンバー（Life Path Number）」。生年月日全体を一桁に圧縮。ピタゴラス起源（紀元前6世紀）。1〜9＋マスターナンバー11・22・33の意味一覧。Rinkaのライフパス5（自由・冒険・旅）を例示。「すべてのコアナンバーの入口となる最初の地図」という角度。既出POSTとの差別化: ソウルナンバー（名前の母音）・表現数（名前全体）・バースデーナンバー（生まれた日のみ）に対し、ライフパスは生年月日全体→人生のテーマという軸。
