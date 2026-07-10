@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-06-29
+updated: 2026-07-10
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,7 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-07-10: MONEYセクション新設（`wiki/concepts/money/`）。個人事業主の税務・経費・キャッシュフローを継続伴走するための知識基盤。前提: 青色申告（55万/65万控除）・免税事業者（インボイス未登録）・給与支払いのない個人事業主は源泉徴収義務なし。具体ケース: ミキシング¥15,000／ビートメイク¥20,000を別々の個人へ外注費として支払い、先方書面なし→簡易領収書テンプレ＋振込明細＋自分側メモの3点セットで経費計上する方針を確立（[[経費計上ルール]]）。[[借金返済-キャッシュフロー計画]]は骨組みのみ（借金残高・月次収支は次回ヒアリング待ち）。請求書原本は vault 外の別フォルダで管理する方針（vault内は方針・ルールの蓄積のみ）。
 2026-06-29: EP-75「Goa Trance — 聖者がビーチで踊りを古代の儀式に書き換えた」生成・GitHub push完了（レイブピラー / 発祥: 1960年代インド・ゴア州アンジュナビーチ——ヒッピートレイルの終着地、Eight Finger Eddie（Yertward Mazamanian）がキャンプファイヤーパーティを始め1975年蚤の市を創設 / Goa Gil（本名Gilbert Levey、1951年10月11日〜2023年10月26日）——18歳でサンフランシスコからインドへ渡り1972年頃カシミールでグルと出会い、Juna Akhara修道会のサドゥー（聖名: Shri Mahant Mangalanand Puri）として叙任後、砂浜にステージを建て満月の夜に踊りを主宰——コンセプト「Redefining the Ancient Tribal Ritual for the 21st Century」/ 音楽進化: ギター（70年代）→インダストリアル/EBM（80年代）→1990年代初頭、140〜150 BPM・シタール/タブラサンプル・ヒンドゥーチャント・TB-303酸性ベースラインで「Goa trance」結晶化 / 1993年頃からイスラエルへ伝播——兵役終了後の若者がゴアへ飛び、帰国後テルアビブへ音と美学を持ち帰る / Astral Projection（Avi Nissim + Lior Perlmutter）がGoa/Psytranceの国際的顔に / UK: Dragonfly Records（Youth / ex-Killing Joke）・TIP Records・Flying Rhino Records / 2003年インド政府規制でビーチシーン解体→Boom Festival（ポルトガル）・Ozora（ハンガリー）・Voov（ドイツ）等の野外フェス文化へ移行 / Goa Gil 2023年10月26日死去享年72 / EP-64 Jah Shaka（サウンドシステムを霊的実践の場とした先行世代）との構造的対: ジャマイカ/ラスタファライ系譜 vs インド/ヒンドゥー系譜——起源は別だが「踊りは礼拝である」という哲学を共有 / 74エピソードにわたって描いてきたJamaica/UK soundsystem系譜とは独立したrave文化の「もう一本の根」（India/hippie trail系譜）を初めて描いた回。EP-39 Second Summer of Love（イビザ1987）とも並ぶrave文化の「第三の地理的起源」）。
 2026-06-29: POST-75「土に触れると、機嫌がよくなる。気のせいじゃない。— マイコバクテリウム・ヴァッカエと土の精霊」生成・GitHub push完了（ハーブ菜園ピラー / Mycobacterium vaccae（マイコバクテリウム・ヴァッカエ）= 土壌中の非病原性腐生細菌 / コロラド大学ボルダー校Christopher Lowry教授ら——1998年Discover Magazine初報「Dirt is the New Prozac?」→2007年初確認→2017年「脳研究トップ10」選出→2018年PubMed正式論文（PMID 29134419） / 作用機序: M. vaccaeの特殊な脂肪酸が免疫細胞の受容体に結合→炎症カスケード抑制→脳の背側縫線核（Dorsal Raphe Nucleus）のセロトニン産生ニューロンを活性化→不安低下・ストレス耐性向上 / マウス実験: 投与群が迷路を通常の2倍速で完了・不安行動有意低下 / 東京大学2016年メタ解析（77研究・6000人）: ガーデニングでうつ・不安・ストレス低下、QOL向上を確認 / 衛生仮説: 清潔すぎる社会による土との接触減少と精神健康悪化の相関 / 白魔女アングル: 土=地のエレメント、素手で土に触れる作業=グラウンディングの儀式、見えない細菌（M. vaccae）が波動（セロトニン経路）を整える「見えない精霊」として統合 / POST-54コンパニオンプランティング・POST-60梅雨ハーブ菜園との繋がりあり）。
 2026-06-28: EP-74「Wiley — エスキモーの音を作った男、グライムの名付け親にはなれなかった」生成・GitHub push完了（レイブピラー / 本名Richard Kylea Cowie Jr.（1979年1月19日生）東ロンドンBow出身・父はレゲエ・ミュージシャン / UKガラージクルー「Pay As U Go Cartel」で「Champagne Dance」（2001年）UKトップ20ヒット・2002年Top of the Pops出演 / クルー解散後、一人でガラージの暖かい2ステップ的グルーヴから外れた冷たく未来的なシンセの白盤インストゥルメンタル「Eskimo」を制作（原型1999〜2000年クリスマス頃、2002年7月12インチ白盤リリース）→grime最初期・最重要インストゥルメンタルの一つ、自称サブジャンル名「eskibeat」の起点 / 新クルー「Roll Deep」結成、十代のDizzee Rascal・Tinchy Stryderを早期メンバーに、後にSkepta・JME（Boy Better Know）もこの周辺から育つ / Dizzee Rascal『Boy in da Corner』（2003年）がMercury Prize受賞、19歳の弟子が師より先に批評的最高評価を獲得 / 2003年7月キプロス・アヤナパでRoll Deep対So Solid Crewの衝突、Wiley本人の証言では一度収まった喧嘩を翌日蒸し返し、報復に来た相手が見つけたのはWileyではなくDizzeeで、Dizzeeはナイフで切られ重傷、Wiley「自分が蒸し返したから彼が刺された」と責任を認める→長期断絶の引き金 / 2004年4月5日「Wot Do U Call It?」で新ジャンルの呼称論争を扱う——Wileyは「eskibeat」と呼びたかったが、DJ EZら周辺シーンの「grime」が定着し、自分が発明した音の名前を失う / 2018年1月MBE受章 / 名付けられなかったのに「Godfather of Grime」と呼ばれ続けている / EP-26 Grime（Dizzee・Skepta成功）の前段にあたる師の章、EP-13 UK Garageからの直接的系譜、EP-73 Underworld（意図と受容の断絶）と並ぶ「名前の主導権を失う」構造として接続）。

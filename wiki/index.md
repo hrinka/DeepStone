@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-06-18
+updated: 2026-07-10
 tags:
   - meta
   - index
@@ -247,3 +247,11 @@ tags:
 | [[42Tokyo]] | 選抜制エンジニア養成機関（合格率10%）。2022〜2025年修了。Rinka の技術基盤 |
 
 **Sources（develop）**: [[dev-interview-prep-honma-rinka]], [[dev-tech-notes]]
+
+## Money（→ concepts/money/）
+
+| Page | Description |
+|---|---|
+| [[確定申告方針(青色申告)]] | 青色申告55万/65万控除の要件・免税事業者としてのインボイス対応・源泉徴収不要の判断根拠 |
+| [[経費計上ルール]] | 外注費の証憑ルール（領収書テンプレ含む）・ミキシング/ビートメイク支払いのケーススタディ |
+| [[借金返済-キャッシュフロー計画]] | 借金残高・月次収支・UK渡航資金200万円目標に向けた配分方針（数字は随時更新） |
