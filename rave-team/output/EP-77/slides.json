@@ -1,0 +1,87 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["HEAVEN IN THE BASEMENT"],
+      "sub": "How one man invented a sound no one knew they were missing."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Daniel Williamson.",
+        "Watford, Hertfordshire.",
+        "Adopted at birth.",
+        "Raised by strict Baptist parents.",
+        "From the beginning,",
+        "he lived between two worlds."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "A teacher named Nigel Crouch",
+        "handed a teenage boy a jazz fusion record.",
+        "That boy never came back from it.",
+        "Classical piano. Jazz. Breakbeats.",
+        "All of it lived in the same body."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "1991. Good Looking Records.",
+        "A small office in Harlesden.",
+        "1993. A track called \"Music.\"",
+        "No name for the genre yet.",
+        "Just the feeling —",
+        "drums that breathed.",
+        "Space where the bass usually lived."
+      ]
+    },
+    {
+      "type": "body",
+      "text": [
+        "October 1994. Mars Bar. Charing Cross Road.",
+        "He launched a club night called Speed.",
+        "DJ Fabio on the decks.",
+        "MC Conrad on the mic.",
+        "The crowd came to listen, not just to dance.",
+        "That was new.",
+        "That was the point."
+      ]
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "\"Perhaps one of the two most important",
+        "drum-and-bass releases of the decade.\""
+      ],
+      "note": "— Rolling Stone, on Logical Progression (1996). The other was Goldie's Timeless. Two records. Two halves of the same city. One went dark. One went deep."
+    },
+    {
+      "type": "body",
+      "text": [
+        "While Grooverider named Techstep",
+        "and the scene accelerated into darkness —",
+        "Bukem slowed the reverb down.",
+        "Let the jazz breathe.",
+        "Heard the cathedral inside the basement.",
+        "He didn't resist the dark.",
+        "He just chose a different frequency."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": [
+        "MC Conrad — his voice at every Speed night —",
+        "died in April 2024. He was 52.",
+        "The music they made together still plays.",
+        "In the moment before the beat returns."
+      ],
+      "strobe": "Save this.",
+      "cta": "Save this."
+    }
+  ]
+}
