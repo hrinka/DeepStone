@@ -3,6 +3,9 @@
 ## [2026-07-11] EP-77 | LTJ Bukem — 全員が暗闇へ走るとき、彼だけ光を選んだ
 - Files: `rave-team/output/EP-77/carousel.md`, `rave-team/output/EP-77/research.md`, `wiki/sources/rave/EP-77 — 2026-07-11 — ltj-bukem-liquid-dnb.md`
 - Topic: LTJ Bukem（本名Daniel Williamson、1967年9月20日生、ウォットフォード・バプテスト養父母の子）/ 教師Nigel Crouchによるジャズフュージョン開眼が音楽的土台 / 1991年Good Looking Records設立（ハーレスデン、ロンドン）/ 1993年「Music」——Liquid DnBの原型・ジャンル名存在前 / 1994年10月Speed@Mars Bar（Charing Cross Road）開始——Fabio（EP-76でも登場）＋MC Conrad（Conrad Thompson）とのトリオ体制 / 「踊るためだけでなく音楽を聴くための場所」という新しいクラブの在り方 / 1996年コンピ「Logical Progression」——Rolling Stone「その10年で最も重要なDnBの2枚の1枚（Goldie Timelessと双璧）」/ Good Lookingアーティスト: Peshay・Photek（Aquarius名義）・Blu Mar Ten・Blame / EP-76 Grooverider（Techstep=暗黒方向）との対: 暗黒化するシーンで「光の周波数」を選んだ存在として接続 / MC Conradは2024年4月享年52歳で死去。
+## [2026-07-11] aroma-POST-77 | クラリセージ — 霧の向こうに、ずっと答えはあった（アロマピラー）
+- Files: `aroma-insta/output/POST-77/carousel.md`, `aroma-insta/output/POST-77/research.md`, `wiki/sources/aroma/aroma-POST-77-2026-07-11-clary-sage.md`
+- Topic: クラリセージ（Salvia sclarea）。語源ラテン語 *clarus*（澄んだ）= 名前が本質。中世名「Oculus Christi（キリストの目）」「Clear Eye」— 1世紀ディオスコリデス記録。主成分酢酸リナリル43〜75%がGABA-A受容体を活性化。2014年韓国研究: 更年期女性22名でコルチゾール36%低下・セロトニン有意上昇。第6チャクラ（サードアイ）対応。「スクラレオール＝エストロゲン様」は不正確（Tisserand, 2010） → 「コルチゾール低下によるホルモン乱れの緩和」が科学的に正確。白魔女アングル: 「心が騒いでいると、答えは見えない。クラリセージは、静かに騒音を止める」。
 
 ## [2026-07-10] EP-76 | Fabio & Grooverider — 毎週木曜、二人がドラムンベースを発明した
 - Files: `rave-team/output/EP-76/carousel.md`, `rave-team/output/EP-76/research.md`, `wiki/sources/rave/EP-76-2026-07-10-fabio-grooverider-rage.md`
