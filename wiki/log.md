@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-11] EP-77 | LTJ Bukem — 全員が暗闇へ走るとき、彼だけ光を選んだ
+- Files: `rave-team/output/EP-77/carousel.md`, `rave-team/output/EP-77/research.md`, `wiki/sources/rave/EP-77 — 2026-07-11 — ltj-bukem-liquid-dnb.md`
+- Topic: LTJ Bukem（本名Daniel Williamson、1967年9月20日生、ウォットフォード・バプテスト養父母の子）/ 教師Nigel Crouchによるジャズフュージョン開眼が音楽的土台 / 1991年Good Looking Records設立（ハーレスデン、ロンドン）/ 1993年「Music」——Liquid DnBの原型・ジャンル名存在前 / 1994年10月Speed@Mars Bar（Charing Cross Road）開始——Fabio（EP-76でも登場）＋MC Conrad（Conrad Thompson）とのトリオ体制 / 「踊るためだけでなく音楽を聴くための場所」という新しいクラブの在り方 / 1996年コンピ「Logical Progression」——Rolling Stone「その10年で最も重要なDnBの2枚の1枚（Goldie Timelessと双璧）」/ Good Lookingアーティスト: Peshay・Photek（Aquarius名義）・Blu Mar Ten・Blame / EP-76 Grooverider（Techstep=暗黒方向）との対: 暗黒化するシーンで「光の周波数」を選んだ存在として接続 / MC Conradは2024年4月享年52歳で死去。
+
 ## [2026-07-10] EP-76 | Fabio & Grooverider — 毎週木曜、二人がドラムンベースを発明した
 - Files: `rave-team/output/EP-76/carousel.md`, `rave-team/output/EP-76/research.md`, `wiki/sources/rave/EP-76-2026-07-10-fabio-grooverider-rage.md`
 - Topic: 1991–1993年、Heaven（London）の週1木曜ナイト「Rage」にレジデントとして参加したFabio & Grooverider。ダブバージョン主体のセットがアシッドハウス→ハードコア→ジャングル→ドラムンベースへの変化を牽引。Goldie・Kemistry & StormらがあのフロアにいたことでDnBの精神的起源となった。Grooveriderによる「Hardstep」「Techstep」命名、Prototype Records（1994）、BBC Radio 1（1998–2012）14年間番組、Dubai逮捕（2007）→ラマダン釈放（2008）→BBC復帰を記録。

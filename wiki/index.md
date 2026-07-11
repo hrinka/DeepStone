@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-07-10
+updated: 2026-07-11
 tags:
   - meta
   - index
@@ -157,6 +157,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-77 — 2026-07-11 — ltj-bukem-liquid-dnb]]|LTJ Bukem: 本名Daniel Williamson（1967年9月20日生）、ウォットフォード（ハートフォードシャー）・バプテスト養父母に育てられる / 教師Nigel Crouchによるジャズフュージョンとの出会いが音楽的土台 / 1991年Good Looking Records設立（ハーレスデン）/ 1993年「Music」——ジャンル名なき時代のLiquid DnBの原型 / 1994年10月Speed@Mars Bar開始（Fabio + MC Conradとのトリオ体制）——「踊るためだけでなく、音楽を聴くための場所」/ 1996年コンピ「Logical Progression」——Rolling Stone「その10年で最も重要なDnBリリースの2枚の1枚（Goldie Timelessと双璧）」/ Good Lookingアーティスト: Peshay・Photek（Aquarius）・Blu Mar Ten・Blame / EP-76 Grooverider（Techstep/Dark方向）との対: 暗黒化するシーンの中で「光の周波数」を選んだ / MC Conrad（Conrad Thompson）2024年4月享年52歳死去|
 |[[EP-76 — 2026-07-10 — fabio-grooverider-rage]]|Fabio & Grooverider: 二人ともSouth London出身のパイレーツラジオ（Faze 1等）DJ / ブリクストン・Mendoza'sでハウスをプレイしコンビ結成 / 1991年、Heaven（London）の週1木曜ナイト「Rage」にレジデントとして参加 / ダブバージョン主体・テクノ×ブレイクビートの実験が週ごとにアシッドハウス→ハードコア→ジャングル→ドラムンベースへ進化 / Goldie・Kemistry & Storm・Bailey・Doc Scott・Dillinjaらがあの部屋の常連客 / Rage終幕は1993年後半 / Grooveriderが「Hardstep」「Techstep」を命名・Prototype Records（1994）設立 / Kiss 100（1994–1997）→BBC Radio 1（1998–2012）で14年間の歴史的番組 / 2007年11月Grooveriderがドバイで大麻2.16g所持により逮捕、懲役4年→2008年9月ラマダン恩赦で釈放→10月BBC復帰 / EP-11（Jungle）・EP-12（DnB）・EP-47（Metalheadz）・EP-32（Pirate Radio）と直接接続|
 |[[EP-75 — 2026-06-29 — goa-trance-ritual]]|Goa Trance: 1960年代インド・ゴア州アンジュナビーチのヒッピーコミュニティ（Eight Finger Eddie）を起源とするサイケデリック電子音楽 / Goa Gil（本名Gilbert Levey、1951〜2023）——18歳でインドへ渡りJuna Akhara修道会のサドゥー（Shri Mahant Mangalanand Puri）として叙任後、砂浜にステージを建て「古代の儀式の現代版（Redefining the Ancient Tribal Ritual for the 21st Century）」としてDJ開始 / ギター→シンセ→1990年代初頭に140〜150 BPM・シタール/タブラサンプル・TB-303酸性ベースラインで「Goa trance」結晶化 / 1993年頃イスラエルへ伝播（兵役終了後の若者がゴアを訪れ帰国後にシーンを形成）/ Astral Projection（Avi Nissim + Lior Perlmutter）がGoa/Psytranceの国際的な顔に / UK: Dragonfly Records（Youth）・TIP Records・Flying Rhino Records / 2003年インド政府規制でビーチ解体→Boom Festival（ポルトガル）・Ozora（ハンガリー）等の野外フェスへ移行 / EP-64 Jah Shakaと同じ「踊りは霊的実践」という哲学を異なる系譜（ヒンドゥー）で共有|
 |[[EP-74 — 2026-06-28 — wiley-eskimo-grime]]|Wiley: 本名Richard Kylea Cowie Jr.（1979年生）、東ロンドンBow出身・父はレゲエ・ミュージシャン / UKガラージクルー「Pay As U Go Cartel」で「Champagne Dance」（2001年）UKトップ20ヒット / クルー解散後、一人でガラージの暖かさを抜いた冷たいシンセの白盤インストゥルメンタル「Eskimo」を制作（2002年7月リリース）→grime最初期・最重要インストゥルメンタルの一つ、自称サブジャンル名「eskibeat」の起点 / 新クルー「Roll Deep」結成、十代のDizzee Rascal・Tinchy Stryderを早期メンバーに、後にSkepta・JMEもこの周辺から育つ / Dizzee Rascal『Boy in da Corner』（2003年）がMercury Prize受賞、弟子が師より先に最高評価を獲得 / 2003年7月アヤナパでRoll Deep対So Solid Crewの衝突、Wileyが翌日蒸し返した喧嘩の報復でDizzeeがナイフで切られ重傷 / 2004年「Wot Do U Call It?」で呼称論争を扱う——Wileyは「eskibeat」を望んだが「grime」が定着、自分が発明した音の名前を失う / 2018年MBE受章 / 名付けられなかったのに「Godfather of Grime」と呼ばれ続けている|
