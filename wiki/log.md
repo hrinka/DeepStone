@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-12] aroma-POST-78 | テルペン・植物の防衛物質 — 香りが濃い日は、植物が戦っている（ハーブ菜園ピラー）
+- Files: `aroma-insta/output/POST-78/carousel.md`, `aroma-insta/output/POST-78/research.md`, `wiki/sources/aroma/aroma-POST-78-2026-07-12-terpene-plant-defense.md`
+- Topic: テルペン類（精油の主成分）= 植物の自己防衛物質。熱・UV・ROS（活性酸素）からの保護機能。気温上昇でモノテルペン放出量が指数関数的に増加（真夏に香りが濃い科学的理由）。グランデュラー・トリコーム（毛状腺体）= 精油を貯蔵する器官・葉の銀色の毛の正体・UV反射機能も担う。地中海ハーブ（ラベンダー・ローズマリー・セージ・タイム）の形態的適応戦略（銀白色・小葉・革質）。白魔女アングル: 「植物が自分を守るために作ったものが、私たちを守る。精油の波動は植物の生存の知恵の結晶」。科学三部作: POST-57夏至（テルペンが増える時期）→POST-63朝摘み（揮発前に受け取る）→POST-78（テルペンの根本原理）として接続。
+
 ## [2026-07-11] EP-77 | LTJ Bukem — 全員が暗闇へ走るとき、彼だけ光を選んだ
 - Files: `rave-team/output/EP-77/carousel.md`, `rave-team/output/EP-77/research.md`, `wiki/sources/rave/EP-77 — 2026-07-11 — ltj-bukem-liquid-dnb.md`
 - Topic: LTJ Bukem（本名Daniel Williamson、1967年9月20日生、ウォットフォード・バプテスト養父母の子）/ 教師Nigel Crouchによるジャズフュージョン開眼が音楽的土台 / 1991年Good Looking Records設立（ハーレスデン、ロンドン）/ 1993年「Music」——Liquid DnBの原型・ジャンル名存在前 / 1994年10月Speed@Mars Bar（Charing Cross Road）開始——Fabio（EP-76でも登場）＋MC Conrad（Conrad Thompson）とのトリオ体制 / 「踊るためだけでなく音楽を聴くための場所」という新しいクラブの在り方 / 1996年コンピ「Logical Progression」——Rolling Stone「その10年で最も重要なDnBの2枚の1枚（Goldie Timelessと双璧）」/ Good Lookingアーティスト: Peshay・Photek（Aquarius名義）・Blu Mar Ten・Blame / EP-76 Grooverider（Techstep=暗黒方向）との対: 暗黒化するシーンで「光の周波数」を選んだ存在として接続 / MC Conradは2024年4月享年52歳で死去。
