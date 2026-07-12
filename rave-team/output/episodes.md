@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-78 (2026-07-12): Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった。 — 本名Ryan Owen Granville Williams（1969年10月29日生）、ブリストルSt. Andrews出身 / 1993〜1994年DJ Krust・DJ Die・SuvとFull Cycle Records設立（ブリストル）/ Reprazent = DJプロデューサー3人（Roni Size・Krust・Die）＋Suv＋MC Dynamite＋ボーカルOnallee＋ベーシストSi John＋ドラマーClive Deamer——「バンドのように機能するDnBコレクティブ」/ ブリストルSefton Park youth centreで録音（Talkin' Loud / Mercury Records、Gilles Peterson主宰）/ 1997年6月23日「New Forms」リリース / "Brown Paper Bag"制作中に電気メーターが切れDATサンプル消失→Dynamite MCと深夜に再制作 / 1997年8月28日Mercury Prize受賞、対抗馬はRadiohead「OK Computer」——DnBとして初・唯一のMercury Prize・5倍白金 / EP-48（Bristol Sound / trip-hop系譜と並行するブリストルのもう一本の根）・EP-77（LTJ Bukem / 同時期のLiquid DnB・ロンドン側）・EP-47（Metalheadz / Goldie Timeless：DnBの批評的認証の先行例）・EP-12（DnB進化）との直接接続。
+
 - EP-77 (2026-07-11): LTJ Bukem — 全員が暗闇へ走るとき、彼だけ光を選んだ。 — 本名Daniel Williamson（1967年9月20日生）、ウォットフォード（ハートフォードシャー）出身、出生後まもなく養子縁組・バプテスト系養父母に育てられる / 学校教師Nigel Crouchからジャズフュージョンを手渡される——以降のキャリア全体の音楽的土台 / 1980年代中頃（17歳）からソウルクラブ・レアグルーヴのオールデイズへ通い始め、1980年代後半DJへ転身 / 1990年デビュートラック「Logical Progression」制作 / 1991年Good Looking Records設立（ハーレスデン、ロンドン）/ 1993年「Music」リリース——Liquid DnBの原型・ジャンル名が存在しなかった時代 / 1994年10月Speed@Mars Bar（Charing Cross Road, London）を開始——Fabio＋MC Conrad（Conrad Thompson）とのトリオ体制・「踊るためだけでなく音楽を聴くための場所」という新しいクラブの在り方 / 1996年コンピ「Logical Progression」——Rolling Stone「その10年で最も重要なDnBリリースの2枚の1枚」（もう1枚はGoldie「Timeless」EP-47と双璧）/ Good Lookingアーティスト: Peshay・Aquarius（Photek）・Blu Mar Ten・Blame / EP-76 GrooveriderのTechstep（暗方向）との対として、Liquid/Atmospheric DnBという「光の周波数」を選んだ存在 / MC Conradは2024年4月享年52歳で死去 / EP-76（Fabio & Grooverider）・EP-47（Metalheadz/Goldie Timeless）・EP-12（DnB進化）との直接接続。
 
 - EP-76 (2026-07-10): Fabio & Grooverider — 毎週木曜、二人がドラムンベースを発明した。 — Fabio（本名Fitzroy Heslop）+ Grooverider（本名Raymond Bingham、1967年4月16日生・Streatham出身）/ 共にSouth Londonのパイレーツラジオ（Faze 1等）出身、ブリクストンのMendoza'sでハウスをプレイしコンビ結成 / 1991年、Heaven（London, Charing Cross Road）の週1木曜ナイト「Rage」にレジデント参加（Rageは1988年10月創設・Paul OakenfoldのSpectrumと同じ会場）/ ダブバージョン主体のセット——「下のフロアはA面とボーカル、うちらはピュアにダブバージョン」/ テクノとブレイクビートの実験が週ごとに進化: アシッドハウス→UKハードコア→"Dark Hardcore"→ジャングル→ドラムンベース / 常連客にGoldie・Kemistry & Storm（KemistryはGrooveriderに音楽の道を勧められた人物・1999年事故死）・Bailey・Doc Scott・Dillinja / Rage終幕1993年後半 / Grooveriderが「Hardstep」「Techstep」を命名・Prototype Records（1994年設立）がTechstepの主要レーベル / Kiss 100（1994–1997）→BBC Radio 1（1998–2012）14年間——DnBシーン史上最大リーチの番組 / 2007年11月24日Grooveriderがドバイ国際空港で大麻2.16g所持により逮捕、2008年2月懲役4年の判決→9月3日ラマダン恩赦で釈放→10月BBC Radio 1番組に復帰 / FabioはLiquid/Melodic DnB側・GrooveriderはDark/Techstep側——二人の対照がDnBというジャンルの幅の起源 / EP-11（Jungle）・EP-12（DnB）・EP-47（Metalheadz/Goldie）・EP-32（UK Pirate Radio）・EP-54（King Tubby/ダブの系譜）との直接接続。
@@ -95,6 +97,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 78 | Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった | ✅ Complete | 2026-07-12 | — |
 | 77 | LTJ Bukem — 全員が暗闇へ走るとき、彼だけ光を選んだ | ✅ Complete | 2026-07-11 | — |
 | 76 | Fabio & Grooverider — 毎週木曜、二人がドラムンベースを発明した | ✅ Complete | 2026-07-10 | — |
 | 75 | Goa Trance — 聖者がビーチで踊りを古代の儀式に書き換えた | ✅ Complete | 2026-06-29 | — |

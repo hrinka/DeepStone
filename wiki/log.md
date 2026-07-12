@@ -1,5 +1,8 @@
 # Wiki Log
 
+## [2026-07-12] EP-78 | Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった
+- Files: `rave-team/output/EP-78/carousel.md`, `rave-team/output/EP-78/research.md`, `wiki/sources/rave/EP-78 — 2026-07-12 — roni-size-reprazent.md`
+- Topic: Roni Size（本名Ryan Owen Granville Williams、1969年10月29日生、ブリストルSt. Andrews）/ 1993〜1994年DJ Krust・DJ Die・SuvとFull Cycle Records設立（ブリストル）/ Reprazent = プロデューサー3人＋MC Dynamite＋ボーカルOnallee＋ベーシストSi John＋ドラマーClive Deamer——DnBを「バンドのように機能するコレクティブ」として形成 / ブリストルSefton Park youth centreで録音 / 1997年6月23日「New Forms」リリース（Talkin' Loud / Mercury Records、Gilles Peterson主宰）/ "Brown Paper Bag"制作秘話: 電気メーターが切れDATサンプル消失→再制作 / 1997年8月28日Mercury Prize受賞（対抗馬: Radiohead「OK Computer」）——DnBとして初のMercury Prize・5倍白金 / Bristol soundsystem系譜（St. Paul's地区のレゲエ/ダブ文化）がDnBの土台 / EP-48 Bristol Sound（trip-hop=Massive Attack・Portisheadとは並行する「もう一本のブリストル」）・EP-77 LTJ Bukem（同時期のLiquid DnB/ロンドン側）・EP-47 Metalheadz（Goldie「Timeless」=DnB批評的正統性獲得の2年前の先行）と直接接続。
 ## [2026-07-12] aroma-POST-78 | テルペン・植物の防衛物質 — 香りが濃い日は、植物が戦っている（ハーブ菜園ピラー）
 - Files: `aroma-insta/output/POST-78/carousel.md`, `aroma-insta/output/POST-78/research.md`, `wiki/sources/aroma/aroma-POST-78-2026-07-12-terpene-plant-defense.md`
 - Topic: テルペン類（精油の主成分）= 植物の自己防衛物質。熱・UV・ROS（活性酸素）からの保護機能。気温上昇でモノテルペン放出量が指数関数的に増加（真夏に香りが濃い科学的理由）。グランデュラー・トリコーム（毛状腺体）= 精油を貯蔵する器官・葉の銀色の毛の正体・UV反射機能も担う。地中海ハーブ（ラベンダー・ローズマリー・セージ・タイム）の形態的適応戦略（銀白色・小葉・革質）。白魔女アングル: 「植物が自分を守るために作ったものが、私たちを守る。精油の波動は植物の生存の知恵の結晶」。科学三部作: POST-57夏至（テルペンが増える時期）→POST-63朝摘み（揮発前に受け取る）→POST-78（テルペンの根本原理）として接続。
