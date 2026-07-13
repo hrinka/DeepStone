@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-13] aroma-POST-79 | ユニバーサルイヤーナンバー 2026 = 1年 — 世界が、ページをめくった（数秘ピラー）
+- Files: `aroma-insta/output/POST-79/carousel.md`, `aroma-insta/output/POST-79/research.md`, `wiki/sources/aroma/aroma-POST-79-2026-07-13-universal-year-1.md`
+- Topic: ユニバーサルイヤーナンバー = 西暦の数字合計（全人類共通の9年サイクル）。2+0+2+6=10→1。個人のパーソナルイヤーとは別の「地球全体が向かう方向」。歴史的UY1の年: 1999年ユーロ誕生・2008年金融危機＋ビットコン白書・2017年#MeToo。9年サイクル: 1年（種）→9年（完了）→再び1。白魔女アングル「世界の風が『始まり』を向いているとき、地球全体があなたの背中を押している」。POST-31パーソナルイヤーの対として「個人の周期ではなく地球全体の周期」という新軸。
+
 ## [2026-07-12] EP-78 | Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった
 - Files: `rave-team/output/EP-78/carousel.md`, `rave-team/output/EP-78/research.md`, `wiki/sources/rave/EP-78 — 2026-07-12 — roni-size-reprazent.md`
 - Topic: Roni Size（本名Ryan Owen Granville Williams、1969年10月29日生、ブリストルSt. Andrews）/ 1993〜1994年DJ Krust・DJ Die・SuvとFull Cycle Records設立（ブリストル）/ Reprazent = プロデューサー3人＋MC Dynamite＋ボーカルOnallee＋ベーシストSi John＋ドラマーClive Deamer——DnBを「バンドのように機能するコレクティブ」として形成 / ブリストルSefton Park youth centreで録音 / 1997年6月23日「New Forms」リリース（Talkin' Loud / Mercury Records、Gilles Peterson主宰）/ "Brown Paper Bag"制作秘話: 電気メーターが切れDATサンプル消失→再制作 / 1997年8月28日Mercury Prize受賞（対抗馬: Radiohead「OK Computer」）——DnBとして初のMercury Prize・5倍白金 / Bristol soundsystem系譜（St. Paul's地区のレゲエ/ダブ文化）がDnBの土台 / EP-48 Bristol Sound（trip-hop=Massive Attack・Portisheadとは並行する「もう一本のブリストル」）・EP-77 LTJ Bukem（同時期のLiquid DnB/ロンドン側）・EP-47 Metalheadz（Goldie「Timeless」=DnB批評的正統性獲得の2年前の先行）と直接接続。
