@@ -1,5 +1,8 @@
 # Wiki Log
 
+## [2026-07-13] EP-79 | 4hero / Reinforced Records — ゴールディを育て、タイムストレッチを発明し、ジャングルをジャズに変えた
+- Files: `rave-team/output/EP-79/carousel.md`, `rave-team/output/EP-79/research.md`, `wiki/sources/rave/EP-79 — 2026-07-13 — 4hero-reinforced-records.md`
+- Topic: 4hero（Marc Mac + Dego McFarlane）Dollis Hill（North London）出身 / Strong Island FM海賊ラジオ→1989年Reinforced Records（RIVET）設立 / "Mr Kirk's Nightmare"（1990）初回1,000枚が1週末完売——レイブのダーク化を先駆け / DJ KemistryがゴールディをReinforcedに連れてきた→Marc MacとDegoがプロデュースを教える→Rufige Kru（"Darkrider" EP、RIVET 1224、1992年）→Goldie後にMetalheadz設立 / E-mu SP-950サンプラーでタイムストレッチ技術を発明——ジャングル/DnB音響進化の技術的基盤 / "Parallel Universe"（1994）= DnBをアルバム形式として成立させた最初期の作品 / "Two Pages"（1998, Talkin' Loud / Mercury）= ジャズ×DnBの到達点・Mercury Prize候補・UK38位・Terry Callier・Ursula Rucker参加・日本限定リミックス盤 / EP-47（Metalheadz/Goldie）・EP-78（Roni Size/Talkin' Loud）・EP-76（Fabio & Grooverider）・EP-11（Jungle誕生）・EP-50（Hardcore Continuum）・EP-32（Pirate Radio/Strong Island FM）と直接接続。
 ## [2026-07-13] aroma-POST-79 | ユニバーサルイヤーナンバー 2026 = 1年 — 世界が、ページをめくった（数秘ピラー）
 - Files: `aroma-insta/output/POST-79/carousel.md`, `aroma-insta/output/POST-79/research.md`, `wiki/sources/aroma/aroma-POST-79-2026-07-13-universal-year-1.md`
 - Topic: ユニバーサルイヤーナンバー = 西暦の数字合計（全人類共通の9年サイクル）。2+0+2+6=10→1。個人のパーソナルイヤーとは別の「地球全体が向かう方向」。歴史的UY1の年: 1999年ユーロ誕生・2008年金融危機＋ビットコン白書・2017年#MeToo。9年サイクル: 1年（種）→9年（完了）→再び1。白魔女アングル「世界の風が『始まり』を向いているとき、地球全体があなたの背中を押している」。POST-31パーソナルイヤーの対として「個人の周期ではなく地球全体の周期」という新軸。

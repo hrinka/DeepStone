@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-79 (2026-07-13): 4hero / Reinforced Records — ゴールディを育て、タイムストレッチを発明し、ジャングルをジャズに変えた。 — Marc Mac（Mark Clair）+ Dego McFarlane、Dollis Hill（North London）出身 / Strong Island FM（海賊ラジオ）出自→1989年Reinforced Records（RIVET）設立 / "Mr Kirk's Nightmare"（1990）初回1,000枚が1週末で完売・ジャングルのダーク化の出発点 / DJ KemistryがゴールディをReinforcedに連れてきた→Marc MacとDegoがプロデュースを教える→Rufige Kru名義（"Darkrider" EP、RIVET 1224、1992年）→GoldieはMetalheadz設立へ（EP-47） / E-mu SP-950でタイムストレッチ技術を発明——ジャングル/DnBの音響的進化の技術基盤 / "Parallel Universe"（1994）= DnBをアルバム形式として最初に成立させた試み / "Two Pages"（1998、Talkin' Loud）= ジャズ×DnB・Mercury Prize候補・日本限定リミックス盤 / EP-47（Metalheadz）・EP-78（Roni Size/Talkin' Loud）・EP-11（Jungle）・EP-50（Hardcore Continuum）・EP-32（Pirate Radio）との直接接続。
+
 - EP-78 (2026-07-12): Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった。 — 本名Ryan Owen Granville Williams（1969年10月29日生）、ブリストルSt. Andrews出身 / 1993〜1994年DJ Krust・DJ Die・SuvとFull Cycle Records設立（ブリストル）/ Reprazent = DJプロデューサー3人（Roni Size・Krust・Die）＋Suv＋MC Dynamite＋ボーカルOnallee＋ベーシストSi John＋ドラマーClive Deamer——「バンドのように機能するDnBコレクティブ」/ ブリストルSefton Park youth centreで録音（Talkin' Loud / Mercury Records、Gilles Peterson主宰）/ 1997年6月23日「New Forms」リリース / "Brown Paper Bag"制作中に電気メーターが切れDATサンプル消失→Dynamite MCと深夜に再制作 / 1997年8月28日Mercury Prize受賞、対抗馬はRadiohead「OK Computer」——DnBとして初・唯一のMercury Prize・5倍白金 / EP-48（Bristol Sound / trip-hop系譜と並行するブリストルのもう一本の根）・EP-77（LTJ Bukem / 同時期のLiquid DnB・ロンドン側）・EP-47（Metalheadz / Goldie Timeless：DnBの批評的認証の先行例）・EP-12（DnB進化）との直接接続。
 
 - EP-77 (2026-07-11): LTJ Bukem — 全員が暗闇へ走るとき、彼だけ光を選んだ。 — 本名Daniel Williamson（1967年9月20日生）、ウォットフォード（ハートフォードシャー）出身、出生後まもなく養子縁組・バプテスト系養父母に育てられる / 学校教師Nigel Crouchからジャズフュージョンを手渡される——以降のキャリア全体の音楽的土台 / 1980年代中頃（17歳）からソウルクラブ・レアグルーヴのオールデイズへ通い始め、1980年代後半DJへ転身 / 1990年デビュートラック「Logical Progression」制作 / 1991年Good Looking Records設立（ハーレスデン、ロンドン）/ 1993年「Music」リリース——Liquid DnBの原型・ジャンル名が存在しなかった時代 / 1994年10月Speed@Mars Bar（Charing Cross Road, London）を開始——Fabio＋MC Conrad（Conrad Thompson）とのトリオ体制・「踊るためだけでなく音楽を聴くための場所」という新しいクラブの在り方 / 1996年コンピ「Logical Progression」——Rolling Stone「その10年で最も重要なDnBリリースの2枚の1枚」（もう1枚はGoldie「Timeless」EP-47と双璧）/ Good Lookingアーティスト: Peshay・Aquarius（Photek）・Blu Mar Ten・Blame / EP-76 GrooveriderのTechstep（暗方向）との対として、Liquid/Atmospheric DnBという「光の周波数」を選んだ存在 / MC Conradは2024年4月享年52歳で死去 / EP-76（Fabio & Grooverider）・EP-47（Metalheadz/Goldie Timeless）・EP-12（DnB進化）との直接接続。
@@ -97,6 +99,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 79 | 4hero / Reinforced Records — ゴールディを育て、タイムストレッチを発明し、ジャングルをジャズに変えた | ✅ Complete | 2026-07-13 | — |
 | 78 | Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった | ✅ Complete | 2026-07-12 | — |
 | 77 | LTJ Bukem — 全員が暗闇へ走るとき、彼だけ光を選んだ | ✅ Complete | 2026-07-11 | — |
 | 76 | Fabio & Grooverider — 毎週木曜、二人がドラムンベースを発明した | ✅ Complete | 2026-07-10 | — |
