@@ -1,0 +1,96 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": [
+        "They Didn't Just Make Jungle.",
+        "They Invented the Tool That Made It."
+      ],
+      "sub": "4hero — the quiet architects of everything you think you know about DnB."
+    },
+    {
+      "type": "body",
+      "text": [
+        "North London. Dollis Hill.",
+        "Two teenagers on a pirate radio.",
+        "Mark Clair. Denis McFarlane.",
+        "They called themselves 4hero.",
+        "No one knew them yet."
+      ],
+      "sub": "Strong Island FM. Late 1980s."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1989.",
+        "They started Reinforced Records",
+        "out of a North London flat.",
+        "Catalog code: RIVET.",
+        "No distributor.",
+        "Records pressed and sold by hand."
+      ],
+      "sub": "The first releases: their own music."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1990. 'Mr Kirk's Nightmare.'",
+        "A phone call.",
+        "A father learning his son",
+        "died of an overdose at a rave.",
+        "1,000 copies. Gone in a weekend.",
+        "Another 1,000. Gone again."
+      ],
+      "sub": "Something in the dark resonated."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Goldie came through the door.",
+        "Kemistry brought him.",
+        "Marc and Dego gave him studio time.",
+        "They taught him to produce.",
+        "First result: Rufige Kru.",
+        "Next result: Metalheadz."
+      ],
+      "sub": "The quiet mentorship that changed DnB."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Time-stretching came about",
+        "when me and Dego sat down one day",
+        "with a 950 sampler."
+      ],
+      "note": "— Marc Mac (RBMA). The technique that made Jungle possible."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1994. 'Parallel Universe.'",
+        "Science fiction. Stephen Hawking.",
+        "Time. Space. Bass.",
+        "The first album to show",
+        "what drum and bass could be."
+      ],
+      "sub": "Jungle had grown into something you could listen to start to finish."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "1998. 'Two Pages.'",
+        "Mercury Prize shortlist.",
+        "A Japan-only remix album —",
+        "because Japan understood it first.",
+        "The two men from Dollis Hill",
+        "had taken a rave record",
+        "all the way to the country's",
+        "most respected music prize."
+      ],
+      "strobe": "They never stopped building.",
+      "cta": "Save this."
+    }
+  ]
+}
