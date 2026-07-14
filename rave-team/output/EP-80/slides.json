@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["THE TRACK THAT", "COMPLETED JUNGLE"],
+      "sub": "SHY FX & UK APACHE / SEPTEMBER 1994"
+    },
+    {
+      "type": "body",
+      "text": ["His grandfather — Count Shelley —", "ran Third World Sound System."],
+      "sub": "Home blues parties. Stacks of vinyl. Bass you felt in the floor. Andre Williams grew up inside that frequency. Before he touched a drum machine, he already knew the weight of bass."
+    },
+    {
+      "type": "body",
+      "text": ["Mad Professor taught him", "how to use silence."],
+      "sub": "Before 'Original Nuttah', Andre apprenticed at Ariwa Studios under Mad Professor — the dub producer who fused reggae and technology into something alien. He learned to build space inside a track. That knowledge became jungle."
+    },
+    {
+      "type": "body",
+      "text": ["The voice came from", "everywhere at once."],
+      "sub": "UK Apache. Iraqi father. Indian South African mother. Born and raised in London. Jamaican neighbors introduced him to soundsystem, dub, roots reggae. He took the culture in and made it his own."
+    },
+    {
+      "type": "body",
+      "text": ["One afternoon in Victoria.", "They matched."],
+      "sub": "UK Apache heard Shy FX's 'Gangsta Kid'. He walked in with lyrics written years before. 'Original Nuttah' was made. September 1994. SOUR Records. A 12-inch. 45 RPM. Underground. No promo budget."
+    },
+    {
+      "type": "body",
+      "text": ["Amen Break past 160 BPM.", "Sub-bass. Ragga vocals."],
+      "sub": "Jamaica. India. Iraq. South London — fused into one frequency. This was ragga jungle: soundsystem bass meeting dancehall at breakneck speed over chopped breaks."
+    },
+    {
+      "type": "quote",
+      "quote": ["People were trying to cheat me.", "I had no one to trust.", "It was too much pressure."],
+      "note": "— UK Apache, on walking away at the peak"
+    },
+    {
+      "type": "cta",
+      "text": ["The record was always", "ahead of the room."],
+      "strobe": "Rolling Stone: 200 Greatest Dance Songs of All Time — 2022",
+      "cta": "Save this."
+    }
+  ]
+}
