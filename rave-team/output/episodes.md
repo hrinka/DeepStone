@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-80 (2026-07-14): Shy FX & UK Apache — サウンドシステムの血、ジャングルが頂点に達した日。 — 本名Andre Williams / 祖父Count Shelley（Shelley Barrett）= Third World Sound System主宰・ロンドン先駆的レゲエ・サウンドシステム運営者 / Ariwa Studios で Mad Professor のもとでスタジオ修行 / 1992年「Jungle Love」（Permission to Dance）デビュー / UK Apache（本名Abdul Wahab）= イラク人の父×インド南アフリカ人の母のムスリム家庭・ロンドン黒人コミュニティでDub・サウンドシステム習得 / 1994年9月、ヴィクトリアのスタジオで「Original Nuttah」を一日で完成（Shy FXの「Gangsta Kid」に1980年代後半に書いた歌詞を乗せた）/ SOUR Records 12インチ45RPM / UK Singles Chart #39（1994年10月）・欧州100万枚超 / ジャングルが全国チャートに入った最も早い事例のひとつ / ピーク直後にUK Apacheは「裏切られた感覚と信頼できる人のなさ」を理由に撤退 / 2022年Rolling Stone「200 Greatest Dance Songs of All Time」選出 / 2001年「Shake Ur Body」（T Power feat. Di）UK #7 / 2005年Digital Soundboy Recordings設立 / EP-54（King Tubby）・EP-64（Jah Shaka）・EP-11（Jungle誕生）・EP-50（Hardcore Continuum）・EP-43（ノッティングヒル・多文化ロンドン）との直接接続。
+
 - EP-79 (2026-07-13): 4hero / Reinforced Records — ゴールディを育て、タイムストレッチを発明し、ジャングルをジャズに変えた。 — Marc Mac（Mark Clair）+ Dego McFarlane、Dollis Hill（North London）出身 / Strong Island FM（海賊ラジオ）出自→1989年Reinforced Records（RIVET）設立 / "Mr Kirk's Nightmare"（1990）初回1,000枚が1週末で完売・ジャングルのダーク化の出発点 / DJ KemistryがゴールディをReinforcedに連れてきた→Marc MacとDegoがプロデュースを教える→Rufige Kru名義（"Darkrider" EP、RIVET 1224、1992年）→GoldieはMetalheadz設立へ（EP-47） / E-mu SP-950でタイムストレッチ技術を発明——ジャングル/DnBの音響的進化の技術基盤 / "Parallel Universe"（1994）= DnBをアルバム形式として最初に成立させた試み / "Two Pages"（1998、Talkin' Loud）= ジャズ×DnB・Mercury Prize候補・日本限定リミックス盤 / EP-47（Metalheadz）・EP-78（Roni Size/Talkin' Loud）・EP-11（Jungle）・EP-50（Hardcore Continuum）・EP-32（Pirate Radio）との直接接続。
 
 - EP-78 (2026-07-12): Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった。 — 本名Ryan Owen Granville Williams（1969年10月29日生）、ブリストルSt. Andrews出身 / 1993〜1994年DJ Krust・DJ Die・SuvとFull Cycle Records設立（ブリストル）/ Reprazent = DJプロデューサー3人（Roni Size・Krust・Die）＋Suv＋MC Dynamite＋ボーカルOnallee＋ベーシストSi John＋ドラマーClive Deamer——「バンドのように機能するDnBコレクティブ」/ ブリストルSefton Park youth centreで録音（Talkin' Loud / Mercury Records、Gilles Peterson主宰）/ 1997年6月23日「New Forms」リリース / "Brown Paper Bag"制作中に電気メーターが切れDATサンプル消失→Dynamite MCと深夜に再制作 / 1997年8月28日Mercury Prize受賞、対抗馬はRadiohead「OK Computer」——DnBとして初・唯一のMercury Prize・5倍白金 / EP-48（Bristol Sound / trip-hop系譜と並行するブリストルのもう一本の根）・EP-77（LTJ Bukem / 同時期のLiquid DnB・ロンドン側）・EP-47（Metalheadz / Goldie Timeless：DnBの批評的認証の先行例）・EP-12（DnB進化）との直接接続。
@@ -99,6 +101,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 80 | Shy FX & UK Apache — サウンドシステムの血、ジャングルが頂点に達した日 | ✅ Complete | 2026-07-14 | — |
 | 79 | 4hero / Reinforced Records — ゴールディを育て、タイムストレッチを発明し、ジャングルをジャズに変えた | ✅ Complete | 2026-07-13 | — |
 | 78 | Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった | ✅ Complete | 2026-07-12 | — |
 | 77 | LTJ Bukem — 全員が暗闇へ走るとき、彼だけ光を選んだ | ✅ Complete | 2026-07-11 | — |
