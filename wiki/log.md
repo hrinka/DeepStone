@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-15] POST-81 | 菌根菌ネットワーク（Wood Wide Web）— 根の下で、植物は話していた
+- Files: `aroma-insta/output/POST-81/carousel.md`, `aroma-insta/output/POST-81/research.md`, `wiki/sources/aroma/aroma-POST-81-2026-07-15-mycorrhizal-network.md`
+- Topic: ハーブ菜園ピラー / 菌根菌（AMF）= 根と共生する土壌菌類・根の吸収面積を数百倍に拡大 / Lamiaceae（シソ科）=ラベンダー・ローズマリー・タイムがAMFと特に高い親和性を持つ / AMF接種でラベンダー精油収量+88%・タイム+21〜74%（MDPI Agronomy 2022）/ ローズマリーのテルペン合成酵素発現が全品種で大幅増加（PMC9959559, 2023）/ Wood Wide Web = 1997年Suzanne Simard命名・白樺とダグラスファーが菌糸経由で炭素交換することを実証 / マザーツリー（母樹）= 最大の木が菌糸ネットワークのハブとなり苗木を養う / 菌糸の電気信号は50語以上の語彙に匹敵する複雑さ / 白魔女アングル: 「根の下で植物は話していた。聞こえないだけで、ずっと繋がっていた。見えないものが、一番大切なものを作っている」/ POST-75（M. vaccae / 土の精霊）・POST-78（テルペン防衛物質）・POST-54（コンパニオンプランティング）と接続。
+
 ## [2026-07-14] EP-80 | Shy FX & UK Apache — サウンドシステムの血、ジャングルが頂点に達した日
 - Files: `rave-team/output/EP-80/carousel.md`, `rave-team/output/EP-80/research.md`, `wiki/sources/rave/EP-80 — 2026-07-14 — shy-fx-uk-apache-original-nuttah.md`
 - Topic: Shy FX（本名Andre Williams）/ 祖父Count Shelley = Third World Sound System主宰——ロンドン先駆的レゲエ・サウンドシステム運営者 / Ariwa Studios で Mad Professor のもとでスタジオ修行 / 1992年「Jungle Love」（Permission to Dance）デビュー / UK Apache（本名Abdul Wahab）= イラク人の父×インド南アフリカ人の母のムスリム家庭・ロンドン黒人コミュニティでDub・サウンドシステム習得 / 1994年9月、ヴィクトリアのスタジオで「Original Nuttah」を一日で完成——Shy FXの「Gangsta Kid」（Goodfellasサンプリング）に1980年代後半に書いた歌詞を乗せた / SOUR Records 12インチ45RPM / UK Singles Chart #39（1994年10月）・欧州100万枚超 / ジャングルが全国チャートに入った最も早い事例のひとつ / ピーク後にUK Apacheは「裏切られた感覚と信頼できる人のなさ」を理由に撤退 / 2022年Rolling Stone「200 Greatest Dance Songs of All Time」選出 / 2001年「Shake Ur Body」（T Power feat. Di）UK #7 / 2005年Digital Soundboy Recordings設立 / EP-54（King Tubby / Count Shelleyと同時代のサウンドシステム創造者）・EP-64（Jah Shaka / ジャマイカ系ディアスポラの精神的継承）・EP-11（Jungle誕生）・EP-50（Hardcore Continuum）と直接接続。
