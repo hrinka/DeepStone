@@ -1,0 +1,85 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["THE MAN WHO", "NAMED THE JUNGLE"],
+      "sub": "He had the UK Top 3. He walked away."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Islington, 1964.",
+        "Michael Alec Anthony West.",
+        "Jamaican father. Welsh mother.",
+        "The roots were already tangled."
+      ],
+      "sub": "Born in north London."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1989. Street Tuff.",
+        "UK Singles Chart — #3.",
+        "Top of the Pops.",
+        "The mainstream had him.",
+        "He did not belong there."
+      ],
+      "sub": "Double Trouble / Desire Records"
+    },
+    {
+      "type": "body",
+      "text": [
+        "Black Meaning Good — 1991.",
+        "Dennis Brown. Barrington Levy. Tenor Fly.",
+        "Reggae voices — into the rave.",
+        "No one had done this.",
+        "No one knew what to call it yet."
+      ],
+      "sub": "The second album. Everything changed."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Tribal Base.",
+        "Breakbeats. Sub-bass. Reggae chant.",
+        "People started calling it jungle.",
+        "They meant it as a slur.",
+        "He kept the word anyway."
+      ],
+      "sub": "BBC2 Dance Energy. The word spread."
+    },
+    {
+      "type": "body",
+      "text": [
+        "No label. No interview. No photo.",
+        "Just white labels.",
+        "Just the sound.",
+        "He built his own system.",
+        "From scratch."
+      ],
+      "sub": "X Project / Congo Natty Records — 1992"
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Pirate radio played it every night.",
+        "No one needed a press release.",
+        "This is what underground means."
+      ],
+      "note": "Tribe of Issachar feat. Peter Bouncer — Junglist (1996)"
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Jungle Revolution — 2013.",
+        "Mixed by Adrian Sherwood.",
+        "Young Warrior — son of Jah Shaka.",
+        "The roots keep growing."
+      ],
+      "strobe": "PLUR SYSTEM DIARY",
+      "cta": "Save this. You will need it."
+    }
+  ]
+}
