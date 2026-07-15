@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-15] EP-81 | Congo Natty (Rebel MC) — ヒットチャートを捨てた男がジャングルという言葉を与えた
+- Files: `rave-team/output/EP-81/carousel.md`, `rave-team/output/EP-81/research.md`, `wiki/sources/rave/EP-81 — 2026-07-15 — congo-natty-rebel-mc.md`
+- Topic: 本名Michael Alec Anthony West（1964年8月27日、Islington）ジャマイカ人の父×ウェールズ人の母 / Double Trouble「Street Tuff」（1989年）UK Singles Chart #3・Top of the Pops出演（Desire/CBS）/ 1991年セカンドアルバム「Black Meaning Good」でDennis Brown・Barrington Levy・Tenor Flyをレイブ環境に引き込む——「Tribal Base」はジャングル命名以前の最重要曲のひとつ / 「ジャングル」という言葉を広めた人物として記録される / X Project白レーベル（1993年）/ 1992年Tribal Bassレーベル設立→Congo Natty Recordsへ移行 / 1994年ラスタファライ改宗・霊名Mikail Tafari / Conquering Lion名義「Code Red」（feat. Super Cat & Reggie Stepper、Mango Records、1994年）/ Blackstar名義「Champion DJ」（feat. Top Cat、1995年）/ Tribe of Issachar名義「Junglist」（feat. Peter Bouncer、Congo Natty Records、1996年公式リリース）/ 2013年「Jungle Revolution」（Big Dada Records）——Young Warrior（Jah Shakaの息子）・Adrian Sherwood（On-U Sound）ミックス / EP-54（King Tubby）・EP-64（Jah Shaka）・EP-71（Adrian Sherwood）・EP-80（Shy FX/同時代ジャングル）・EP-32（Pirate Radio）との直接接続。
+
 ## [2026-07-15] POST-81 | 菌根菌ネットワーク（Wood Wide Web）— 根の下で、植物は話していた
 - Files: `aroma-insta/output/POST-81/carousel.md`, `aroma-insta/output/POST-81/research.md`, `wiki/sources/aroma/aroma-POST-81-2026-07-15-mycorrhizal-network.md`
 - Topic: ハーブ菜園ピラー / 菌根菌（AMF）= 根と共生する土壌菌類・根の吸収面積を数百倍に拡大 / Lamiaceae（シソ科）=ラベンダー・ローズマリー・タイムがAMFと特に高い親和性を持つ / AMF接種でラベンダー精油収量+88%・タイム+21〜74%（MDPI Agronomy 2022）/ ローズマリーのテルペン合成酵素発現が全品種で大幅増加（PMC9959559, 2023）/ Wood Wide Web = 1997年Suzanne Simard命名・白樺とダグラスファーが菌糸経由で炭素交換することを実証 / マザーツリー（母樹）= 最大の木が菌糸ネットワークのハブとなり苗木を養う / 菌糸の電気信号は50語以上の語彙に匹敵する複雑さ / 白魔女アングル: 「根の下で植物は話していた。聞こえないだけで、ずっと繋がっていた。見えないものが、一番大切なものを作っている」/ POST-75（M. vaccae / 土の精霊）・POST-78（テルペン防衛物質）・POST-54（コンパニオンプランティング）と接続。

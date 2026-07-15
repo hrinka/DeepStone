@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-81 (2026-07-15): Congo Natty (Rebel MC) — ヒットチャートを捨てた男がジャングルという言葉を与えた。 — 本名Michael Alec Anthony West（1964年8月27日生、Islington, London）ジャマイカ人の父×ウェールズ人の母 / Double Trouble「Street Tuff」（1989年）UK Singles Chart #3・Top of the Pops出演（Desire/CBS）/ 1991年セカンドアルバム「Black Meaning Good」でDennis Brown・Barrington Levy・Tenor Flyをレイブ環境に引き込む——「Tribal Base」（feat. Barrington Levy & Tenor Fly）はジャングル命名以前の最重要曲のひとつ / 「ジャングル」という言葉を広めた人物として複数の資料に記録される / X Project（1993年）白レーベル実験 / Tribal Bass レーベル（1992年）→ Congo Natty Records へ移行 / 1994年ラスタファライ改宗・霊名Mikail Tafari / Conquering Lion 名義「Code Red」（feat. Super Cat & Reggie Stepper、Mango Records / Island Records、1994年）/ Blackstar 名義「Champion DJ」（feat. Top Cat、1995年）/ Tribe of Issachar 名義「Junglist」（feat. Peter Bouncer、Congo Natty Records、**1996年**公式リリース）/ 2013年「Jungle Revolution」（Big Dada Records）——Young Warrior（Jah Shakaの息子）・Adrian Sherwood（On-U Sound）ミックス / EP-54（King Tubby）・EP-64（Jah Shaka）・EP-71（Adrian Sherwood）・EP-80（Shy FX/同時代ジャングル）・EP-32（Pirate Radio）との直接接続。
+
 - EP-80 (2026-07-14): Shy FX & UK Apache — サウンドシステムの血、ジャングルが頂点に達した日。 — 本名Andre Williams / 祖父Count Shelley（Shelley Barrett）= Third World Sound System主宰・ロンドン先駆的レゲエ・サウンドシステム運営者 / Ariwa Studios で Mad Professor のもとでスタジオ修行 / 1992年「Jungle Love」（Permission to Dance）デビュー / UK Apache（本名Abdul Wahab）= イラク人の父×インド南アフリカ人の母のムスリム家庭・ロンドン黒人コミュニティでDub・サウンドシステム習得 / 1994年9月、ヴィクトリアのスタジオで「Original Nuttah」を一日で完成（Shy FXの「Gangsta Kid」に1980年代後半に書いた歌詞を乗せた）/ SOUR Records 12インチ45RPM / UK Singles Chart #39（1994年10月）・欧州100万枚超 / ジャングルが全国チャートに入った最も早い事例のひとつ / ピーク直後にUK Apacheは「裏切られた感覚と信頼できる人のなさ」を理由に撤退 / 2022年Rolling Stone「200 Greatest Dance Songs of All Time」選出 / 2001年「Shake Ur Body」（T Power feat. Di）UK #7 / 2005年Digital Soundboy Recordings設立 / EP-54（King Tubby）・EP-64（Jah Shaka）・EP-11（Jungle誕生）・EP-50（Hardcore Continuum）・EP-43（ノッティングヒル・多文化ロンドン）との直接接続。
 
 - EP-79 (2026-07-13): 4hero / Reinforced Records — ゴールディを育て、タイムストレッチを発明し、ジャングルをジャズに変えた。 — Marc Mac（Mark Clair）+ Dego McFarlane、Dollis Hill（North London）出身 / Strong Island FM（海賊ラジオ）出自→1989年Reinforced Records（RIVET）設立 / "Mr Kirk's Nightmare"（1990）初回1,000枚が1週末で完売・ジャングルのダーク化の出発点 / DJ KemistryがゴールディをReinforcedに連れてきた→Marc MacとDegoがプロデュースを教える→Rufige Kru名義（"Darkrider" EP、RIVET 1224、1992年）→GoldieはMetalheadz設立へ（EP-47） / E-mu SP-950でタイムストレッチ技術を発明——ジャングル/DnBの音響的進化の技術基盤 / "Parallel Universe"（1994）= DnBをアルバム形式として最初に成立させた試み / "Two Pages"（1998、Talkin' Loud）= ジャズ×DnB・Mercury Prize候補・日本限定リミックス盤 / EP-47（Metalheadz）・EP-78（Roni Size/Talkin' Loud）・EP-11（Jungle）・EP-50（Hardcore Continuum）・EP-32（Pirate Radio）との直接接続。
@@ -101,6 +103,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 81 | Congo Natty (Rebel MC) — ヒットチャートを捨てた男がジャングルという言葉を与えた | ✅ Complete | 2026-07-15 | — |
 | 80 | Shy FX & UK Apache — サウンドシステムの血、ジャングルが頂点に達した日 | ✅ Complete | 2026-07-14 | — |
 | 79 | 4hero / Reinforced Records — ゴールディを育て、タイムストレッチを発明し、ジャングルをジャズに変えた | ✅ Complete | 2026-07-13 | — |
 | 78 | Roni Size / Reprazent — OK Computerに勝った夜、DnBはバンドだった | ✅ Complete | 2026-07-12 | — |
