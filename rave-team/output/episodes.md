@@ -9,6 +9,8 @@
 
 ## Episodes
 
+- EP-82 (2026-07-16): Andy C / Ram Records — 16歳で始めたレーベルが、ドラムンベースの神話を作った。 — 本名Andrew Michael Clarke（1976年4月7日生、Hornchurch, Essex）/ 1992年GCSEを終えた翌週に叔父から£1,000を借り、妹がキッチンテーブルで手書きしたロゴでRAM Records設立——命名は星座・牡羊座（Aries）の「RAM」から / 共同設立はAnt Miles（後のOrigin Unknown名義のパートナー）/ 3作目「Valley of the Shadows」（Origin Unknown名義、1993年）= Darkcore/初期Drum & Bassの定義曲——ドラムはFuture Music誌の付録フリーCD・NASAの1985年カウントダウン音声「31 seconds」・BBCのQED「臨死体験」ドキュメンタリーの台詞・Think Breakタイムストレッチを素材に使用、A面「The Touch」を超える人気で1996年スタンドアローン再発 / Double Dropテクニック: 3台ターンテーブルで2曲を同時ドロップ、2曲が「第3の曲」を生む / Drum & Bass Arena「Best DnB DJ」2009〜2018年の10年連続受賞 / 2018年Wembley Arena単独ヘッドライン——DnBアーティスト史上初 / RAM Records 30年超の歩み: Chase & Status・Sub Focus・Delta Heavy・Wilkinson・Loadstarを輩出、Sub-labels Program（ディープ）・Frequency（実験）展開、ビジネスパートナーScott Bourne（Red One）/ EP-11（Jungle誕生/Darkcoreの起点）・EP-12（DnB進化）・EP-47（Metalheadz/同時代Essex対South London）・EP-76（Fabio & Grooverider/Rage@HeavenのDarkcore文脈）・EP-79（4hero / Reinforced Records/同世代インディペンデントDnBレーベル）との直接接続。
+
 - EP-81 (2026-07-15): Congo Natty (Rebel MC) — ヒットチャートを捨てた男がジャングルという言葉を与えた。 — 本名Michael Alec Anthony West（1964年8月27日生、Islington, London）ジャマイカ人の父×ウェールズ人の母 / Double Trouble「Street Tuff」（1989年）UK Singles Chart #3・Top of the Pops出演（Desire/CBS）/ 1991年セカンドアルバム「Black Meaning Good」でDennis Brown・Barrington Levy・Tenor Flyをレイブ環境に引き込む——「Tribal Base」（feat. Barrington Levy & Tenor Fly）はジャングル命名以前の最重要曲のひとつ / 「ジャングル」という言葉を広めた人物として複数の資料に記録される / X Project（1993年）白レーベル実験 / Tribal Bass レーベル（1992年）→ Congo Natty Records へ移行 / 1994年ラスタファライ改宗・霊名Mikail Tafari / Conquering Lion 名義「Code Red」（feat. Super Cat & Reggie Stepper、Mango Records / Island Records、1994年）/ Blackstar 名義「Champion DJ」（feat. Top Cat、1995年）/ Tribe of Issachar 名義「Junglist」（feat. Peter Bouncer、Congo Natty Records、**1996年**公式リリース）/ 2013年「Jungle Revolution」（Big Dada Records）——Young Warrior（Jah Shakaの息子）・Adrian Sherwood（On-U Sound）ミックス / EP-54（King Tubby）・EP-64（Jah Shaka）・EP-71（Adrian Sherwood）・EP-80（Shy FX/同時代ジャングル）・EP-32（Pirate Radio）との直接接続。
 
 - EP-80 (2026-07-14): Shy FX & UK Apache — サウンドシステムの血、ジャングルが頂点に達した日。 — 本名Andre Williams / 祖父Count Shelley（Shelley Barrett）= Third World Sound System主宰・ロンドン先駆的レゲエ・サウンドシステム運営者 / Ariwa Studios で Mad Professor のもとでスタジオ修行 / 1992年「Jungle Love」（Permission to Dance）デビュー / UK Apache（本名Abdul Wahab）= イラク人の父×インド南アフリカ人の母のムスリム家庭・ロンドン黒人コミュニティでDub・サウンドシステム習得 / 1994年9月、ヴィクトリアのスタジオで「Original Nuttah」を一日で完成（Shy FXの「Gangsta Kid」に1980年代後半に書いた歌詞を乗せた）/ SOUR Records 12インチ45RPM / UK Singles Chart #39（1994年10月）・欧州100万枚超 / ジャングルが全国チャートに入った最も早い事例のひとつ / ピーク直後にUK Apacheは「裏切られた感覚と信頼できる人のなさ」を理由に撤退 / 2022年Rolling Stone「200 Greatest Dance Songs of All Time」選出 / 2001年「Shake Ur Body」（T Power feat. Di）UK #7 / 2005年Digital Soundboy Recordings設立 / EP-54（King Tubby）・EP-64（Jah Shaka）・EP-11（Jungle誕生）・EP-50（Hardcore Continuum）・EP-43（ノッティングヒル・多文化ロンドン）との直接接続。
@@ -103,6 +105,7 @@
 
 | EP | Title | Status | Produced | Published |
 |----|-------|--------|----------|-----------|
+| 82 | Andy C / Ram Records — 16歳で始めたレーベルが、ドラムンベースの神話を作った | ✅ Complete | 2026-07-16 | — |
 | 81 | Congo Natty (Rebel MC) — ヒットチャートを捨てた男がジャングルという言葉を与えた | ✅ Complete | 2026-07-15 | — |
 | 80 | Shy FX & UK Apache — サウンドシステムの血、ジャングルが頂点に達した日 | ✅ Complete | 2026-07-14 | — |
 | 79 | 4hero / Reinforced Records — ゴールディを育て、タイムストレッチを発明し、ジャングルをジャズに変えた | ✅ Complete | 2026-07-13 | — |
