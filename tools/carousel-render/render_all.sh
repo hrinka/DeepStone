@@ -8,6 +8,7 @@
 set -e
 REPO="$(cd "$(dirname "$0")/../.." && pwd)"
 PY="$HOME/.claude/skills/nano-banana/venv/bin/python"
+[ -x "$PY" ] || PY="$(command -v python3 || command -v python)"
 RENDER="$REPO/tools/carousel-render/render.py"
 SCAN="${1:-$REPO}"
 
