@@ -1,0 +1,85 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["200 BREAKS.", "10 USABLE."],
+      "sub": "That was Photek's rule."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Rupert Parkes.",
+        "Born in St Albans. Obsessed with hip hop.",
+        "He never planned to make drum and bass.",
+        "He planned to make music",
+        "that moved like a body."
+      ],
+      "sub": "He bought his first sampler with a £2,000 Prince's Trust loan."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1993. He starts releasing tracks",
+        "under aliases no one knew.",
+        "Aquarius. Studio Pressure. The Sentinel.",
+        "Over 80 tracks. Six labels.",
+        "No one knew it was the same person."
+      ],
+      "sub": "He was building a technique in the dark."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1995. Metalheadz.",
+        "'Natural Born Killa' EP.",
+        "People heard it and didn't understand",
+        "how the drums were made."
+      ],
+      "sub": "They still don't, fully."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "He named his tracks after samurai.",
+        "'The Seven Samurai.'",
+        "'Ni-Ten-Ichi-Ryu.'",
+        "Two heavens, one technique.",
+        "Miyamoto Musashi's two-sword style —",
+        "translated into drum programming."
+      ],
+      "note": "The music was a dojo."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "'When hundreds of samurai are moving",
+        "in wooden armour —",
+        "I'd make that out of something else",
+        "to imitate that sound.'"
+      ],
+      "note": "He ran noises through delays. Re-sampled them. Rebuilt percussion from shadow."
+    },
+    {
+      "type": "body",
+      "text": [
+        "September 1997. 'Modus Operandi.'",
+        "UK Albums Chart: #30.",
+        "The samurai had reached the peak.",
+        "So he put the sword down."
+      ],
+      "sub": "2000. He left drum and bass. Moved to Los Angeles. Retreated to the underground."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "The greatest DnB album of the '90s",
+        "was made by a man who refused",
+        "to stay in drum and bass."
+      ],
+      "strobe": "Master it. Then move on.",
+      "cta": "Save this."
+    }
+  ]
+}

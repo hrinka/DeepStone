@@ -1,0 +1,86 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["THE YOUNGEST LABEL", "IN DRUM & BASS"],
+      "sub": "He was 16. His sister drew the logo on the kitchen table."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1992. Hornchurch, Essex.",
+        "One week after his GCSEs finished,",
+        "Andy C borrowed £1,000 from his uncle.",
+        "His sister drew a ram on a piece of paper.",
+        "RAM Records was born."
+      ],
+      "sub": "He was 16 years old."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The name came from his star sign.",
+        "Aries. The ram.",
+        "No distributor. No budget.",
+        "A bedroom in Essex."
+      ],
+      "sub": "The third record they pressed became the anthem of a generation."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Valley of the Shadows.",
+        "Origin Unknown. Andy C + Ant Miles.",
+        "RAM Records, 1993.",
+        "Drums from a free CD in a magazine.",
+        "The voice — a BBC documentary",
+        "on near-death experiences.",
+        "The countdown — NASA, 1985."
+      ],
+      "sub": "\"31 seconds.\" Nobody was ready for it."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Before Valley of the Shadows,",
+        "rave music wanted to make you happy.",
+        "This track made you feel",
+        "something you couldn't name."
+      ],
+      "note": "Sparse. Ominous. No euphoria. Just weight. That was darkcore. That was the beginning of drum and bass."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The Double Drop.",
+        "Three turntables. Two tracks.",
+        "Both landing at the exact same moment.",
+        "When it works, they stop being two songs.",
+        "They become something else entirely."
+      ],
+      "sub": "Andy C won Best DnB DJ every year from 2009 to 2018. Ten years in a row."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Ram Records. 30+ years.",
+        "Chase & Status. Sub Focus. Wilkinson.",
+        "Delta Heavy. Loadstar.",
+        "2018 — Andy C headlined Wembley Arena.",
+        "First drum and bass act to do it."
+      ],
+      "sub": "The kitchen table logo was still on the wall."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Every legend has a beginning.",
+        "His was a kitchen table."
+      ],
+      "strobe": "Save this.",
+      "cta": "Save this."
+    }
+  ]
+}
