@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-07-16
+updated: 2026-07-17
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,7 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-07-17: POST-83「愛の神が触れるまで、香りはなかった。— マジョラムと、内から温める精油」生成・GitHub push完了（アロマピラー / スイートマジョラム（*Origanum majorana*）/ ギリシャ神話: アフロディーテが触れるまで無香——女神が息子の傷を癒した瞬間に香りが宿った / 古代ギリシャ・ローマ「幸せのハーブ」として結婚式カップルの冠 / 古代エジプト: オシリス（死者の神）に捧げられた葬儀のハーブ——誕生と死の両側に立つ / 中世: 「孤独を感じているひとへのハーブ」として処方 / 主成分テルピネン-4-オール（30〜40%以上）= 副交感神経賦活・血管拡張・体を内側から温める / PMC3521421: 前高血圧・高血圧被験者83名で収縮期・拡張期血圧が有意低下 / Complementary Therapies in Medicine: 疼痛・不安低下 / 白魔女アングル: 「外に向かいすぎた意識を内側へ戻す——自分を温めることが波動を整える始まり」/ POST-71ベチバー・POST-77クラリセージ・POST-74スパイクナードと「内側を向く精油」系譜接続）。
 2026-07-16: POST-82「名前に欠けた数字が、今世の教室だった。— カーミックレッスン」生成・GitHub push完了（数秘ピラー / カーミックレッスン = 出生名の全文字をピタゴラス対応表で数字化したとき1〜9のうち一度も登場しない数字 / カルミックデット（13・14・16・19 = 前世の修正・POST-43）との違い: KL = 今世の学び・招待 / 「自然は真空を嫌う——欠けている数字は真空として機能し繰り返しその課題へ引き寄せられる」/ FUKAISHI RINKA の計算: 1(×4)・2(×2)・3(×1)・5(×1)・6(×1)・8(×1)・9(×4) → 欠如: 4と7 / KL4 = 規律・基盤・制限の中で本物を積み上げる。ライフパス5（自由・旅）との対話: 自由を本当に生きるために基盤が必要 / KL7 = 内省・精神性・直感。外向き行動が強い分、内側を掘り下げる課題が繰り返し来る / DeepStoneの構築がKL7の実践・UK渡航資金積み立てがKL4の実践 / 日本語圏でほぼ解説なし（SEOブルーオーシャン）/ POST-43（カルミックデット）・POST-76（ライフパスナンバー）・POST-64（隠れた情熱数）との接続）。
 2026-07-16: EP-82「Andy C / Ram Records — 16歳で始めたレーベルが、ドラムンベースの神話を作った」生成・GitHub push完了（レイブピラー / 本名Andrew Michael Clarke（1976年4月7日生、Hornchurch, Essex）/ 1992年GCSEを終えた翌週に叔父から£1,000を借り妹の手書きロゴでRAM Records設立——命名は星座・牡羊座（Aries）の「RAM」から / 共同設立Ant Miles / 3作目「Valley of the Shadows」（Origin Unknown名義、1993年）= Darkcoreの定義曲——ドラムはFuture Music誌1993年2月号付録フリーCD・NASAの1985年カウントダウン音声「31 seconds」・BBCのQED「臨死体験」ドキュメンタリーの台詞・Think Breakのタイムストレッチを素材に / A面「The Touch」を超える人気で1996年スタンドアローン再発 / Double Dropテクニック: 3台ターンテーブルで2曲を寸分違わず同時ドロップ——「2曲が第3の曲を生む」/ Drum & Bass Arena「Best DnB DJ」2009〜2018年10年連続受賞 / 2018年Wembley Arena単独ヘッドライン——DnBアーティスト史上初 / RAM Records 30年超: Chase & Status・Sub Focus・Delta Heavy・Wilkinson・Loadstar輩出、Sub-labels Program（ディープ系）・Frequency（実験系）展開、ビジネスパートナーScott Bourne（Red One）/ EP-11（Jungle誕生/Darkcoreの起点）・EP-12（DnB進化）・EP-47（Metalheadz/Essex対South London同時代対照）・EP-76（Fabio & Grooverider/Rage@HeavenのDarkcore文脈）・EP-79（4hero / Reinforced Records/同世代インディペンデントDnBレーベル）との直接接続）。
 2026-07-15: EP-81「Congo Natty (Rebel MC) — ヒットチャートを捨てた男がジャングルという言葉を与えた」生成・GitHub push完了（レイブピラー / 本名Michael Alec Anthony West（1964年8月27日、Islington）ジャマイカ人の父×ウェールズ人の母 / Double Trouble「Street Tuff」（1989年）UK Singles Chart #3・Top of the Pops出演——メインストリームの頂点に立ちながら自らそこを離れた / 1991年「Black Meaning Good」でDennis Brown・Barrington Levy・Tenor Flyをレイブ環境に接続——「Tribal Base」（BBC2 Dance Energyでオンエア）はジャングル命名以前の最重要曲のひとつ / 「ジャングル」という言葉を広めた人物として複数の資料に記録される / X Project白レーベル実験（1993年）→ Tribal Bassレーベル（1992年）→ Congo Natty Recordsへ移行 / 1994年ラスタファライ改宗・霊名Mikail Tafari / Conquering Lion名義「Code Red」（feat. Super Cat & Reggie Stepper、Mango/Island Records）/ Blackstar名義「Champion DJ」（feat. Top Cat、1995年）/ Tribe of Issachar名義「Junglist」（feat. Peter Bouncer、Congo Natty Records、1996年——ダブプレートで早期流通→公式リリースは1996年）/ 2013年「Jungle Revolution」（Big Dada Records）——Young Warrior（Jah Shakaの息子）・Adrian Sherwood（On-U Sound）ミックス / EP-54（King Tubby）・EP-64（Jah Shaka）・EP-71（Adrian Sherwood）・EP-80（Shy FX & UK Apache / 同時代ジャングル）・EP-32（Pirate Radio）との直接接続）。
