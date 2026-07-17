@@ -179,14 +179,17 @@ def add_grain(img, sigma):
     rgb = Image.merge("RGB", (noise, noise, noise))
     return ImageChops.overlay(img, rgb)
 
-def make_bg(theme, src, darken, bw=False):
+def make_bg(theme, src, darken, bw=False, anchor_y=0.5):
     if src and Path(src).exists():
         im = Image.open(src).convert("RGB")
         if bw:  # 白黒化（PLURのモノクロ世界に合わせる）
             im = ImageOps.grayscale(im).convert("RGB")
         r = max(W/im.width, H/im.height)
         im = im.resize((int(im.width*r), int(im.height*r)))
-        x = (im.width-W)//2; y = (im.height-H)//2
+        x = (im.width-W)//2
+        # anchor_y: 0=画像上部を表示(被写体が下寄り) / 0.5=中央 / 1=画像下部を表示(被写体が上寄り)
+        y = int((im.height-H) * anchor_y)
+        y = max(0, min(y, im.height-H))
         im = im.crop((x, y, x+W, y+H))
         return ImageEnhance.Brightness(im).enhance(darken)
     base = Image.new("RGB", (W, H), theme["bg"])
@@ -216,9 +219,10 @@ def render_slide(slide, theme, cover_bg, base_dir="."):
         # ブランド共通テクスチャ > 単色グレイン
         src = theme.get("body_texture")
         darken = theme.get("body_dark", 0.8)
-    img = make_bg(theme, src, darken, bw=bw)
+    anchor_y = slide.get("bg_anchor_y", 0.5)
+    img = make_bg(theme, src, darken, bw=bw, anchor_y=anchor_y)
     d = ImageDraw.Draw(img)
-    pad = 110
+    pad = 130
     mw = W - 2*pad
 
     m = theme["motif"]  # PLUR は大きく詰めて目を引く / FLAVA は余白を活かす
@@ -241,10 +245,12 @@ def render_slide(slide, theme, cover_bg, base_dir="."):
         bigf, tlines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*band), cap)
         cta = F(theme["font_body"], 34)
         items = [(l, theme["main"]) for l in tlines]
-        items += [(l, theme["strobe"]) for l in (_raw_lines(slide.get("strobe")) or ([_san(slide["strobe"])] if slide.get("strobe") else []))]
+        strobe_val = slide.get("strobe")
+        if strobe_val:
+            items += [(l, theme["strobe"]) for l in as_lines(strobe_val, d, bigf, mw)]
         draw_colored_block(d, items, bigf, int(H*0.44))
         if slide.get("cta"):
-            draw_block(d, as_lines(slide["cta"], d, cta, mw), cta, theme["sub"], int(H*0.82))
+            draw_block(d, as_lines(slide["cta"], d, cta, mw), cta, theme["sub"], int(H*0.78))
     else:  # body
         cap, band = (164, 0.56) if m else (84, 0.42)
         headf, blines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*band), cap)

@@ -50,7 +50,8 @@
         "Drum and Bass. UK Garage. Dubstep. Grime.",
         "These are not separate genres.",
         "This is one line."
-      ]
+      ],
+      "bg_anchor_y": 0.7
     },
     {
       "type": "body",
