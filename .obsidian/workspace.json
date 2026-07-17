@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "rave-team/output/EP-10/年表.png"
+                "file": "rave-team/output/EP-10/slides/slide_08.png"
               },
               "icon": "lucide-image",
-              "title": "年表"
+              "title": "slide_08"
             }
           }
         ]
@@ -179,14 +179,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ea8fc1ac4812fd1",
+  "active": "f04656cf52464558",
   "lastOpenFiles": [
-    "rave-team/output/EP-10/carousel.md",
+    "rave-team/output/EP-10/slides/slide_07.png",
+    "rave-team/output/EP-10/slides/slide_06.png",
+    "rave-team/output/EP-10/slides/slide_05.png",
+    "rave-team/output/EP-10/slides/slide_04.png",
+    "rave-team/output/EP-10/slides/slide_03.png",
+    "rave-team/output/EP-10/slides/slide_02.png",
+    "rave-team/output/EP-10/slides/slide_01.png",
+    "rave-team/output/EP-10/slides/slide_08.png",
+    "rave-team/output/EP-10/caption.md",
     "rave-team/output/EP-10/slides/EP10-4.png",
-    "rave-team/output/EP-10/slides/EP10-1.png",
-    "rave-team/output/EP-10/slides/EP10-6.png",
     "rave-team/output/EP-10/slides/EP10-8.png",
     "rave-team/output/EP-10/年表.png",
+    "rave-team/output/EP-10/carousel.md",
     "journal/2026-07-10.md",
     "wiki/sources/rave/EP-82 — 2026-07-16 — andy-c-ram-records.md",
     "wiki/sources/aroma/aroma-POST-82-2026-07-16-karmic-lessons.md",
@@ -197,11 +204,6 @@
     "aroma-insta/output/POST-82/carousel.md",
     "aroma-insta/output/POST-82",
     "journal/2026-07/2026-07-16.md",
-    "rave-team/output/EP-81/slides/slide_08.png",
-    "rave-team/output/EP-81/slides/slide_07.png",
-    "rave-team/output/EP-81/slides/slide_06.png",
-    "rave-team/output/EP-81/slides/slide_05.png",
-    "rave-team/output/EP-81/slides/slide_04.png",
     "rave-team/output/EP-81/slides",
     "wiki/sources/rave/EP-81 — 2026-07-15 — congo-natty-rebel-mc.md",
     "wiki/sources/aroma/aroma-POST-81-2026-07-15-mycorrhizal-network.md",
@@ -225,8 +227,6 @@
     "aroma-insta/output/POST-80/research.md",
     "aroma-insta/output/POST-80/carousel.md",
     "aroma-insta/output/POST-80",
-    "journal/2026-07/2026-07-14.md",
-    "wiki/sources/rave/EP-79 — 2026-07-13 — 4hero-reinforced-records.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
