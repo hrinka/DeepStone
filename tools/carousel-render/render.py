@@ -285,6 +285,24 @@ def main():
                     if account == "plur" and "bw" not in s:
                         s["bw"] = True  # PLURはモノクロ統一
                     break
+        # slides/ サブフォルダも自動検出（EP10-N 命名 or slide_N 命名）
+        if "bg" not in s:
+            sub = base_dir / "slides"
+            if sub.is_dir():
+                ep_m = re.search(r'EP-?(\d+)', base_dir.name, re.IGNORECASE)
+                prefixes = [f"EP{ep_m.group(1)}-{i}" if ep_m else None, f"slide_{i}"]
+                for pfx in prefixes:
+                    if not pfx:
+                        continue
+                    for e in (".png", ".jpg", ".jpeg"):
+                        cand = sub / f"{pfx}{e}"
+                        if cand.exists():
+                            s["bg"] = str(cand)
+                            if account == "plur" and "bw" not in s:
+                                s["bw"] = True
+                            break
+                    if "bg" in s:
+                        break
         img = render_slide(s, theme, a.cover_bg, base_dir)
         p = out / f"slide_{i:02d}.png"
         img.save(p, "PNG")

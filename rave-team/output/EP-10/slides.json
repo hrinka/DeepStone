@@ -67,7 +67,7 @@
         "The line has not ended.",
         "It is still being written."
       ],
-      "strobe": "Boredom, poverty, exclusion — that is the formula.",
+      "strobe": ["Boredom, poverty, exclusion.", "That is the formula."],
       "cta": "Save this. The story continues."
     }
   ]

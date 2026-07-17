@@ -51,6 +51,12 @@ _attachments/
 # レンダー済みスライドPNG（slides.jsonから再生成可・写真が焼き込まれるため公開しない）
 **/slides/slide_*.png
 
+# スライド背景素材（EPフォルダ/slides/）はリモートで自動編集するため共有可
+# EP10-1.png 等の命名 → レンダー済み slide_*.png とは別管理
+!rave-team/output/**/slides/EP*.png
+!rave-team/output/**/slides/EP*.jpg
+!rave-team/output/**/slides/EP*.jpeg
+
 # 投稿フォルダ内の画像は全てローカル限定（素材・背景・完成スライド／著作物保護）
 rave-team/output/**/*.png
 rave-team/output/**/*.jpg
