@@ -1,0 +1,47 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["They Built the Sound.", "Nobody Knew Their Names."],
+      "sub": "Kemistry & Storm — the women inside drum & bass."
+    },
+    {
+      "type": "body",
+      "text": ["Two women from Northampton.", "No connections. No names.", "Just a love for Grooverider's sets", "at Rage on Thursday nights."],
+      "sub": "Heaven, London — early 1990s"
+    },
+    {
+      "type": "body",
+      "text": ["They found Goldie through pirate radio.", "Every Sunday, 6 to 9 —", "Touchstone FM.", "Goldie rapped. They mixed.", "He gave them their first turntables."],
+      "sub": "Touchstone FM"
+    },
+    {
+      "type": "body",
+      "text": ["In 1994, they co-founded Metalheadz.", "Not as background.", "As architects.", "The label that defined drum & bass —", "built by three. Two of them were women."],
+      "sub": "Metalheadz, 1994"
+    },
+    {
+      "type": "body",
+      "text": ["The Sunday Sessions at the Blue Note, Hoxton.", "The lowest ceiling in London.", "Bass with nowhere to go", "except through you."],
+      "sub": "Blue Note, Hoxton"
+    },
+    {
+      "type": "body",
+      "text": ["January 1999.", "DJ-Kicks: Kemistry & Storm.", "The first junglists to front the series.", "A document of a decade's work."],
+      "sub": "Studio !K7, 1999"
+    },
+    {
+      "type": "quote",
+      "quote": ["April 25, 1999.", "After a gig in Southampton.", "On the M3 — a passing car dislodged a cat's eye.", "It came through the windscreen.", "Kemistry was in the passenger seat.", "She was 35."],
+      "note": "The only incident of its kind ever recorded on UK roads."
+    },
+    {
+      "type": "cta",
+      "text": ["Storm kept going.", "Metalheadz kept going.", "The music kept going."],
+      "strobe": "That's how you know it was real.",
+      "cta": "Save this."
+    }
+  ]
+}
