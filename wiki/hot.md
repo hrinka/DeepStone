@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-07-17
+updated: 2026-07-18
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,7 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-07-18: EP-84「Kemistry & Storm — ドラムンベースを影で支えた二人、帰り道に片方が死んだ」生成・GitHub push完了（レイブピラー / Kemistry（本名Valerie Olukemi A "Kemi" Olusanya、1963年10月13日〜1999年4月25日）+ Storm（本名Jayne Conneely）/ ノーサンプトンシャー出身・大学で出会いKemistryがStormをレイブへ引き込む / 海賊ラジオ局Touchdown FM・Defection FMでDJ開始 / Touchstone FM「Mack Three」毎週日曜6〜9時——Goldieラップ・二人ミックス / Goldieが二人に最初のターンテーブルをプレゼント / GrooveriderがKemistryに音楽の道を勧めた / 1994年Metalheadz共同設立（Goldieと並ぶ創設メンバー）/ Hoxton・Blue NoteでのSunday Sessionsレジデント——Photek・Dillinja・Doc Scott・Source Directらが常連 / 男性優位のドラムンベースシーンで女性として初めて国際的地位を確立 / 1999年1月25日「DJ-Kicks: Kemistry & Storm」（Studio !K7）——ジャングル初・女性初のDJ-Kicksシリーズ参加 / 1999年4月25日、Southamptonでのギグ帰りにM3高速道路（ハンプシャー州ウィンチェスター近郊）で前方車両が弾き飛ばしたcat's eyeが助手席のKemistryに直撃・享年35歳——英国の道路でcat's eyeによる死亡が記録されたのはこれのみ / Stormは現在もMetalheadzレジデントDJとして継続 / EP-47（Metalheadz共同設立者）・EP-76（Fabio & Grooverider / GrooveriderがKemistryに音楽の道を勧めた）・EP-83（Photek / Sunday Sessions常連）との直接接続）。
 2026-07-17: EP-83「Photek — ドラムンベースを武術にした男」生成・GitHub push完了（レイブピラー / 本名Rupert Parkes（1971年生、サフォーク州イプスウィッチ・セント・オルバンズ育ち）/ サンプラー購入はプリンス・オブ・ウェールズ・トラスト£2,000融資 / 1993年からStudio Pressure（Certificate 18）・Aquarius（Good Looking Records / LTJ Bukem）・The Sentinel（Basement Records）・The Truper（Street Beats）等6レーベルで80曲以上を匿名リリース——誰も同一人物だとは知らなかった / "Natural Born Killa" EP（1995年、Metalheadz METH008）で突破——「イギリスの90年代ダンスミュージックを定義した一枚」/ Science Records（VirginがDnBのために設立した最初の専用サブレーベル）の第一の签名アーティスト / "Ni-Ten-Ichi-Ryu"（1995/1996年）= 宮本武蔵の二天一流（二刀流）をドラムプログラミングに翻訳——「黒沢映画の侍の鎧の音を別の素材で模倣した」（FACT Magazine、2010年）/ "Modus Operandi"（1997年9月9日）= UKチャート30位・Fact誌「90年代ベスト100」81位——「スパイ映画的なジャズの大気感とディストピア的シンセが、真剣な筋力とバレエ的均整を兼ね備えたアルバムを生んだ」/ 「1年で200のブレイクを作って、使えたのは10だけ」（Urb magazine、1997年）/ Burial（The Wire）: 「Photekはかつてそうだった——技法が目の前を直撃する、そこまで集中しているから」/ 2000年Solaris（シカゴハウス転向）でDnBを完全離脱・Virginia契約を買い戻してロサンゼルスへ / Robert Owensとの"Mine to Give"がBillboard Hot Club Tracks #1 / BurialはRings Around SaturnをNightbusでサンプリング / How to Get Away with Murder（ABC、2014〜2020年）シリーズ全体のスコアを担当 / EP-47（Metalheadz / Natural Born Killa）・EP-77（LTJ Bukem / Aquarius名義での接点）・EP-46（Burial / 影響公言+サンプリング）・EP-82（Andy C / 同時代DnB頂点）との直接接続）。
 2026-07-17: POST-83「愛の神が触れるまで、香りはなかった。— マジョラムと、内から温める精油」生成・GitHub push完了（アロマピラー / スイートマジョラム（*Origanum majorana*）/ ギリシャ神話: アフロディーテが触れるまで無香——女神が息子の傷を癒した瞬間に香りが宿った / 古代ギリシャ・ローマ「幸せのハーブ」として結婚式カップルの冠 / 古代エジプト: オシリス（死者の神）に捧げられた葬儀のハーブ——誕生と死の両側に立つ / 中世: 「孤独を感じているひとへのハーブ」として処方 / 主成分テルピネン-4-オール（30〜40%以上）= 副交感神経賦活・血管拡張・体を内側から温める / PMC3521421: 前高血圧・高血圧被験者83名で収縮期・拡張期血圧が有意低下 / Complementary Therapies in Medicine: 疼痛・不安低下 / 白魔女アングル: 「外に向かいすぎた意識を内側へ戻す——自分を温めることが波動を整える始まり」/ POST-71ベチバー・POST-77クラリセージ・POST-74スパイクナードと「内側を向く精油」系譜接続）。
 2026-07-16: POST-82「名前に欠けた数字が、今世の教室だった。— カーミックレッスン」生成・GitHub push完了（数秘ピラー / カーミックレッスン = 出生名の全文字をピタゴラス対応表で数字化したとき1〜9のうち一度も登場しない数字 / カルミックデット（13・14・16・19 = 前世の修正・POST-43）との違い: KL = 今世の学び・招待 / 「自然は真空を嫌う——欠けている数字は真空として機能し繰り返しその課題へ引き寄せられる」/ FUKAISHI RINKA の計算: 1(×4)・2(×2)・3(×1)・5(×1)・6(×1)・8(×1)・9(×4) → 欠如: 4と7 / KL4 = 規律・基盤・制限の中で本物を積み上げる。ライフパス5（自由・旅）との対話: 自由を本当に生きるために基盤が必要 / KL7 = 内省・精神性・直感。外向き行動が強い分、内側を掘り下げる課題が繰り返し来る / DeepStoneの構築がKL7の実践・UK渡航資金積み立てがKL4の実践 / 日本語圏でほぼ解説なし（SEOブルーオーシャン）/ POST-43（カルミックデット）・POST-76（ライフパスナンバー）・POST-64（隠れた情熱数）との接続）。
