@@ -3,6 +3,9 @@
 ## [2026-07-19] POST-85 | マスターナンバー11・22・33 — 縮めてはいけない数字がある（数秘ピラー）
 - Files: `aroma-insta/output/POST-85/carousel.md`, `aroma-insta/output/POST-85/research.md`, `wiki/sources/aroma/aroma-POST-85-2026-07-19-master-numbers.md`
 - Topic: 数秘ピラー / マスターナンバー（11・22・33）= ピタゴラス数秘術において一桁に縮めない唯一の例外 / 古典的には11と22のみ認識、33は近代的追加 / 二層構造: 11は「2であり11でもある」= 表の周波数と奥の周波数が同時に活動 / 11（光のメッセンジャー / 有名人: マドンナ・バラク・オバマ・美輪明宏）/ 22（夢の建築家 / ライフパス4の実行力×宇宙的スケール）/ 33（愛の師 / 最もまれで最も重い・無条件の愛）/ 「啓蒙の三角形」: 11（見る）→ 22（建てる）→ 33（分かち合う）/ 白魔女アングル: 「縮めた瞬間、あなたはあなたの光を半分失う。宇宙が二重で書いた言葉は、そのまま受け取る」/ POST-76ライフパスナンバー・POST-82カーミックレッスン・POST-67バランスナンバーとの数秘シリーズ接続。
+## [2026-07-19] EP-85 | Dillinja — Valve Sound System とドラムンベースの重力（レイブピラー）
+- Files: `rave-team/output/EP-85/carousel.md`, `rave-team/output/EP-85/research.md`, `wiki/sources/rave/EP-85 — 2026-07-19 — dillinja-valve-sound.md`
+- Topic: レイブピラー / 本名Karl Nicholas Francis（1974年生、Clapham, South London）/ King Tubby・Jah Shakaのサウンドシステム哲学が原体験 / 1993年デビュー（Digital Cloning EP、Tough Toonz TT 002）/ 1995年「The Angels Fell」EP（Metalheadz）= Blade Runner Roy Batty死の独白サンプリング——Goldieが「Metalheadzの最高傑作」と評す / Blue Note Hoxton Metalheadz Sunday Sessions: 入室時に観客が床に伏せて拝む崇拝的地位（Storm証言）/ 1997年、Lemon DとValve Recordings共同設立（VLV001「Violent Killa」）/ 2001年、世界初のDnB専用サウンドシステム「Valve Sound System」Fabricデビュー——96kW・カスタムサブ52本・Funktion Oneミッドハイ・7.5tトラック3台 / 「クラブPAは商業周波数用——深い低音は無視されている」から設計 / EMU サンプラー × Soundcraft デスクオーバードライブ制作哲学 / "Not heard. Felt." / Dillinja vs Photek: 体（Cybotron, 2001）vs 頭（Modus Operandi, 1997）対比 / EP-83（Photek/Sunday Sessions同席）・EP-84（Kemistry & Storm/Storm証言者）・EP-47（Metalheadz）・EP-54（King Tubby/サウンドシステム起源）・EP-64（Jah Shaka/Valve Sound System直接先行）との直接接続。
 
 ## [2026-07-18] EP-84 | Kemistry & Storm — ドラムンベースを影で支えた二人、帰り道に片方が死んだ（レイブピラー）
 - Files: `rave-team/output/EP-84/carousel.md`, `rave-team/output/EP-84/research.md`, `wiki/sources/rave/EP-84 — 2026-07-18 — kemistry-and-storm.md`
