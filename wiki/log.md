@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-19] POST-85 | マスターナンバー11・22・33 — 縮めてはいけない数字がある（数秘ピラー）
+- Files: `aroma-insta/output/POST-85/carousel.md`, `aroma-insta/output/POST-85/research.md`, `wiki/sources/aroma/aroma-POST-85-2026-07-19-master-numbers.md`
+- Topic: 数秘ピラー / マスターナンバー（11・22・33）= ピタゴラス数秘術において一桁に縮めない唯一の例外 / 古典的には11と22のみ認識、33は近代的追加 / 二層構造: 11は「2であり11でもある」= 表の周波数と奥の周波数が同時に活動 / 11（光のメッセンジャー / 有名人: マドンナ・バラク・オバマ・美輪明宏）/ 22（夢の建築家 / ライフパス4の実行力×宇宙的スケール）/ 33（愛の師 / 最もまれで最も重い・無条件の愛）/ 「啓蒙の三角形」: 11（見る）→ 22（建てる）→ 33（分かち合う）/ 白魔女アングル: 「縮めた瞬間、あなたはあなたの光を半分失う。宇宙が二重で書いた言葉は、そのまま受け取る」/ POST-76ライフパスナンバー・POST-82カーミックレッスン・POST-67バランスナンバーとの数秘シリーズ接続。
+
 ## [2026-07-18] EP-84 | Kemistry & Storm — ドラムンベースを影で支えた二人、帰り道に片方が死んだ（レイブピラー）
 - Files: `rave-team/output/EP-84/carousel.md`, `rave-team/output/EP-84/research.md`, `wiki/sources/rave/EP-84 — 2026-07-18 — kemistry-and-storm.md`
 - Topic: レイブピラー / Kemistry（本名Valerie Olukemi A "Kemi" Olusanya、1963年10月13日〜1999年4月25日）+ Storm（本名Jayne Conneely）/ ノーサンプトンシャー出身・大学で出会いKemistryがStormをレイブへ引き込む / 海賊ラジオ局Touchdown FM・Defection FMでDJ開始 / Touchstone FM「Mack Three」毎週日曜6〜9時——Goldieラップ・二人ミックス——この番組がGoldieとの出会いの場 / Goldieが二人に最初のターンテーブルをプレゼント / GrooveriderがKemistryに音楽の道を勧めた / 1994年Metalheadz共同設立——Goldieと並ぶ創設メンバー / Hoxton・Blue NoteでのSunday Sessionsレジデント（Photek・Dillinja・Doc Scott・Source Directらが常連）/ 男性優位のドラムンベースシーンで女性として初めて国際的地位を確立 / 1999年1月25日「DJ-Kicks: Kemistry & Storm」（Studio !K7）——ジャングル初・女性初のシリーズ参加 / 1999年4月25日、Southamptonでのギグ帰りにM3高速道路でcat's eyeが助手席のKemistryに直撃・享年35歳——英国唯一のcat's eye死亡事故 / Stormは現在もMetalheadzレジデントとして継続 / EP-47（Metalheadz共同設立）・EP-76（Fabio & Grooverider / Grooverider接点）・EP-83（Photek / Sunday Sessions）との直接接続。
