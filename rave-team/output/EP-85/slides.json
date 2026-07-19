@@ -1,0 +1,92 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": [
+        "People felt drum and bass.",
+        "Not heard it.",
+        "Felt it."
+      ],
+      "sub": "The man who built the speaker to fit the music."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Dillinja. Real name Karl Francis.",
+        "Born 1974, Clapham, South London.",
+        "Raised on reggae sound systems.",
+        "King Tubby. Jah Shaka.",
+        "The idea that bass is not a sound —",
+        "it is a physical force."
+      ],
+      "sub": "He carried that into drum and bass and never let go."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1995. Metalheadz Sunday Sessions.",
+        "Blue Note, Hoxton. Capacity: 200.",
+        "When Dillinja walked in,",
+        "someone in the crowd got on the floor and bowed.",
+        "Storm stopped them.",
+        "\"Listen, man. Get up.\""
+      ],
+      "sub": "That is the level he occupied in this scene."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "\"All those moments will be lost in time,",
+        "like tears in rain.\""
+      ],
+      "note": "Blade Runner. Sampled by Dillinja — \"The Angels Fell,\" Metalheadz, 1995. Goldie called it the finest moment on the label."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1997. Valve Recordings.",
+        "Founded with Lemon D.",
+        "First release: VLV001. \"Violent Killa.\"",
+        "Dark. Futuristic.",
+        "Distorted bass through an overdriven Soundcraft desk."
+      ],
+      "sub": "The sound of the city at 3am. When everything beautiful feels a little dangerous."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Club PA systems are built for commercial frequencies.",
+        "Deep bass frequencies are ignored.",
+        "So Dillinja built his own.",
+        "96,000 watts. 52 custom subwoofers. Three trucks.",
+        "The Valve Sound System.",
+        "Fabric, London. May 2001."
+      ],
+      "sub": "Not a PA. A philosophy."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Dillinja. Photek. Same scene. Same nights.",
+        "Completely different.",
+        "Photek made music for your mind. Modus Operandi.",
+        "Dillinja made music for your body. Cybotron.",
+        "DnB needed both."
+      ],
+      "sub": "Intricate vs brutal. Atmospheric vs propulsive."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "He built the speaker to fit the music.",
+        "Not the other way around.",
+        "That is the difference between a producer",
+        "and a builder of worlds."
+      ],
+      "strobe": "Save this.",
+      "cta": "保存しておいて。またすぐ必要になるから。"
+    }
+  ]
+}
