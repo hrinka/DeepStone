@@ -35,6 +35,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageChops, ImageOps
 
 W, H = 1080, 1350  # Instagram 4:5
 TEX = Path(__file__).parent / "textures"
+CENTER_X = W // 2   # テキストの水平中心。ノートブック背景時は右のページ側へ寄せる（左リング余白確保）
 
 THEMES = {
     "plur": {
@@ -150,7 +151,7 @@ def draw_block(draw, lines, font, fill, cy, line_gap=1.18):
     y = cy - total // 2
     for ln in lines:
         tw = draw.textlength(ln, font=font)
-        draw.text(((W - tw) // 2, y), ln, font=font, fill=fill)
+        draw.text((int(CENTER_X - tw / 2), y), ln, font=font, fill=fill)
         y += lh
     return y
 
@@ -161,7 +162,7 @@ def draw_colored_block(draw, items, font, cy, line_gap=1.18):
     y = cy - total // 2
     for ln, col in items:
         tw = draw.textlength(ln, font=font)
-        draw.text(((W - tw) // 2, y), ln, font=font, fill=col)
+        draw.text((int(CENTER_X - tw / 2), y), ln, font=font, fill=col)
         y += lh
     return y
 
@@ -221,8 +222,12 @@ def render_slide(slide, theme, cover_bg, base_dir="."):
         darken = theme.get("body_dark", 0.8)
     anchor_y = slide.get("bg_anchor_y", 0.5)
     img = make_bg(theme, src, darken, bw=bw, anchor_y=anchor_y)
+    # ノートブック地（左にスパイラルリング）の時はテキストを右のページ側へ寄せ、左余白を広く取る
+    global CENTER_X
+    on_notebook = bool(src) and src == theme.get("body_texture")
+    CENTER_X = 590 if on_notebook else W // 2
     d = ImageDraw.Draw(img)
-    pad = 130
+    pad = 150 if on_notebook else 130
     mw = W - 2*pad
 
     m = theme["motif"]  # PLUR は大きく詰めて目を引く / FLAVA は余白を活かす
