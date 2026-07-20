@@ -29,43 +29,9 @@ node_modules/
 *.log
 .cache/
 
-# 画像（ローカルのみ・GitHub には上げない）
+# 画像
 _attachments/
 
-# カルーセル表紙の個人写真（ローカルのみ・流出防止）
-**/cover*.jpg
-**/cover*.jpeg
-**/cover*.png
-**/IMG_*.jpg
-**/IMG_*.jpeg
-**/IMG_*.png
-**/IMG_*.HEIC
-**/IMG_*.heic
-**/bg-*.jpg
-**/bg-*.jpeg
-**/bg-*.png
-**/slide_[1-9].jpg
-**/slide_[1-9].jpeg
-**/slide_[1-9].png
-
-# レンダー済みスライドPNG（slides.jsonから再生成可・写真が焼き込まれるため公開しない）
+# ★ リポジトリは PRIVATE。背景素材・表紙・個別画像は git 管理して永続化する（消えないように）。
+#   レンダー済みスライドPNG（slides.jsonから再生成可・重い）だけ追跡しない。
 **/slides/slide_*.png
-
-# スライド背景素材（EPフォルダ/slides/）はリモートで自動編集するため共有可
-# EP10-1.png 等の命名 → レンダー済み slide_*.png とは別管理
-!rave-team/output/**/slides/EP*.png
-!rave-team/output/**/slides/EP*.jpg
-!rave-team/output/**/slides/EP*.jpeg
-
-# 投稿フォルダ内の画像は全てローカル限定（素材・背景・完成スライド／著作物保護）
-rave-team/output/**/*.png
-rave-team/output/**/*.jpg
-rave-team/output/**/*.jpeg
-flava-fm/output/**/*.png
-flava-fm/output/**/*.jpg
-flava-fm/output/**/*.jpeg
-aroma-insta/output/**/*.png
-aroma-insta/output/**/*.jpg
-aroma-insta/output/**/*.jpeg
-
-/rave-team/output/EP-10/Dub(67) Punk(77) Acid House(87) Jungle(92) Garage(94) Dubstep(02) Grime(03).png
