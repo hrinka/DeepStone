@@ -242,13 +242,19 @@ def render_slide(slide, theme, cover_bg, base_dir="."):
             draw_block(d, as_lines(slide["note"], d, note, mw), note, theme["sub"], y+70)
     elif typ == "cta":
         cap, band = (160, 0.52) if m else (96, 0.40)
-        bigf, tlines = fit_font(d, slide.get("text"), theme["font_head"], mw, int(H*band), cap)
-        cta = F(theme["font_body"], 34)
-        items = [(l, theme["main"]) for l in tlines]
-        strobe_val = slide.get("strobe")
-        if strobe_val:
-            items += [(l, theme["strobe"]) for l in as_lines(strobe_val, d, bigf, mw)]
+        # text と strobe の両方を（折り返し込みで）収める最大フォントを選ぶ
+        bigf = F(theme["font_head"], cap); tl = []; sl = []
+        for size in range(cap, 43, -5):
+            bigf = F(theme["font_head"], size)
+            tl = as_lines(slide.get("text"), d, bigf, mw)
+            sl = as_lines(slide.get("strobe"), d, bigf, mw)
+            asc, desc = bigf.getmetrics(); lh = int((asc+desc)*1.18)
+            widest = max((d.textlength(l, font=bigf) for l in tl+sl), default=0)
+            if widest <= mw and lh*len(tl+sl) <= int(H*band):
+                break
+        items = [(l, theme["main"]) for l in tl] + [(l, theme["strobe"]) for l in sl]
         draw_colored_block(d, items, bigf, int(H*0.44))
+        cta = F(theme["font_body"], 34)
         if slide.get("cta"):
             draw_block(d, as_lines(slide["cta"], d, cta, mw), cta, theme["sub"], int(H*0.78))
     else:  # body
