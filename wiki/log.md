@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-20] EP-86 | Ed Rush & Optical / Virus Recordings — 機械に魂を入れた二人、Neurofunkの誕生（レイブピラー）
+- Files: `rave-team/output/EP-86/carousel.md`, `rave-team/output/EP-86/research.md`, `wiki/sources/rave/EP-86 — 2026-07-20 — ed-rush-optical-virus-recordings.md`
+- Topic: レイブピラー / Ed Rush（本名Ben Settle、1973年生、ロンドン）/ Optical（本名Matt Quinn、1972年生）/ 1993年: Ed RushがDon FM海賊ラジオ・"Bludclot Artattack"（No U-Turn Records、Nico Sykesとの共作）でデビュー / 1995年: イズリントンのMusic House（ダブプレートマスタリング）でOpticalと出会う / 1996年: DJ TraceとともにDnBの新スタイルを「Techstep」と命名 / Optical別働き: Grooverider "Mysteries of Funk" エンジニア（1998）・Goldie "Saturn's Return" エンジニア（1998）/ MetalheadzにもPrototypeにも収まらない楽曲のため→ 1998年Virus Recordings設立 / 第一弾シングル: "The Medicine / Punchbag"（VRS001）/ "Wormhole"（1998年11月16日）= 史上初のニューロファンクアルバム・アナログ5枚組ボックスセット・CD2枚組（disc2は1時間コンティニュアスミックス）/ リリース1ヶ月前にGrooveriderのBBC Radio 1番組で先行紹介 / Virus後続: Noisia・Bad Company UK・Pendulum・Mefjus・The Upbeats / EP-47（Metalheadz）・EP-76（Grooverider/BBC Radio 1接続）・EP-77（LTJ Bukem/機械vs光の対比）・EP-83（Photek）・EP-85（Dillinja）との直接接続。
+
 ## [2026-07-19] POST-85 | マスターナンバー11・22・33 — 縮めてはいけない数字がある（数秘ピラー）
 - Files: `aroma-insta/output/POST-85/carousel.md`, `aroma-insta/output/POST-85/research.md`, `wiki/sources/aroma/aroma-POST-85-2026-07-19-master-numbers.md`
 - Topic: 数秘ピラー / マスターナンバー（11・22・33）= ピタゴラス数秘術において一桁に縮めない唯一の例外 / 古典的には11と22のみ認識、33は近代的追加 / 二層構造: 11は「2であり11でもある」= 表の周波数と奥の周波数が同時に活動 / 11（光のメッセンジャー / 有名人: マドンナ・バラク・オバマ・美輪明宏）/ 22（夢の建築家 / ライフパス4の実行力×宇宙的スケール）/ 33（愛の師 / 最もまれで最も重い・無条件の愛）/ 「啓蒙の三角形」: 11（見る）→ 22（建てる）→ 33（分かち合う）/ 白魔女アングル: 「縮めた瞬間、あなたはあなたの光を半分失う。宇宙が二重で書いた言葉は、そのまま受け取る」/ POST-76ライフパスナンバー・POST-82カーミックレッスン・POST-67バランスナンバーとの数秘シリーズ接続。
