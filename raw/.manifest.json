@@ -1,5 +1,11 @@
 {
   "sources": {
+    "raw/personal/2026-07-20_平塚市個人事業主プラン.md": {
+      "hash": "bf301c169ea50a1db96e92111e4070dc",
+      "ingested_at": "2026-07-20",
+      "pages_created": ["wiki/sources/2026-07-20-平塚市個人事業主プラン.md", "wiki/concepts/money/UK-WHVビザ準備.md"],
+      "pages_updated": ["wiki/concepts/money/助成金-補助金-候補.md", "wiki/concepts/money/借金返済-キャッシュフロー計画.md", "wiki/index.md", "wiki/hot.md", "wiki/log.md"]
+    },
     "raw/develop/技術知識.md": {
       "hash": "bf8f4e892a6698c55e88ea6e0d32d877",
       "ingested_at": "2026-05-29",

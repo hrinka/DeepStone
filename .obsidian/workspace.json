@@ -11,10 +11,12 @@
             "id": "f04656cf52464558",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "image",
+              "state": {
+                "file": "rave-team/output/EP-10/slides/EP10-8.png"
+              },
+              "icon": "lucide-image",
+              "title": "EP10-8"
             }
           }
         ]
@@ -179,21 +181,26 @@
   },
   "active": "3ea8fc1ac4812fd1",
   "lastOpenFiles": [
-    "journal/2026-07/2026-07-20.md",
-    "rave-team/output/EP-11/slides/EP11-6.png",
-    "rave-team/output/EP-11/slides/EP11-8.png",
-    "rave-team/output/EP-11/slides/EP11-7.png",
-    "rave-team/output/EP-11/slides/EP11-5.png",
+    "wiki/concepts/money/口座構成方針.md",
+    "wiki/concepts/money/UK-WHVビザ準備.md",
+    "wiki/sources/2026-07-20-平塚市個人事業主プラン.md",
+    "raw/personal/2026-07-20_平塚市個人事業主プラン.md",
+    "rave-team/output/EP-10/slides/EP10-6.png",
+    "rave-team/output/EP-10/slides/EP10-1.png",
+    "rave-team/output/EP-10/slides/EP10-4.png",
+    "rave-team/output/EP-11/slides/slide_02.png",
+    "rave-team/output/EP-11/slides/slide_01.png",
+    "rave-team/output/EP-11/slides/slide_04.png",
+    "rave-team/output/EP-11/slide_4.png",
+    "rave-team/output/EP-11/script_ja.md",
     "rave-team/output/EP-11/EP11-4.png",
-    "rave-team/output/EP-11/slides/EP11-2.png",
-    "rave-team/output/EP-13/slides/slide_08.png",
-    "rave-team/output/EP-13/slides/slide_07.png",
-    "rave-team/output/EP-13/slides/slide_06.png",
-    "rave-team/output/EP-13/slides/slide_05.png",
+    "rave-team/output/EP-11/slides/slide_07.png",
+    "rave-team/output/EP-11/slides/slide_08.png",
+    "journal/2026-07-20.md",
+    "journal/2026-07/2026-07-20.md",
     "journal/2026-07-10.md",
     "journal/2026-06-25.md",
     "journal/2026-06-22.md",
-    "journal/2026-07-20.md",
     "rave-team/output/EP-11/caption.md",
     "rave-team/output/EP-12/caption.md",
     "rave-team/output/EP-85/slides",
@@ -218,13 +225,8 @@
     "rave-team/output/EP-84/slides.json",
     "rave-team/output/EP-84/research.md",
     "rave-team/output/EP-84/carousel.md",
-    "rave-team/output/EP-84/caption.md",
     "rave-team/output/EP-84",
     "rave-team/output/EP-83/slides.json",
-    "rave-team/output/EP-83/research.md",
-    "rave-team/output/EP-83/carousel.md",
-    "rave-team/output/EP-83/caption.md",
-    "rave-team/output/EP-82/caption.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
