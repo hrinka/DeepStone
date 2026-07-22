@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-22] POST-88 | パーソナルマンスナンバー — あなたの今月には、番号がある（数秘ピラー）
+- Files: `aroma-insta/output/POST-88/carousel.md`, `aroma-insta/output/POST-88/research.md`, `wiki/sources/aroma/aroma-POST-88-2026-07-22-personal-month-number.md`
+- Topic: 数秘ピラー / パーソナルマンスナンバー（PM）= PY（パーソナルイヤー）＋今月の数字で一桁に縮める / 9年サイクルの中の月ごとのサブサイクル——「年の中に月が宿る」入れ子構造 / 計算例: Rinka 2026年PY=5・7月PM=5+7=12→3（創造・表現・喜びの月）/ PM1（始まり）〜PM9（完了）それぞれのキーワードと行動指針 / ネストされた時間哲学: UY（世界）→ PY（個人の年）→ PM（月）→ PD（日）/ I Ching・西洋占星術・東洋暦学と共通する「入れ子の宇宙観」/ 逆らわない = 波動を上げる最も直接的な方法・PMはその月の川の方向を示す羅針盤 / 日本語圏でパーソナルマンスナンバーの解説は数が少なくSEOブルーオーシャン / POST-31パーソナルイヤー（年）の月単位版として三層時間マップが完成 / POST-79ユニバーサルイヤー1との接続: 2026年世界PM（UY1+7=8）= 世界全体が豊かさと達成の月・個人PMとの重なりが今月のエネルギーを形成。
+
 ## [2026-07-22] EP-88 | Source Direct — 顔のないデュオが、最も暗い部屋を作った（レイブピラー）
 - Files: `rave-team/output/EP-88/carousel.md`, `rave-team/output/EP-88/research.md`, `wiki/sources/rave/EP-88 — 2026-07-22 — source-direct.md`
 - Topic: レイブピラー / James (Jim) Baker + Phil Aslett（St Albans, Hertfordshire）/ 14歳でHackney・Panic Studioの深夜セッションから制作開始 / 17歳頃自宅スタジオ構築・12インチリリース開始 / 顔写真・インタビューを完全回避した匿名スタンス / エイリアス: Intensity（Basement Records）・Sounds of Life（Certificate 18）・Oblivion（Street Beats）/ "Future London"（Odysee, 1994）デビュー / "The Crane / Artificial Barriers"（自主, 1996）= スタジオジブリ「天空の城ラピュタ」サンプリング——Metalheadz Sunday Sessionsで最も頻繁に再生された曲のひとつ / "The Cult" & "A Made Up Sound"（Metalheadz, 1996）= ダークサイドクラシック / "Stone Killer" / "Secret Liaisons"（Good Looking, 1996）/ "Exorcise the Demons"（Virgin, 1999）= 唯一のアルバム・Fact Magazine「90年代ベストアルバム100」96位 / 1999年Phil Aslett脱退・Jim Baker単独継続 / "The Crane" 2016年Nonplus Recordsよりリイシュー / サウンド位置: LTJ Bukemの光（EP-77）とPhotekの精密さ（EP-83）の間——揺れるマイナーキーのメロディ×スプリンター・ブレイク×深いベースライン / EP-47（Metalheadz）・EP-83（Photek/同Sunday Sessions）・EP-84（Kemistry & Storm/同Sunday Sessions）・EP-85（Dillinja/同Sunday Sessions）・EP-77（LTJ Bukem/Atmospheric DnB対比）との直接接続。
