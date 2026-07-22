@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-22] EP-88 | Source Direct — 顔のないデュオが、最も暗い部屋を作った（レイブピラー）
+- Files: `rave-team/output/EP-88/carousel.md`, `rave-team/output/EP-88/research.md`, `wiki/sources/rave/EP-88 — 2026-07-22 — source-direct.md`
+- Topic: レイブピラー / James (Jim) Baker + Phil Aslett（St Albans, Hertfordshire）/ 14歳でHackney・Panic Studioの深夜セッションから制作開始 / 17歳頃自宅スタジオ構築・12インチリリース開始 / 顔写真・インタビューを完全回避した匿名スタンス / エイリアス: Intensity（Basement Records）・Sounds of Life（Certificate 18）・Oblivion（Street Beats）/ "Future London"（Odysee, 1994）デビュー / "The Crane / Artificial Barriers"（自主, 1996）= スタジオジブリ「天空の城ラピュタ」サンプリング——Metalheadz Sunday Sessionsで最も頻繁に再生された曲のひとつ / "The Cult" & "A Made Up Sound"（Metalheadz, 1996）= ダークサイドクラシック / "Stone Killer" / "Secret Liaisons"（Good Looking, 1996）/ "Exorcise the Demons"（Virgin, 1999）= 唯一のアルバム・Fact Magazine「90年代ベストアルバム100」96位 / 1999年Phil Aslett脱退・Jim Baker単独継続 / "The Crane" 2016年Nonplus Recordsよりリイシュー / サウンド位置: LTJ Bukemの光（EP-77）とPhotekの精密さ（EP-83）の間——揺れるマイナーキーのメロディ×スプリンター・ブレイク×深いベースライン / EP-47（Metalheadz）・EP-83（Photek/同Sunday Sessions）・EP-84（Kemistry & Storm/同Sunday Sessions）・EP-85（Dillinja/同Sunday Sessions）・EP-77（LTJ Bukem/Atmospheric DnB対比）との直接接続。
+
 ## [2026-07-21] POST-87 | 挿し木と豊かさの原理 — 一本の枝から十の命が生まれる（ハーブ菜園ピラー）
 - Files: `aroma-insta/output/POST-87/carousel.md`, `aroma-insta/output/POST-87/research.md`, `wiki/sources/aroma/aroma-POST-87-2026-07-21-herb-propagation-cuttings.md`
 - Topic: ハーブ菜園ピラー / 挿し木（さしき）/ オーキシン（IAA）= 葉が産生する植物ホルモンが茎切断後に傷口へ蓄積し不定根を命令する / 葉のない枝は発根しない——葉が再生シグナルの唯一の源 / 発根タイムライン: 誘導期（1〜4日）→ 開始期（4〜14日）→ 発現期（14〜30日+）/ 7月 = ソフトウッドカッティングの最適期（オーキシン産生ピーク・木質化前・最適温度）/ ペパーミント・メリッサ: 水挿しで1〜2週間 / ラベンダー・ローズマリー: 砂質土必須・水は厳禁 / 820年サン・ガレン修道院設計図 = 現存最古の西洋ハーブ庭園記録・地中海ハーブは種が育たないため挿し木のみで北欧全土に伝播 / アメリカ南部「Pass-Along Plants」: 南北戦争期の封鎖下で隣人から隣人へ切り枝を渡す習慣——「切り枝は贈り物であり商品ではない」/ Seed Sistas（英国ハーブ学校）「Magic Herbalism & Abundance Spell」: ハーブ増殖 = 豊かさの儀式 / 白魔女アングル: 「豊かさを念じるのではなく、実行する。手放すと、増える。」/ POST-78テルペン防衛物質・POST-81菌根菌（Wood Wide Web）・POST-84ドライハーブ保存との「菜園科学シリーズ」継続接続。
