@@ -1,0 +1,75 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["THE WEEK", "HOLLYWOOD BURNED"],
+      "sub": "Leftfield. Open Up. 1993."
+    },
+    {
+      "type": "body",
+      "text": [
+        "\"Burn Hollywood, Burn.\"",
+        "John Lydon sang it",
+        "November 1, 1993."
+      ],
+      "sub": "Real fires swept Southern California that same week. Radio pulled the record. MTV looked away. UK #13."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Neil Barnes. South London. 1989.",
+        "One 12-inch. No band.",
+        "No label. No plan."
+      ],
+      "sub": "\"Not Forgotten.\" Mixmag called it a step forward for British house music. That step became a genre."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1992. Paul Daley joined.",
+        "\"Release the Pressure\" —",
+        "Dancehall over deep tribal house."
+      ],
+      "sub": "Earl Sixteen on vocals. Hard Hands Records, built from scratch. Nobody had a name for it. They didn't need one."
+    },
+    {
+      "type": "body",
+      "text": [
+        "John Lydon's own label",
+        "passed on \"Open Up.\"",
+        "Not worth £25,000, they said."
+      ],
+      "sub": "Leftfield released it themselves on Hard Hands. Then California caught fire. Nobody was laughing."
+    },
+    {
+      "type": "body",
+      "text": [
+        "January 30, 1995.",
+        "\"Leftism.\"",
+        "Dub. Techno. Trance. Dancehall."
+      ],
+      "sub": "Sixty-seven minutes. No genre. No map. Mercury Prize nominated. Q readers voted it top 10 of all time."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1999. \"Rhythm and Stealth.\"",
+        "Then silence.",
+        "2002 — Barnes and Daley split."
+      ],
+      "sub": "No fire. No press release. Just two people who had built something real and couldn't stay inside it."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Leftfield made music",
+        "the floor could feel",
+        "before anyone understood it."
+      ],
+      "strobe": "That was always the point.",
+      "cta": "Save this."
+    }
+  ]
+}
