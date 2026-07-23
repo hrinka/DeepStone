@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-07-22
+updated: 2026-07-23
 tags:
   - meta
   - hot-cache
@@ -14,6 +14,7 @@ related:
 # Recent Context
 
 ## Last Updated
+2026-07-23: POST-89「ローマンカモミール — 踏まれるほど、咲き続ける。内なる子供を癒す波動」生成・GitHub push完了（アロマピラー / ローマンカモミール（Chamaemelum nobile）/ ギリシャ語khamaimelon「地上のリンゴ」——踏みにじった時にリンゴの香りが上がることから命名 / 9つのアングロサクソン聖なる薬草「Lacnunga」収録・古代エジプト太陽神ラーへの捧げ物・ディオスコリデス1世紀記録 / シェイクスピア1597年「ヘンリー四世」"the more it is trodden on the faster it grows" / 色: 薄黄金色（ドイツカモミールのインディゴとは別物） / 主成分: エステル類75〜80%（イソブチルアンゲレート等）= 精油中最高クラスのエステル比率・カマズレンほぼなし / ドイツカモミール（抗炎症・皮膚）vs ローマンカモミール（神経鎮静・感情・魂）という対比 / 2009年 J Clin Psychopharmacol（Mao JJ et al.）: GAD有意軽減・GABA-A受容体作用示唆 / アロマセラピー界の「内なる子供の精油（Inner Child Oil）」——幼少期に蓋をした感情を安全に感じる場を作る / 感情の停滞解放→波動UP / 第3チャクラ（マニプーラ / 太陽神経叢）対応 / 白魔女アングル:「踏まれるほど香る」植物の性質が逆境の中でも波動を上げる存在の象徴 / POST-71ベチバー・POST-74スパイクナード・POST-77クラリセージとの「感情・内なる平和」精油シリーズ接続）。
 2026-07-22: POST-88「パーソナルマンスナンバー — あなたの今月には、番号がある。月の声」生成・GitHub push完了（数秘ピラー / パーソナルマンスナンバー（PM）= パーソナルイヤー（PY）＋今月の数字を一桁に縮める / 9年サイクルの中の月ごとのサブサイクル——「年の中に月が宿る」入れ子構造 / UY（世界）→ PY（個人の年）→ PM（月）→ PD（日）の4層時間マップ / 計算例: Rinka 2026年PY=5（3+1+1）・7月PM=5+7=12→3（創造・表現・喜びの月）/ PM1（始まり・独立・勇気）〜PM9（完了・手放し・収穫）の各意味 / I Ching・西洋占星術・東洋暦学と共通する「入れ子の宇宙観」/ 音楽理論的対応: PY=曲のキー・PM=今月のコード進行・PD=日ごとの音符 / 「逆らわない = 波動を上げる最も直接的な方法」——PMはその月の川の方向を示す羅針盤 / 日本語圏ではパーソナルマンスナンバーの解説が少なくSEOブルーオーシャン / POST-31パーソナルイヤー（年単位）の月単位版として2枚で三層時間マップが完成 / POST-79ユニバーサルイヤー1・POST-85マスターナンバーとの数秘シリーズ接続 / 「宇宙のリズムに乗るとき、努力が泳ぎに変わる」）。
 2026-07-22: EP-88「Source Direct — 顔のないデュオが、最も暗い部屋を作った」生成・GitHub push完了（レイブピラー / James (Jim) Baker + Phil Aslett（St Albans, Hertfordshire）/ 14歳でHackney・Panic Studioの深夜セッションから制作開始（深夜帯は料金が安いため）/ 17歳頃St Albansの自宅にスタジオを構えリリース開始 / 顔写真・インタビューを完全回避した匿名スタンス / エイリアス: Intensity（Basement Records）・Sounds of Life（Certificate 18）・Oblivion（Street Beats）/ デビュー"Future London"（Odysee, 1994）/ 「The Crane / Artificial Barriers」（自主, 1996）= スタジオジブリ「天空の城ラピュタ」をサンプリング——Metalheadz Sunday Sessionsで最も頻繁に再生された曲のひとつ / 「The Cult」& 「A Made Up Sound」（Metalheadz, 1996）= ダークサイドクラシック・Metalheadzでの地位を確立 / 「Exorcise the Demons」（Virgin Records, 1999）= 唯一のアルバム・Fact Magazine「90年代ベストアルバム100」96位（"Concealed Identity" / "Mind Weaver" / "Technical Warfare"収録）/ 1999年Phil Aslettが「意見の相違」を理由に脱退・Jim Bakerが単独でSource Direct名義継続 / 「The Crane」2016年Nonplus Recordsよりリイシュー / サウンドの位置づけ: LTJ Bukemの光（EP-77）とPhotekの精密さ（EP-83）の間——揺れるマイナーキーのメロディを鋭いスプリンター・ブレイクと深いベースラインに組み合わせる / EP-47（Metalheadz / Sunday Sessionsの常連）・EP-83（Photek / 同じSunday Sessions・精密な美学）・EP-84（Kemistry & Storm / 同じSunday Sessions）・EP-85（Dillinja / 同じSunday Sessions・体感的美学との対比）・EP-77（LTJ Bukem / Atmospheric DnBとの対比）との直接接続）。
 2026-07-21: POST-87「挿し木 — 一本の枝から、十の命が生まれる。豊かさを増やす菜園の魔術」生成・GitHub push完了（ハーブ菜園ピラー / オーキシン（IAA）= 葉が産生する植物ホルモンが茎切断後に傷口へ蓄積し不定根を命令する / 葉のない枝は発根しない——葉が再生シグナルの唯一の源 / 発根タイムライン: 誘導期（1〜4日）→ 開始期（4〜14日）→ 発現期（14〜30日+）/ 7月 = ソフトウッドカッティングの最適期（オーキシン産生ピーク・木質化前・最適温度20〜25°C）/ ペパーミント・メリッサ: 水挿しで1〜2週間 / タイム・セージ・ゼラニウム: 砂質土で2〜4週間 / ラベンダー・ローズマリー: 砂質土必須・水は厳禁・4〜8週間 / 820年サン・ガレン修道院設計図 = 現存最古の西洋ハーブ庭園記録・地中海ハーブは種が育たないため挿し木のみで北欧全土に伝播 / アメリカ南部「Pass-Along Plants」: 南北戦争期の封鎖下で隣人から隣人へ切り枝を渡す習慣——「切り枝は贈り物であり商品ではない」/ Seed Sistas（英国ハーブ学校）「Magic Herbalism & Abundance Spell」: ハーブ増殖 = 豊かさの儀式 / 与えると親株が2〜3本の新芽で答える / 白魔女アングル: 「豊かさを念じるのではなく、実行する。手放すと、増える。」/ POST-78テルペン防衛物質・POST-81菌根菌（Wood Wide Web）・POST-84ドライハーブ保存との「菜園科学シリーズ」継続接続）。
