@@ -1,0 +1,94 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["6 SECONDS"],
+      "sub": "The drum break that built a century."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Washington D.C. 1969.",
+        "A soul group called The Winstons.",
+        "Their hit single: 'Color Him Father'.",
+        "The B-side: 'Amen, Brother'.",
+        "Nobody listened to the B-side."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "February 1970.",
+        "'Color Him Father' wins the Grammy.",
+        "Best R&B Song.",
+        "The B-side stays in the dark.",
+        "Gregory Coleman's break — unheard."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "1 min 26 sec into 'Amen, Brother'.",
+        "The instruments stop.",
+        "Coleman plays alone.",
+        "Four bars.",
+        "Six seconds.",
+        "He doesn't know what he is making."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "1988. America hears it first.",
+        "NWA — 'Straight Outta Compton'.",
+        "Rob Base & DJ E-Z Rock.",
+        "Hip-hop finds the break.",
+        "The Amen starts to move."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "Early 90s. London.",
+        "4hero. Reinforced Records. Shy FX.",
+        "Pitch it up. Chop it. Resequence.",
+        "160 BPM. 170 BPM.",
+        "The Amen becomes the engine",
+        "of jungle. Then drum and bass."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Gregory Coleman",
+        "died in Atlanta, 2006.",
+        "Homeless.",
+        "Zero royalties.",
+        "From over 5,000 songs.",
+        "The most sampled drummer in history",
+        "never knew."
+      ],
+      "note": "His name is not in the credits."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Everything you've heard —",
+        "jungle, DnB, breakcore —",
+        "started here.",
+        "Six seconds.",
+        "A B-side.",
+        "A man who died not knowing."
+      ],
+      "strobe": "",
+      "cta": "Save this."
+    }
+  ]
+}
