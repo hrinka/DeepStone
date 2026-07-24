@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-24] POST-90 | 種採り — 花が終わるとき、植物は来季に手紙を書いた（ハーブ菜園ピラー）
+- Files: `aroma-insta/output/POST-90/carousel.md`, `aroma-insta/output/POST-90/research.md`, `wiki/sources/aroma/aroma-POST-90-2026-07-24-seed-saving.md`
+- Topic: ハーブ菜園ピラー / 種採り（シードセービング）/ 固定種（在来種・heirloom seeds）vs F1品種（一代雑種）/ 種形成の科学（受粉→受精→種子形成→成熟→散布）/ 種子休眠（seed dormancy）とフィトクロム / Rinka の庭での採種: セージ（7〜9月/黒い種）・タイム（花穂乾燥）・メリッサ（こぼれ種・最旺盛）・パセリ（二年草・白傘型の花から）/ **ペパーミント不稔の逆説**: スペアミント×ウォーターミントの交雑種 = 染色体差により種子作れない体 = でも地下茎で無限拡散——「種がないのに一番広がる」/ 固定種文化: 野口勲「とにかくタネを採りましょう」・在来種保存の会 / 白魔女アングル: 採種 = 来年の自分への意図の手紙・種に来年の意図を念じてから封筒に入れる / 波動との繋がり: 散ることで続く（無常と継続の共存）・固定種 = 魂の継承・ペパーミントの逆説（型がないから形にとらわれない）/ POST-87挿し木・POST-81菌根菌・POST-84ドライハーブ保存との「菜園科学シリーズ」接続。
+
 ## [2026-07-24] EP-90 | The Amen Break — 6秒が、歴史になった（レイブピラー）
 - Files: `rave-team/output/EP-90/carousel.md`, `rave-team/output/EP-90/research.md`, `wiki/sources/rave/EP-90 — 2026-07-24 — amen-break-gregory-coleman-six-seconds.md`
 - Topic: レイブピラー / The Winstons（ワシントンD.C.ソウルグループ）バンドリーダー Richard Lewis Spencer（グラミー受賞者「Color Him Father」Best R&B Song 1970）+ ドラマー Gregory "G.C." Coleman / 1969年リリース「Color Him Father」A面——B面「Amen, Brother」は誰も聴かなかった / 1:26付近で4バーの独奏——6〜7秒のドラムブレイクが生まれる / 1988年: N.W.A「Straight Outta Compton」・Rob Base & DJ E-Z RockがアメリカのヒップホップでAmen Breakを最初期使用 / 1991〜1993年: 4hero（Reinforced Records）・Shy FXらが E-mu SP-950 でタイムストレッチ×チョッピングにより100 BPMのブレイクを160〜170 BPMに引き伸ばし「ジャングルのドラム言語」として確立 / WhoSampled推計4,500〜5,000曲以上——史上最多サンプリング・ドラムループ / Gregory Coleman: 2006年アトランタにてホームレスとして死去・ロイヤルティ収入ゼロ / Spencer: サンプリングを知ったのは1996年（著作権時効は多くのケースで経過済み）/ Spencer: 2020年12月26日死去（享年78）/ 2015年: 英国DJ Martyn WebsterがクラウドファンディングでSpencerへ約£24,000を贈呈（Colemanはすでに死去）/ EP-11（Jungle誕生 / Amen Breakがジャングルの核）・EP-79（4hero / Reinforced / タイムストレッチ技術の開発者）・EP-80（Shy FX / "Original Nuttah" = Amen Break代表使用例）・EP-82（Andy C / "Valley of the Shadows"）・EP-50（Hardcore Continuum / Amen Breakは「1本の線」の音響的骨格）との直接接続。
