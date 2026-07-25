@@ -1,0 +1,86 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["Moving Shadow"],
+      "sub": "Metalheadz had the club. Moving Shadow had the room."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1990. Stevenage, Hertfordshire.",
+        "A bedroom. A sampler.",
+        "A catalogue number beginning with 'Shadow'.",
+        "Rob Playford built it alone."
+      ],
+      "sub": "Before drum and bass had a name, the label was already there."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1992.",
+        "2 Bad Mice — 'Bombscare'.",
+        "Blame — 'Music Takes You' charted.",
+        "Jungle did not yet have a name.",
+        "Moving Shadow was already there."
+      ],
+      "sub": "The genre did not exist. The music did."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Rob Haigh was a Virgin Megastore manager.",
+        "He came from post-punk. From industrial noise.",
+        "No hip-hop background.",
+        "That distance made him different.",
+        "Omni Trio — 'Renegade Snares'. 1993.",
+        "Piano over an Amen Break.",
+        "Atmospheric drum and bass — before the name existed."
+      ],
+      "sub": "Omni Trio brought melody into a genre that hadn't asked for it yet."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1994. Goldie called Playford.",
+        "He wanted to appear in a documentary.",
+        "Playford brought him into the studio instead.",
+        "'Inner City Life'. November 1994.",
+        "UK Singles #39. Dance Chart #6.",
+        "The first drum and bass song that made people cry."
+      ],
+      "sub": "Playford's name was never on the cover. His hands were on every dial."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "While Metalheadz held the darkness,",
+        "Moving Shadow held the depth."
+      ],
+      "note": "Timeless. 1995. 21 minutes, one track. Goldie's name on the cover. Playford's hands on every dial."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Over 200 singles. 30 albums.",
+        "Omni Trio. Foul Play. E-Z Rollers.",
+        "Dom & Roland. Blame. 2 Bad Mice.",
+        "2007 — Moving Shadow closed.",
+        "No announcement. No final statement.",
+        "The room simply went quiet."
+      ],
+      "sub": "No farewell. The shadow just stopped moving."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "The label never needed your attention.",
+        "The music always did."
+      ],
+      "strobe": "Save this.",
+      "cta": "Save this. You'll need it again."
+    }
+  ]
+}
