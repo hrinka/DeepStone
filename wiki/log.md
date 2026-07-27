@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-27] EP-93 | Calibre / Signature Recordings — ロンドンを選ばなかった男が、liquid DnBの語彙を作った（レイブピラー）
+- Files: `rave-team/output/EP-93/carousel.md`, `rave-team/output/EP-93/research.md`, `wiki/sources/rave/EP-93 — 2026-07-27 — calibre-signature-recordings.md`
+- Topic: レイブピラー / Calibre（本名Dominick Martin）/ ベルファスト（北アイルランド）出身・The Troublesの時代に育つ / 5歳のとき400人の中から選ばれベルファスト音楽学校でバイオリン訓練——ティンホイッスルで伝統アイリッシュ音楽も演奏 / 兄の影響で1990年代初頭にジャングル/DnBと出会い1995年から制作開始（Goldie・LTJ Bukemがインスピレーション）/ 北アイルランド初の専業DnBアーティスト / 1998年Quadraphonic Recordsデビューシングル / デビューアルバム「Musique Concrète」（2001年、FabioのCreative Source = CRSE 002 CD）/ 2003年頃Signature Recordings自主設立——以降の全主要作品を自前でリリース・メジャー不签名貫く / 「Second Sun」（2005年）liquid DnBのジャンル定義作・2019年リマスター再発 / Shelflifeシリーズ（2007〜Vol.8以降）アルバム未収録曲を正式ビニールリリース / FabricLive.46・FabricLive.68・RA Podcast 765（2021年）/ 2019年Drum & Bass Arena Critics Choice受賞 / EP-77（LTJ Bukem / 系譜）・EP-76（Fabio & Grooverider / Creative Sourceリリース）・EP-87（Goldie / 制作動機）・EP-91（Moving Shadow / 独立系精神の接続）との直接接続。
+
 ## [2026-07-26] POST-92 | ラベンダー精油 — 洗い女が語り継いだ香り、アロマテラピーの誕生（アロマピラー）
 - Files: `aroma-insta/output/POST-92/carousel.md`, `aroma-insta/output/POST-92/research.md`, `wiki/sources/aroma/aroma-POST-92-2026-07-26-lavender-aromatherapy-birth.md`
 - Topic: アロマピラー / ラベンダー精油（Lavandula angustifolia）/ 語源: ラテン語 lavare（洗う）——中世洗い女（lavenders）がリネンをラベンダー茂みで乾かす習慣 / 1910年 René-Maurice Gattefossé: 実験室爆発事故→重度熱傷→ラベンダー精油に浸す→予想外の早期治癒→"aromatherapy"という単語を造語（1937年著書 Aromathérapie / 1993年英訳で英語圏定着）/ 主成分: 酢酸リナリル（30〜50%・GABA-A受容体活性化・睡眠導入）+ リナロール（20〜40%・セロトニントランスポーター作用・抗不安）/ 2026年 Holistic Nursing Practice系統的レビュー: 628名・11RCT → 睡眠の質向上確認 / チャクラ: 第7（クラウン）+ 第6（サードアイ）——「すべてのチャクラに語りかける唯一の精油」= アロマテラピーの"母" / 真正ラベンダー ≠ ラバンジン（品質差注意）/ 白魔女アングル: 副交感神経優位 = 「戦い」から「修復」モードへの周波数移行・眠れない夜は上がりすぎた波動をラベンダーが地に戻す錨 / POST-45（ラベンダー菜園ピラー・剪定）・POST-77（クラリセージ・第6チャクラ共通）・POST-89（ローマンカモミール・神経鎮静シリーズ）と接続。
