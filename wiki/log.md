@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-27] POST-93 | 地中海ハーブと渇きの哲学 — 乾くほど、深くなった（ハーブ菜園ピラー）
+- Files: `aroma-insta/output/POST-93/carousel.md`, `aroma-insta/output/POST-93/research.md`, `wiki/sources/aroma/aroma-POST-93-2026-07-27-mediterranean-drought.md`
+- Topic: ハーブ菜園ピラー / 地中海ハーブ（ラベンダー・ローズマリー・タイム・セージ）/ 地中海気候: 年間降雨量300〜600mm・夏はほぼ雨なし・石灰岩土壌——この過酷な環境への4,000年の適応が「乾くほど香りが深くなる」を生んだ / 水ストレス → モノテルペン合成遺伝子（TPS）発現増加 → 精油産生上昇（Industrial Crops / Biosci. Biotechnol. Biochem. 等で確立）/ グランデュラー・トリコームの密度が水ストレス下で増加（POST-78との接続）/ 過湿の二重害: 根腐れ（Pythium/Phytophthora）+ 精油希釈 = 「やさしい水やりが最大の敵」 / ローズマリーの語源 ros marinus（海の露）= 塩風・岩場・乾燥という三重過酷環境の植物 / プロヴァンスの格言「迷ったら水をやるな（Si tu doutes, n'arrose pas）」/ 日本の多湿夏対策: テラコッタ鉢・午前水やり・梅雨は軒下・土が完全乾燥してからたっぷり / 白魔女アングル: 「渇くから、深くなる。制限があるから、香りが濃くなる。」= 精油化学と白魔女哲学の完全一致 / POST-78（テルペン防衛物質）・POST-81（菌根菌・乾燥土壌での AMF 親和性）・POST-84（ドライハーブ保存・「乾く＝濃くなる」並行原理）・POST-87（挿し木・菜園科学シリーズ）と接続。
+
 ## [2026-07-27] EP-93 | Calibre / Signature Recordings — ロンドンを選ばなかった男が、liquid DnBの語彙を作った（レイブピラー）
 - Files: `rave-team/output/EP-93/carousel.md`, `rave-team/output/EP-93/research.md`, `wiki/sources/rave/EP-93 — 2026-07-27 — calibre-signature-recordings.md`
 - Topic: レイブピラー / Calibre（本名Dominick Martin）/ ベルファスト（北アイルランド）出身・The Troublesの時代に育つ / 5歳のとき400人の中から選ばれベルファスト音楽学校でバイオリン訓練——ティンホイッスルで伝統アイリッシュ音楽も演奏 / 兄の影響で1990年代初頭にジャングル/DnBと出会い1995年から制作開始（Goldie・LTJ Bukemがインスピレーション）/ 北アイルランド初の専業DnBアーティスト / 1998年Quadraphonic Recordsデビューシングル / デビューアルバム「Musique Concrète」（2001年、FabioのCreative Source = CRSE 002 CD）/ 2003年頃Signature Recordings自主設立——以降の全主要作品を自前でリリース・メジャー不签名貫く / 「Second Sun」（2005年）liquid DnBのジャンル定義作・2019年リマスター再発 / Shelflifeシリーズ（2007〜Vol.8以降）アルバム未収録曲を正式ビニールリリース / FabricLive.46・FabricLive.68・RA Podcast 765（2021年）/ 2019年Drum & Bass Arena Critics Choice受賞 / EP-77（LTJ Bukem / 系譜）・EP-76（Fabio & Grooverider / Creative Sourceリリース）・EP-87（Goldie / 制作動機）・EP-91（Moving Shadow / 独立系精神の接続）との直接接続。
