@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-29] EP-95 | Benga — 世界を変えた後で、世界に壊された男（レイブピラー）
+- Files: `rave-team/output/EP-95/carousel.md`, `rave-team/output/EP-95/research.md`, `wiki/sources/rave/EP-95 — 2026-07-29 — benga-diary-of-an-afro-warrior-mental-health.md`
+- Topic: レイブピラー / Benga（本名Adegbenga Otomayomi Adejumo、1986年9月1日生、Croydon）/ 15歳でBig Apple RecordsにデモをHatchaに発見される / 2002年初リリース「Skank」/ 2008年3月3日「Diary of an Afro Warrior」（Tempa Records）= "Night" (with Coki / Digital Mystikz) / "26 Basslines" / "Emotions"——ダブステップのジャンル定義アルバム / "Night" = the dubstep anthem of 2007-08 / 2010年Magnetic Man（Benga + Skream + Artwork、Columbia / Sony）「I Need Air」feat. Katy B → UK Top 10 / 2014年2月引退宣言→2014年3月逮捕・措置入院 / 診断: 双極性障害+統合失調症 / 「My bipolar was brought on by drugs and the schizophrenia was the result of excessive touring.」/ 2015年10月Twitter公開告白 / 2016年2月12日fabricで復帰（Tectonic showcase）/ EP-94（Skream / Big Apple Records / Magnetic Man）・EP-70（Dubstep Warz / Benga楽曲がBBC Radio 1でプレイされた歴史的放送）・EP-68（DMZ / Coki = "Night"の共作者）・EP-66（FWD>> / HatchaがBengaのダブプレートをプレイした現場）・EP-28（Dubstep vs Brostep / メインストリーム化の文脈）との直接接続。
+
 ## [2026-07-28] POST-94 | 数字は、惑星の声だった — 1〜9の守護星と周波数（数秘ピラー）
 - Files: `aroma-insta/output/POST-94/carousel.md`, `aroma-insta/output/POST-94/research.md`, `wiki/sources/aroma/aroma-POST-94-2026-07-28-numerology-planets.md`
 - Topic: 数秘ピラー / 数字1〜9と守護星（惑星）の対応 / 起源: カルデア数秘術（古代バビロニア約4000年前）→ ピタゴラス（BC 570〜495年「万物は数である」「天球の音楽」）→ カバラ（ゲマトリア・生命の樹）→ 現代西洋数秘術 / 対応: 1=太陽・2=月・3=木星・4=天王星・5=水星・6=金星・7=海王星・8=土星・9=火星 / Hans Cousto（1978年）が惑星の公転周期から可聴周波数を算出（水星=141.27Hz） / 数字5（水星/ヘルメス）の詩的な位置: 1〜9の真ん中・物質（1-4）と霊性（6-9）をつなぐ橋・翼のある使者・境界を越える神 / カルデア体系では数字9は「神聖な数字」で文字が割り当てられない / RinkaのLP5=水星（ヘルメス）= 知を運ぶ旅人の守護星 / POST-79（UY1/数秘年サイクル）・POST-85（マスターナンバー）・POST-76（ライフパスナンバー）・POST-82（カーミックレッスン）との数秘シリーズ接続。
