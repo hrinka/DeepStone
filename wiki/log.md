@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-30] EP-96 | Hospital Records / London Elektricity — 全員が暗くなった。二人だけが、光を処方した（レイブピラー）
+- Files: `rave-team/output/EP-96/carousel.md`, `rave-team/output/EP-96/research.md`, `wiki/sources/rave/EP-96 — 2026-07-30 — hospital-records-london-elektricity.md`
+- Topic: レイブピラー / Hospital Records（Tony Colman / London Elektricity + Chris Goss、1996年設立、South London Forest Hill）/ カタログ番号"NHS" = 英国国民保健サービス（National Health Service）——音楽を処方箋として届けるコンセプトをレーベル名に刻む / NHS001 Peter Nice Trio「Harp of Gold」（1996年）が初リリース / 設立者Tony Colmanは設立前後に深刻な個人的危機「I nearly died...but I found myself in the process」（Fact Magazine 2012）/ Chris Gossは設立当時Soul Jazz Records（Soho）に週2日勤務しながらDJ / 前身バンド: Izit（酸性ジャズ、日本でマイナーな人気）・Mustardspoon（1994年、初コラボ）・Peter Nice Trio（1996年、DnB転向）/ "Song in the Key of Knife"（1998年春、NHS7）= 最初の大ブレイクスルー / "Pull the Plug"デビューアルバム（日本: 1998年11月Sony / UK: 1999年6月）/ High Contrast（Lincoln Barrett、1979年生、Penarth, Wales）「True Colours」（2002年10月）= "Return of Forever" がDnBの派閥対立を超えて全員に愛された唯一のトラック——Fabio（liquid）もAndy C（rollers）もHype（jump-up）も全員回した / Nu:Tone签名（2003年5月）「Brave Nu World」（2005年）/ Hospital Records Podcast（2004〜、世界初クラスの音楽ポッドキャストの一つ、2026年現在460回以上）/ Hospitality in the Park（London）・Hospitality on the Beach（Croatia）へ拡張 / 哲学: メロディを信じることは当時のシーンでは「逆張り」だった——Metalheadz（ダーク）・Virus（機械）・RAM（ハード）と同時代に「癒しの音楽」を選んだ / EP-47（Metalheadz / DnBの二大哲学の対）・EP-77（LTJ Bukem / Good Lookingと並ぶ光の系譜）・EP-82（Andy C / "Return of Forever"全派閥プレイ）・EP-86（Ed Rush & Optical / Virus Recordings / 1996年同期設立——機械vsメロディ）・EP-91（Moving Shadow / 独立系感情的DnBの精神的系譜）・EP-93（Calibre / 液体DnBの同時代双璧）との直接接続。
+
 ## [2026-07-30] autoresearch | 堆肥と土壌分解（composting × essential oil science）
 - Rounds: 3 | Searches: 13 | Pages created: 4
 - Pages: [[aroma-research-composting-microbiology]], [[aroma-research-composting-herbs-eo-science]], [[aroma-research-composting-history-philosophy]], [[compost-soil-decomposition]]
