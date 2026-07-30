@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-07-30] POST-96 | 腐るほど、豊かになる。— コンポストと土の錬金術（ハーブ菜園ピラー）
+- Files: `aroma-insta/output/POST-96/carousel.md`, `aroma-insta/output/POST-96/research.md`, `wiki/sources/aroma/aroma-POST-96-2026-07-30-compost-soil-alchemy.md`
+- Topic: ハーブ菜園ピラー / コンポスト（堆肥）/ 3段階変容: 中温期（10〜40°C・中温性細菌）→ 高温期（40〜70°C・好熱菌が爆発的増殖・病原菌死滅）→ 熟成期（放線菌・糸状菌がリグニン分解→腐植酸形成）/ C:N比 = 25〜30:1が黄金律 / 腐植酸（フミン酸）が根細胞膜透過性を向上→Zn・Mn・Fe吸収促進→テルペン合成酵素の補因子として機能→ハーブ精油が深くなる / Soil Biology & Biochemistry (2018): 有機物添加でタイム精油収量+34% / 放線菌ゲオスミン=「雨の日の森の香り」= 人間が進化的に「豊かな土地」と認識する信号（POST-75 M. vaccaeと接続）/ カトー「農業論」（紀元前160年）・コルメラ「農業大全」（1世紀）・中国緑肥2000年・江戸時代下肥循環 / 菜園科学シリーズ第7弾 / POST-80パチュリー「土に還るほど、豊かになる」・POST-81菌根菌（AMFが有機物リッチ土壌で活性化・二重効果）・POST-84「手放したから、濃くなった」との接続。
+
 ## [2026-07-29] EP-95 | Benga — 世界を変えた後で、世界に壊された男（レイブピラー）
 - Files: `rave-team/output/EP-95/carousel.md`, `rave-team/output/EP-95/research.md`, `wiki/sources/rave/EP-95 — 2026-07-29 — benga-diary-of-an-afro-warrior-mental-health.md`
 - Topic: レイブピラー / Benga（本名Adegbenga Otomayomi Adejumo、1986年9月1日生、Croydon）/ 15歳でBig Apple RecordsにデモをHatchaに発見される / 2002年初リリース「Skank」/ 2008年3月3日「Diary of an Afro Warrior」（Tempa Records）= "Night" (with Coki / Digital Mystikz) / "26 Basslines" / "Emotions"——ダブステップのジャンル定義アルバム / "Night" = the dubstep anthem of 2007-08 / 2010年Magnetic Man（Benga + Skream + Artwork、Columbia / Sony）「I Need Air」feat. Katy B → UK Top 10 / 2014年2月引退宣言→2014年3月逮捕・措置入院 / 診断: 双極性障害+統合失調症 / 「My bipolar was brought on by drugs and the schizophrenia was the result of excessive touring.」/ 2015年10月Twitter公開告白 / 2016年2月12日fabricで復帰（Tectonic showcase）/ EP-94（Skream / Big Apple Records / Magnetic Man）・EP-70（Dubstep Warz / Benga楽曲がBBC Radio 1でプレイされた歴史的放送）・EP-68（DMZ / Coki = "Night"の共作者）・EP-66（FWD>> / HatchaがBengaのダブプレートをプレイした現場）・EP-28（Dubstep vs Brostep / メインストリーム化の文脈）との直接接続。
