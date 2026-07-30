@@ -1,0 +1,83 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["Neural Signal", ""],
+      "sub": "Ed Rush & Optical — when drum and bass went into the machine."
+    },
+    {
+      "type": "body",
+      "text": [
+        "By 1994, drum and bass had found its warmth.",
+        "Good Looking Records. LTJ Bukem.",
+        "Jazz chords. Long reverbs.",
+        "But not everyone wanted warmth."
+      ],
+      "sub": "Two worlds were forming."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1995. A dubplate shop in Islington.",
+        "Two strangers.",
+        "Ben Settle. Matt Quinn."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "They called it techstep.",
+        "Dense. Cold. Precise.",
+        "Ed Rush and DJ Trace coined the word in 1996.",
+        "Not made for warmth.",
+        "Made for pressure."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "Optical had engineered Grooverider's Mysteries of Funk.",
+        "He had shaped Goldie's Saturn's Return.",
+        "The man inside the machine —",
+        "before the machine had a name."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "Their music didn't fit Metalheadz.",
+        "Didn't fit Prototype.",
+        "So they built their own label.",
+        "Virus Recordings. 1998.",
+        "Not a brand. A signal."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Neuro — the mind, the signal.",
+        "Funk — the body, the groove.",
+        "Two things that shouldn't fit.",
+        "They made them fit."
+      ],
+      "note": "Wormhole. November 16, 1998. Five records. One track per side. The first neurofunk album. No one had a word for it yet."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Virus went on to release Noisia. Mefjus. The Upbeats.",
+        "The signal never stopped.",
+        "Some music wants to be felt.",
+        "This music wants to be processed."
+      ],
+      "strobe": "The signal never stopped.",
+      "cta": "Save this."
+    }
+  ]
+}

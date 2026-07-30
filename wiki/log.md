@@ -1,5 +1,19 @@
 # Wiki Log
 
+## [2026-07-30] note | 時間管理システムの構成を決定・vault側を準備
+- Pages updated: [[時間管理システム]], [[index]]
+- Pages created: [[週次レビュー]]
+- Files updated: `_templates/daily-note.md`（「📅 今日の予定」をDay Planner形式 `HH:MM - HH:MM` に変更）
+- Key insight: Obsidian内で完結させる方針（Dataview + Tasks + Day Planner + Google Calendar[YukiGasai]の4プラグイン構成）を採用。Google Tasksの自動同期は候補が未成熟（最大9★）なため見送り、朝の手動転記をあえてルーティンとして残す判断をした。プラグインのインストール自体はObsidianのCommunity Pluginsブラウザから本人が行う必要あり（未着手）。
+
+## [2026-07-30] ingest | 自己省察と発信拠点・時間管理の課題
+- Source: `raw/personal/2026-07-30_自己省察と発信拠点・時間管理の課題.md`
+- Summary: [[2026-07-30-自己省察と発信拠点・時間管理]]
+- Pages created: [[2026-07-30-自己省察と発信拠点・時間管理]], [[時間管理システム]]
+- Pages updated: [[2026-07-20-平塚市個人事業主プラン]]（related追記）, [[index]], [[hot]]
+- Key insight: 「第一志望に僅差で届かない」受験期のパターンと「時間にいつも少し遅れる」現在の課題を本人が同じ根として自己認識。平塚実家の発信地化構想はmoney面（既存プラン）とspirit/アイデンティティ面（本メモ）の両方から補強された。時間管理は新規ツール追加ではなく既存3ツールの役割分担の整理（実行=カレンダー／内省=journal）を先に試す方向で[[時間管理システム]]に提案を記録。
+- Note: この ingest 作業中に wiki/hot.md・wiki/log.md に未解消のマージコンフリクト（2026-07-20付、口座構成方針側 vs EP-86側）を発見し解消。両ブランチのエントリを保持する形で統合。
+
 ## [2026-07-20] note | 屋号の銀行表示名を「COSMIC THETA」に確定
 - Pages updated: [[口座構成方針]], [[hot]]
 - Key insight: 元の屋号「COSMICΘ」のΘ（ギリシャ文字）は全銀協の使用可能文字（全角カタカナ・英字Ａ〜Ｚ・数字・一部記号）に含まれないため、カタカナ変換ではなく英字スペルアウト「COSMIC THETA」を採用。
@@ -15,6 +29,10 @@
 - Pages created: [[2026-07-20-平塚市個人事業主プラン]], [[UK-WHVビザ準備]]
 - Pages updated: [[助成金-補助金-候補]]（対象範囲拡大・第20回締切2026年11月5日〜12月15日を追記）, [[借金返済-キャッシュフロー計画]]（gap記録: 200万円貯蓄目標と借金¥1,246,753の整合が未整理）, [[index]], [[hot]]
 - Key insight: エンジニア業務委託年792万円を土台に、助成金・会計ソフト（マネーフォワード クラウド確定申告）・UK WHV（2024年〜先着順・年6,000人枠）の方針が固まったが、既存の借金返済計画との整合は次回セッションの宿題として明示的にgap登録した。
+
+## [2026-07-20] EP-86 | Ed Rush & Optical / Virus Recordings — 機械に魂を入れた二人、Neurofunkの誕生（レイブピラー）
+- Files: `rave-team/output/EP-86/carousel.md`, `rave-team/output/EP-86/research.md`, `wiki/sources/rave/EP-86 — 2026-07-20 — ed-rush-optical-virus-recordings.md`
+- Topic: レイブピラー / Ed Rush（本名Ben Settle、1973年生、ロンドン）/ Optical（本名Matt Quinn、1972年生）/ 1993年: Ed RushがDon FM海賊ラジオ・"Bludclot Artattack"（No U-Turn Records、Nico Sykesとの共作）でデビュー / 1995年: イズリントンのMusic House（ダブプレートマスタリング）でOpticalと出会う / 1996年: DJ TraceとともにDnBの新スタイルを「Techstep」と命名 / Optical別働き: Grooverider "Mysteries of Funk" エンジニア（1998）・Goldie "Saturn's Return" エンジニア（1998）/ MetalheadzにもPrototypeにも収まらない楽曲のため→ 1998年Virus Recordings設立 / 第一弾シングル: "The Medicine / Punchbag"（VRS001）/ "Wormhole"（1998年11月16日）= 史上初のニューロファンクアルバム・アナログ5枚組ボックスセット・CD2枚組（disc2は1時間コンティニュアスミックス）/ リリース1ヶ月前にGrooveriderのBBC Radio 1番組で先行紹介 / Virus後続: Noisia・Bad Company UK・Pendulum・Mefjus・The Upbeats / EP-47（Metalheadz）・EP-76（Grooverider/BBC Radio 1接続）・EP-77（LTJ Bukem/機械vs光の対比）・EP-83（Photek）・EP-85（Dillinja）との直接接続。
 
 ## [2026-07-19] POST-85 | マスターナンバー11・22・33 — 縮めてはいけない数字がある（数秘ピラー）
 - Files: `aroma-insta/output/POST-85/carousel.md`, `aroma-insta/output/POST-85/research.md`, `wiki/sources/aroma/aroma-POST-85-2026-07-19-master-numbers.md`
