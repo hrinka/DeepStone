@@ -30,7 +30,7 @@
 ### ハーブ精油×有機土壌の関係
 - 有機物リッチな土壌はAMF（菌根菌）の定着を促進 → POST-81の内容と接続
 - AMF多いほどテルペン合成酵素発現↑（MDPI Agronomy 2022）
-- Soil Biology & Biochemistry (2018): 有機物添加でタイム（Thymus vulgaris）の精油収量が慣行栽培比で最大+34%向上
+- **PMID 29692550**: 腐植酸75 g/m²施用でタイム精油含量 0.8% → **2.0%（+150%）**・チモール74.15%・GC-MSで32揮発化合物同定（最も信頼性の高いデータ）
 - ラベンダー: 有機肥料施用区でリナロールアセタート含量が統計的に有意に高い（複数のイラン・モロッコ研究）
 
 ---
@@ -68,7 +68,9 @@
 
 ## 参考ソース
 - Nardi, S. et al. (2009) "Biological activities of humic substances" — PubMed
-- Soil Biology & Biochemistry (2018) — 有機物添加とタイム精油収量
+- PMID 29692550 — 腐植酸×タイム精油+150%（最重要引用）
+- PMC12693513 (Molecules 2025) — バーク+汚泥コンポスト×ラベンダー花序最大化
+- Springer CBTA 2021, DOI 10.1186/s40538-021-00226-7 — アーティチョーク残渣コンポスト×バジル精油抗菌活性向上
 - MDPI Agronomy 2022 — AMFとラベンダー精油（POST-81参照）
 - Marcus Cato "De Agri Cultura" (160 BC) — 農業論、東海大学出版会邦訳
 - Columella "De Re Rustica" (1st century AD) — ルーヴル写本

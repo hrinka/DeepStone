@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-30] autoresearch | 堆肥と土壌分解（composting × essential oil science）
+- Rounds: 3 | Searches: 13 | Pages created: 4
+- Pages: [[aroma-research-composting-microbiology]], [[aroma-research-composting-herbs-eo-science]], [[aroma-research-composting-history-philosophy]], [[compost-soil-decomposition]]
+- Synthesis: [[Research: 堆肥と土壌分解]]
+- Key finding: フミン酸75g/m²施用でタイム精油含有量が0.8%→2.0%（+150%）に増加（PMID 29692550）。フミン酸はMEP/MVA両テルペン合成経路に前駆体供給を増やすことで精油品質を向上させる。歴史的にはカトー『農業論』（紀元前160年）・漢代農業・江戸下肥経済（1603〜1868）の三文明で独立的に発展。
+
 ## [2026-07-30] POST-96 | 腐るほど、豊かになる。— コンポストと土の錬金術（ハーブ菜園ピラー）
 - Files: `aroma-insta/output/POST-96/carousel.md`, `aroma-insta/output/POST-96/research.md`, `wiki/sources/aroma/aroma-POST-96-2026-07-30-compost-soil-alchemy.md`
 - Topic: ハーブ菜園ピラー / コンポスト（堆肥）/ 3段階変容: 中温期（10〜40°C・中温性細菌）→ 高温期（40〜70°C・好熱菌が爆発的増殖・病原菌死滅）→ 熟成期（放線菌・糸状菌がリグニン分解→腐植酸形成）/ C:N比 = 25〜30:1が黄金律 / 腐植酸（フミン酸）が根細胞膜透過性を向上→Zn・Mn・Fe吸収促進→テルペン合成酵素の補因子として機能→ハーブ精油が深くなる / Soil Biology & Biochemistry (2018): 有機物添加でタイム精油収量+34% / 放線菌ゲオスミン=「雨の日の森の香り」= 人間が進化的に「豊かな土地」と認識する信号（POST-75 M. vaccaeと接続）/ カトー「農業論」（紀元前160年）・コルメラ「農業大全」（1世紀）・中国緑肥2000年・江戸時代下肥循環 / 菜園科学シリーズ第7弾 / POST-80パチュリー「土に還るほど、豊かになる」・POST-81菌根菌（AMFが有機物リッチ土壌で活性化・二重効果）・POST-84「手放したから、濃くなった」との接続。

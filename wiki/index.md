@@ -111,6 +111,12 @@ tags:
 |[[Synthesis — Mixer as Instrument]]|Jamaica→Tokyo→Berlin→London: ミキサーを楽器として使う哲学の世界的伝播|
 |[[Synthesis — Bass as Physical Force]]|ベースは「聴く」ではなく「感じる」——3文脈での収束|
 
+### Aroma & Garden Science (→ concepts/numerology/)
+
+|Page|Description|
+|---|---|
+|[[compost-soil-decomposition]]|堆肥・土壌分解の完全フレームワーク: 3フェーズ・C:N比・腐植酸×精油増産・土づくり哲学・SEOキーワード|
+
 ## Entities
 
 |Entity|Description|
@@ -149,6 +155,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[Research: 堆肥と土壌分解]]|Synthesis: 3-round autoresearch — コンポスト微生物・C:N比・腐植酸×アロマハーブ精油・ローマ/中国/日本の歴史・土づくり哲学・SEOキーワード|
 |[[Research: Dub Music History]]|Synthesis: 2-round autoresearch on dub history Jamaica→UK Bass|
 |[[Research: Japanese Dub Scene]]|Synthesis: Japanese dub scene history, key artists, open questions|
 |[[Research: Dub Techno and Grime]]|Synthesis: Basic Channel / Berlin dub techno + Grime's dub DNA|
