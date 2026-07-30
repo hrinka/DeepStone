@@ -1,0 +1,101 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["HOSPITAL RECORDS"],
+      "sub": "when everyone ran dark, two men stayed light"
+    },
+    {
+      "type": "body",
+      "text": [
+        "1996. Forest Hill, South London.",
+        "",
+        "Tony Colman and Chris Goss",
+        "built a label from a small studio.",
+        "",
+        "They called it Hospital Records."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "The catalog numbers start with NHS.",
+        "",
+        "NHS — the National Health Service.",
+        "Britain's system for free public healthcare.",
+        "",
+        "They weren't making music.",
+        "They were writing prescriptions."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "Metalheadz went dark.",
+        "Virus built machines.",
+        "Ram went harder.",
+        "",
+        "Hospital chose melody."
+      ],
+      "sub": "\"Song in the Key of Knife\" — 1998. The first cut that put them on the map."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2002. High Contrast. Wales.",
+        "Lincoln Barrett was 22.",
+        "",
+        "Fabio played it.",
+        "Andy C played it.",
+        "Hype played it.",
+        "",
+        "That never happens.",
+        "One record cannot belong to everyone.",
+        "This one did."
+      ],
+      "sub": "\"Return of Forever\" — True Colours (2002)"
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "The music should reach people",
+        "who don't know",
+        "they need it yet."
+      ],
+      "note": "Liquid DnB. Not a softer version. A different philosophy."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The podcast launched in 2004.",
+        "One of the first music podcasts in the world.",
+        "",
+        "Then Hospitality in the Park.",
+        "Then Hospitality on the Beach, Croatia.",
+        "",
+        "A label became a community.",
+        "A community became a movement."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "cta",
+      "text": [
+        "The light stayed on.",
+        "",
+        "Every NHS release.",
+        "Every Outpatients compilation.",
+        "Every Hospitality night.",
+        "",
+        "A reminder that melody",
+        "is not weakness."
+      ],
+      "strobe": "PLUR SYSTEM DIARY",
+      "cta": "Save this."
+    }
+  ]
+}
