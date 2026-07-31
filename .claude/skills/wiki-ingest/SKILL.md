@@ -14,18 +14,18 @@ Read the source. Write the wiki. Cross-reference everything. A single source typ
 
 ## Delta Tracking
 
-Before ingesting any file, check `.raw/.manifest.json` to avoid re-processing unchanged sources.
+Before ingesting any file, check `raw/.manifest.json` to avoid re-processing unchanged sources.
 
 ```bash
 # Check if manifest exists
-[ -f .raw/.manifest.json ] && echo "exists" || echo "no manifest yet"
+[ -f raw/.manifest.json ] && echo "exists" || echo "no manifest yet"
 ```
 
 **Manifest format** (create if missing):
 ```json
 {
   "sources": {
-    ".raw/articles/article-slug-2026-04-08.md": {
+    "raw/articles/article-slug-2026-04-08.md": {
       "hash": "abc123",
       "ingested_at": "2026-04-08",
       "pages_created": ["wiki/sources/article-slug.md", "wiki/entities/Person.md"],
@@ -58,14 +58,14 @@ Steps:
 1. **Fetch** the page using WebFetch.
 2. **Clean** (optional): if `defuddle` is available (`which defuddle 2>/dev/null`), run `defuddle [url]` to strip ads, nav, and clutter. Typically saves 40-60% tokens. Fall back to raw WebFetch output if not installed.
 3. **Derive slug** from the URL path (last segment, lowercased, spaces→hyphens, strip query strings).
-4. **Save** to `.raw/articles/[slug]-[YYYY-MM-DD].md` with a frontmatter header:
+4. **Save** to `raw/articles/[slug]-[YYYY-MM-DD].md` with a frontmatter header:
    ```markdown
    ---
    source_url: [url]
    fetched: [YYYY-MM-DD]
    ---
    ```
-5. Proceed with **Single Source Ingest** starting at step 2 (file is now in `.raw/`).
+5. Proceed with **Single Source Ingest** starting at step 2 (file is now in `raw/`).
 
 ---
 
@@ -77,7 +77,7 @@ Steps:
 
 1. **Read** the image file using the Read tool. Claude can process images natively.
 2. **Describe** the image contents: extract all text (OCR), identify key concepts, entities, diagrams, and data visible in the image.
-3. **Save** the description to `.raw/images/[slug]-[YYYY-MM-DD].md`:
+3. **Save** the description to `raw/images/[slug]-[YYYY-MM-DD].md`:
    ```markdown
    ---
    source_type: image
@@ -97,7 +97,7 @@ Use cases: whiteboard photos, screenshots, diagrams, infographics, document scan
 
 ## Single Source Ingest
 
-Trigger: user drops a file into `.raw/` or pastes content.
+Trigger: user drops a file into `raw/` or pastes content.
 
 Steps:
 
@@ -113,7 +113,7 @@ Steps:
 10. **Append** to `wiki/log.md` (new entries at the TOP):
     ```markdown
     ## [YYYY-MM-DD] ingest | Source Title
-    - Source: `.raw/articles/filename.md`
+    - Source: `raw/articles/filename.md`
     - Summary: [[Source Title]]
     - Pages created: [[Page 1]], [[Page 2]]
     - Pages updated: [[Page 3]], [[Page 4]]
@@ -178,7 +178,7 @@ Do not silently overwrite old claims. Flag and let the user decide.
 
 ## What Not to Do
 
-- Do not modify anything in `.raw/`. These are immutable source documents.
+- Do not modify anything in `raw/`. These are immutable source documents.
 - Do not create duplicate pages. Always check the index and search before creating.
 - Do not skip the log entry. Every ingest must be recorded.
 - Do not skip the hot cache update. It is what keeps future sessions fast.

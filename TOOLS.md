@@ -1,5 +1,8 @@
 # TOOLS.md — Rinka の環境メモ
 
+> このファイルの責務は **環境固有の情報**（機材・アカウント・締め切り）。
+> Rinka に関する事実の正典は [Memory.md](Memory.md)、規範は [CLAUDE.md](CLAUDE.md)。
+
 スキルは SKILL.md に。ここは Rinka 固有の設定・情報。
 
 ---

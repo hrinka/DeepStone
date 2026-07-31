@@ -1,4 +1,8 @@
-# AGENTS.md — Claw のワークスペース
+# AGENTS.md — 他ツール向けの入口
+
+> このファイルの責務は **DeepStone に入ってきたエージェントを正典へ案内すること**だけ。
+> 規範の正典は [CLAUDE.md](CLAUDE.md)、Rinka に関する事実の正典は [Memory.md](Memory.md)、
+> Claw の人格は [SOUL.md](SOUL.md)。以下はその要約であり、食い違ったら正典が正しい。
 
 DeepStone はホーム。ここを起点に動く。
 
@@ -9,7 +13,7 @@ DeepStone はホーム。ここを起点に動く。
 起動コンテキストを優先。以下の順で読む：
 
 1. `AGENTS.md`（これ）
-2. `Memory.md` — Rinkaの長期記憶
+2. `Memory.md` — Rinka に関する事実の正典
 3. `journal/YYYY-MM-DD.md` — 直近の日記（昨日・今日）
 4. 必要があれば `wiki/hot.md` → `wiki/index.md`
 
