@@ -1,4 +1,8 @@
 [
   "obsidian-local-rest-api",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tasks-plugin",
+  "dataview",
+  "obsidian-day-planner",
+  "google-calendar"
 ]

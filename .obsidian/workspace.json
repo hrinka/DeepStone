@@ -34,21 +34,31 @@
             }
           },
           {
-            "id": "6547033a15e3fa88",
+            "id": "2eb5e9be2c371a62",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Day Planner Release 0.35.0"
+            }
+          },
+          {
+            "id": "110dcd92f1874717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "journal/2026-07-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "2026-07-31"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,6 +198,26 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "527c1f95753c9dba",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "bbefefce1962dfd9",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
           }
         ]
       }
@@ -205,57 +235,59 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "6547033a15e3fa88",
+  "active": "110dcd92f1874717",
   "lastOpenFiles": [
-    "journal/2026-07-24.md",
     "conflict-files-obsidian-git.md",
-    "journal/2026-07/2026-07-29.md",
-    "journal/2026-07/2026-07-28.md",
-    "journal/2026-07/2026-07-27.md",
-    "journal/2026-07/2026-07-26.md",
-    "journal/2026-07/2026-07-25.md",
-    "journal/2026-07/2026-07-24.md",
-    "journal/2026-07/2026-07-23.md",
-    "journal/2026-07/2026-07-22.md",
-    "journal/2026-07/2026-07-21.md",
-    "journal/2026-07/2026-07-20.md",
-    "rave-team/output/EP-10/slides/EP10-8.png",
-    "rave-team/output/EP-86/slides/slide_08.png",
-    "rave-team/output/EP-86/slides/slide_07.png",
-    "rave-team/output/EP-86/slides/slide_06.png",
-    "rave-team/output/EP-86/slides/slide_05.png",
-    "rave-team/output/EP-86/slides/slide_04.png",
-    "rave-team/output/EP-86/slides/slide_03.png",
-    "rave-team/output/EP-86/slides/slide_02.png",
-    "rave-team/output/EP-86/slides/slide_01.png",
-    "rave-team/output/EP-86/slides",
-    "wiki/sources/rave/EP-86 — 2026-07-20 — ed-rush-optical-virus-recordings.md",
-    "rave-team/output/EP-86/slides.json",
-    "rave-team/output/EP-86/research.md",
-    "rave-team/output/EP-86/carousel.md",
-    "rave-team/output/EP-86/caption.md",
-    "rave-team/output/EP-86",
-    "wiki/concepts/money/口座構成方針.md",
-    "wiki/concepts/money/UK-WHVビザ準備.md",
-    "wiki/sources/2026-07-20-平塚市個人事業主プラン.md",
-    "raw/personal/2026-07-20_平塚市個人事業主プラン.md",
-    "rave-team/output/EP-10/slides/EP10-6.png",
-    "rave-team/output/EP-11/script_ja.md",
-    "journal/2026-07-20.md",
-    "journal/2026-07-10.md",
-    "journal/2026-06-25.md",
-    "journal/2026-06-22.md",
-    "rave-team/output/EP-11/caption.md",
-    "rave-team/output/EP-85/slides",
-    "rave-team/output/EP-85/slides.json",
-    "rave-team/output/EP-85",
-    "aroma-insta/output/POST-85",
-    "rave-team/output/EP-82/slides",
-    "rave-team/output/EP-83/slides",
-    "rave-team/output/EP-84/slides",
+    "journal/2026-07-31.md",
+    "rave-team/output/EP-90/slides/slide_08.png",
+    "rave-team/output/EP-90/slides/slide_07.png",
+    "rave-team/output/EP-90/slides/slide_06.png",
+    "rave-team/output/EP-90/slides/slide_05.png",
+    "rave-team/output/EP-90/slides/slide_04.png",
+    "rave-team/output/EP-90/slides/slide_03.png",
+    "rave-team/output/EP-90/slides/slide_02.png",
+    "rave-team/output/EP-90/slides/slide_01.png",
+    "rave-team/output/EP-90/slides",
+    "rave-team/output/EP-91/slides/slide_08.png",
+    "rave-team/output/EP-91/slides/slide_07.png",
+    "rave-team/output/EP-91/slides",
+    "rave-team/output/EP-88/slides",
+    "rave-team/output/EP-87/slides",
+    "rave-team/output/EP-89/slides",
+    "rave-team/output/EP-93/slides",
+    "rave-team/output/EP-94/slides",
+    "rave-team/output/EP-95/slides",
+    "rave-team/output/EP-92/slides",
+    "journal/2026-07/2026-07-30.md",
+    "journal/2026-07-24.md",
+    "wiki/sources/rave/EP-95 — 2026-07-29 — benga-diary-of-an-afro-warrior-mental-health.md",
+    "wiki/sources/rave/EP-94 — 2026-07-28 — skream-croydon-dubstep-architect.md",
+    "wiki/sources/rave/EP-93 — 2026-07-27 — calibre-signature-recordings.md",
+    "wiki/sources/rave/EP-92 — 2026-07-26 — bad-company-uk.md",
+    "wiki/sources/rave/EP-91 — 2026-07-25 — moving-shadow-records.md",
+    "wiki/sources/rave/EP-90 — 2026-07-24 — amen-break-gregory-coleman-six-seconds.md",
+    "wiki/sources/rave/EP-89 — 2026-07-23 — leftfield-leftism-open-up.md",
+    "wiki/sources/rave/EP-88 — 2026-07-22 — source-direct.md",
+    "wiki/sources/rave/EP-87 — 2026-07-21 — goldie-timeless.md",
+    "wiki/sources/aroma/aroma-POST-95-2026-07-29-juniper-berry.md",
+    "wiki/sources/aroma/aroma-POST-94-2026-07-28-numerology-planets.md",
+    "wiki/sources/aroma/aroma-POST-93-2026-07-27-mediterranean-drought.md",
+    "wiki/sources/aroma/aroma-POST-92-2026-07-26-lavender-aromatherapy-birth.md",
+    "wiki/sources/aroma/aroma-POST-91-2026-07-25-personal-day-number.md",
+    "wiki/sources/aroma/aroma-POST-90-2026-07-24-seed-saving.md",
+    "wiki/sources/aroma/aroma-POST-89-2026-07-23-roman-chamomile.md",
+    "wiki/sources/aroma/aroma-POST-88-2026-07-22-personal-month-number.md",
+    "wiki/sources/aroma/aroma-POST-87-2026-07-21-herb-propagation-cuttings.md",
+    "rave-team/output/EP-95/slides.json",
+    "rave-team/output/EP-95/research.md",
+    "rave-team/output/EP-95/carousel.md",
+    "rave-team/output/EP-95/caption.md",
+    "rave-team/output/EP-94/research.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
