@@ -879,7 +879,7 @@
 - Hook: 「1994年。英国政府は法律で、音楽を犯罪にした。」
 
 ## [2026-05-12] aroma-insta | POST-01: あなたの数字、知ってる？— ライフパス数の出し方
-- Carousel（スライド8枚＋画像案）: aroma-insta/output/POST-14/carousel.md
-- Research memo: aroma-insta/output/POST-14/research.md
-- Wiki source: wiki/sources/aroma-POST-01-2026-05-12-lifepath-number-intro.md
+- Carousel（スライド8枚＋画像案）: flava-fm/output/POST-01/carousel.md
+- Research memo: flava-fm/output/POST-01/research.md
+- Wiki source: wiki/sources/aroma/aroma-POST-01-2026-05-12-lifepath-number-intro.md
 - Pillar: 数秘（Numerology）

@@ -1,6 +1,6 @@
 ---
 name: wiki-fold
-description: "Rollup of wiki log entries into meta-pages. Reads the last 2^k entries from wiki/log.md, writes a structurally-idempotent fold page to wiki/folds/ that links back to children. Extractive summarization (no invention). Dry-run by default, stdout-only; commit mode writes and accepts that the PostToolUse hook auto-commits. Triggers on: fold the log, run a fold, run wiki-fold, log rollup, roll up log entries."
+description: "Rollup of wiki log entries into meta-pages. Reads the last 2^k entries from wiki/log.md, writes a structurally-idempotent fold page to wiki/folds/ that links back to children. Extractive summarization (no invention). Dry-run by default, stdout-only; commit mode writes the fold page. Triggers on: fold the log, run a fold, run wiki-fold, log rollup, roll up log entries."
 ---
 
 # wiki-fold: Extractive Log Rollup
@@ -32,9 +32,9 @@ When referring to level in frontmatter, use `batch_exponent: k` (not `level: k`)
 | Mode | Writes? | Invocation |
 |---|---|---|
 | **dry-run (default)** | **No Write tool calls.** Emit fold content via Bash `cat`/`heredoc` to stdout only. | `fold the log, dry-run k=3` |
-| **commit** | Uses Write/Edit tools. Each Write fires the repo PostToolUse hook which auto-commits wiki changes. Accept this. Compose full content first, then sequence writes. | `fold the log, commit k=3` (only after a clean dry-run) |
+| **commit** | Uses Write/Edit tools. Compose full content first, then sequence writes. | `fold the log, commit k=3` (only after a clean dry-run) |
 
-**Why stdout-only in dry-run**: the repo's `hooks/hooks.json` PostToolUse hook fires on any `Write|Edit` and runs `git add wiki/ raw/`. Writing to `/tmp` does not stage /tmp, but it still triggers the hook, which will commit *any pending wiki changes* under a generic message. Dry-run must leave zero residue. Bash stdout does not fire the hook.
+**Why stdout-only in dry-run**: a dry-run must leave zero residue in the vault. Writing files and deleting them later still churns the working tree and can be swept into a commit by Obsidian Git's periodic auto-backup. Bash stdout touches nothing.
 
 ---
 
@@ -123,8 +123,8 @@ If any check fails, abort and report the specific failure.
 **Dry-run**: use Bash `cat <<'EOF' ... EOF` to stdout. Do not use Write. Print the fold ID and a one-line summary of what the commit step would do.
 
 **Commit** (only after user says "commit the fold"):
-1. `Write` the fold page to `wiki/folds/{FOLD-ID}.md`. (PostToolUse hook will auto-commits this.)
-2. `Edit` `wiki/index.md` to add the fold link under a `## Folds` section (create section if missing). (Hook auto-commits.)
+1. `Write` the fold page to `wiki/folds/{FOLD-ID}.md`.
+2. `Edit` `wiki/index.md` to add the fold link under a `## Folds` section (create section if missing).
 3. `Edit` `wiki/log.md` to prepend one entry:
    ```
    ## [YYYY-MM-DD] fold | batch-exponent-k{K} rollup of N entries
@@ -132,9 +132,9 @@ If any check fails, abort and report the specific failure.
    - Range: {EARLIEST-DATE} to {LATEST-DATE}
    - Children: N log entries
    ```
-   (Hook auto-commits.)
+  
 
-Three auto-commits result. The user sees three separate `wiki: auto-commit` entries in git log. This is expected; do not attempt to suppress the hook.
+Obsidian Git may sweep these writes into its periodic backup commit. That is fine; do not try to work around it.
 
 ---
 
@@ -161,7 +161,6 @@ See `references/fold-template.md` for the canonical frontmatter and body layout.
 - Do not silently dedupe children by page title. One record per log entry.
 - Do not write "emergent themes" that span entries without naming which entries contribute.
 - Do not claim byte-identical idempotency. Structural idempotency is the actual guarantee.
-- Do not suppress or bypass the PostToolUse auto-commit hook.
 - Do not update `wiki/hot.md`. Ownership stays with save/ingest skills.
 
 ---

@@ -13,6 +13,17 @@ Claude Code + Obsidian による永続的知識ベース。
    このビジョンに反するシステムは作らない**
 2. `wiki/hot.md` → `wiki/index.md` — 直近の文脈と全ページ索引
 
+## Skills / Commands
+
+skill（`SKILL.md` あり・発話からも起動する）:
+`/wiki` `/wiki-ingest` `/wiki-query` `/wiki-lint` `/save` `/autoresearch` `/canvas`
+`/defuddle` `/obsidian-bases` `/obsidian-markdown`
+
+command のみ（`/名前` で明示的に起動する）:
+`/wiki-fold` `/obsidian-synthesize` `/x-pulse` `/x-read` `/youtube` `/vault-health`
+
+どちらで持つかの判断基準は `.claude/rules/claude-skill.md`。
+
 ---
 
 ## Vault の使い方
@@ -43,7 +54,7 @@ Claude Code + Obsidian による永続的知識ベース。
 raw/
 ├── music/       音楽記事・インタビュー・研究論文
 ├── personal/    Rinka 自身のメモ・意見・人生計画・日記
-├── coding/      技術記事・チュートリアル
+├── develop/     技術記事・チュートリアル
 ├── money/       ビジネス・収益化・金融情報
 ├── uk-whv/      UK渡航・WHV関連情報
 └── articles/    カテゴリ不明・その他
@@ -60,7 +71,11 @@ DeepStone は **2つの独立した Instagram アカウント** を支援する�
 | アカウント | テーマ | ペルソナ | 出力フォルダ |
 |---|---|---|---|
 | **Charlotte R1nR1n** | レイブ音楽・UK Bass・クラブカルチャー | Charlotte R1nR1n | `rave-team/output/EP-XX/` |
-| **FLAVA FM** | アロマ・数秘術・ハーブ・スピリチュアル | 白魔女 | `aroma-insta/output/POST-XX/` |
+| **FLAVA FM** | アロマ・数秘術・ハーブ・スピリチュアル | 白魔女 | `flava-fm/output/POST-XX/` |
+
+> [!important] `aroma-insta/` は廃止
+> FLAVA FM の出力先は一時期 `aroma-insta/output/` に分裂していたが、2026-07-31 に
+> `flava-fm/output/` へ統合した。**`aroma-insta/` には新規ファイルを作らないこと。**
 
 ### FLAVA FM コンセプト（重要）
 **「白魔女による波動UPアロマチャンネル」**
@@ -73,38 +88,35 @@ DeepStone は **2つの独立した Instagram アカウント** を支援する�
 
 ### フォルダルール
 
-```
-rave-team/
-└── output/
-    └── EP-XX/              ← Charlotte R1nR1n 用（毎日自動生成）
-        ├── script_ja.md    Reels スクリプト（50〜60秒）
-        ├── carousel.md     Instagram カルーセル（8枚+画像案）
-        └── research.md     リサーチメモ
+EP / POST 1本につき、以下の**4点セット**を作る。これが成果物の契約。
 
-aroma-insta/
-└── output/
-    ├── POST-XX/            ← FLAVA FM 用（自動生成分）
-    │   ├── carousel.md
-    │   └── research.md
-    └── stock/              ← ストック投稿（手動制作済み15本）
+```
+rave-team/output/EP-XX/     ← Charlotte R1nR1n 用（毎日自動生成）
+├── carousel.md             Instagram カルーセル
+├── research.md             リサーチメモ
+├── caption.md              投稿キャプション
+└── slides.json             スライド定義
+
+flava-fm/output/POST-XX/    ← FLAVA FM 用（毎日自動生成）
+└── （同じ4点セット）
 
 wiki/
-└── concepts/
-    ├── music/              ← レイブ音楽関連 concept
-    └── numerology/         ← アロマ・数秘関連 concept
-└── sources/
-    ├── rave/               ← EP 記事・音楽ソース
-    └── aroma/              ← アロマ・数秘記事
+├── concepts/music/         ← レイブ音楽関連 concept
+├── concepts/numerology/    ← アロマ・数秘関連 concept
+├── sources/rave/           ← EP 記事・音楽ソース
+└── sources/aroma/          ← アロマ・数秘記事
 
 _attachments/
-├── rave/EP-XX/             ← Charlotte R1nR1n 用画像（ローカルのみ）
-└── aroma/POST-XX/          ← FLAVA FM 用画像（ローカルのみ）
+├── rave/EP-XX/             ← Charlotte R1nR1n 用画像
+└── aroma/POST-XX/          ← FLAVA FM 用画像
 ```
 
 ### 新規コンテンツを生成する際の鉄則
 - レイブ系 → `rave-team/output/` + `wiki/sources/rave/` + `wiki/concepts/music/`
-- アロマ系 → `aroma-insta/output/` + `wiki/sources/aroma/` + `wiki/concepts/numerology/`
+- アロマ系 → `flava-fm/output/` + `wiki/sources/aroma/` + `wiki/concepts/numerology/`
 - **2アカウントのファイルを混ぜない**
+- 新規番号は `rave-team/output/episodes.md` / `flava-fm/output/posts.md` で確認して採番し、
+  生成後に同ファイルを更新する
 
 ---
 
@@ -112,19 +124,21 @@ _attachments/
 
 ```
 wiki/
-├── hot.md          直近コンテキストのキャッシュ（毎セッション更新）
+├── hot.md          直近コンテキストのキャッシュ（10KB 未満に保つ）
 ├── index.md        全ページの1行サマリー
-├── log.md          操作履歴
+├── log.md          操作履歴（append-only）
 ├── concepts/       概念・フレームワーク・synthesis ページ
 ├── entities/       人物・組織・場所
 ├── sources/        ingested ソース要約
 ├── questions/      autoresearch 結果
-├── comparisons/    比較分析
-├── canvases/       Obsidian ビジュアルマップ
+├── projects/       プロジェクト単位のノート
 └── meta/           vault メタ情報
 ```
 
 **読む順序**: hot.md → index.md → 関連セクション → 個別ページ
+
+`hot.md` と `index.md` は LIVING ドキュメント。追記ではなく蒸留する
+（詳細は `.claude/rules/living-docs.md`）。
 
 ---
 

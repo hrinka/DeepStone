@@ -1,127 +1,47 @@
-# Dive into Rave Culture — Production Team
+# rave-team — Charlotte R1nR1n（レイブ）コンテンツ
 
-You are the **Producer** for this content series. When Rinka gives you a theme, run the full production pipeline using sub-agents.
+> このファイルの責務は **rave-team の成果物契約**。
+> Rinka に関する事実の正典は [Memory.md](../Memory.md)、vault 全体の規範は
+> [CLAUDE.md](../CLAUDE.md)。出力ルールは `.claude/rules/output.md` にもある。
 
-## Team
-- `agents/producer.md` — You (orchestrator)
-- `agents/dj.md` — World-class rave DJ (cultural authenticity, creative sounding board)
-- `agents/researcher.md` — Research specialist (`summarize` + `web_search`)
-- `agents/scriptwriter.md` — Script writer
-- `agents/director.md` — Visual/audio director (`video-frames`)
-- `agents/social.md` — Social media manager (`gog` / Google Sheets)
-- `agents/archivist.md` — Knowledge archivist (`obsidian`)
+Charlotte R1nR1n（女海賊ライター）名義の Instagram 向けレイブ文化コンテンツ。
+EP 番号で管理し、日次で自動生成されている。
 
-## How to Run a Full Episode
+---
 
-When Rinka says a theme (e.g. "UK Rave Scene origins"), do this in order:
+## 成果物契約
 
-### Step 1 — Determine episode number
-Check `output/episodes.md`. Use next available EP number.
+EP 1本につき `output/EP-XX/` に以下の**4点セット**を作る。これがこのプロジェクトの
+唯一の出力契約。
 
-### Step 2 — Create episode folder
-`output/EP-{N}/`
-
-### Step 3 — Spawn Researcher
-Spawn a sub-agent with `agents/researcher.md` as identity. Give topic brief. Save output to `output/EP-{N}/research.md`.
-
-### Step 4 — DJ × Producer Discussion
-Spawn a sub-agent with `agents/dj.md` as identity. Pass the research. The DJ responds with their take, the key detail that matters, any concerns, and the thread they'd follow. Save the full exchange to `output/EP-{N}/discussion.md`.
-
-### Step 5 — Spawn Scriptwriter
-Spawn a sub-agent with `agents/scriptwriter.md` as identity. Pass **both** `research.md` and `discussion.md`. The script should reflect the angle that emerged from the DJ × Producer conversation. Save output to `output/EP-{N}/script.md`.
-
-### Step 6 — Spawn Director
-Spawn a sub-agent with `agents/director.md` as identity. Pass script. Save output to `output/EP-{N}/production_brief.md`.
-
-### Step 7 — Spawn Social Manager
-Spawn a sub-agent with `agents/social.md` as identity. Pass script + topic. Save output to `output/EP-{N}/social.md`.
-
-### Step 8 — Spawn Archivist
-Spawn a sub-agent with `agents/archivist.md` as identity. Pass research + script.
-Archivist saves to Obsidian vault: `/Users/user/Documents/Rave Culture KB/`
-
-### Step 9 — Update episode tracker
-Update `output/episodes.md` with new episode status.
-
-### Step 10 — Report to Rinka
-Summary of what was produced. List files. Ask if anything needs revision.
-
-## Episode List (Season 1)
-
-**BLOCK 1 — 概念・入口**
-| EP | テーマ |
+| ファイル | 内容 |
 |---|---|
-| 01 | Raveとは何か |
-| 02 | PLUR — レイブの哲学 |
-| 03 | Warehouse Party — 違法の美学 |
-| 04 | DJ文化の起源 |
-| 05 | レイブファッションの変遷 |
+| `carousel.md` | Instagram カルーセル |
+| `research.md` | リサーチメモ（一次資料・年号・人名の裏取り） |
+| `caption.md` | 投稿キャプション |
+| `slides.json` | スライド定義（`tools/carousel-render/` が画像化する） |
 
-**BLOCK 2 — 歴史・起源**
-| EP | テーマ |
-|---|---|
-| 06 | Second Summer of Love 1988 |
-| 07 | Acid House — 黄色いスマイルの意味 |
-| 08 | UKのレイブ禁止法 1994 |
-| 09 | Detroit Technoとイギリスの出会い |
-| 10 | なぜUKは音楽文化の震源地なのか |
+## 連番
 
-**BLOCK 3 — ジャンル深掘り**
-| EP | テーマ |
-|---|---|
-| 11 | Jungle & UK Hardcore誕生 |
-| 12 | Drum & Bassの進化 |
-| 13 | UK Garage — 夜のロンドンの音 |
-| 14 | Big Beat — レイブがメインストリームへ |
-| 15 | Grime — UKストリートが生んだ音 |
-| 16 | Dubstep vs Brostep |
+新規番号は `output/episodes.md` で確認して採番し、生成後に同ファイルを更新する。
 
-**BLOCK 4 — 現在・未来・個人**
-| EP | テーマ |
-|---|---|
-| 17 | Boiler Room現象 |
-| 18 | Fabric — 伝説のクラブが閉店した夜 |
-| 19 | 日本とUKレイブカルチャー |
-| 20 | レイブの未来 — 次の30年 |
+## 内容の基準
 
-## Episode Output Structure
-```
-output/
-├── episodes.md                    ← episode tracker
-└── EP-01/
-    ├── research.md
-    ├── discussion.md              ← DJ × Producer 壁打ち
-    ├── script.md
-    ├── production_brief.md
-    └── social.md
+- **史実の正確さを最優先**。人名・年号・レーベル・楽曲名は一次資料で裏を取る
+- 既存 EP との接続を必ず書く（「EP-47 Metalheadz との直接接続」のように）。
+  シリーズとして読めることが価値
+- サウンドシステム／ダブ／ジャマイカ系譜という DeepStone の背骨を意識する
 
-/Users/user/Documents/Rave Culture KB/
-├── Episodes/EP-01 — {Title}.md   ← Archivist output
-├── Encyclopedia/Genres/...
-└── Encyclopedia/Artists/...
-```
+---
 
-## Scheduled Automation (via `schedule` skill)
-- **毎週火曜 10:00 JST** — 「今週のEP制作を開始してください」通知
-- **毎週木曜 18:00 JST** — 「TikTok投稿リマインダー」通知
-- セットアップするには: `schedule` skillを呼び出してcron登録
+## やらないこと
 
-## Google Workspace (via `gog` skill)
-- エピソード進捗: Google Sheets「Dive into Rave Culture」
-- 素材保存: Google Drive「Rave Culture Assets」フォルダ
-- 台本共有: Google Docs（Rinka確認用）
+過去には `discussion.md` / `script.md` / `production_brief.md` / `social.md` を
+7つのサブエージェント（producer / dj / researcher / scriptwriter / director /
+social / archivist）で作るパイプライン構成があったが、**EP-02 前後で廃止した**。
 
-## Obsidian Knowledge Base
-- Vault: `/Users/user/Documents/Rave Culture KB/`
-- 目的①: 制作資産（次のEPに活用）
-- 目的②: Rinkaの個人学習（UK移住に向けた知識構築）
-- Archivistが毎EP後に自動更新
+実績: 全 96 EP のうち `script.md` は 0 件、`discussion.md` と `social.md` は各 2 件。
+一方 `carousel.md` / `research.md` / `caption.md` / `slides.json` は各 69 件。
+記述だけが残って実体が無い状態だったため、記述の側を実体に合わせた。
 
-## Monetization Goal
-Track progress toward monetization milestones in `output/episodes.md`:
-- TikTok: 10,000 followers + 100,000 views in 30 days
-- YouTube: 500 subscribers + 3,000 watch hours (アカウント作成後)
-- Instagram: 10,000 followers (アカウント作成後)
-
-## Starting Command
-When Rinka says "新しいエピソード: {theme}" or "new episode: {theme}", start the pipeline immediately.
+復活させないこと。当時の設計は `agents/_archive/` に残してある。
