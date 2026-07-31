@@ -1,0 +1,19 @@
+# DeepStone pre-commit — 検出のみ（autofix 系は入れない）
+# 理由: 書き換え系フックは Obsidian Git の自動コミットと衝突し、
+#       commit が黙って失敗し続ける状態を作るため。
+repos:
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: 83d9cd684c87d95d656c1458ef04895a7f1cbd8e  # v8.30.1
+    hooks:
+      - id: gitleaks
+        entry: gitleaks protect --staged --verbose --redact
+        pass_filenames: false
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: 3e8a8703264a2f4a69428a0aa4dcb512790b2c8c  # v6.0.0
+    hooks:
+      - id: detect-private-key
+      - id: check-merge-conflict      # Obsidian Git の sync 衝突マーカー残留を検出
+      - id: check-case-conflict       # iOS / iCloud 同期でのファイル名衝突を検出
+      - id: check-added-large-files
+        args: ['--maxkb=5000']        # 添付画像があるので緩める

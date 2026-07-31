@@ -30,8 +30,6 @@ node_modules/
 .cache/
 
 # 画像
-_attachments/
-
 # ★ リポジトリは PRIVATE。背景素材・表紙・個別画像は git 管理して永続化する（消えないように）。
 #   レンダー済みスライドPNG（slides.jsonから再生成可・重い）だけ追跡しない。
 **/slides/slide_*.png
