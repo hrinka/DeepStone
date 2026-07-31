@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "ask": ["Bash(git push *)"]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '.tool_input.command // empty' | grep -qE '(git +push +[^|;]*--force|git +reset +--hard|git +clean +-[a-zA-Z]*f|rm +-[a-zA-Z]*r[a-zA-Z]*f|rm +-[a-zA-Z]*f[a-zA-Z]*r)' && { echo 'DENY: vault の履歴/実体を破壊する操作です。git history が唯一の undo なので、必要なら人間が手動で実行してください。' >&2; exit 2; } || true"
+          }
+        ]
+      },
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "F=$(jq -r '.tool_input.file_path // empty'); case \"$F\" in *.obsidian/*) echo 'DENY: .obsidian/ は Obsidian が管理する領域です。設定は Obsidian の UI から行ってください。' >&2; exit 2;; esac; case \"$F\" in *raw/*) echo 'WARN: raw/ は「入れたら変更しない」領域です（CLAUDE.md）。読むだけにしてください。' >&2;; esac; true"
+          }
+        ]
+      }
+    ]
+  },
+  "sandbox": {
+    "filesystem": {
+      "denyRead": ["~/.ssh", "~/.aws", "~/.config/gcloud", "~/.gnupg"],
+      "allowWrite": [".", "/tmp"]
+    }
+  },
+  "cleanupPeriodDays": 730
+}
