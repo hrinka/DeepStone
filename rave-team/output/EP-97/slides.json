@@ -1,0 +1,96 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": [
+        "RENEGADE",
+        "HARDWARE"
+      ],
+      "sub": "The underground lab that built the darkest machines."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1995. Southwest London.",
+        "Two people wanted a label",
+        "that would stand by the underdog.",
+        "Clayton Hines and Mark Hill.",
+        "They didn't want to build something popular.",
+        "They wanted to build something true."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "Their first release:",
+        "Future Forces — Flash Gordon.",
+        "The duo behind it: Darren White and Jason Maldini.",
+        "You might know Darren White by another name.",
+        "dBridge.",
+        "Bad Company UK."
+      ],
+      "sub": "It started here."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1995.",
+        "DJ Trace took T Power's Mutant Jazz",
+        "and broke it open.",
+        "A sound with no name started to form.",
+        "Clinical. Dark. Machine-heavy.",
+        "Trace and Ed Rush called it: Techstep."
+      ],
+      "sub": "That word was born here."
+    },
+    {
+      "type": "body",
+      "text": [
+        "19 July 1997.",
+        "Renegade Hardware took their first night",
+        "to The End, London.",
+        "They stayed for 11 and a half years.",
+        "No other drum and bass night ran longer there."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "Trace. Dom & Roland. Konflict.",
+        "Technical Itch. Loxy. Ink. Raiden.",
+        "They didn't chase radio play.",
+        "They chased depth.",
+        "Over 100 releases.",
+        "Zero compromise."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "Konflict. Messiah. 2002.",
+        "Two producers.",
+        "One of the heaviest DnB tracks ever made.",
+        "Renegade Hardware didn't explain itself.",
+        "It just hit you."
+      ],
+      "note": "The sound that needed no words."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "6 February 2016. The Final Chapter.",
+        "The Coronet, London.",
+        "80 DJs. 20 MCs. 10 hours. 5 rooms.",
+        "20 years of the underground,",
+        "done properly."
+      ],
+      "strobe": "20 years",
+      "cta": "Save this."
+    }
+  ]
+}
