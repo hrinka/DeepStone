@@ -13,6 +13,12 @@ repos:
     rev: 3e8a8703264a2f4a69428a0aa4dcb512790b2c8c  # v6.0.0
     hooks:
       - id: detect-private-key
+        # 除外はここだけ。プラグインの main.js は配布されたサードパーティのバンドル
+        # （4MB超の minified JS）で、暗号ライブラリが PEM/PuTTY 形式を解析するために
+        # 持っている書式ヘッダの文字列リテラル（PuTTY 形式のヘッダ等）を誤検出したもの。
+        # 実鍵ではない（PEM 本体の base64 ブロックが後続しないことを確認済み）。
+        # 実鍵が入る data.json の方は .gitignore で追跡自体を外してある。
+        exclude: '^\.obsidian/plugins/[^/]+/main\.js$'
       - id: check-merge-conflict      # Obsidian Git の sync 衝突マーカー残留を検出
       - id: check-case-conflict       # iOS / iCloud 同期でのファイル名衝突を検出
       - id: check-added-large-files

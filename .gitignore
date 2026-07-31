@@ -12,6 +12,12 @@ Thumbs.db
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# Obsidian プラグインの data.json は「端末ごとの状態」であり同期させない。
+# 認証情報が入るため（実例: obsidian-local-rest-api = 自己署名TLS秘密鍵 + APIキー、
+# google-calendar = Google OAuth リフレッシュトークン）。
+# プラグイン本体（main.js / manifest.json）は同期させたいので data.json だけ除外する。
+.obsidian/plugins/*/data.json
+
 # Claude worktrees（一時作業領域）
 .claude/worktrees/
 
