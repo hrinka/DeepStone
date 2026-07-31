@@ -1,0 +1,98 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["Belfast never had a scene.", "He made one anyway."],
+      "sub": "Calibre and the art of staying outside."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Age 5.",
+        "Selected from 400 pupils",
+        "for classical violin training",
+        "at the Belfast School of Music.",
+        "He also played tin whistle",
+        "in traditional Irish bands.",
+        "Outside, the city was burning.",
+        "Music was somewhere else."
+      ],
+      "sub": "Belfast. The Troubles. 1970s–80s."
+    },
+    {
+      "type": "body",
+      "text": [
+        "His brother played him jungle",
+        "in the early '90s.",
+        "It didn't click.",
+        "Then one day it did.",
+        "He started producing drum and bass in 1995.",
+        "Inspired by Goldie. Inspired by LTJ Bukem.",
+        "The first exclusively Irish DnB artist."
+      ],
+      "sub": "Northern Ireland enters the continuum."
+    },
+    {
+      "type": "body",
+      "text": [
+        "His first album, Musique Concrète,",
+        "came out in 2001.",
+        "On Creative Source — Fabio's label.",
+        "Not London. Not a major.",
+        "Fabio believed in him",
+        "before most people had heard his name."
+      ],
+      "sub": "Debut. 2001. Creative Source."
+    },
+    {
+      "type": "body",
+      "text": [
+        "He founded Signature Recordings.",
+        "He has released every major album himself.",
+        "No A&R.",
+        "No label telling him what to cut.",
+        "No compromise.",
+        "Just music",
+        "and time."
+      ],
+      "sub": "Signature Recordings, est. 2003."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Second Sun. 2005.",
+        "Still considered a milestone",
+        "in liquid drum and bass.",
+        "Remastered. Re-released in 2019.",
+        "Some records don't age.",
+        "They deepen."
+      ],
+      "sub": "A record that only gets deeper."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The Shelflife series.",
+        "8 volumes.",
+        "Music that didn't make the albums.",
+        "He put it out anyway.",
+        "Vinyl. Proper releases.",
+        "Because every track counted."
+      ],
+      "sub": "The archive as philosophy."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "\"Any type of instrument I could get my hands on,",
+        "I'd record it live.",
+        "It helped create my own sound.\"",
+        "— Dominick Martin, Calibre"
+      ],
+      "strobe": "30 years. No compromise.",
+      "cta": "Save this."
+    }
+  ]
+}

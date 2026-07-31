@@ -1,0 +1,94 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["The Weight of", "Building a World"],
+      "sub": "Benga. Croydon. Dubstep. The cost no one talks about."
+    },
+    {
+      "type": "body",
+      "text": [
+        "His real name is",
+        "Adegbenga Otomayomi Adejumo.",
+        "Born September 1, 1986.",
+        "Croydon, South London.",
+        "He went by one word.",
+        "Benga."
+      ],
+      "sub": "One name. One city. One sound."
+    },
+    {
+      "type": "body",
+      "text": [
+        "At 15, he walked into Big Apple Records.",
+        "DJ Hatcha was behind the counter.",
+        "Skream was somewhere in the building.",
+        "That shop was a laboratory.",
+        "And Benga had already started the experiment."
+      ],
+      "sub": "Croydon, 2001."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2002. Age 15.",
+        "First release: 'Skank'.",
+        "Big Apple Records' own label.",
+        "The floor didn't know his name yet.",
+        "But it already felt what he made."
+      ],
+      "sub": "Hatcha heard it. Played it."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2008. 'Diary of an Afro Warrior'.",
+        "Tempa Records. 19 tracks.",
+        "'Night' with Coki.",
+        "'26 Basslines'. 'Emotions'.",
+        "It wasn't just an album.",
+        "It was the blueprint",
+        "for a sound that hadn't had a name long."
+      ],
+      "sub": "Released March 3rd."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2010. Magnetic Man.",
+        "Benga + Skream + Artwork.",
+        "Columbia Records. Sony.",
+        "'I Need Air' feat. Katy B.",
+        "UK Top 10.",
+        "The underground they built",
+        "became something else.",
+        "He was 23."
+      ],
+      "sub": "Dubstep reached the mainstream."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "'My bipolar was brought on by drugs.",
+        "The schizophrenia was the result",
+        "of excessive touring.'"
+      ],
+      "note": "February 2014. He retired. Then came the silence — bipolar disorder, schizophrenia, arrest, sectioned. He said it himself. Quietly. On Twitter. October 2015."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "February 12, 2016.",
+        "He played fabric again.",
+        "First time in almost three years.",
+        "Building a world has a cost.",
+        "He paid it.",
+        "He's still here."
+      ],
+      "strobe": "The weight was real. So was the return.",
+      "cta": "Save this."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["GOLDIE", "TIMELESS"],
+      "sub": "The boy they put in care made a 22-minute symphony."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Walsall, 1965.",
+        "His father, Jamaican.",
+        "His mother, Scottish.",
+        "At three years old,",
+        "he was taken into care.",
+        "Moved between foster homes",
+        "in Wolverhampton."
+      ],
+      "sub": "What happened there is in his autobiography. He wrote it down so it would exist."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Graffiti was his first language.",
+        "By his teens, a leading voice",
+        "in the Midlands wildstyle scene.",
+        "1988. Channel 4: Bombin'.",
+        "After filming —",
+        "they took him to New York."
+      ],
+      "sub": "He stood in front of walls he had only ever seen in photographs. Something changed."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Back in England,",
+        "he followed the bass.",
+        "Grooverider's sets.",
+        "Kemistry, who believed in him first.",
+        "4hero at Reinforced Records,",
+        "who taught him to produce."
+      ],
+      "sub": "1994. Metalheadz — co-founded with Kemistry and Storm."
+    },
+    {
+      "type": "body",
+      "text": [
+        "November 1994.",
+        "Inner City Life —",
+        "feat. Diane Charlemagne.",
+        "UK Singles Chart: #39.",
+        "UK Dance Chart: #6."
+      ],
+      "sub": "Drum & bass had never sounded like it was grieving for something until that moment."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The label was nervous.",
+        "\"Who is going to listen",
+        "to a 21-minute track?\"",
+        "August 7, 1995.",
+        "Timeless.",
+        "UK Albums Chart: #7."
+      ],
+      "sub": "Drum & bass became music that day."
+    },
+    {
+      "type": "body",
+      "text": [
+        "1998. Saturnz Return.",
+        "The opening track: Mother.",
+        "Over 60 minutes long.",
+        "A 30-piece string section.",
+        "Noel Gallagher. KRS-One.",
+        "No one else had tried",
+        "to do any of it."
+      ],
+      "sub": "1999 — the boy from the care homes appeared as a villain in a James Bond film."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "The same way graffiti on a wall",
+        "stays in the memory —",
+        "I wanted music to leave something",
+        "that outlasts the moment."
+      ],
+      "note": "— Goldie. Save this."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["SOURCE DIRECT"],
+      "sub": "Nobody knew their faces. Nobody needed to."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Midnight sessions.",
+        "Age 14.",
+        "",
+        "Two teenagers from St Albans —",
+        "a quiet town an hour outside London —",
+        "booked studio time at Hackney's Panic Studio.",
+        "",
+        "Midnight, because the rates dropped.",
+        "",
+        "Nobody was watching."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "They built a studio at home.",
+        "",
+        "By 17, they were pressing records.",
+        "",
+        "No press photos.",
+        "No interviews.",
+        "No biography.",
+        "",
+        "Just the music, moving through record shops",
+        "in white sleeves."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "\"The Crane\" — 1996.",
+        "",
+        "The sample: Laputa, Castle in the Sky.",
+        "A Japanese animation —",
+        "a lost city floating above the clouds.",
+        "",
+        "A dark bassline. Broken beats.",
+        "Something that felt like falling",
+        "and floating at once.",
+        "",
+        "One of the most played records",
+        "at the Metalheadz Sunday Sessions."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "\"The Cult\" landed on Metalheadz.",
+        "\"A Made Up Sound\" became a darkside classic.",
+        "",
+        "These were not pop records.",
+        "",
+        "They were for the people who stood",
+        "at the back of the room",
+        "and closed their eyes."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "Their sound lived between two worlds.",
+        "",
+        "LTJ Bukem's light — atmospheric, wide.",
+        "Photek's precision — cold, surgical.",
+        "",
+        "Source Direct never fully chose a side.",
+        "",
+        "Sweeping minor-key melodies",
+        "over sharp, splintered breaks.",
+        "",
+        "That tension is why the tracks still hold."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "\"Exorcise the Demons\" — their only album.",
+        "1999. Virgin Records.",
+        "",
+        "Fact Magazine: #96",
+        "in the 100 best albums of the 1990s.",
+        "",
+        "That same year, Phil Aslett left.",
+        "No explanation. Just gone.",
+        "",
+        "Jim Baker continued alone",
+        "under the same name."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "cta",
+      "text": [
+        "The Crane was reissued in 2016.",
+        "",
+        "It still sounds like something",
+        "that hasn't happened yet."
+      ],
+      "strobe": "SOURCE DIRECT",
+      "cta": "Save this. You'll need it."
+    }
+  ]
+}

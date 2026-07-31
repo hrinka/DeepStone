@@ -1,0 +1,92 @@
+{
+  "account": "plur",
+  "background": {"color": "#0A0A0A"},
+  "slides": [
+    {
+      "type": "cover",
+      "main": ["Bad Company UK"],
+      "sub": "Only four people know what The Nine means."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Four producers.",
+        "Two pairs who had never worked together.",
+        "1998.",
+        "They pooled everything",
+        "and started one label."
+      ],
+      "sub": "BC Recordings. London."
+    },
+    {
+      "type": "body",
+      "text": [
+        "dBridge and Maldini: Future Forces Inc.",
+        "First act ever signed to Renegade Hardware.",
+        "Fresh and Vegas: releasing on Metro.",
+        "They left their labels.",
+        "Built their own."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "December 1998.",
+        "BC Recordings. Catalog number 01.",
+        "The Nine.",
+        "Knowledge Magazine readers voted it",
+        "the #1 drum and bass track of all time.",
+        "The meaning of the title?",
+        "Still private."
+      ],
+      "sub": "BCR01."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Inside the Machine — 2000.",
+        "Debut album. 2xCD.",
+        "Robotic.",
+        "Post-apocalyptic.",
+        "Relentless.",
+        "Not warm. Not melodic.",
+        "A machine that does not apologize."
+      ],
+      "sub": "BC Recordings. 2000."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "That screwface mentality.",
+        "That what the hell is that."
+      ],
+      "note": "dBridge on Techstep — the sound Bad Company built."
+    },
+    {
+      "type": "body",
+      "text": [
+        "They split around 2003.",
+        "dBridge built Exit Records.",
+        "Then co-created the Autonomic sound.",
+        "DJ Fresh took DnB somewhere else:",
+        "2011. Louder ft. Sian Evans.",
+        "The first drum and bass track to hit UK #1."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "cta",
+      "text": [
+        "Four people made one sound",
+        "voted the greatest of all time.",
+        "Then they kept the meaning of its name",
+        "to themselves.",
+        "Some things are for the room,",
+        "not the internet."
+      ],
+      "strobe": "Save this.",
+      "cta": "Save this. You'll need it."
+    }
+  ]
+}

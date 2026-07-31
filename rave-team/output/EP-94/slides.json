@@ -1,0 +1,81 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": [
+        "SKREAM",
+        "He invented the sound.",
+        "Then he walked away."
+      ],
+      "sub": "The Croydon kid who built dubstep. And left it behind."
+    },
+    {
+      "type": "body",
+      "text": [
+        "At 11, he broke into his brother's room.",
+        "Not to steal.",
+        "To touch the turntables."
+      ],
+      "sub": "Croydon, 1997. His name was Oliver Jones. He didn't know he was about to invent something."
+    },
+    {
+      "type": "body",
+      "text": [
+        "Big Apple Records. Croydon.",
+        "He skipped school to be here."
+      ],
+      "sub": "A record shop where dubstep was still a feeling — not a name yet. Hatcha played his first dubs. The scene was a room before it became a movement."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2005. Tempa Records.",
+        "'Midnight Request Line.'",
+        "One chord shift.",
+        "The genre shifted with it."
+      ],
+      "sub": "Wiley called it perfect. Ricardo Villalobos played it in his minimal techno sets."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2006. 'Skream!' — Tempa Records.",
+        "His debut album.",
+        "He was 20.",
+        "Playing to thousands.",
+        "Making it look like nothing."
+      ],
+      "sub": "The Stella Sessions. Rinse FM. Every week. Live. No script."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2010. Skream + Benga + Artwork.",
+        "Three producers from the same Croydon block."
+      ],
+      "sub": "Magnetic Man. Columbia Records. 'I Need Air' ft. Katy B. UK Top 10. Dubstep was on the radio. And something was ending."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "'Dubstep is just a name now.",
+        "It doesn't have a meaning anymore.",
+        "The movement is over.'"
+      ],
+      "note": "2012. He was 26. He walked off the dubstep stage. Stepped into a different booth. House. Disco. 120 BPM. A different kind of dark."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "You invent something real.",
+        "Then something else takes its name.",
+        "The only way to keep going",
+        "is to keep moving."
+      ],
+      "strobe": "Save this.",
+      "cta": "Save this. It'll make sense later."
+    }
+  ]
+}
