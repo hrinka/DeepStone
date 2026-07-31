@@ -29,6 +29,19 @@
 - Pages created: [[2026-07-20-平塚市個人事業主プラン]], [[UK-WHVビザ準備]]
 - Pages updated: [[助成金-補助金-候補]]（対象範囲拡大・第20回締切2026年11月5日〜12月15日を追記）, [[借金返済-キャッシュフロー計画]]（gap記録: 200万円貯蓄目標と借金¥1,246,753の整合が未整理）, [[index]], [[hot]]
 - Key insight: エンジニア業務委託年792万円を土台に、助成金・会計ソフト（マネーフォワード クラウド確定申告）・UK WHV（2024年〜先着順・年6,000人枠）の方針が固まったが、既存の借金返済計画との整合は次回セッションの宿題として明示的にgap登録した。
+## [2026-07-30] EP-96 | Hospital Records / London Elektricity — 全員が暗くなった。二人だけが、光を処方した（レイブピラー）
+- Files: `rave-team/output/EP-96/carousel.md`, `rave-team/output/EP-96/research.md`, `wiki/sources/rave/EP-96 — 2026-07-30 — hospital-records-london-elektricity.md`
+- Topic: レイブピラー / Hospital Records（Tony Colman / London Elektricity + Chris Goss、1996年設立、South London Forest Hill）/ カタログ番号"NHS" = 英国国民保健サービス（National Health Service）——音楽を処方箋として届けるコンセプトをレーベル名に刻む / NHS001 Peter Nice Trio「Harp of Gold」（1996年）が初リリース / 設立者Tony Colmanは設立前後に深刻な個人的危機「I nearly died...but I found myself in the process」（Fact Magazine 2012）/ Chris Gossは設立当時Soul Jazz Records（Soho）に週2日勤務しながらDJ / 前身バンド: Izit（酸性ジャズ、日本でマイナーな人気）・Mustardspoon（1994年、初コラボ）・Peter Nice Trio（1996年、DnB転向）/ "Song in the Key of Knife"（1998年春、NHS7）= 最初の大ブレイクスルー / "Pull the Plug"デビューアルバム（日本: 1998年11月Sony / UK: 1999年6月）/ High Contrast（Lincoln Barrett、1979年生、Penarth, Wales）「True Colours」（2002年10月）= "Return of Forever" がDnBの派閥対立を超えて全員に愛された唯一のトラック——Fabio（liquid）もAndy C（rollers）もHype（jump-up）も全員回した / Nu:Tone签名（2003年5月）「Brave Nu World」（2005年）/ Hospital Records Podcast（2004〜、世界初クラスの音楽ポッドキャストの一つ、2026年現在460回以上）/ Hospitality in the Park（London）・Hospitality on the Beach（Croatia）へ拡張 / 哲学: メロディを信じることは当時のシーンでは「逆張り」だった——Metalheadz（ダーク）・Virus（機械）・RAM（ハード）と同時代に「癒しの音楽」を選んだ / EP-47（Metalheadz / DnBの二大哲学の対）・EP-77（LTJ Bukem / Good Lookingと並ぶ光の系譜）・EP-82（Andy C / "Return of Forever"全派閥プレイ）・EP-86（Ed Rush & Optical / Virus Recordings / 1996年同期設立——機械vsメロディ）・EP-91（Moving Shadow / 独立系感情的DnBの精神的系譜）・EP-93（Calibre / 液体DnBの同時代双璧）との直接接続。
+
+## [2026-07-30] autoresearch | 堆肥と土壌分解（composting × essential oil science）
+- Rounds: 3 | Searches: 13 | Pages created: 4
+- Pages: [[aroma-research-composting-microbiology]], [[aroma-research-composting-herbs-eo-science]], [[aroma-research-composting-history-philosophy]], [[compost-soil-decomposition]]
+- Synthesis: [[Research: 堆肥と土壌分解]]
+- Key finding: フミン酸75g/m²施用でタイム精油含有量が0.8%→2.0%（+150%）に増加（PMID 29692550）。フミン酸はMEP/MVA両テルペン合成経路に前駆体供給を増やすことで精油品質を向上させる。歴史的にはカトー『農業論』（紀元前160年）・漢代農業・江戸下肥経済（1603〜1868）の三文明で独立的に発展。
+
+## [2026-07-30] POST-96 | 腐るほど、豊かになる。— コンポストと土の錬金術（ハーブ菜園ピラー）
+- Files: `aroma-insta/output/POST-96/carousel.md`, `aroma-insta/output/POST-96/research.md`, `wiki/sources/aroma/aroma-POST-96-2026-07-30-compost-soil-alchemy.md`
+- Topic: ハーブ菜園ピラー / コンポスト（堆肥）/ 3段階変容: 中温期（10〜40°C・中温性細菌）→ 高温期（40〜70°C・好熱菌が爆発的増殖・病原菌死滅）→ 熟成期（放線菌・糸状菌がリグニン分解→腐植酸形成）/ C:N比 = 25〜30:1が黄金律 / 腐植酸（フミン酸）が根細胞膜透過性を向上→Zn・Mn・Fe吸収促進→テルペン合成酵素の補因子として機能→ハーブ精油が深くなる / Soil Biology & Biochemistry (2018): 有機物添加でタイム精油収量+34% / 放線菌ゲオスミン=「雨の日の森の香り」= 人間が進化的に「豊かな土地」と認識する信号（POST-75 M. vaccaeと接続）/ カトー「農業論」（紀元前160年）・コルメラ「農業大全」（1世紀）・中国緑肥2000年・江戸時代下肥循環 / 菜園科学シリーズ第7弾 / POST-80パチュリー「土に還るほど、豊かになる」・POST-81菌根菌（AMFが有機物リッチ土壌で活性化・二重効果）・POST-84「手放したから、濃くなった」との接続。
 
 ## [2026-07-29] EP-95 | Benga — 世界を変えた後で、世界に壊された男（レイブピラー）
 - Files: `rave-team/output/EP-95/carousel.md`, `rave-team/output/EP-95/research.md`, `wiki/sources/rave/EP-95 — 2026-07-29 — benga-diary-of-an-afro-warrior-mental-health.md`
