@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-07-31] POST-97 | ファーストヴォーウェルナンバー — あなたの魂は、どの音で世界に開いた？（数秘ピラー）
+- Files: `flava-fm/output/POST-97/carousel.md`, `flava-fm/output/POST-97/research.md`, `wiki/sources/aroma/aroma-POST-97-2026-07-31-first-vowel-numerology.md`
+- Topic: 数秘ピラー / ファーストヴォーウェルナンバー（First Vowel Number / キーナンバー）/ ピタゴラス数秘術では名前の最初の母音（A・E・I・O・U）が魂の「世界への応答パターン」を示す / 母音は言葉の呼吸——子音が骨格なら母音が魂 / A=1（先頭に立つ）・E=5（自由・冒険で応答）・I=9（智慧・普遍的愛で応答）・O=6（愛・責任で応答）・U=3（創造・喜びで応答）/ ソウルナンバー（全母音合計）の「入り口」として機能 / RINKAのファーストヴォーウェル = I（9）= LP5（旅）×ビジョン（出会った人の波動を上げる）と完全一致 / 日本語圏でほぼ未解説のSEOブルーオーシャン / POST-25（ソウルナンバー）・POST-76（ライフパスナンバー）・POST-34（表現数）・POST-82（カーミックレッスン）・POST-85（マスターナンバー）・POST-94（数字と惑星の声）との数秘シリーズ接続。
+
+## [2026-07-31] EP-97 | Renegade Hardware — 最もアンダーグラウンドな実験室、20年間の暗闘（レイブピラー）
+- Files: `rave-team/output/EP-97/carousel.md`, `rave-team/output/EP-97/research.md`, `wiki/sources/rave/EP-97 — 2026-07-31 — renegade-hardware.md`
+- Topic: レイブピラー / Renegade Hardware（1995年、サウスウェスト・ロンドン、設立者: Clayton Hines + Mark Hill）/ 「アンダードッグを守り、サウンドに忠実で、誰も欲しがらないアーティストを育てる」という哲学 / 第一弾リリース: Future Forces Inc.（dBridge = Darren White + Jason Maldini）「Flash Gordon / Jeep Beats」（RH01、1996年）——このデュオが後にBad Company UKへ発展 / DJ Trace（本名Duncan Hutchinson）の「The Mutant Remix」（1995年・T Power "Mutant Jazz"をリワーク）= テックステップの事実上の起点 / 1996年: Ed RushとTraceが「Techstep」という言葉を命名——No U-Turn Records・Don FM海賊ラジオ経由 / クラブナイト初回1997年7月19日The End（ロンドン、収容1,200人）——11.5年間でDnBナイト史上The Endで最長記録 / 主要アーティスト: Trace / Dom & Roland / Konflict（Kemal Okan + Robert Rodgers、1999年sign・「Messiah」2002年）/ Technical Itch / Loxy / Ink / Raiden / Hive / Cause 4 Concern / Friction / Spor / Evol Intent / 100以上のリリース・零妥協 / 閉鎖: 2015年発表・最終イベント「The Final Chapter」2016年2月6日（土）Coronet（エレファント&キャッスル）——5フロア・80 DJ・20 MC・10時間 / オランダのNoisiaに直接影響 / EP-86（Ed Rush & Optical / Virus Recordings——テックステップ命名の共同者・並走した暗黒の双軸）・EP-92（Bad Company UK——dBridgeとMaldiniがRenegade HardwareのFuture Forcesとして出発した事実）・EP-83（Photek / 同時代Metalheadz・精密美学）・EP-85（Dillinja / 同時代ダークDnB）との直接接続。
+
 ## [2026-07-30] note | 時間管理システムの構成を決定・vault側を準備
 - Pages updated: [[時間管理システム]], [[index]]
 - Pages created: [[週次レビュー]]

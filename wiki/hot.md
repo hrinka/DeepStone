@@ -27,8 +27,12 @@ related:
 - 08:43 JST — `slides.json` + `caption.md`
 - 09:10 JST — 画像レンダー（ローカル launchd `ai.deepstone.render.plist`）
 
-**現在地**: EP-96 / POST-96。レイブと、アロマ・数秘の2ライン。
+**現在地**: EP-97 / POST-97。レイブと、アロマ・数秘の2ライン。
 出力先は `rave-team/output/` と `flava-fm/output/`（`aroma-insta/` は 2026-07-31 に廃止統合）。
+
+> [!warning] 2026-08-01: 分裂が一度再発した
+> claude.ai 側 routine の出力先が未修正のため、POST-97 が `aroma-insta/output/` に
+> 生成された。手動で `flava-fm/` へ移動済み。**routine のプロンプトを直すまで毎朝再発する。**
 
 **時間管理システム構築中** — [[時間管理システム]] / [[週次レビュー]] / [[月次チェックポイント]]。
 Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google Calendar）。
@@ -56,6 +60,8 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
 
 ## 直近7日
 
+- 2026-08-01: POST-97 が `aroma-insta/` に生成され分裂が再発 → `flava-fm/` へ移動（要 routine 修正）
+- 2026-07-31: EP-97「Renegade Hardware」/ POST-97「ファーストヴォーウェルナンバー」
 - 2026-07-31: DeepStone 整備（Phase 0〜4）— シークレット除去・pre-commit 導入・SSOT 整理・
   FLAVA FM 統合・`.claude/rules/` 6本・`/vault-health` 新設。詳細は [[log]]
 - 2026-07-30: 時間管理システムの構成を決定（[[時間管理システム]]・[[週次レビュー]] 新規）
