@@ -1,0 +1,96 @@
+{
+  "account": "plur",
+  "background": { "color": "#0A0A0A" },
+  "slides": [
+    {
+      "type": "cover",
+      "main": [
+        "NOISIΛ"
+      ],
+      "sub": "The outsiders who became the standard."
+    },
+    {
+      "type": "body",
+      "text": [
+        "The name is NOISIΛ.",
+        "Read it upside down.",
+        "It says VISION.",
+        "That is how they saw everything.",
+        "Inverted. Their way."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "Groningen, Netherlands.",
+        "Not London. Not Amsterdam.",
+        "A provincial city",
+        "with no drum and bass scene.",
+        "They started anyway.",
+        "2000."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "What they heard:",
+        "Ed Rush and Optical.",
+        "Trace. Renegade Hardware.",
+        "The hardest sound coming out of the UK.",
+        "They built a studio to answer it.",
+        "Bedroom. Then something else."
+      ],
+      "sub": "The UK sent the signal."
+    },
+    {
+      "type": "body",
+      "text": [
+        "2003. First record.",
+        "2005. Vision Recordings.",
+        "Their own label.",
+        "Their own terms.",
+        "No compromise.",
+        "No detour."
+      ],
+      "sub": ""
+    },
+    {
+      "type": "body",
+      "text": [
+        "2008. FabricLive.40.",
+        "The UK opened the door.",
+        "2010. BBC Radio 1 Essential Mix.",
+        "Machine Gun.",
+        "Split the Atom.",
+        "The outsiders arrived at the center."
+      ],
+      "sub": "London said yes."
+    },
+    {
+      "type": "quote",
+      "quote": [
+        "20 years.",
+        "Three labels.",
+        "Three albums.",
+        "OWSLA. mau5trap. Roc Nation.",
+        "The architecture of the sound",
+        "never changed."
+      ],
+      "note": "The standard stayed the standard."
+    },
+    {
+      "type": "cta",
+      "text": [
+        "2022. Closer.",
+        "Final show: Lowlands Festival.",
+        "Hometown. Groningen.",
+        "It is never the right time.",
+        "They ended it on their terms."
+      ],
+      "strobe": "20 years",
+      "cta": "Save this."
+    }
+  ]
+}
