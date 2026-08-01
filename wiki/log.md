@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-08-01] POST-98 | サイプレス — 天と地を繋ぐ木は、いつも手放しを知っていた（アロマピラー）
+- Files: `flava-fm/output/POST-98/carousel.md`, `flava-fm/output/POST-98/research.md`, `flava-fm/output/POST-98/caption.md`, `flava-fm/output/POST-98/slides.json`, `wiki/sources/aroma/aroma-POST-98-2026-08-01-cypress-hanashire.md`
+- Topic: アロマピラー / サイプレス（Cupressus sempervirens）/ 主成分α-ピネン（40〜65%）・δ-3-カレン・セドロール / 「過剰なものを正常に戻す」精油 / 古代ギリシャ・ローマで墓地・神殿に植えられた「魂の木」/ ギリシャ神話キュパリッソス（愛する鹿を誤って殺した少年がアポロンに願い糸杉に変身・永遠の哀悼の象徴）/ セドロールが副交感神経を活性化し生理的「手放し」状態を作る / ヴァン・ゴッホ「星月夜」の糸杉（「生者と死者の間の炎」）/ 移行・変容・手放しの周波数 / 人生の変わり目（転職・引越し・別れ）にディフューズで変化への恐怖を和らげる。
+
 ## [2026-07-31] POST-97 | ファーストヴォーウェルナンバー — あなたの魂は、どの音で世界に開いた？（数秘ピラー）
 - Files: `flava-fm/output/POST-97/carousel.md`, `flava-fm/output/POST-97/research.md`, `wiki/sources/aroma/aroma-POST-97-2026-07-31-first-vowel-numerology.md`
 - Topic: 数秘ピラー / ファーストヴォーウェルナンバー（First Vowel Number / キーナンバー）/ ピタゴラス数秘術では名前の最初の母音（A・E・I・O・U）が魂の「世界への応答パターン」を示す / 母音は言葉の呼吸——子音が骨格なら母音が魂 / A=1（先頭に立つ）・E=5（自由・冒険で応答）・I=9（智慧・普遍的愛で応答）・O=6（愛・責任で応答）・U=3（創造・喜びで応答）/ ソウルナンバー（全母音合計）の「入り口」として機能 / RINKAのファーストヴォーウェル = I（9）= LP5（旅）×ビジョン（出会った人の波動を上げる）と完全一致 / 日本語圏でほぼ未解説のSEOブルーオーシャン / POST-25（ソウルナンバー）・POST-76（ライフパスナンバー）・POST-34（表現数）・POST-82（カーミックレッスン）・POST-85（マスターナンバー）・POST-94（数字と惑星の声）との数秘シリーズ接続。

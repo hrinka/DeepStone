@@ -1,0 +1,82 @@
+{
+  "post": "POST-98",
+  "date": "2026-08-01",
+  "pillar": "アロマ",
+  "topic": "サイプレス精油 — 移行と手放しの波動",
+  "palette": {
+    "main": "#1C2E25",
+    "accent": "#B8D4B0",
+    "text": "#F5F0E8",
+    "mood": "ミステリアス・静謐・森の奥"
+  },
+  "slides": [
+    {
+      "number": 1,
+      "type": "cover",
+      "title": "空に向かって伸びる木は、いつも手放しを知っていた。",
+      "subtitle": "サイプレス — 移行の精油",
+      "image_query": "cypress trees silhouette sunset mediterranean",
+      "layout": "full-bleed vertical, title bottom-aligned, white text"
+    },
+    {
+      "number": 2,
+      "type": "intro",
+      "text": "学名: Cupressus sempervirens\n糸杉。\n地中海原産の常緑樹。\n\n上へ、ただ上へ。\n一度も横に広がらずに、\n空だけを見て生きる。",
+      "image_query": "tuscany cypress trees road morning",
+      "layout": "photo background, text bottom-left white"
+    },
+    {
+      "number": 3,
+      "type": "history",
+      "text": "古代ギリシャでは、\n魂を天へ導く木とされた。\n\n墓地に植えられたのは、\n死を悼むためではない。\n\n魂の旅路を、\n照らすために。🌙",
+      "image_query": "old cemetery cypress moonlight europe",
+      "layout": "dark photo, centered text, frosted overlay"
+    },
+    {
+      "number": 4,
+      "type": "myth",
+      "text": "ギリシャ神話に、\nキュパリッソスという少年がいた。\n\n愛する鹿を誤って傷つけ、\n「永遠に悲しませてほしい」と\nアポロンに願った。\n\nその祈りは、糸杉になった。\n\n悲しみは消えない。\nでも、形を変えて、空へ向かう。",
+      "image_query": "single cypress tree moonlight mystical forest",
+      "layout": "dark, wide line spacing, white text, minimal"
+    },
+    {
+      "number": 5,
+      "type": "components",
+      "text": "主成分はα-ピネン。\n\n「過剰なものを\n 正常に戻す」精油。\n\n浮腫み、滞り、詰まり。\n体の中で流れなくなったもの\n全てに、動きを与える。\n\n呼吸が深くなる。\nリンパが動き出す。",
+      "image_query": "essential oil bottle cypress needles morning dew",
+      "layout": "split: photo left, text right, clean minimal"
+    },
+    {
+      "number": 6,
+      "type": "emotional",
+      "text": "心が散らかるとき、\nサイプレスは静かに言う。\n\n「手放していい。」\n\n過去の感情、終わった関係、\nもう必要のない執着——\n\nサイプレスの香りは\nそれらを天に返す、\n魂の郵便配達員。",
+      "image_query": "leaf flying wind backlight release letting go",
+      "layout": "light airy background, text left-aligned"
+    },
+    {
+      "number": 7,
+      "type": "usage",
+      "text": "人生の変わり目に、\nディフューズしてみて。\n\n転職、引越し、別れ、\n始まりの前の「まだそこ」——\n\nサイプレスは変化を\n恐れないための\n呼吸を教えてくれる。\n\n変わることは、\n怖くない。",
+      "image_query": "diffuser white room morning light steam minimal",
+      "layout": "bright clean room, text bottom-left"
+    },
+    {
+      "number": 8,
+      "type": "closing",
+      "text": "手放すとき、魂は軽くなる。\nサイプレスは、ずっとそれを知っていた。\n\n保存しておいて。またすぐ必要になるから。",
+      "image_query": "cypress silhouette dawn sunrise horizon",
+      "layout": "mirror of slide 1, warm dawn light, centered text"
+    }
+  ],
+  "caption_hashtags": [
+    "#サイプレス精油",
+    "#アロマ手放し",
+    "#波動アップ",
+    "#精油のある暮らし",
+    "#白魔女アロマ",
+    "#変容の周波数",
+    "#スピリチュアルアロマ",
+    "#essentialoils"
+  ],
+  "canva_template_query": "dark botanical essential oil instagram carousel"
+}

@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-07-31
+updated: 2026-08-01
 tags:
   - meta
   - hot-cache
@@ -27,7 +27,7 @@ related:
 - 08:43 JST — `slides.json` + `caption.md`
 - 09:10 JST — 画像レンダー（ローカル launchd `ai.deepstone.render.plist`）
 
-**現在地**: EP-97 / POST-97。レイブと、アロマ・数秘の2ライン。
+**現在地**: EP-97 / POST-98。レイブと、アロマ・数秘の2ライン。
 出力先は `rave-team/output/` と `flava-fm/output/`（`aroma-insta/` は 2026-07-31 に廃止統合）。
 
 > [!warning] 2026-08-01: 分裂が一度再発した
@@ -60,7 +60,8 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
 
 ## 直近7日
 
-- 2026-08-01: POST-97 が `aroma-insta/` に生成され分裂が再発 → `flava-fm/` へ移動（要 routine 修正）
+- 2026-08-01: POST-98「サイプレス — 移行と手放しの周波数」（アロマピラー）→ `flava-fm/output/POST-98/` に正常生成
+- 2026-08-01: POST-97 が `aroma-insta/` に生成され分裂が再発 → `flava-fm/` へ移動済み（routine プロンプト修正済みのため今回は正常）
 - 2026-07-31: EP-97「Renegade Hardware」/ POST-97「ファーストヴォーウェルナンバー」
 - 2026-07-31: DeepStone 整備（Phase 0〜4）— シークレット除去・pre-commit 導入・SSOT 整理・
   FLAVA FM 統合・`.claude/rules/` 6本・`/vault-health` 新設。詳細は [[log]]
