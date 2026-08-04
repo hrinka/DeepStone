@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-08-04] POST-99 | 花が開く前に、摘む。— ハーブ収穫と精油の頂点（ハーブ菜園ピラー）
+- Files: `flava-fm/output/POST-99/carousel.md`, `flava-fm/output/POST-99/research.md`, `flava-fm/output/POST-99/caption.md`, `flava-fm/output/POST-99/slides.json`, `wiki/sources/aroma/aroma-POST-99-2026-08-04-herb-harvest-timing.md`
+- Topic: ハーブ菜園ピラー / 精油が最も濃くなるのは開花直前の朝（7〜10時・露乾燥後）/ 腺毛（glandular trichomes）= 葉表面の精油袋 / 開花後は植物の資源が「防御」から「種の生産」へシフトし葉の精油腺が縮退 / 昼の暑さで揮発するのが軽質モノテルペン（リナロール・リモネン・α-ピネン）/ 「昼の庭が香るのは精油が逃げているから」/ 8月の菜園:ジャスミン（夜明け前収穫）・メリッサ（花茎が伸びる前に緊急収穫）・タイム（夏が頂点）・パセリ（とう立ち前に全葉収穫）/ 指で葉を触って香りが残る日=収穫日 / バイオダイナミック農法（シュタイナー）「花の日」・欧州Midsummer伝統・旧暦農業との接続 / 波動論: 植物の生命力最大期=最高波動を受け取る行為。
+
 ## [2026-08-01] POST-98 | サイプレス — 天と地を繋ぐ木は、いつも手放しを知っていた（アロマピラー）
 - Files: `flava-fm/output/POST-98/carousel.md`, `flava-fm/output/POST-98/research.md`, `flava-fm/output/POST-98/caption.md`, `flava-fm/output/POST-98/slides.json`, `wiki/sources/aroma/aroma-POST-98-2026-08-01-cypress-hanashire.md`
 - Topic: アロマピラー / サイプレス（Cupressus sempervirens）/ 主成分α-ピネン（40〜65%）・δ-3-カレン・セドロール / 「過剰なものを正常に戻す」精油 / 古代ギリシャ・ローマで墓地・神殿に植えられた「魂の木」/ ギリシャ神話キュパリッソス（愛する鹿を誤って殺した少年がアポロンに願い糸杉に変身・永遠の哀悼の象徴）/ セドロールが副交感神経を活性化し生理的「手放し」状態を作る / ヴァン・ゴッホ「星月夜」の糸杉（「生者と死者の間の炎」）/ 移行・変容・手放しの周波数 / 人生の変わり目（転職・引越し・別れ）にディフューズで変化への恐怖を和らげる。

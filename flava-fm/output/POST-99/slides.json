@@ -1,0 +1,82 @@
+{
+  "post": "POST-99",
+  "date": "2026-08-04",
+  "pillar": "ハーブ菜園",
+  "topic": "花が開く前に、摘む。— ハーブ収穫と精油の頂点",
+  "palette": {
+    "main": "#1A3325",
+    "accent": "#A8D8A8",
+    "text": "#F8F5EE",
+    "mood": "静謐な朝・ボタニカル・満ちた沈黙"
+  },
+  "slides": [
+    {
+      "number": 1,
+      "type": "cover",
+      "title": "花が開く前に、摘む。",
+      "subtitle": "精油が最も満ちた、その一瞬のこと。",
+      "image_query": "herb bud morning dew close up dawn soft light",
+      "layout": "full bleed, title bottom-left white, subtitle thin serif below"
+    },
+    {
+      "number": 2,
+      "type": "concept",
+      "text": "植物の精油は、鎧だ。\n\n虫から身を守るために、\n葉の表面の小さな袋に\n香りを溜めている。\n\n花が咲く前——\nその鎧が、最も厚い瞬間。",
+      "image_query": "herb leaf macro glandular trichomes essential oil glands close up",
+      "layout": "photo left, text right, wide margins, white text"
+    },
+    {
+      "number": 3,
+      "type": "transformation",
+      "text": "花が開くと、\n植物の計算が変わる。\n\n次の目標は、種を作ること。\n\n葉の精油が薄れるのは、\n裏切りじゃない。\n\n使命が、変わっただけ。🌿",
+      "image_query": "thyme lavender flowering herb macro purple flowers botanical",
+      "layout": "full photo, text top with frosted white overlay"
+    },
+    {
+      "number": 4,
+      "type": "timing",
+      "text": "最も良い時間がある。\n\n朝の7時から10時。\n露が乾いてから。\n太陽が熱くなる前に。\n\n昼の暑さは、\n香りを空に返してしまう。\n\nだから、朝に摘む。",
+      "image_query": "morning garden harvest herb hand dew grass sunlight dawn",
+      "layout": "horizontal photo, text center white, wide line spacing"
+    },
+    {
+      "number": 5,
+      "type": "garden-now",
+      "text": "8月の菜園で、\n今がその瞬間のハーブたち:\n\nメリッサ — 花茎が伸びる前に\nタイム — 夏の香りが頂点の今\nパセリ — 花が咲いたら葉は終わり\nジャスミン — 夜明け前に、蕾を摘む",
+      "image_query": "fresh herbs harvest summer table flat lay botanical lemon balm thyme",
+      "layout": "flat lay photo, list text right-aligned, poetic spacing"
+    },
+    {
+      "number": 6,
+      "type": "method",
+      "text": "方法は、シンプル。\n\n指で、葉を1枚触れてみて。\n\n濃い香りが指に残るなら、\n今日が、その日。\n\n植物は、いつも\n教えてくれている。",
+      "image_query": "fingers touching herb leaf close up harvest picking rosemary thyme",
+      "layout": "vertical photo, text top, wide line spacing, intimate"
+    },
+    {
+      "number": 7,
+      "type": "spiritual",
+      "text": "満ちた瞬間を知ること。\n\nそれは、波動と同調すること。\n\n植物が最も輝くとき、\nその周波数を受け取る——\n\n白魔女の仕事は、いつも\n満ちた瞬間を見逃さないこと。",
+      "image_query": "herb garden morning backlight golden hour ethereal light botanical",
+      "layout": "backlit garden photo, text bottom, maximum white space"
+    },
+    {
+      "number": 8,
+      "type": "closing",
+      "text": "花が咲いてからでは、遅い。\n精油は、もう空に返してある。\n\n保存しておいて。またすぐ必要になるから。",
+      "image_query": "herb garden dawn light morning glow green botanical peaceful",
+      "layout": "mirror of slide 1, text center, no title, pure white space"
+    }
+  ],
+  "caption_hashtags": [
+    "#ハーブ収穫",
+    "#精油のある暮らし",
+    "#波動アップ",
+    "#白魔女",
+    "#ハーブ菜園",
+    "#アロマガーデン",
+    "#植物の知恵",
+    "#8月の庭"
+  ],
+  "canva_template_query": "dark botanical herb garden instagram carousel morning green"
+}
