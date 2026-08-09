@@ -1,0 +1,155 @@
+{
+  "post": "POST-100",
+  "date": "2026-08-09",
+  "pillar": "numerology",
+  "topic": "cornerstone-number",
+  "palette": {
+    "background": "#1C2B3A",
+    "accent": "#C9A96E",
+    "text": "#F8F4EF",
+    "secondary": "#8BA8B5"
+  },
+  "font": {
+    "title": "Cormorant Garamond",
+    "body": "Noto Serif JP",
+    "weight_title": 300,
+    "weight_body": 400
+  },
+  "slides": [
+    {
+      "id": 1,
+      "type": "cover",
+      "title": "名前の最初の文字を、\n見てみて。",
+      "subtitle": "そこに、あなたが世界に開く\n扉の形がある。",
+      "image_query": "ancient stone doorway moonlight arch mystical",
+      "layout": "overlay-center",
+      "text_align": "center"
+    },
+    {
+      "id": 2,
+      "type": "concept",
+      "heading": "コーナーストーンとは",
+      "body": "建物を建てるとき、最初に置く石を\n「礎石（コーナーストーン）」と呼ぶ。\n\nその一つの石が、建物全体の\n傾きと方向を決める。\n\n数秘術では——\n名前の最初の文字が、あなたの礎石。",
+      "image_query": "cornerstone ancient building carved stone foundation",
+      "layout": "text-top-image-bottom"
+    },
+    {
+      "id": 3,
+      "type": "chart",
+      "heading": "あなたの数字を見つける",
+      "body": "名前をローマ字に変換して、最初の文字を見る。",
+      "chart": [
+        {"number": 1, "letters": "A / J / S"},
+        {"number": 2, "letters": "B / K / T"},
+        {"number": 3, "letters": "C / L / U"},
+        {"number": 4, "letters": "D / M / V"},
+        {"number": 5, "letters": "E / N / W"},
+        {"number": 6, "letters": "F / O / X"},
+        {"number": 7, "letters": "G / P / Y"},
+        {"number": 8, "letters": "H / Q / Z"},
+        {"number": 9, "letters": "I / R"}
+      ],
+      "footer": "あなたの名前は、何から始まる？ 🌙",
+      "image_query": "alphabet gold calligraphy dark parchment mystic",
+      "layout": "chart-center"
+    },
+    {
+      "id": 4,
+      "type": "meanings",
+      "heading": "魂の入口 — 1 / 2 / 3",
+      "entries": [
+        {
+          "number": 1,
+          "letters": "A / J / S",
+          "line1": "自分でドアを開ける。",
+          "line2": "誰かが開けるのを待たない。"
+        },
+        {
+          "number": 2,
+          "letters": "B / K / T",
+          "line1": "ドアの向こうの気配を感じてから、",
+          "line2": "そっと押す。"
+        },
+        {
+          "number": 3,
+          "letters": "C / L / U",
+          "line1": "ドアを開けながら、",
+          "line2": "もう笑っている。"
+        }
+      ],
+      "image_query": "three doors vintage wood stone iron mystical",
+      "layout": "three-rows"
+    },
+    {
+      "id": 5,
+      "type": "meanings",
+      "heading": "魂の入口 — 4 / 5 / 6",
+      "entries": [
+        {
+          "number": 4,
+          "letters": "D / M / V",
+          "line1": "鍵が合うことを確かめてから、",
+          "line2": "静かに開ける。"
+        },
+        {
+          "number": 5,
+          "letters": "E / N / W",
+          "line1": "ドアが見えた瞬間、",
+          "line2": "もう走り出している。"
+        },
+        {
+          "number": 6,
+          "letters": "F / O / X",
+          "line1": "開けたドアを押さえて、後ろを振り返る。",
+          "line2": "みんなを先に通す。"
+        }
+      ],
+      "image_query": "vintage gate moonlight garden keyhole old door",
+      "layout": "three-rows"
+    },
+    {
+      "id": 6,
+      "type": "meanings",
+      "heading": "魂の入口 — 7 / 8 / 9",
+      "entries": [
+        {
+          "number": 7,
+          "letters": "G / P / Y",
+          "line1": "ドアの前で立ち止まる。",
+          "line2": "見えないものを感じるまで、急がない。"
+        },
+        {
+          "number": 8,
+          "letters": "H / Q / Z",
+          "line1": "そのドアのオーナーになることを",
+          "line2": "考えながら、開ける。"
+        },
+        {
+          "number": 9,
+          "letters": "I / R",
+          "line1": "通り抜けた後、",
+          "line2": "次に来る人のために、開けたままにしておく。"
+        }
+      ],
+      "image_query": "person silhouette door fog moonlight mystical spiritual",
+      "layout": "three-rows"
+    },
+    {
+      "id": 7,
+      "type": "concept",
+      "heading": "始め方と終わり方",
+      "body": "最初の文字は「コーナーストーン」——\nあなたがどう始めるか。\n\n最後の文字は「キャップストーン」——\nあなたがどう終わらせるか。\n\nこの2文字が語るのは、\nあなたという人生の建築様式。",
+      "image_query": "architectural blueprint ancient building gold line illustration",
+      "layout": "text-center-image-bottom"
+    },
+    {
+      "id": 8,
+      "type": "closing",
+      "quote": "名前は、親がつけた。\nでも、数字は宇宙が選んだ。",
+      "cta": "保存しておいて。またすぐ必要になるから。",
+      "image_query": "ancient stone doorway light rays opening mystical",
+      "layout": "overlay-center",
+      "text_align": "center"
+    }
+  ]
+}
