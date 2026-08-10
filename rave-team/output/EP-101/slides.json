@@ -1,0 +1,105 @@
+{
+  "ep": "EP-101",
+  "title": "Pendulum",
+  "account": "PLUR SYSTEM DIARY",
+  "lang": "en",
+  "slides": [
+    {
+      "index": 1,
+      "type": "cover",
+      "headline": "Two boys heard one track. Nothing was the same.",
+      "subheadline": "Pendulum — and the war they started.",
+      "image_concept": "Dark concert crowd aerial view, blue-purple monochrome",
+      "image_keywords": "dark concert crowd aerial blue purple rave"
+    },
+    {
+      "index": 2,
+      "type": "content",
+      "text": [
+        "Perth, Australia. 2002.",
+        "Rob Swire heard Konflict's 'Messiah' at a club.",
+        "A track built in South London.",
+        "9,000 miles away.",
+        "He changed direction that night."
+      ],
+      "image_concept": "Lone night street, distant city lights, sense of vast distance",
+      "image_keywords": "night alley lone city lights dark distant"
+    },
+    {
+      "index": 3,
+      "type": "content",
+      "text": [
+        "DJ Fresh offered them his London flat.",
+        "Eight months of free accommodation.",
+        "From Perth to a couch.",
+        "The scene did not know their names yet."
+      ],
+      "image_concept": "London Thames night bridge lights, low angle",
+      "image_keywords": "London Thames night bridge lights low angle"
+    },
+    {
+      "index": 4,
+      "type": "content",
+      "text": [
+        "Hold Your Colour. 2005. Breakbeat Kaos.",
+        "'Slam' hit #1 on the UK Dance Chart.",
+        "It stayed for 32 weeks.",
+        "DnB had a new voice.",
+        "It came from the other side of the world."
+      ],
+      "image_concept": "Vinyl record shop shelf, dark moody lighting",
+      "image_keywords": "vinyl record shop shelf dark moody"
+    },
+    {
+      "index": 5,
+      "type": "content",
+      "text": [
+        "In Silico. 2008.",
+        "Guitars. Live vocals. Breakbeats.",
+        "UK Albums Chart: #2.",
+        "The underground called it something else."
+      ],
+      "image_concept": "Electric guitar in dark studio with single spotlight",
+      "image_keywords": "electric guitar studio spotlight dark background"
+    },
+    {
+      "index": 6,
+      "type": "content",
+      "text": [
+        "Goldie called 'Granite' a shit single.",
+        "Accused them of jumping on the bandwagon.",
+        "Pendulum replied in music.",
+        "'Showdown' opens In Silico.",
+        "Two sides. They never agreed."
+      ],
+      "image_concept": "Two silhouettes facing each other, backlit, dramatic",
+      "image_keywords": "two silhouettes facing confrontation backlight"
+    },
+    {
+      "index": 7,
+      "type": "content",
+      "text": [
+        "Glastonbury 2011. Pyramid Stage.",
+        "Sunday, 19:45.",
+        "Pendulum, before Beyonce.",
+        "'Immersion' had just debuted at #1 in the UK.",
+        "DnB reached the summit.",
+        "The underground did not know whether to celebrate or mourn."
+      ],
+      "image_concept": "Outdoor festival main stage, sea of crowd, post-dusk sky",
+      "image_keywords": "outdoor festival main stage crowd dusk blue sky"
+    },
+    {
+      "index": 8,
+      "type": "closing",
+      "text": [
+        "They took it further than anyone thought DnB could go.",
+        "Whether that was the right direction —",
+        "the scene still disagrees.",
+        "Save this."
+      ],
+      "image_concept": "Lone figure walking away from spotlight, edge of stage, dark",
+      "image_keywords": "lone figure back stage spotlight edge dark"
+    }
+  ]
+}

@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-08-10] EP-101 | Pendulum — Perth からグラストンベリーへ、DnBとメインストリームの衝突（レイブピラー）
+- Files: `rave-team/output/EP-101/carousel.md`, `rave-team/output/EP-101/research.md`, `rave-team/output/EP-101/caption.md`, `rave-team/output/EP-101/slides.json`, `wiki/sources/rave/EP-101 — 2026-08-10 — pendulum.md`
+- Topic: レイブピラー / Pendulum（Rob Swire + Gareth McGrillen + Paul "El Hornet" Harding、Perth, Western Australia）/ 2002年結成・DnBへの転向のきっかけはKonflictの「Messiah」（Renegade Hardware / EP-97）をパースのクラブで聴いたこと——9000マイル離れた場所でシーンの系譜が伸びた瞬間 / 2003年DJフレッシュのロンドンのフラットへ移住（Bristol は誤記・正しくはLondon）/ 「Hold Your Colour」（2005、Breakbeat Kaos）——「Slam」UK Dance Chart #1（32週）/ 「In Silico」（2008）UK Albums #2・「Propane Nightmares」UK Singles #8 / Goldie（EP-87）が「Granite」を "a shit single" と批判・Pendulumは「Showdown」で音楽で反論 / 「Immersion」（2010）UK Albums #1——Pendulum初の英国1位 / Glastonbury 2011 Pyramid Stage（19:45・Beyoncéの直前）= DnBがUK最大野外ステージの頂点に立った瞬間 / 2011年Knife Party（Rob Swire + Gareth McGrillen、Electro House / Dubstep）→2012年Pendulum無期限活動休止 / EP-97（Renegade Hardware / Konflict = DnB転向直接の原因）・EP-92（Bad Company UK / DJ Fresh / Breakbeat Kaos系譜）・EP-87（Goldie / 批判者・Metalheadz vs 商業化の構図）との直接接続。
+
 ## [2026-08-09] POST-100 | コーナーストーン — 名前の最初の文字が語る、魂の入口（数秘ピラー）
 - Files: `flava-fm/output/POST-100/carousel.md`, `flava-fm/output/POST-100/research.md`, `flava-fm/output/POST-100/caption.md`, `flava-fm/output/POST-100/slides.json`, `wiki/sources/aroma/aroma-POST-100-2026-08-09-cornerstone-number.md`
 - Topic: 数秘ピラー / コーナーストーンナンバー = 名前（ローマ字）の最初の文字が対応する1〜9 / 建築の礎石の比喩——最初の一石が建物全体の方向を決めるように、名前の最初の文字が「始め方の質」を刻む / ピタゴラス数秘術アルファベット対応（1=A/J/S〜9=I/R）/ 各数字を「扉の開け方」として表現（1=自分で蹴破る、2=気配を感じてから、3=開けながら笑っている、7=見えないものを感じるまで立ち止まる、9=通り抜けた後次の人のために開けておく）/ ファーストヴォーウェル（内なる欲求・POST-97）との対比：コーナーストーンは外への行動様式 / キャップストーン（最後の文字 = 終わり方）との組み合わせが「人生の建築様式」 / 波動応用: コーナーストーン数字を意識的に「今日の波動設定」として使う。
