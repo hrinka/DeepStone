@@ -8,7 +8,7 @@ tags:
 
 # {{date:YYYY-MM-DD}}
 
-## 🌅 Clawより
+## 🌅 今朝のレター
 <!-- 前の日記を読んで書く交換日記。CONNECTIONS / PATTERN / QUESTION -->
 
 ---
