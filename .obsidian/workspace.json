@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-05/2026-05-26.md",
+                "file": "journal/2026-08-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-26"
+              "title": "2026-08-22"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loud Artist P",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +125,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,8 +254,11 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "9a8eec2649aa04f2",
+  "active": "531608d17710b6c0",
   "lastOpenFiles": [
+    "journal/2026-08-25.md",
+    "journal/2026-08-22.md",
+    "journal/2026-05/2026-05-26.md",
     "_attachments/subcurrent/logo-v3/wordmarks-camel/v-7-weight.svg",
     "_attachments/subcurrent/logo-v3/wordmarks-camel/v-6-serpent.svg",
     "_attachments/subcurrent/logo-v3/wordmarks-camel/v-5-moire.svg",
@@ -267,7 +269,6 @@
     "_attachments/subcurrent/logo-v3/stickers-druid/u-9-mono-seal.svg",
     "_attachments/subcurrent/logo-v3/stickers-druid/u-8-talisman.svg",
     "_attachments/subcurrent/logo-v3/stickers-druid/u-7-square-moire.svg",
-    "_attachments/subcurrent/logo-v3/stickers-druid/u-6-serpent.svg",
     "_attachments/subcurrent/logo-v3/wordmarks-camel",
     "_attachments/subcurrent/logo-v3/stickers-druid",
     "_attachments/subcurrent/logo-v3/marks-ritual",
@@ -282,7 +283,6 @@
     "_attachments/subcurrent/logo/stickers",
     "_attachments/subcurrent/logo/marks",
     "_attachments/subcurrent/logo/README.md",
-    "journal/2026-08-22.md",
     "_templates/subcurrent-guest-dj.md",
     "_templates/subcurrent-edition.md",
     "_templates/subcurrent-minutes.md",
@@ -302,7 +302,6 @@
     "subcurrent/network/targets-global.md",
     "subcurrent/network/guest-djs.md",
     "subcurrent/editions/archive-vol01-16.md",
-    "subcurrent/editions/Vol.17.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
