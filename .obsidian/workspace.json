@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-07-24.md",
+                "file": "journal/2026-08-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-24"
+              "title": "2026-08-27"
             }
           }
         ],
@@ -256,13 +256,14 @@
   },
   "active": "531608d17710b6c0",
   "lastOpenFiles": [
+    "journal/2026-08-25.md",
+    "journal/2026-08-27.md",
+    "journal/2026-08-02.md",
+    "journal/2026-08-01.md",
+    "journal/2026-08-22.md",
+    "journal/2026-07-24.md",
     "journal/2026-08/2026-08-24.md",
     "journal/2026-07-31.md",
-    "journal/2026-08-01.md",
-    "journal/2026-08-02.md",
-    "journal/2026-07-24.md",
-    "journal/2026-08-22.md",
-    "journal/2026-08-25.md",
     "journal/2026-05/2026-05-26.md",
     "_attachments/subcurrent/logo-v3/wordmarks-camel/v-7-weight.svg",
     "_attachments/subcurrent/logo-v3/wordmarks-camel/v-6-serpent.svg",
@@ -301,7 +302,6 @@
     "subcurrent/strategy/global.md",
     "subcurrent/ops/sop-mix.md",
     "subcurrent/ops/sop-event.md",
-    "subcurrent/ops/calendar.md",
     "無題のファイル 1.canvas",
     "無題のファイル 2.canvas",
     "無題のファイル.canvas"
