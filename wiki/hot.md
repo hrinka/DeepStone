@@ -55,6 +55,9 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
   （[[借金返済-キャッシュフロー計画]] に gap 記録済み）
 - **Google Calendar プラグインの OAuth 認証** — 未完了
 - **`/vault-health` の cron 登録** — 初回レポートを人間が確認してから
+- **日記パスの分裂** — Rinka が Obsidian で実際に書いているのは `journal/YYYY-MM-DD.md`（フラット。
+  8/22・8/25・8/27）だが、朝レターの routine は `journal/YYYY-MM/YYYY-MM-DD.md`（サブフォルダ）に
+  書く指定。このままだとレターが Rinka のデイリーノートに現れない。どちらかに寄せる必要がある
 
 ---
 
