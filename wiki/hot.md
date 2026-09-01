@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-08-31
+updated: 2026-09-01
 tags:
   - meta
   - hot-cache
@@ -27,7 +27,7 @@ related:
 - 08:43 JST — `slides.json` + `caption.md`
 - 09:10 JST — 画像レンダー（ローカル launchd `ai.deepstone.render.plist`）
 
-**現在地**: EP-102 / POST-100。レイブと、アロマ・数秘の2ライン。
+**現在地**: EP-103 / POST-100。レイブと、アロマ・数秘の2ライン。
 出力先は `rave-team/output/` と `flava-fm/output/`（`aroma-insta/` は 2026-07-31 に廃止統合）。
 
 > [!warning] 2026-08-01: 分裂が一度再発した
@@ -60,6 +60,7 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
 
 ## 直近7日
 
+- 2026-09-01: EP-103「Shackleton / Skull Disco — 12枚のレコードがベース音楽の可能性を書き換えた」→ `rave-team/output/EP-103/` に正常生成
 - 2026-08-31: EP-102「Mala / Deep Medi Musik — 低音は祈りだった」→ `rave-team/output/EP-102/` に正常生成
 - 2026-08-10: EP-101「Pendulum — Perth からグラストンベリーへ、DnBとメインストリームの衝突」→ `rave-team/output/EP-101/` に正常生成
 - 2026-08-09: POST-100「コーナーストーン — 名前の最初の文字が語る、魂の入口」（数秘ピラー）→ `flava-fm/output/POST-100/` に正常生成

@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-09-01] EP-103 | Shackleton / Skull Disco — 12枚のレコードがベース音楽の可能性を書き換えた（レイブピラー）
+- Files: `rave-team/output/EP-103/carousel.md`, `rave-team/output/EP-103/research.md`, `rave-team/output/EP-103/caption.md`, `rave-team/output/EP-103/slides.json`, `wiki/sources/rave/EP-103 — 2026-09-01 — shackleton-skull-disco.md`
+- Topic: レイブピラー / Shackleton（Sam Shackleton、ランカシャー出身）+ Appleblim（Laurie Osborne）= Skull Disco（ブリストル、2005〜2008）/ アフリカ打楽器・中東スケール・ダブの空間をサブベースに接続——「儀式としてのベース音楽」の定義 / 12リリース・3年間・ドロップなし・コーラスなし / "Blood on My Hands"（2007）= 17分超・Skull Disco最重要作 / 2008年閉鎖 / 2010年11月 Woe to the Septic Heart! 設立（"Man on a String Part 1 and 2"12インチ第1弾）/ post-dubstepの最初期インジケーター / EP-66（FWD>>——Shackletonがダブステップと出会った場）・EP-64（Jah Shaka——サウンドシステムの霊的実践という精神的系譜）・EP-56（Hyperdub Records——Burial と Shackleton は同じ空白を異なる方法で満たしていた）・EP-68（DMZ）・EP-102（Mala / Deep Medi Musik——「ダブステップを祈りにした」美学の双極）・EP-54（King Tubby / ベース哲学系譜）との直接接続。
+
 ## [2026-08-31] EP-102 | Mala / Deep Medi Musik — 低音は祈りだった（レイブピラー）
 - Files: `rave-team/output/EP-102/carousel.md`, `rave-team/output/EP-102/research.md`, `rave-team/output/EP-102/caption.md`, `rave-team/output/EP-102/slides.json`, `wiki/sources/rave/EP-102 — 2026-08-31 — mala-deep-medi-musik.md`
 - Topic: レイブピラー / Mala（Mark Lawrence）+ Coki（Dean Harris）= Digital Mystikz、ノーウッド・サウスロンドン / ジャングル・DnB・Rinse FM海賊ラジオ経由でダブステップへ / ジャー・シャカのサウンドシステム文化が霊的起源 / 2005年3月DMZクラブナイト開始（BrixtonのMass、元教会）= 「Come meditate on bass weight」/ "Anti War Dub"が映画Children of Men（2006）に使用 / John Peel 2004年Top50・29位 / 2006年Deep Medi Musik設立（Loefah・Pinch・Silkie・Kromestar・Commodo等、130以上のリリース・15年以上地下を守り続けた）/ 2011年ハバナ録音→2012年「Mala in Cuba」（Brownswood Recordings / Gilles Peterson）/ EP-68（DMZ）・EP-70（Dubstep Warz）・EP-64（Jah Shaka）・EP-56（Hyperdub Records）との直接接続。

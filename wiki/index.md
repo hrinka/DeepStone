@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-08-01
+updated: 2026-09-01
 tags:
   - meta
   - index
@@ -164,6 +164,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-103 — 2026-09-01 — shackleton-skull-disco]]|Shackleton（ランカシャー出身）: 2003年制作開始・FWD>>でダブステップと出会う / 2005年Appleblim（Laurie Osborne）とともにブリストルでSkull Disco設立——アフリカ打楽器・中東スケール・ダブの空間をサブベースに接続し「儀式としてのベース音楽」を定義 / 12リリース・3年間・ドロップなし・コーラスなし / "Blood on My Hands"（2007）= 17分・Skull Disco最重要作 / 2008年閉鎖 / 2010年Woe to the Septic Heart!設立（"Man on a String"12インチ第1弾）/ post-dubstepの最初期インジケーター / EP-66（FWD>>——出会いの場）・EP-64（Jah Shaka——サウンドシステム霊的実践の系譜）・EP-56（Hyperdub Records——同時代地下ダブステップの双極）・EP-68（DMZ）・EP-102（Mala / Deep Medi Musik）・EP-54（King Tubby / ベース哲学系譜）との直接接続|
 |[[EP-102 — 2026-08-31 — mala-deep-medi-musik]]|Mala（Mark Lawrence）+ Coki（Dean Harris、1980年生）= Digital Mystikz、ノーウッド・サウスロンドン出身 / ジャングル→DnB→Rinse FM海賊ラジオを経てダブステップの原型へ / ジャー・シャカのサウンドシステム文化が精神的起源 / 2005年3月、Brixton・Mass（元教会）でDMZクラブナイト開始（Loefah + MC Sgt Pokes共同設立）——「Come meditate on bass weight」/ "Anti War Dub"：9か月かけて制作・映画「Children of Men」（2006）に使用（サントラ未収録）/ John Peel 2004年年間Top50・29位 / 2006年Mala単独でDeep Medi Musik設立——Loefah・Pinch・Silkie・Kromestar・Commodo・Truth等130以上のリリース・地下に留まり続けた / 2011年ハバナへ渡航（Gilles Peterson同行）→2012年「Mala in Cuba」（Brownswood Recordings）/ EP-68（DMZ / 同クラブナイトの詳細）・EP-70（Dubstep Warz / Mary Anne Hobbs BBC特番にMala出演）・EP-64（Jah Shaka / 霊的起源）・EP-56（Hyperdub Records / 並走するダブステップ地下レーベル）との直接接続|
 |[[EP-101 — 2026-08-10 — pendulum]]|Pendulum（Rob Swire + Gareth McGrillen + Paul "El Hornet" Harding、Perth, Australia）: 2002年結成・Konflictの「Messiah」（Renegade Hardware / EP-97）をパースのクラブで聴いたことがDnBへの転向のきっかけ / 2003年DJフレッシュのロンドンのフラットへ移住（8ヶ月無償提供）/ 2004年「Another Planet / Voyager」（Breakbeat Kaos）UK Dance #1 / デビューアルバム「Hold Your Colour」（2005、Breakbeat Kaos）——「Slam」UK Dance Chart #1（32週）/ 「In Silico」（2008）UK Albums #2・「Propane Nightmares」UK Singles #8 / 「Immersion」（2010）UK Albums #1（英国初1位）・「Watercolour」UK Singles #4 / Glastonbury 2011 Pyramid Stage（Sunday 19:45・Beyoncéの直前）= DnBがメインストリームの頂点に立った瞬間 / Goldieが「Granite」を "a shit single" と批判→Pendulumは「Showdown」（In Silicoオープナー）で音楽で反論 / 2011年Knife Party（サイドプロジェクト）→2012年Pendulum無期限活動休止 / EP-97（Renegade Hardware / Konflict = DnB転向のきっかけ）・EP-92（Bad Company UK / DJ Fresh / Breakbeat Kaos）・EP-87（Goldie / 直接批判者）・EP-96（Hospital Records / 同時代DnBレーベル）との直接接続|
 |[[EP-98 — 2026-08-01 — noisia-vision-recordings]]|Noisia（NOISIΛ）: Nik Roos + Martijn van Sonderen + Thijs de Vlieger（グローニンゲン、オランダ）/ グループ名NOISIΛ = 「VISION」を180度回転した造形 / 2000年活動開始・主要影響源はEd Rush & Optical・Trace・Renegade Hardware / 2003年初リリース（SLR）/ 2005年Vision Recordings設立 / 2008年FabricLive.40 / 2010年BBC Radio 1 Essential Mix + デビューアルバム「Split the Atom」（「Machine Gun」収録・Ed Rush & OpticalがリミックS）/ OWSLA・mau5trap・Roc Nationとのクロスオーバー / 2016年「Outer Edges」/ 2019年解散発表（「It is never the right time」）/ 2022年最終作「Closer」・最終公演: Lowlands Festival（グローニンゲン）/ EP-86（Ed Rush & Optical / Virus Recordings——最大影響源かつリミックス担当）・EP-97（Renegade Hardware——「オランダのNoisiaに直接影響」と記録）・EP-83（Photek / 同系精密美学の先行者）との直接接続|
