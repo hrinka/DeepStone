@@ -159,6 +159,7 @@ tags:
 |[[Research: Dub Music History]]|Synthesis: 2-round autoresearch on dub history Jamaica→UK Bass|
 |[[Research: Japanese Dub Scene]]|Synthesis: Japanese dub scene history, key artists, open questions|
 |[[Research: Dub Techno and Grime]]|Synthesis: Basic Channel / Berlin dub techno + Grime's dub DNA|
+|[[Research: 龍笛・篠笛で吹くジブリ]]|篠笛8本調子で「君をのせて」→「もののけ姫」→「いつも何度でも」。龍笛は音域は足りるが息の設計が別物なので後回し|
 
 ## Sources (Rave — EP)
 
@@ -314,6 +315,8 @@ tags:
 | [[lint-report-2026-07-31]] | `/vault-health` 初回レポート。hot.md を 152KB→3.9KB に圧縮。index未掲載118件・dead link 460種類・orphan 87件・収益導線の drift を検出 |
 | [[使い方ガイド]] | DeepStone の使い方（フォルダ構成・基本ワークフロー） |
 | [[wiki-prompt-templates]] | wiki 操作用のプロンプト定型文 |
+| [[宇宙天気-今の流れ]] | デイリーノートの「🌊 流れ」の転記元。LIVING。節目ごとに書き換える |
+| [[マヤ暦-KIN計算]] | 「🌀 マヤ暦」行の計算手順。銀河の新年+105 / 年の紋章は4種類だけ、で検算する |
 
 > [!note] index は現在 232ページ中 114件しか掲載していない
 > 未掲載 118件の一覧と対応方針は [[lint-report-2026-07-31]] を参照。
