@@ -1,6 +1,24 @@
 {
   "permissions": {
-    "ask": ["Bash(git push *)"]
+    "allow": [
+      "Write(journal/**)",
+      "Edit(journal/**)",
+      "Write(wiki/**)",
+      "Edit(wiki/**)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git fetch:*)",
+      "Bash(git pull:*)",
+      "Bash(git push -u origin claude/*)"
+    ],
+    "ask": [
+      "Bash(git push*origin main*)",
+      "Bash(git push*HEAD:main*)",
+      "Bash(git push*origin +*)"
+    ]
   },
   "hooks": {
     "PreToolUse": [

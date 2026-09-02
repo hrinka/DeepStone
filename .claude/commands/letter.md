@@ -20,7 +20,7 @@ Rinka の今日のデイリーノートを用意し、**空の朝セクション
 ## Step 1: 今日のノートを用意する
 
 ```bash
-TODAY=$(date '+%Y-%m-%d')
+TODAY=$(TZ=Asia/Tokyo date '+%Y-%m-%d')   # Rinka は JST。実行環境が UTC だと1日ずれる
 TODAY_FILE="journal/$TODAY.md"
 ls "$TODAY_FILE" 2>/dev/null || echo "NOT_FOUND"
 ```
@@ -35,7 +35,7 @@ ls "$TODAY_FILE" 2>/dev/null || echo "NOT_FOUND"
 掴むと返事が書けないので、**本文があるファイルまで遡る**。
 
 ```bash
-TODAY=$(date '+%Y-%m-%d')
+TODAY=$(TZ=Asia/Tokyo date '+%Y-%m-%d')   # Rinka は JST。実行環境が UTC だと1日ずれる
 find journal -name '20??-??-??.md' | sed 's|.*/||' | sort -r \
   | awk -v t="$TODAY.md" '$0 < t' | head -10
 ```
