@@ -160,6 +160,7 @@ tags:
 |[[Research: Japanese Dub Scene]]|Synthesis: Japanese dub scene history, key artists, open questions|
 |[[Research: Dub Techno and Grime]]|Synthesis: Basic Channel / Berlin dub techno + Grime's dub DNA|
 |[[Research: 龍笛・篠笛で吹くジブリ]]|篠笛8本調子で「君をのせて」→「もののけ姫」→「いつも何度でも」。龍笛は音域は足りるが息の設計が別物なので後回し|
+|[[Research: FX自動売買EAは今のRinkaにとって得か]]|年利18%の借金がある間は返済が最強の利回り。EA導入は完済（2027年2月）の翌月から¥10万で。カーブフィッティング判定チェックリスト付き|
 
 ## Sources (Rave — EP)
 
