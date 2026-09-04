@@ -160,6 +160,7 @@ tags:
 |[[Research: Japanese Dub Scene]]|Synthesis: Japanese dub scene history, key artists, open questions|
 |[[Research: Dub Techno and Grime]]|Synthesis: Basic Channel / Berlin dub techno + Grime's dub DNA|
 |[[Research: 龍笛・篠笛で吹くジブリ]]|篠笛8本調子で「君をのせて」→「もののけ姫」→「いつも何度でも」。龍笛は音域は足りるが息の設計が別物なので後回し|
+|[[Research: party 15万円の赤字を経費で回収する]]|稼ぎ直す前に取りこぼさない。300万円問題の判定軸は帳簿の有無で、青色申告なら赤字は通算可。実質¥3〜4.5万が戻る。領収書は今のうちに|
 
 ## Sources (Rave — EP)
 
