@@ -160,6 +160,7 @@ tags:
 |[[Research: Japanese Dub Scene]]|Synthesis: Japanese dub scene history, key artists, open questions|
 |[[Research: Dub Techno and Grime]]|Synthesis: Basic Channel / Berlin dub techno + Grime's dub DNA|
 |[[Research: 龍笛・篠笛で吹くジブリ]]|篠笛8本調子で「君をのせて」→「もののけ姫」→「いつも何度でも」。龍笛は音域は足りるが息の設計が別物なので後回し|
+|[[Research: 15万円の赤字を戻す — EA導入の前に効く順番]]|party赤字の回収は ①経費計上 ②年利18%の返済 ③節約の上乗せ の順。EAは4番目で、無料EAの原資は利用者のスプレッド|
 
 ## Sources (Rave — EP)
 
