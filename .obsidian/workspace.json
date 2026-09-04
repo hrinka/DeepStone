@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2026-09-02.md",
+                "file": "journal/2026-09-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-02"
+              "title": "2026-09-04"
             }
           }
         ],
@@ -270,6 +270,8 @@
   },
   "active": "de9420382dd6fa39",
   "lastOpenFiles": [
+    "journal/2026-09-02.md",
+    "journal/2026-09-04.md",
     "flava-fm/output/POST-65/slides/slide_08.png",
     "flava-fm/output/POST-65/slides/slide_07.png",
     "flava-fm/output/POST-65/slides/slide_06.png",
@@ -281,7 +283,6 @@
     "flava-fm/output/POST-65/slides",
     "flava-fm/output/POST-64/slides/slide_08.png",
     "flava-fm/output/POST-64/slides/slide_07.png",
-    "flava-fm/output/POST-64/slides/slide_06.png",
     "flava-fm/output/POST-64/slides",
     "flava-fm/output/POST-63/slides",
     "flava-fm/output/POST-67/slides",
@@ -290,7 +291,6 @@
     "wiki/meta/宇宙天気-今の流れ.md",
     "wiki/meta/マヤ暦-KIN計算.md",
     "journal/2026-09-01.md",
-    "journal/2026-09-02.md",
     "journal/2026-08-27.md",
     "journal/2026-08-25.md",
     "wiki/sources/rave/EP-103 — 2026-09-01 — shackleton-skull-disco.md",
