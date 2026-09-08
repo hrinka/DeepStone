@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-09-08] POST-101 | 揺れるたびに、戻る。— ゼラニウム精油とホルモンバランスの波動（アロマピラー）
+- Files: `flava-fm/output/POST-101/carousel.md`, `flava-fm/output/POST-101/research.md`, `flava-fm/output/POST-101/caption.md`, `flava-fm/output/POST-101/slides.json`, `wiki/sources/aroma/aroma-POST-101-2026-09-08-geranium-essential-oil.md`
+- Topic: アロマピラー / ゼラニウム精油（Pelargonium graveolens）/ 南アフリカ原産・エジプト→ヨーロッパ→レユニオン島 / 主要成分: シトロネロール（神経鎮静）・ゲラニオール（抗菌・抗炎症）・リナロール（GABA作動・抗不安）/ 副腎+視床下部への作用でホルモンバランス・PMS・更年期症状に効果 / 感情の均衡「女王の精油」/ クレオパトラのスキンケア伝説 / 波動応用: 揺れるたびに中心に戻るエネルギー / POST-27（ゼラニウムのハーブ菜園ピラー）と対になるコンテンツ。
+
 ## [2026-09-01] EP-103 | Shackleton / Skull Disco — 12枚のレコードがベース音楽の可能性を書き換えた（レイブピラー）
 - Files: `rave-team/output/EP-103/carousel.md`, `rave-team/output/EP-103/research.md`, `rave-team/output/EP-103/caption.md`, `rave-team/output/EP-103/slides.json`, `wiki/sources/rave/EP-103 — 2026-09-01 — shackleton-skull-disco.md`
 - Topic: レイブピラー / Shackleton（Sam Shackleton、ランカシャー出身）+ Appleblim（Laurie Osborne）= Skull Disco（ブリストル、2005〜2008）/ アフリカ打楽器・中東スケール・ダブの空間をサブベースに接続——「儀式としてのベース音楽」の定義 / 12リリース・3年間・ドロップなし・コーラスなし / "Blood on My Hands"（2007）= 17分超・Skull Disco最重要作 / 2008年閉鎖 / 2010年11月 Woe to the Septic Heart! 設立（"Man on a String Part 1 and 2"12インチ第1弾）/ post-dubstepの最初期インジケーター / EP-66（FWD>>——Shackletonがダブステップと出会った場）・EP-64（Jah Shaka——サウンドシステムの霊的実践という精神的系譜）・EP-56（Hyperdub Records——Burial と Shackleton は同じ空白を異なる方法で満たしていた）・EP-68（DMZ）・EP-102（Mala / Deep Medi Musik——「ダブステップを祈りにした」美学の双極）・EP-54（King Tubby / ベース哲学系譜）との直接接続。

@@ -1,0 +1,92 @@
+{
+  "post": "POST-101",
+  "title": "揺れるたびに、戻る。— ゼラニウム精油とホルモンバランスの波動",
+  "pillar": "aromatherapy",
+  "date": "2026-09-08",
+  "palette": {
+    "main": "#8E6B6B",
+    "accent": "#6B8C72",
+    "text": "#F9F5F0",
+    "background": "#2A1F1F"
+  },
+  "slides": [
+    {
+      "id": 1,
+      "type": "cover",
+      "title": "揺れるたびに、戻る。",
+      "subtitle": "ゼラニウムの精油は、あなたの内側を整えてくれる。",
+      "image_query": "rose geranium flower morning dew botanical garden soft pink",
+      "layout": "full_bleed_center"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "heading": "ゼラニウムとは",
+      "body": "庭に咲いている、あのゼラニウム。\n実は、バラよりも古くから女性のそばにあった植物。\n南アフリカで生まれ、エジプトへ渡り、ヨーロッパで愛された。\nクレオパトラがスキンケアに使っていたと伝えられている香り。",
+      "emoji": "🌿",
+      "image_query": "botanical illustration geranium vintage antique art",
+      "layout": "text_left_image_right"
+    },
+    {
+      "id": 3,
+      "type": "content",
+      "heading": "3つの成分 = 3つの周波数",
+      "body": "ゼラニウム精油の中には3つの主要成分がある。\n\nシトロネロール — 神経を鎮め、静寂をもたらす\nゲラニオール — 肌を守り、バラの香りをつくる\nリナロール — 不安を緩め、心を抱きしめる\n\nこの3つが和音を奏でるとき香りは単なる「いい匂い」ではなくなる。",
+      "image_query": "essential oil glass bottles light minimalist botanical",
+      "layout": "text_center"
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "heading": "副腎と視床下部への作用",
+      "body": "ゼラニウムの香りは副腎と視床下部に届く。\n\n副腎は、ストレスホルモンを調整する場所。\n視床下部は、自律神経の司令塔。\n\nこの2つに働きかけることで——\nホルモンバランスが、静かに整っていく。\n\nPMSの波、更年期の揺れ、月経周期のざわめき。\n「仕方ない」と思っていたものに理由があった。",
+      "image_query": "calm water ripple reflection tranquil nature",
+      "layout": "text_main"
+    },
+    {
+      "id": 5,
+      "type": "content",
+      "heading": "感情のバランサー",
+      "body": "理由もなくイライラする日。\n泣きたいわけじゃないのに、落ち込む朝。\n\n感情が揺れていると感じたとき——\nゼラニウムを、一呼吸。\n\n「女王の精油」と呼ばれるのは美しいからじゃない。\n\n揺れるたびに中央に戻る力が\nこの香りにあるから。",
+      "image_query": "geranium window morning light peaceful home botanical",
+      "layout": "text_center_wide"
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "heading": "歴史のなかのゼラニウム",
+      "body": "17世紀、南アフリカで採取された植物がヨーロッパに渡った。\n\nフランスで栽培が始まり、インド洋のレユニオン島へ。\n\nその頃すでに、古代エジプトでは美の儀式に使われていたという記録が残っている。\n\n数千年、この香りは女性の傍にあった。",
+      "image_query": "reunion island geranium farm tropical botanical vintage map",
+      "layout": "text_left_image_right"
+    },
+    {
+      "id": 7,
+      "type": "content",
+      "heading": "使い方 — 波動を取り入れる",
+      "body": "ゼラニウムの波動を受け取る、シンプルな方法。\n\nディフューザー — 朝に1〜2滴。揺れやすい日の前夜に焚いておく。\n\nバスタイム — お湯に数滴落とす前に深く香りを吸う。その一息が、すでに整えている。\n\nハンカチに1滴 — 持ち歩いて、ざわめいたとき鼻の近くに。",
+      "emoji": "🌸",
+      "image_query": "essential oil diffuser morning window wooden botanical calm",
+      "layout": "list_style"
+    },
+    {
+      "id": 8,
+      "type": "closing",
+      "quote": "揺れていい。ゼラニウムは、戻り方を知っている。",
+      "cta": "保存しておいて。またすぐ必要になるから。",
+      "image_query": "rose geranium flower close up soft pink bokeh",
+      "layout": "quote_center"
+    }
+  ],
+  "hashtags": [
+    "#ゼラニウム精油",
+    "#ホルモンバランス",
+    "#波動上がる",
+    "#アロマテラピー",
+    "#精油のある暮らし",
+    "#白魔女",
+    "#FLAVAFM",
+    "#essentialoils",
+    "#geraniumoil"
+  ],
+  "canva_template_query": "botanical essential oil geranium pink green earthy warm"
+}
