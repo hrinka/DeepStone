@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-09-09] POST-104 | ティーツリー — 月の光を反射した白い木。守護と浄化の周波数（アロマピラー）
+- Files: `flava-fm/output/POST-104/carousel.md`, `flava-fm/output/POST-104/research.md`, `flava-fm/output/POST-104/caption.md`, `flava-fm/output/POST-104/slides.json`, `wiki/sources/aroma/aroma-POST-104-2026-09-09-teatree.md`
+- Topic: アロマピラー / ティーツリー精油（Melaleuca alternifolia）/ オーストラリア北東部NSW湿地帯原産 / バンジャラン族（Bundjalung people）がBulam（ブラム）と呼び何千年も使用 / Eelemani神話——プリンセスが神々に助けを求め種を受け取り白い木になった・白い樹皮が月の光を反射 / 1925年Arthur Penfoldが当時の消毒液の12倍の抗菌力を発見 / 主要成分: テルピネン-4-オール（40%以上）/ 精神的効果: 不安軽減・自信回復 / 波動: 守護・月の周波数・変容・見えない境界線 / 浄化の精油として白魔女コンセプトと直結。
+
 ## [2026-09-08] POST-101 | 揺れるたびに、戻る。— ゼラニウム精油とホルモンバランスの波動（アロマピラー）
 - Files: `flava-fm/output/POST-101/carousel.md`, `flava-fm/output/POST-101/research.md`, `flava-fm/output/POST-101/caption.md`, `flava-fm/output/POST-101/slides.json`, `wiki/sources/aroma/aroma-POST-101-2026-09-08-geranium-essential-oil.md`
 - Topic: アロマピラー / ゼラニウム精油（Pelargonium graveolens）/ 南アフリカ原産・エジプト→ヨーロッパ→レユニオン島 / 主要成分: シトロネロール（神経鎮静）・ゲラニオール（抗菌・抗炎症）・リナロール（GABA作動・抗不安）/ 副腎+視床下部への作用でホルモンバランス・PMS・更年期症状に効果 / 感情の均衡「女王の精油」/ クレオパトラのスキンケア伝説 / 波動応用: 揺れるたびに中心に戻るエネルギー / POST-27（ゼラニウムのハーブ菜園ピラー）と対になるコンテンツ。

@@ -1,0 +1,89 @@
+{
+  "post": "POST-104",
+  "date": "2026-09-09",
+  "pillar": "aroma",
+  "topic": "ティーツリー精油 — 守護と浄化の周波数",
+  "palette": {
+    "main": "#1C2B2D",
+    "accent": "#C8E6C4",
+    "text": "#F5F5F0",
+    "mood": "森の奥・月光・浄化・神話的"
+  },
+  "slides": [
+    {
+      "id": 1,
+      "type": "cover",
+      "title": "ティーツリー",
+      "subtitle": "女神が旅人に渡した種が、白い木になった。",
+      "image_query": "melaleuca tea tree swamp australia moonlight mist",
+      "layout": "full-bleed image, text bottom third overlay"
+    },
+    {
+      "id": 2,
+      "type": "story",
+      "headline": "神話のはじまり",
+      "body": "むかし、オーストラリアの沿岸を旅するプリンセスがいた。名前はEelemani。迷い、疲れ果てた彼女は神々に助けを求めた。神々が渡したのは、種だった。",
+      "image_query": "woman silhouette night forest moon mythology mystical",
+      "layout": "split 50/50, image left, text right"
+    },
+    {
+      "id": 3,
+      "type": "story",
+      "headline": "白い木の誕生",
+      "body": "種は地に落ちて、白い木になった。その樹皮は、月の光を反射するほど白かった。バンジャラン族はその木をBulam（ブラム）と呼んだ。何千年もの間、傷を癒し、水を浄め、子供たちを守った。🌿",
+      "image_query": "melaleuca white bark closeup moonlight",
+      "layout": "full-bleed image, text center overlay"
+    },
+    {
+      "id": 4,
+      "type": "fact",
+      "headline": "1925年の発見",
+      "body": "科学者Arthur Penfoldがその葉を分析した。「当時の消毒液の12倍の抗菌力がある」神話ではなかった。何千年も前から、正しかったのだ。",
+      "image_query": "vintage laboratory botanical specimen sepia 1920s",
+      "layout": "dark gradient background, centered text"
+    },
+    {
+      "id": 5,
+      "type": "concept",
+      "headline": "守護の周波数",
+      "body": "ティーツリーが持つのは「守護」の周波数。見えない境界線を引く。侵入しようとするものを穏やかに、しかし確実に、跳ね返す。光が当たると白く輝く、透明な盾の周波数。",
+      "image_query": "forest light rays through leaves green white ethereal",
+      "layout": "full-bleed image, text right-aligned"
+    },
+    {
+      "id": 6,
+      "type": "concept",
+      "headline": "精神への作用",
+      "body": "ティーツリーを嗅ぐと、雑念が静まる。不安が、遠くなる。根拠のない恐れが、「大丈夫かもしれない」に変わっていく。神経系に届く、本物の周波数の仕事。",
+      "image_query": "hands holding herbs leaves peaceful calm minimal",
+      "layout": "split 50/50, image left, text right"
+    },
+    {
+      "id": 7,
+      "type": "howto",
+      "headline": "白魔女の使い方 🌙",
+      "body": "空間に。ディフューザーで3〜4滴。\n浄化したい朝に。胸元に1〜2滴（希釈して）。\n新しいことを始める前に。部屋に漂わせてから、一歩を踏み出す。\nティーツリーは「ここから先は清い」という境界線を作る。",
+      "background": "#1C2B2D",
+      "layout": "minimal, white text on dark green, thin line dividers"
+    },
+    {
+      "id": 8,
+      "type": "closing",
+      "body": "神話は、科学の前にある。\n\n何千年もの前から、\n彼女たちは知っていた。\n\nこの白い木が、\n守ってくれることを。\n\n保存しておいて。またすぐ必要になるから。",
+      "cta": "FLAVA FM @flavafm_jp",
+      "image_query": "melaleuca tea tree dawn morning light australia",
+      "layout": "full-bleed image, text bottom third, account handle footer"
+    }
+  ],
+  "hashtags": [
+    "#ティーツリー精油",
+    "#アロマテラピー",
+    "#波動",
+    "#浄化",
+    "#精油",
+    "#白魔女",
+    "#スピリチュアルアロマ",
+    "#FLAVAfm"
+  ],
+  "canva_template_query": "botanical dark green mystical essential oil instagram carousel"
+}
