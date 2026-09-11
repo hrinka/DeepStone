@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-09-09
+updated: 2026-09-11
 tags:
   - meta
   - hot-cache
@@ -49,6 +49,9 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
 - **obsidian-local-rest-api の API キー再生成** — 同上。未使用ならプラグイン無効化でも可
 - **claude.ai 側 routine の出力先確認** — プロンプトに `aroma-insta` が直書きされていないか。
   `CLAUDE.md` は修正済みだが、routine 側に直書きがあるとそちらが勝つ
+- **レター routine の日記パスが逆** — プロンプトが `journal/YYYY-MM/` を指定しているが、
+  `.obsidian/daily-notes.json` の folder は `journal`（フラット）。従うと Rinka が開かない
+  孤児ファイルになる（実例: `journal/2026-08/2026-08-24.md`・`2026-08-30.md`）。要プロンプト修正
 - **壊れた launchd ジョブ** — `local.deepstone.morningbrief.plist`（8:00 JST）が削除済みの
   `scripts/morning_brief.py` を呼んでいる
 - **貯蓄目標と借金の整合** — 200万円貯蓄目標が借金 ¥1,246,753 を踏まえずに立てられている
