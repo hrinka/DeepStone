@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-09-21] EP-105 | The Bug / London Zoo — 工業騒音から生まれた最も重いベース音楽（レイブピラー）
+- Files: `rave-team/output/EP-105/carousel.md`, `rave-team/output/EP-105/research.md`, `rave-team/output/EP-105/caption.md`, `rave-team/output/EP-105/slides.json`, `wiki/sources/rave/EP-105 — 2026-09-21 — the-bug-london-zoo.md`
+- Topic: レイブピラー / Kevin Martin: 1987年God（+ Justin Broadrick / Godflesh）→ 1990年Techno Animal（インダストリアル×ダブ×アンビエント・6作・"Ghosts" 1991〜"The Brotherhood of the Bomb" 2001）→ 1997年The Bug名義始動（WordSound、Baltimore）→ Pressure（2003、Rephlex Records——Aphex Twinのレーベル）→ London Zoo（2008年7月7日、Ninja Tune）= Wire誌年間最高・Metacritic 90点——3700万台のCCTV・監視社会ロンドンを音に変えた / ヴォーカル: Flowdan（Roll Deep / グライムMC）・Warrior Queen（レゲエ/ダンスホール）・Tippa Irie（"Jah War"）・Spaceape（= Kode9 & Spaceape）・Riko Dan・Killa P / Angels & Devils（2014、Ninja Tune）・Concrete Desert with Earth（2017）・Zonal（Broadrickと再結成）/ EP-54（King Tubby）・EP-55（Lee Scratch Perry）・EP-64（Jah Shaka / "Jah War"同名）・EP-71（Adrian Sherwood / On-U Sound同磁場）・EP-56（Hyperdub / Spaceape共有）・EP-46（Burial / 2008年ロンドン暗黒双璧）・EP-26（Grime / Flowdan＝Roll Deep）との直接接続。
+
 ## [2026-09-09] POST-104 | ティーツリー — 月の光を反射した白い木。守護と浄化の周波数（アロマピラー）
 - Files: `flava-fm/output/POST-104/carousel.md`, `flava-fm/output/POST-104/research.md`, `flava-fm/output/POST-104/caption.md`, `flava-fm/output/POST-104/slides.json`, `wiki/sources/aroma/aroma-POST-104-2026-09-09-teatree.md`
 - Topic: アロマピラー / ティーツリー精油（Melaleuca alternifolia）/ オーストラリア北東部NSW湿地帯原産 / バンジャラン族（Bundjalung people）がBulam（ブラム）と呼び何千年も使用 / Eelemani神話——プリンセスが神々に助けを求め種を受け取り白い木になった・白い樹皮が月の光を反射 / 1925年Arthur Penfoldが当時の消毒液の12倍の抗菌力を発見 / 主要成分: テルピネン-4-オール（40%以上）/ 精神的効果: 不安軽減・自信回復 / 波動: 守護・月の周波数・変容・見えない境界線 / 浄化の精油として白魔女コンセプトと直結。
