@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-09-28] letter | 2026-09-28 のレター + EA導入の是非リサーチ
+- Files: `journal/2026-09-28.md`, `wiki/questions/Research: FX自動売買EA導入の是非.md`, `wiki/meta/宇宙天気-今の流れ.md`（更新）
+- Letter: PREV は 2026-09-02（26日越し）。party の15万円赤字と「来月、EA導入したいな」への返事。
+- Research: FX自動売買EA / 年利18%の借金¥1,487,000（5社）を返すこと＝元本保証・非課税で確定18%のリターンに等しいため、10月導入は見送り・完済（2027年2月）後に再検討が筋という結論 / 証拠金は拘束される現金であり月¥264,000の返済枠から直接引かれる / 金融庁登録業者かどうかの確認は必須（無登録海外業者の日本居住者への直接勧誘は違法・被害回復が極めて困難）/ 国内登録業者（外為ファイネスト・FXTF・OANDA証券 ほか）でも MT4/MT5 で EA は動く＝「海外業者でないと EA が使えない」は誤り / OANDA証券 MT4 は新規受付終了・2026年11月終了予定 / 評価軸は勝率ではなく最大ドローダウン（MaxDD）とその継続期間・カーブフィッティングの有無 / EA本体+VPS+スプレッド+スワップは相場が動かなくても出ていく固定費 / 代替案: 10月の返済継続（PayPay・レイク完済で5社→3社）・持続化補助金 第20回（11/5〜12/15）・既存の2アカウントの収益接続・PayPay ¥200,000 のリボ有無の確認
+- Cosmic: 宇宙天気-今の流れ を秋分（9/23）・牡羊座満月（9/27）通過で書き換え。next_review = 2026-10-08 寒露
+
 ## [2026-09-21] EP-105 | The Bug / London Zoo — 工業騒音から生まれた最も重いベース音楽（レイブピラー）
 - Files: `rave-team/output/EP-105/carousel.md`, `rave-team/output/EP-105/research.md`, `rave-team/output/EP-105/caption.md`, `rave-team/output/EP-105/slides.json`, `wiki/sources/rave/EP-105 — 2026-09-21 — the-bug-london-zoo.md`
 - Topic: レイブピラー / Kevin Martin: 1987年God（+ Justin Broadrick / Godflesh）→ 1990年Techno Animal（インダストリアル×ダブ×アンビエント・6作・"Ghosts" 1991〜"The Brotherhood of the Bomb" 2001）→ 1997年The Bug名義始動（WordSound、Baltimore）→ Pressure（2003、Rephlex Records——Aphex Twinのレーベル）→ London Zoo（2008年7月7日、Ninja Tune）= Wire誌年間最高・Metacritic 90点——3700万台のCCTV・監視社会ロンドンを音に変えた / ヴォーカル: Flowdan（Roll Deep / グライムMC）・Warrior Queen（レゲエ/ダンスホール）・Tippa Irie（"Jah War"）・Spaceape（= Kode9 & Spaceape）・Riko Dan・Killa P / Angels & Devils（2014、Ninja Tune）・Concrete Desert with Earth（2017）・Zonal（Broadrickと再結成）/ EP-54（King Tubby）・EP-55（Lee Scratch Perry）・EP-64（Jah Shaka / "Jah War"同名）・EP-71（Adrian Sherwood / On-U Sound同磁場）・EP-56（Hyperdub / Spaceape共有）・EP-46（Burial / 2008年ロンドン暗黒双璧）・EP-26（Grime / Flowdan＝Roll Deep）との直接接続。
