@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-09-21
+updated: 2026-09-28
 tags:
   - meta
   - hot-cache
@@ -60,6 +60,7 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
 
 ## 直近7日
 
+- 2026-09-28: 今朝のレター（PREV は 2026-09-02・26日越し）。「来月、EA導入したいな」への回答として `wiki/questions/Research: FX自動売買EA導入の是非.md` を作成——**10月の EA 導入は見送り、完済（2027年2月）後に再検討**が結論（年利18%の返済＝確定18%リターン）。`wiki/meta/宇宙天気-今の流れ.md` を秋分・牡羊座満月の通過で書き換え
 - 2026-09-21: EP-105「The Bug / London Zoo — 工業騒音から生まれた最も重いベース音楽」→ `rave-team/output/EP-105/` に正常生成
 - 2026-09-09: POST-104「ティーツリー — 月の光を反射した白い木。守護と浄化の周波数」（アロマピラー）→ `flava-fm/output/POST-104/` に正常生成
 - 2026-09-08: POST-101「揺れるたびに、戻る。— ゼラニウム精油とホルモンバランスの波動」（アロマピラー）→ `flava-fm/output/POST-101/` に正常生成
