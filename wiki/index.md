@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-09-01
+updated: 2026-10-02
 tags:
   - meta
   - index
@@ -165,6 +165,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-106 — 2026-10-02 — hessle-audio]]|Hessle Audio（2007年、リーズ設立）: Ben UFO（Ben Thomson）+ Pangaea（Kevin McAuley）+ Pearson Sound / Ramadanman（David Kennedy）の三人 / Ben UFOとPangaeaは2004年リーズ大学で出会い、Ben UFOとPearson SoundはFWD>>（Plastic People）の列で2006年に偶然出会う / レーベル名はリーズのHessle Streetから / 前史: SubFMラジオショー「Ruffage」+ クラブナイト / HES001「Ramadanman EP」（2008）: "Blimey"がRicardo Villalobosにプレイされ批評的注目を集める / ダブステップ分裂時代にBrostep路線を拒否し、スパース・打楽器的・空間重視の独自路線を維持 / Pearson Sound（2015年フルアルバム）/ 60以上のリリース・独立維持 / Crack Magazine 2022年: "Pound for pound, the most influential British club label of their generation" / EP-66（FWD>>——BenとPearsonの出会いの場）・EP-56（Hyperdub——並走する地下ダブステップレーベル）・EP-28（Dubstep vs Brostep——Hessle はBrostep化を拒否）・EP-102〜105（同時代地下ベース音楽の異なる極）との直接接続|
 |[[EP-105 — 2026-09-21 — the-bug-london-zoo]]|The Bug（Kevin Martin）: 1987年God（+ Justin Broadrick）→ 1990年Techno Animal（インダストリアル×ダブ×アンビエント×ヒップホップ・6作）→ 2001年解散 → 1997年The Bug名義始動・Pressure（2003、Rephlex Records）→ London Zoo（2008、Ninja Tune）= Wire誌年間最高・Metacritic 90——3700万台のCCTV、監視されたロンドンの音圧 / ヴォーカル: Flowdan・Warrior Queen・Tippa Irie（"Jah War"）・Spaceape・Riko Dan・Killa P / Angels & Devils（2014）・Concrete Desert with Earth（2017）・Zonal / EP-54（King Tubby）・EP-64（Jah Shaka / "Jah War"同名）・EP-71（Adrian Sherwood / 同磁場）・EP-56（Hyperdub / Spaceape共有）・EP-46（Burial / 2008年ロンドン双璧）との直接接続|
 |[[EP-103 — 2026-09-01 — shackleton-skull-disco]]|Shackleton（ランカシャー出身）: 2003年制作開始・FWD>>でダブステップと出会う / 2005年Appleblim（Laurie Osborne）とともにブリストルでSkull Disco設立——アフリカ打楽器・中東スケール・ダブの空間をサブベースに接続し「儀式としてのベース音楽」を定義 / 12リリース・3年間・ドロップなし・コーラスなし / "Blood on My Hands"（2007）= 17分・Skull Disco最重要作 / 2008年閉鎖 / 2010年Woe to the Septic Heart!設立（"Man on a String"12インチ第1弾）/ post-dubstepの最初期インジケーター / EP-66（FWD>>——出会いの場）・EP-64（Jah Shaka——サウンドシステム霊的実践の系譜）・EP-56（Hyperdub Records——同時代地下ダブステップの双極）・EP-68（DMZ）・EP-102（Mala / Deep Medi Musik）・EP-54（King Tubby / ベース哲学系譜）との直接接続|
 |[[EP-102 — 2026-08-31 — mala-deep-medi-musik]]|Mala（Mark Lawrence）+ Coki（Dean Harris、1980年生）= Digital Mystikz、ノーウッド・サウスロンドン出身 / ジャングル→DnB→Rinse FM海賊ラジオを経てダブステップの原型へ / ジャー・シャカのサウンドシステム文化が精神的起源 / 2005年3月、Brixton・Mass（元教会）でDMZクラブナイト開始（Loefah + MC Sgt Pokes共同設立）——「Come meditate on bass weight」/ "Anti War Dub"：9か月かけて制作・映画「Children of Men」（2006）に使用（サントラ未収録）/ John Peel 2004年年間Top50・29位 / 2006年Mala単独でDeep Medi Musik設立——Loefah・Pinch・Silkie・Kromestar・Commodo・Truth等130以上のリリース・地下に留まり続けた / 2011年ハバナへ渡航（Gilles Peterson同行）→2012年「Mala in Cuba」（Brownswood Recordings）/ EP-68（DMZ / 同クラブナイトの詳細）・EP-70（Dubstep Warz / Mary Anne Hobbs BBC特番にMala出演）・EP-64（Jah Shaka / 霊的起源）・EP-56（Hyperdub Records / 並走するダブステップ地下レーベル）との直接接続|

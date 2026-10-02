@@ -1,0 +1,65 @@
+{
+  "ep": "EP-106",
+  "title": "Hessle Audio",
+  "account": "PLUR SYSTEM DIARY",
+  "language": "en",
+  "slides": [
+    {
+      "index": 1,
+      "type": "cover",
+      "title": "HESSLE AUDIO",
+      "subtitle": "Three friends from Leeds. The most influential British club label of their generation.",
+      "image_concept": "Leeds city night, wet cobblestone street, distant streetlight glow",
+      "image_keywords": "Leeds city night wet street bokeh"
+    },
+    {
+      "index": 2,
+      "type": "content",
+      "text": "2004. Leeds University.\nBen UFO meets Kevin McAuley — later known as Pangaea.\nTwo students. One shared obsession.",
+      "image_concept": "University dorm room, laptop and stacked vinyl records, low light",
+      "image_keywords": "university dorm vinyl records late night"
+    },
+    {
+      "index": 3,
+      "type": "content",
+      "text": "2006. The queue outside Plastic People, Shoreditch.\nBen UFO meets David Kennedy —\nthe man who will become Ramadanman. Then Pearson Sound.\nThey're waiting to get into FWD>>.\nThe label hasn't been invented yet.",
+      "image_concept": "Nightclub queue silhouettes in London alley, fog, night",
+      "image_keywords": "nightclub queue London alley night fog silhouette"
+    },
+    {
+      "index": 4,
+      "type": "content",
+      "text": "2007. Hessle Street, Leeds.\nThey name the label after the street they live on.\nA radio show on SubFM.\nA club night called Ruffage.\nThree people playing each other's tracks.",
+      "image_concept": "British street name sign, brick terraced houses, grey sky",
+      "image_keywords": "British street sign brick terraced houses"
+    },
+    {
+      "index": 5,
+      "type": "content",
+      "text": "Ramadanman's 'Blimey' (2008).\nSparse. Percussive. Nothing like anything else.\nRicardo Villalobos plays it.\nThe world notices.",
+      "image_concept": "Dark club, speaker cone close-up, abstract bass vibration",
+      "image_keywords": "dark club speaker bass vibration abstract"
+    },
+    {
+      "index": 6,
+      "type": "content",
+      "text": "Dubstep divided.\nSkrillex went one way.\nHessle Audio went the other.\n\nNo wobble. No drop.\nJust pressure. Space. Rhythm.",
+      "image_concept": "Road fork at night, one side bright and loud, one side dark and quiet",
+      "image_keywords": "road fork night split two paths"
+    },
+    {
+      "index": 7,
+      "type": "content",
+      "text": "140 BPM. Then 130. Then whatever felt right.\nJungle. House. Techno. Footwork.\nThey didn't care about genre.\nThey cared about the room.\n\n15 years.\nOver 60 releases.\nStill independent.",
+      "image_concept": "DJ mixer close-up, two hands, low club lighting",
+      "image_keywords": "DJ mixer hands close-up dark club"
+    },
+    {
+      "index": 8,
+      "type": "closing",
+      "text": "'Pound for pound, the most influential British club label of their generation.'\n— Crack Magazine, 2022\n\nSave this.",
+      "image_concept": "Minimal black background with white typography",
+      "image_keywords": "minimal black white typography dark background"
+    }
+  ]
+}
