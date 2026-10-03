@@ -1,0 +1,71 @@
+{
+  "post": "POST-107",
+  "title": "根に、火がある。— ジンジャー精油と意欲の周波数",
+  "pillar": "アロマ",
+  "date": "2026-10-03",
+  "palette": {
+    "main": "#3B1F0A",
+    "accent": "#C98B3A",
+    "text": "#FFF4E0",
+    "mood": "秋の根・大地の火・温もり・内側から灯る光"
+  },
+  "slides": [
+    {
+      "id": 1,
+      "type": "cover",
+      "title": "根に、火がある。",
+      "subtitle": "ジンジャー精油——眠った意欲に、火をつける根の声。",
+      "image_query": "fresh ginger root cross section close up warm light",
+      "layout": "full-bleed image, centered title"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "text": "5000年前。\n東南アジアの誰かが、\nこの根を土から引き抜いた。\n\nそれがすべての始まり。🌿",
+      "image_query": "harvesting ginger root hands soil earthy",
+      "layout": "text left, image right"
+    },
+    {
+      "id": 3,
+      "type": "content",
+      "text": "古代インドでは\n「万能の薬」と呼ばれた。\n\n中国の「神農本草経」にも\nその名が刻まれている。\n\n王たちより先に、\nこの根は世界を知っていた。",
+      "image_query": "ancient herbal manuscript parchment texture botanical illustration",
+      "layout": "centered text, textured background"
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "text": "香りを嗅ぐと、\n身体の奥で\n何かが目を覚ます。\n\n血が動く。\n熱が戻る。\n感覚が、鋭くなる。",
+      "image_query": "aromatherapy diffuser steam warm golden light dark room",
+      "layout": "text left, image blurred background"
+    },
+    {
+      "id": 5,
+      "type": "content",
+      "text": "疲れで心が\n沈んでいるとき。\n\nやる気が\nどこかへ消えたとき。\n\nジンジャーは言う——\nまだ、根は生きている。",
+      "image_query": "plant roots underground cross section morning mist",
+      "layout": "centered, soft image overlay"
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "text": "ジンジャーは\n「火のエレメント」。\n\n太陽の力を根に蓄えた精油は\n第3チャクラ——\n意志と勇気の中心——\nに届く。",
+      "image_query": "solar plexus chakra golden light energy abstract",
+      "layout": "text left, golden overlay background"
+    },
+    {
+      "id": 7,
+      "type": "personal",
+      "text": "根を持つということは、\n揺れても\n倒れないということ。\n\n秋に香るジンジャーは、\n冬が来る前に\nあなたに根を渡しに来る。",
+      "image_query": "ginger root autumn leaves warm light flatlay",
+      "layout": "text right, full-bleed autumn image"
+    },
+    {
+      "id": 8,
+      "type": "closing",
+      "text": "あなたの内側にも、\n根がある。\n\n保存しておいて。\nまたすぐ必要になるから。",
+      "image_query": "same tone as cover — single ginger root minimal",
+      "layout": "centered text, account name at bottom"
+    }
+  ]
+}
