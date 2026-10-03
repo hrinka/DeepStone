@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-03] POST-107 | ジンジャー精油 — 根に、火がある。意欲の周波数（アロマピラー）
+- Files: `flava-fm/output/POST-107/carousel.md`, `flava-fm/output/POST-107/research.md`, `flava-fm/output/POST-107/caption.md`, `flava-fm/output/POST-107/slides.json`, `wiki/sources/aroma/aroma-POST-107-2026-10-03-ginger-essential-oil.md`
+- Topic: アロマピラー / ジンジャー（Zingiber officinale）/ 5000年の歴史・「神農本草経」・古代インド「万能の薬」/ 火のエレメント・太陽のシンボル / 第3チャクラ（マニプラ / ソーラープレクサス）= 意志・勇気・個人の力 / 血行促進・体温上昇・無気力活性化 / 「根を持つ者は倒れない」— 秋冬の温活シーズン入口
+
 ## [2026-10-02] EP-106 | Hessle Audio — Three Friends from Leeds Who Defined UK Bass（レイブピラー）
 - Files: `rave-team/output/EP-106/carousel.md`, `rave-team/output/EP-106/research.md`, `rave-team/output/EP-106/caption.md`, `rave-team/output/EP-106/slides.json`, `wiki/sources/rave/EP-106 — 2026-10-02 — hessle-audio.md`
 - Topic: レイブピラー / Hessle Audio（2007年、リーズ）: Ben UFO（Ben Thomson）+ Pangaea（Kevin McAuley）+ Pearson Sound / Ramadanman（David Kennedy）/ Ben UFOとPangaeaは2004年リーズ大学で出会い、Ben UFOとPearson SoundはFWD>>（Plastic People）の列で2006年に偶然出会う / レーベル名はリーズのHessle Streetから / SubFMラジオ「Ruffage」+クラブナイトを前史に持つ / HES001「Ramadanman EP」（2008）: "Blimey"がRicardo Villalobosにプレイされ批評的注目を集める / ダブステップ分裂時代にBrostep路線を拒否し、スパース・打楽器的・空間重視の独自路線を維持 / 60以上のリリース・独立維持 / Crack Magazine 2022年: "Pound for pound, the most influential British club label of their generation" / EP-66（FWD>>——出会いの場）・EP-56（Hyperdub——並走する地下ダブステップレーベル）・EP-28（Dubstep vs Brostep——Hessle はBrostep化を拒否）との直接接続。
