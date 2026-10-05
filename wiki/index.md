@@ -1,7 +1,7 @@
 ---
 type: meta
 title: Master Index
-updated: 2026-10-02
+updated: 2026-10-05
 tags:
   - meta
   - index
@@ -165,6 +165,7 @@ tags:
 
 |Page|Description|
 |---|---|
+|[[EP-107 — 2026-10-05 — tempa-records]]|Tempa Records（2000年、London設立）: Neil Jolliffe + Sarah "Soulja" Lockhart / 親会社Ammunition Promotions / 第1弾: Horsepower Productions「When You Hold Me」（2000）/ 2001年FWD>>ナイト共同開始 / 2002年「dubstep」という言葉をNeil Jolliffが考案——Sarah Lockhart・Oris Jay・Martin ClarkとのしてXLR8R誌に掲載 / 2003年6月Dubstep AllStars Vol.1（DJ Hatcha）= 初めてスリーブに"dubstep"が印刷 / シリーズ全11巻 / Skream「Midnight Request Line」（2005）= レーベル最大ヒット / Benga「Diary of an Afro Warrior」（2008）= ジャンル定義アルバム / 主要アーティスト: Hatcha・Youngsta・El-B・Coki・Truth・J:Kenzo / 約17年運営 / EP-66（FWD>>——TempaがRinse FMと共同運営）・EP-56（Hyperdub——並走する地下ダブステップ二大レーベル）・EP-94（Skream——Tempa最大ヒットのアーティスト）・EP-95（Benga——「Diary of an Afro Warrior」のアーティスト）・EP-70（Dubstep Warz——BBC Radio 1がTempaアーティストに光を当てた）との直接接続|
 |[[EP-106 — 2026-10-02 — hessle-audio]]|Hessle Audio（2007年、リーズ設立）: Ben UFO（Ben Thomson）+ Pangaea（Kevin McAuley）+ Pearson Sound / Ramadanman（David Kennedy）の三人 / Ben UFOとPangaeaは2004年リーズ大学で出会い、Ben UFOとPearson SoundはFWD>>（Plastic People）の列で2006年に偶然出会う / レーベル名はリーズのHessle Streetから / 前史: SubFMラジオショー「Ruffage」+ クラブナイト / HES001「Ramadanman EP」（2008）: "Blimey"がRicardo Villalobosにプレイされ批評的注目を集める / ダブステップ分裂時代にBrostep路線を拒否し、スパース・打楽器的・空間重視の独自路線を維持 / Pearson Sound（2015年フルアルバム）/ 60以上のリリース・独立維持 / Crack Magazine 2022年: "Pound for pound, the most influential British club label of their generation" / EP-66（FWD>>——BenとPearsonの出会いの場）・EP-56（Hyperdub——並走する地下ダブステップレーベル）・EP-28（Dubstep vs Brostep——Hessle はBrostep化を拒否）・EP-102〜105（同時代地下ベース音楽の異なる極）との直接接続|
 |[[EP-105 — 2026-09-21 — the-bug-london-zoo]]|The Bug（Kevin Martin）: 1987年God（+ Justin Broadrick）→ 1990年Techno Animal（インダストリアル×ダブ×アンビエント×ヒップホップ・6作）→ 2001年解散 → 1997年The Bug名義始動・Pressure（2003、Rephlex Records）→ London Zoo（2008、Ninja Tune）= Wire誌年間最高・Metacritic 90——3700万台のCCTV、監視されたロンドンの音圧 / ヴォーカル: Flowdan・Warrior Queen・Tippa Irie（"Jah War"）・Spaceape・Riko Dan・Killa P / Angels & Devils（2014）・Concrete Desert with Earth（2017）・Zonal / EP-54（King Tubby）・EP-64（Jah Shaka / "Jah War"同名）・EP-71（Adrian Sherwood / 同磁場）・EP-56（Hyperdub / Spaceape共有）・EP-46（Burial / 2008年ロンドン双璧）との直接接続|
 |[[EP-103 — 2026-09-01 — shackleton-skull-disco]]|Shackleton（ランカシャー出身）: 2003年制作開始・FWD>>でダブステップと出会う / 2005年Appleblim（Laurie Osborne）とともにブリストルでSkull Disco設立——アフリカ打楽器・中東スケール・ダブの空間をサブベースに接続し「儀式としてのベース音楽」を定義 / 12リリース・3年間・ドロップなし・コーラスなし / "Blood on My Hands"（2007）= 17分・Skull Disco最重要作 / 2008年閉鎖 / 2010年Woe to the Septic Heart!設立（"Man on a String"12インチ第1弾）/ post-dubstepの最初期インジケーター / EP-66（FWD>>——出会いの場）・EP-64（Jah Shaka——サウンドシステム霊的実践の系譜）・EP-56（Hyperdub Records——同時代地下ダブステップの双極）・EP-68（DMZ）・EP-102（Mala / Deep Medi Musik）・EP-54（King Tubby / ベース哲学系譜）との直接接続|

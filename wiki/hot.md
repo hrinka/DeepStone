@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-10-02
+updated: 2026-10-05
 tags:
   - meta
   - hot-cache
@@ -27,7 +27,7 @@ related:
 - 08:43 JST — `slides.json` + `caption.md`
 - 09:10 JST — 画像レンダー（ローカル launchd `ai.deepstone.render.plist`）
 
-**現在地**: EP-106 / POST-104。レイブと、アロマ・数秘の2ライン。
+**現在地**: EP-107 / POST-104。レイブと、アロマ・数秘の2ライン。
 出力先は `rave-team/output/` と `flava-fm/output/`（`aroma-insta/` は 2026-07-31 に廃止統合）。
 
 > [!warning] 2026-08-01: 分裂が一度再発した
@@ -60,6 +60,7 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
 
 ## 直近7日
 
+- 2026-10-05: EP-107「Tempa Records — ダブステップに名前をつけたレーベル」→ `rave-team/output/EP-107/` に正常生成
 - 2026-10-02: EP-106「Hessle Audio — Three Friends from Leeds Who Defined UK Bass」→ `rave-team/output/EP-106/` に正常生成
 - 2026-09-21: EP-105「The Bug / London Zoo — 工業騒音から生まれた最も重いベース音楽」→ `rave-team/output/EP-105/` に正常生成
 - 2026-09-09: POST-104「ティーツリー — 月の光を反射した白い木。守護と浄化の周波数」（アロマピラー）→ `flava-fm/output/POST-104/` に正常生成

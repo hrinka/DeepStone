@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-10-05] EP-107 | Tempa Records — ダブステップに名前をつけたレーベル（レイブピラー）
+- Files: `rave-team/output/EP-107/carousel.md`, `rave-team/output/EP-107/research.md`, `rave-team/output/EP-107/caption.md`, `rave-team/output/EP-107/slides.json`, `wiki/sources/rave/EP-107 — 2026-10-05 — tempa-records.md`
+- Topic: レイブピラー / Tempa Records（2000年、London）: Neil Jolliffe + Sarah "Soulja" Lockhart / 親会社Ammunition Promotions / 第1弾: Horsepower Productions「When You Hold Me」（2000）/ 2001年FWD>>ナイト共同開始 / 2002年「dubstep」という言葉をNeil Jolliffが考案（Sarah Lockhart・Oris Jay・Martin Clark）/ XLR8R誌が表紙に掲載 / 2003年6月Dubstep AllStars Vol.1（DJ Hatcha）= 初めてスリーブに"dubstep"が印刷・シリーズ全11巻 / Skream「Midnight Request Line」（2005）= レーベル最大ヒット / Benga「Diary of an Afro Warrior」LP（2008）= ジャンル定義アルバム / EP-66（FWD>>）・EP-56（Hyperdub——並走する地下ダブステップ二大レーベル）・EP-94（Skream）・EP-95（Benga）・EP-70（Dubstep Warz）との直接接続。
+
 ## [2026-10-02] EP-106 | Hessle Audio — Three Friends from Leeds Who Defined UK Bass（レイブピラー）
 - Files: `rave-team/output/EP-106/carousel.md`, `rave-team/output/EP-106/research.md`, `rave-team/output/EP-106/caption.md`, `rave-team/output/EP-106/slides.json`, `wiki/sources/rave/EP-106 — 2026-10-02 — hessle-audio.md`
 - Topic: レイブピラー / Hessle Audio（2007年、リーズ）: Ben UFO（Ben Thomson）+ Pangaea（Kevin McAuley）+ Pearson Sound / Ramadanman（David Kennedy）/ Ben UFOとPangaeaは2004年リーズ大学で出会い、Ben UFOとPearson SoundはFWD>>（Plastic People）の列で2006年に偶然出会う / レーベル名はリーズのHessle Streetから / SubFMラジオ「Ruffage」+クラブナイトを前史に持つ / HES001「Ramadanman EP」（2008）: "Blimey"がRicardo Villalobosにプレイされ批評的注目を集める / ダブステップ分裂時代にBrostep路線を拒否し、スパース・打楽器的・空間重視の独自路線を維持 / 60以上のリリース・独立維持 / Crack Magazine 2022年: "Pound for pound, the most influential British club label of their generation" / EP-66（FWD>>——出会いの場）・EP-56（Hyperdub——並走する地下ダブステップレーベル）・EP-28（Dubstep vs Brostep——Hessle はBrostep化を拒否）との直接接続。

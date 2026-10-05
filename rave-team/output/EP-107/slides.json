@@ -1,0 +1,65 @@
+{
+  "ep": "EP-107",
+  "title": "Tempa",
+  "account": "PLUR SYSTEM DIARY",
+  "language": "en",
+  "slides": [
+    {
+      "index": 1,
+      "type": "cover",
+      "title": "TEMPA",
+      "subtitle": "The label that existed before dubstep had a name.",
+      "image_concept": "Pure white vinyl label on black record, close-up, dark background",
+      "image_keywords": "vinyl record white label dark background close-up"
+    },
+    {
+      "index": 2,
+      "type": "content",
+      "text": "London, 2000.\nNeil Jolliffe and Sarah Lockhart founded Tempa Recordings.\nThe first release: Horsepower Productions —\na UK garage sound stripped of warmth.\nThe genre didn't have a name yet.",
+      "image_concept": "South London street at night, residential, thin fog, narrow alley",
+      "image_keywords": "south london night street residential fog 2000s"
+    },
+    {
+      "index": 3,
+      "type": "content",
+      "text": "2001. FWD>> opened.\nEvery week. Same room.\nHatcha brought tapes of teenagers from Croydon.\nNobody knew what to call the sound.",
+      "image_concept": "Dark club interior, minimal lighting, DJ booth in the distance, silhouettes of crowd",
+      "image_keywords": "dark club interior DJ booth silhouette crowd"
+    },
+    {
+      "index": 4,
+      "type": "content",
+      "text": "2002. Four people in a conversation —\nNeil Jolliffe, Sarah Lockhart, Oris Jay, Martin Clark.\nOne word came out: 'Dubstep.'\nXLR8R magazine printed it on the cover.",
+      "image_concept": "Close-up of a single bold word in print, typewriter or magazine typography",
+      "image_keywords": "typewriter single word typography close-up"
+    },
+    {
+      "index": 5,
+      "type": "content",
+      "text": "June 2003.\nDubstep AllStars Vol. 1 — mixed by Hatcha.\nThe first release to print the word on a sleeve.\nIt was still a secret.",
+      "image_concept": "12-inch vinyl record sleeve, label text barely visible, dark and close",
+      "image_keywords": "vinyl record sleeve label detail dark"
+    },
+    {
+      "index": 6,
+      "type": "content",
+      "text": "2005. Skream. 'Midnight Request Line.'\nA chord change that shouldn't have worked.\nIt worked.\nTempa's biggest release. Still is.",
+      "image_concept": "Turntable needle dropping onto vinyl record, extreme close-up",
+      "image_keywords": "turntable needle vinyl record drop close-up"
+    },
+    {
+      "index": 7,
+      "type": "content",
+      "text": "2008. Benga. 'Diary of an Afro Warrior.'\n19 tracks. Coki. Digital Mystikz.\nThe genre's peak, contained in 12 inches.\nTempa had built the container.",
+      "image_concept": "Record shop vinyl rack, hand pulling out a 12-inch sleeve",
+      "image_keywords": "record shop 12 inch vinyl rack hand pulling"
+    },
+    {
+      "index": 8,
+      "type": "closing",
+      "text": "Tempa named the sound.\nTempa housed the sound.\nThe sound outlived the name.\n\nSave this.",
+      "image_concept": "Minimal black background with white text only",
+      "image_keywords": "minimal black background white text typography"
+    }
+  ]
+}
