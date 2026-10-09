@@ -1,0 +1,65 @@
+{
+  "ep": "EP-108",
+  "title": "Pinch / Tectonic Recordings",
+  "account": "PLUR SYSTEM DIARY",
+  "language": "en",
+  "slides": [
+    {
+      "index": 1,
+      "type": "cover",
+      "title": "PINCH / TECTONIC",
+      "subtitle": "Bristol went back to the root.",
+      "image_concept": "Bristol floating harbour at night, industrial dockside silhouettes, fog, dark and still",
+      "image_keywords": "Bristol harbour night fog industrial docks"
+    },
+    {
+      "index": 2,
+      "type": "content",
+      "text": "Bristol, 2004.\nRob Ellis drives to London.\nFWD>>. Plastic People.\nHe watches Kode9 from the crowd.\nHe drives home and builds a label.",
+      "image_concept": "Night motorway from dashboard perspective, distant city lights ahead, dark interior",
+      "image_keywords": "night motorway dashboard view city lights"
+    },
+    {
+      "index": 3,
+      "type": "content",
+      "text": "2005. Tectonic Recordings.\nFirst release: 'War Dub.'\nNot London. Not Croydon. Bristol.\nA city with dub in its soil.",
+      "image_concept": "Vinyl record white label extreme close-up, only a catalogue number visible, minimal",
+      "image_keywords": "vinyl record white label close-up catalogue number"
+    },
+    {
+      "index": 4,
+      "type": "content",
+      "text": "2006. 'Qawwali.'\nHe found a harmonium recording\nby Nusrat Fateh Ali Khan.\nHe slowed it. He buried it in bass.\nIt sounded like Bristol.\nIt sounded like Karachi.\nIt became dubstep's defining track.",
+      "image_concept": "Harmonium keyboard instrument close-up, dark room, faint light on the keys",
+      "image_keywords": "harmonium keyboard instrument close-up dark room"
+    },
+    {
+      "index": 5,
+      "type": "content",
+      "text": "Tectonic housed the underground.\nLoefah. Digital Mystikz. Skream.\nDistance. Flying Lotus. Peverelist. Joker.\nIt was not a movement.\nIt was a room for the serious.",
+      "image_concept": "Record shop interior, 12-inch vinyl racks in near-darkness, a single hand pulling out a sleeve",
+      "image_keywords": "record shop 12 inch vinyl rack hand browsing dark"
+    },
+    {
+      "index": 6,
+      "type": "content",
+      "text": "2007. Underwater Dancehall.\nDubstep's first real album.\nTwo discs. One instrumental. One vocal.\nMC Juakali from New York\nover Bristol bass.\nNo compromise.",
+      "image_concept": "Underwater looking upward to the surface, light rippling, deep blue tones",
+      "image_keywords": "underwater looking up surface light blue dark"
+    },
+    {
+      "index": 7,
+      "type": "content",
+      "text": "2011. Pinch & Shackleton.\nTwo of the most serious minds\nin bass music. One album.\nRitual percussion. Deep root bass.\nCritics ran out of words.",
+      "image_concept": "Two dark lines crossing in abstract space, monochrome, minimal, fog-like",
+      "image_keywords": "two lines intersect abstract dark minimal monochrome"
+    },
+    {
+      "index": 8,
+      "type": "closing",
+      "text": "Twenty years of Tectonic.\nThe root was always there.\nSomeone just needed to stay close to it.\n\nSave this.",
+      "image_concept": "Tree roots close-up, dark soil, strong texture, underground power",
+      "image_keywords": "tree roots dark soil underground close-up texture"
+    }
+  ]
+}
