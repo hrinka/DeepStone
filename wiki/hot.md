@@ -1,7 +1,7 @@
 ---
 type: meta
 title: "Hot Cache"
-updated: 2026-10-09
+updated: 2026-10-19
 tags:
   - meta
   - hot-cache
@@ -60,6 +60,7 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
 
 ## 直近7日
 
+- 2026-10-19: 交換日記を再開（47日ぶり）→ `journal/2026-10/2026-10-19.md`。9/2 の「partyで15万赤字」への返事
 - 2026-10-09: EP-108「Pinch / Tectonic Recordings — Bristol went back to the root」→ `rave-team/output/EP-108/` に正常生成
 - 2026-10-05: EP-107「Tempa Records — ダブステップに名前をつけたレーベル」→ `rave-team/output/EP-107/` に正常生成
 - 2026-10-02: EP-106「Hessle Audio — Three Friends from Leeds Who Defined UK Bass」→ `rave-team/output/EP-106/` に正常生成
@@ -81,9 +82,6 @@ Obsidian 内で完結させる方針（Dataview + Tasks + Day Planner + Google C
 - 2026-07-30: EP-96「Hospital Records / London Elektricity」/ POST-96「コンポストと土の錬金術」
 - 2026-07-29: EP-95「Benga」/ POST-95「ジュニパーベリーと4000年の浄化周波数」
 - 2026-07-28: EP-94「Skream」/ POST-94「数字は、惑星の声だった」
-- 2026-07-27: EP-93「Calibre / Signature Recordings」/ POST-93「地中海ハーブと渇きの哲学」
-- 2026-07-26: EP-92「Bad Company UK」/ POST-92「ラベンダー精油とアロマテラピーの誕生」
-- 2026-07-25: EP-91「Moving Shadow Records」/ POST-91「パーソナルデーナンバー」
 
 ---
 
